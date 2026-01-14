@@ -1,4 +1,6 @@
 # Trust Issues 🚩
+
+![Trust Issues Logo](images/Trust_issues_logo.png)
 ### Real-Time AI/ML-Based Phishing Detection & Prevention System
 
 **Trust Issues** is a cross-platform security solution—available as a **Browser Extension and Mobile App**—that uses advanced Artificial Intelligence and Rules to detect phishing attacks in *real-time*. Unlike traditional tools that rely on static blocklists, Trust Issues analyzes the "vibe" of websites, SMS messages, and emails using Deep Learning, NLP, and visual analysis to catch zero-day threats on both your computer and smartphone before you click.
