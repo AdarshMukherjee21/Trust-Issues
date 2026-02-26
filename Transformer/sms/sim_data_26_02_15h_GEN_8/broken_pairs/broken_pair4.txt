@@ -1,0 +1,6 @@
+Error: Invalid control character at: line 1 column 100 (char 99)
+
+--- RAW RESPONSE ---
+{"ham":"Dear customer, your IRCTC ticket has been CONFIRMED for 12-03-26 10:45 AM from Mumbai (MM).
+
+'TO' Delhi (NDLS). PNR: 1234567890. Please find details and CAN tag: <URL>","spam":"CONGRATULATIONS! You have been chosen for a FREE 5G DATA UPGRADE for your postpaid plan. Click <URL> to validate your KYC details and claim a Rs 999 recharge. UPDAT your <URL> NOW or your Accnt will be BLOCKED. Act FAST!"}

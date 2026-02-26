@@ -1,0 +1,7 @@
+Error: Post "https://ollama.com:443/api/generate?ts=1772099268": dial tcp: lookup ollama.com: no such host (status code: 500)
+
+--- RAW RESPONSE ---
+{
+    "ham": "Your OTP for your wallet top-up is 438297. Please do not share this code with anyone.",
+    "spam": "Arre bhai, traffic fine of Rs.1200 pending for vehicle AB1234CD. Pay kutat <URL> to avoid court action within 48h. Kaam karne ko hurry! "
+}
