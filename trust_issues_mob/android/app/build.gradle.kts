@@ -30,14 +30,23 @@ android {
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
+buildTypes {
+    release {
+        // Kotlin requires '=' for these properties
+        isMinifyEnabled = true
+        isShrinkResources = true
+        
+        // Use double quotes and parentheses for the ProGuard files
+        proguardFiles(
+            getDefaultProguardFile("proguard-android-optimize.txt"),
+            "proguard-rules.pro"
+        )
 
-    buildTypes {
-        release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig = signingConfigs.getByName("debug")
-        }
+        // If you haven't set up a release signing config yet, 
+        // use debug signing so it at least builds for testing
+        signingConfig = signingConfigs.getByName("debug") 
     }
+}
     dependencies {
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 }
