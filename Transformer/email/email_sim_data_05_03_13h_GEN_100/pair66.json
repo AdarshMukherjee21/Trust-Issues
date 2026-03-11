@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Delivery Confirmation: Order #A12345 Delivered",
+        "body": "Dear Customer,\n\nThis is to confirm that your parcel with tracking number A12345 was successfully delivered to the designated delivery point on 04/04/2026 at 10:45 AM. The recipient signature was obtained from John Doe.\n\nYou can view the full delivery details on our website here: <URL>\n\nIf you have any questions or believe this delivery is in error, please contact our customer support at 1-800-555-0199.\n\nThank you for choosing QuickShip.\n\nBest regards,\nQuickShip Delivery Team"
+    },
+    "spam": {
+        "subject": "URGENT: Customs Holds Your Shipment – Pay Now to Avoid Loss",
+        "body": "Dear Sir/Madam,\n\nOur records indicate that your shipment (Reference #987654321) is currently detained by U.S. Customs at the border due to incomplete documentation. If the required customs duty is not paid within the next 24 hours, the shipment will be forfeited and you will be permanently barred from using our shipping services for 3 months.\n\nPlease submit the payment immediately by clicking the link below:\n<URL>\n\nUse the following bank details for the transfer:\nAccount Number: 1234 5678 9012 3456\nIBAN: GB12YOLO987654321\n\nFailure to comply will lead to the loss of your shipment and a 3‑month ban on future services.\n\nSincerely,\nUnited States Customs Service"
+    }
+}

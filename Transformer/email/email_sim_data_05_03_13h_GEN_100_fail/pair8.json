@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Company-Wide Data Security Workshop – 25th September 2024",
+        "body": "Dear Team,\n\nAs part of our ongoing commitment to safeguard corporate information, we are pleased to announce a mandatory Data Security Workshop scheduled for Friday, 25th September 2024, from 10:00 AM to 4:00 PM at the Main Conference Hall (Build 5).\n\nThe agenda will cover:\n- Zero‑Trust Architecture overview\n- Phishing awareness and safe email practices\n- Secure password management tools\n- Live demonstration of the new endpoint protection suite\n\nPlease ensure to register by Monday, 22nd September via the internal portal: <URL>. A QR code will be provided in the calendar invite for quick access.\n\nFeel free to reach out if you have any questions.\n\nBest regards,\n\nSamantha Lee\nInformation Security Lead\n\n---\nCompany IT Security Team"
+    },
+    "spam": {
+        "subject": "Your Immediate Action is Required – IRS Tax Refund Over $5,000",
+        "body": "Hello,\n\nThe Internal Revenue Service has detected a large tax refund due to you for the 2023 fiscal year. Your claim has been approved but is pending final verification. Failure to act within 48 hours will result in loss of the refund.\n\nTo confirm your identity and complete the transaction, please click the link below:\n\n<strong>Verify Your Refund Now: <URL></strong>\n\nThe IRS has partnered with our secure processing partner (contact: IRS Support - 1‑800‑123‑0071). We appreciate your prompt attention to this matter.\n\nThank you,\n\nIRS Payment Processing\n\n*This email is not sent by your bank or financial institution. Click the link only if you have truly selected the refund program. Failure to do so may lead to loss of funds.*"
+    }
+}

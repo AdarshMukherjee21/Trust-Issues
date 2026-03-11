@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Network Maintenance – March 10, 2026 (8:00 – 10:00 PM)",
+        "body": "Dear Team,\n\nThe IT Services team will conduct a scheduled maintenance window on March 10, 2026 from 8:00 PM to 10:00 PM. During this time there may be brief interruptions to the corporate VPN, file shares, and internal web services.\n\nPlease ensure that you save all work and log off before 7:45 PM to avoid unsaved data loss. If you experience any issues afterwards, open a ticket in the ServiceNow portal or email helpdesk@corp.com.\n\nThank you for your cooperation.\n\nBest regards,\n\\nIT Support"
+    },
+    "spam": {
+        "subject": "URGENT: Your Email Account Has Been Compromised",
+        "body": "Dear Valued User,\n\nOur security monitoring systems have detected unusual activity on your company email account. Immediate action is required to prevent permanent suspension.\n\nTo verify your identity and restore access, please click the link below and upload a clear photo of your government‑issued ID.\n\n<URL>\n\nIf you do not validate your identity within the next 24 hours, your account will be locked and data deleted.\n\nThank you for your attention.\n\nSecurity Team"
+    }
+}

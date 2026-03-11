@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Order Confirmation – Ergonomic Office Chair – PO#123456",
+        "body": "Hi Alex,\n\nThank you for purchasing the new ergonomic office chair (SKU: CHR-ERG-001) for the Marketing department. Below are the order details:\n\n• Order ID: 123456\n• Item: Ergonomic Office Chair – Black Finish\n• Quantity: 10\n• Unit Price: $129.99\n• Total: $1,299.90\n• Shipping: Expedited – Delivered by March 15, 2026\n• Tracking Number: 9400110200834523456789\n\nThe payment was processed successfully via the internal procurement portal. Your items will be dispatched from our eastern warehouse tomorrow.\n\nIf you have any questions or need to make adjustments, please reply to this email or contact the Purchasing Team at purchasing@corp.com.\n\nBest regards,\n\nJordan Lee\nProcurement Specialist\nCorporate Procurement\nPhone: (555) 123‑4567"
+    },
+    "spam": {
+        "subject": "Urgent: Account Suspended – Immediate Verification Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your account with PaySecure has been flagged for suspicious activity. As per our compliance regulations, your account will be **suspended** within **24 hours** if no action is taken.\n\nPlease verify your account information immediately to avoid any service interruption:\n\n• Full Name\n• Date of Birth\n• Current Billing Address\n• Last Four Digits of SSN\n\nClick the link below to verify:\n\n<URL>\n\nFailure to comply will result in permanent account closure and potential legal action. This is not a test; it is a direct security measure.\n\nThank you for your prompt attention.\n\nSincerely,\n\nSecurity Team\nPaySecure"
+    }
+}

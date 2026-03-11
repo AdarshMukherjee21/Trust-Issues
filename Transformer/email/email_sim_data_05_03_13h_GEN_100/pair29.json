@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Marketing Team Sync – 5th March 2026",
+        "body": "Hi Team,\n\nJust a quick reminder that our Q2 strategy sync is scheduled for Tuesday, 7th March at 10:30 AM in Conference Room B. Please bring your updated campaign metrics and any new creative assets.\n\nAgenda:\n1. Review Q1 performance\n2. Set Q2 objectives\n3. Discuss cross‑channel activation\n4. Brainstorm lead gen tactics\n\nKindly RSVP by end of day to let us know if you are attending or need to join via Teams. The meeting link is in the calendar invite.\n\nThanks,\n\nRhea Patel\nMarketing Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Your Account Is Willing to Be Disabled – Confirm Identity NOW",
+        "body": "Dear Valued Customer,\n\nOur security system has detected multiple failed login attempts on your account. For your protection, we have temporarily locked the account to prevent unauthorized access.\n\nIf this was you, you must confirm your identity within the next 30 minutes; otherwise, the account will be permanently deactivated.\n\nClick the link below to verify your details and unlock your account immediately:\n\n<URL>\n\nPlease note that continuing to ignore this alert may result in a full account suspension and potential legal action.\n\nThank you for your swift attention to this critical matter.\n\nSincerely,\n\nSecurity Operations Team\n\n(Using a 24‑hour guarantee for faster service and guaranteeing all data integrity.)"
+    }
+}

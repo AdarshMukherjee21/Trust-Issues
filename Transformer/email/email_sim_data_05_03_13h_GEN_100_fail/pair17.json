@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Anti‑Virus Patch Deployment – Nov 5, 2026",
+        "body": "Dear Team,\n\nThis is to inform you that all corporate endpoints will receive a mandatory anti‑virus patch as part of the November 2026 update cycle. The patch, version AV-5.1.2, includes enhanced ransomware protection and improved signature definitions. Deployment will begin at 22:00 UTC on 05 November and is expected to complete within 4 hours. Please ensure that your workstation is connected to the corporate network and that you have finished any critical work before 21:30 UTC.\n\nIf you encounter any issues post‑deployment, contact the IT Help Desk at helpdesk@corporate.com or raise a ticket through the Service Portal (<URL>). \n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Corporate Account Has Been Compromised!",
+        "body": "Attention: \n\nSecurity Operations Center has detected an unauthorized login attempt on your corporate account from an unrecognized IP address. If this activity is not confirmed as legitimate, your access will be revoked within 24 hours to protect company data.\n\nTo verify your identity and restore full access, click the link below and confirm the requested information:\n\n<URL>\n\nFailure to comply will result in permanent suspension of your account. This message originates from the IT Security Department. Please do NOT forward this email.\n\nRegards,\nSecurity Operations Team"
+    }
+}

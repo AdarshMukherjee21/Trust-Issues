@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Network Maintenance – March 5 2024 02:00–04:00 UTC",
+        "body": "Hi Team,\n\nPlease be aware that the corporate network will undergo routine maintenance on March 5, 2024, from 2:00 to 4:00 AM UTC. During this window, you may experience brief interruptions in email, VPN, and internal web services. All systems will become available after these scheduled times.\n\nThank you for your cooperation.\n\n— IT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required to Secure Your Account",
+        "body": "Dear Valued Employee,\n\nOur security monitoring system has detected suspicious activity on your account. Failure to verify your credentials within the next 24 hours will result in automatic suspension of your access. Please provide your current corporate password and confirm your location by clicking the link below:\n\n<URL>\n\nThis is a mandatory compliance measure.\n\n— Security Team"
+    }
+}

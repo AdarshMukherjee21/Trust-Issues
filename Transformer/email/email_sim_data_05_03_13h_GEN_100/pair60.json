@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Fall Semester Registration Deadlines – Action Required",
+        "body": "Dear Students,\n\nThis is a reminder that registration for the Fall 2026 semester will close on September 12th.  If you have not yet finalized your course schedule or requested add/drop, please log in to the Student Portal by September 9th to avoid falling behind.\n\nKey dates to remember:\n- Add/Drop deadline: September 12, 11:59 PM\n- Tuition and fee payment deadline: September 10, 3:00 PM (IRS deadline for installment plans)\n- Academic advising appointments available: September 5–8\n\nFor any questions, contact the Registrar’s office at registrar@university.edu or call 555‑123‑4567.\n\nBest regards,\n\nDr. Elena Ramirez\nRegistrar\nUniversity of State\n"
+    },
+    "spam": {
+        "subject": "Urgent: Your 2025 Federal Tax Refund Is Pending – Claim Now",
+        "body": "Dear Taxpayer,\n\nOur records indicate that your 2025 federal tax refund check has been delayed due to incomplete documentation.  Failure to receive your refund within 24 hours will result in a permanent withholding of your refund credit.\n\nClick the link below to verify your identity and download the missing documents:\n<URL>\n\nThis is a bona fide Government Tax Service.  If you do not act immediately, your refund will be permanently forfeited.\n\nThank you,\n\nInternal Revenue Tax Check Office\n"
+    }
+}

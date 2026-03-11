@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Benefits Update - Action Required",
+        "body": "Dear Team,\n\nI hope you're all doing well. I am excited to share the updated benefits package for Q1 2026. Highlights include:\n\n• 15% increase in annual health‑insurance premium subsidy\n• New wellness stipend of Rs 8,000 per employee per year\n• Expanded parental leave to 18 weeks for both parents\n• Optional retirement bonus plan now available for employees with 3+ years of service\n\nPlease review the full details and sign‑off in the employee portal by 15 March 2026. If you have any questions, reach out to HR at hr@company.com.\n\nThank you for your continued dedication.\n\nBest regards,\nRajeev Singh\nHR Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Claim Your FREE Travel Voucher Now – 24H ONLY!",
+        "body": "Hello Traveler,\n\nWe regret to inform you that you have won a $500 flight voucher! However, due to policy changes, this reward is only valid for the next 24 hours. To secure your voucher, simply click the link below and verify your identity.\n\nClaim now: <URL>\n\nOur team is on hand to assist you at support@vacationworld.com. Don’t miss out on this limited‑time offer.\n\nWarm regards,\nNina Patel\nCustomer Service Lead\nVacationWorld.com"
+    }
+}

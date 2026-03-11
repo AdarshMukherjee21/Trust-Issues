@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "IT Security Notice: Multi-Factor Authentication Rollout",
+        "body": "Dear Team,\n\nIn line with our ongoing commitment to secure corporate data, the IT Security team will implement a mandatory two-factor authentication (2FA) for all internal systems starting next Monday, March 18th. This upgrade will require every employee to use the Authenticator app provided by the company.\n\n**What you need to do:**\n1. Download the Authenticator app (available on iOS and Android).\n2. Scan the QR code provided in the attached PDF to link your device.\n3. Follow the in‑app steps to complete setup.\n\nIf you encounter any issues or have questions, please submit a ticket through the IT Service Portal or email itsupport@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Balance is Critical – Immediate Action Required",
+        "body": "Hello,\n\nWe’ve detected a drastic reduction in the balance of your Crypto Wallet on the Binance Matrix Exchange. To avoid a potential lockout, you must verify your account within the next 24 hours.\n\nBecause your wallet holds over $12,000 worth of Bitcoin, we’ve triggered a special security measure to protect your assets. Failure to comply will result in a permanent suspension.\n\n**Please verify your identity now:**\n1. Log in to our secure portal.\n2. Upload a copy of your government ID and a selfie.\n3. Click the verification button: <URL>\n\nOnce verified, you may choose to receive a 5% staking reward on your balance. Don’t miss this limited‑time offer.\n\nAct now, or risk losing your funds.\n\nSincerely,\nBinance Matrix Security Team"
+    }
+}

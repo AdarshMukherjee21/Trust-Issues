@@ -1,0 +1,33 @@
+Error: Invalid control character at: line 4 column 27 (char 110)
+
+--- RAW RESPONSE ---
+{
+  "ham": {
+    "subject": "Reminder: Lab Session Reservation – Wednesday, 11/17",
+    "body": "Dear Student,
+
+This is a confirmation of your reservation for Lab 3 on Wednesday, November 17, 2026, from 9:00 AM to 12:00 PM. Your lab group, Chem‑101, will have exclusive access to the equipment during this time slot. Please arrive 10 minutes early to complete the safety briefing.
+
+If you need to cancel or modify the reservation, log into the campus scheduling portal and adjust the session details before 8:00 AM.
+
+Thank you for using our facilities responsibly.
+
+Best regards,\n\nLaboratory Services Team\nUniversity of TechVille"
+  },
+  "spam": {
+    "subject": "Immediate Action Required: Unpaid Invoice #89234 – Final Notice",
+    "body": "Dear Valued Client,
+
+Our records indicate that Invoice #89234, dated 10/28/2026, remains unpaid in the amount of $3,675.23. As per the terms of our service agreement, failure to settle this invoice within 48 hours will result in the suspension of all services associated with your account.
+
+To resolve this matter, please complete the payment via the secure link below. The link is protected by encryption and is safe for use. Incomplete payment will prompt a full account lock within the next 24 hours.
+
+Action Needed NOW: <URL>
+
+If you believe this is an error, contact our billing department immediately. 
+
+We appreciate your prompt attention to this urgent matter.
+
+Sincerely,\nFinancial Services Division\nGlobal Enterprise Solutions"
+  }
+}

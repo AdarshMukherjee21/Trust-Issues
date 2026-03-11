@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming System Maintenance – 12/01 02:00‑04:00",
+        "body": "Dear Team,\n\nAs part of our ongoing effort to improve system stability and security, we will perform a scheduled maintenance window on Monday, December 1st from 02:00 AM to 04:00 AM (UTC‑5). During this time the internal email server, HR portal and shared drive will be unavailable.\n\nTo minimise disruption:\n• Please save all work and log off by 01:50 AM.\n• The IT Helpdesk (phone 1‑800‑555‑1234 or helpdesk@company.com) will be on standby for any urgent issues.\n• A post‑maintenance status report will be emailed at 05:00 AM.\n\nIf you have any questions, feel free to reach out to IT Support.\n\nThank you for your cooperation!\n\nRegards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Suspicious Login Detected! Immediate Action Required",
+        "body": "Hello,\n\nOur monitoring system has flagged a login attempt to your corporate account from an IP address located in [Country] at 10:45 PM UTC on November 30th. This activity is inconsistent with your normal usage patterns.\n\nIf you did not initiate this login, your account will be automatically locked in 24 hours to protect your data. To verify your identity and unlock your account, please click the link below and provide the requested details:\n\n<URL>\n\nThis is a mandatory security step. Please complete it no later than 12:00 AM UTC on December 1st. Failure to comply may result in permanent access restrictions.\n\nIf you believe this is an error, contact the Security Team immediately at Security@company.com.\n\nThank you for your prompt attention.\n\nSincerely,\nCorporate Security Team"
+    }
+}

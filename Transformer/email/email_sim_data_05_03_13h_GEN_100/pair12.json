@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Autumn Semester 2026 Registration Deadline – Final Reminder",
+        "body": "Dear Students,\n\nThis is a final reminder that the registration deadline for the Autumn semester 2026 is approaching on Friday, June 1st. Please ensure that you have completed all prerequisite courses and paid the associated tuition fees before the deadline.\n\nKey details:\n- Registration portal: <URL>\n- Fee payment deadline: Friday, June 1st 11:59 PM\n- Office hours for enrollment assistance: Monday to Thursday, 9:00 AM – 5:00 PM\n\nIf you encounter any technical issues or need guidance on course selection, contact the Registrar’s Office at registrar@university.edu or call 555‑123‑4567.\n\nThank you for your cooperation.\n\nSincerely,\n\nRegistrar Office\nUniversity of Example"
+    },
+    "spam": {
+        "subject": "Urgent: Claim Your $8,000 Scholarship Award Now!",
+        "body": "Dear [FIRSTNAME],\n\nCongratulations! You have been selected as a recipient of the National Excellence Scholarship for 2026. To secure your award, you must submit your banking details to process the disbursement.\n\nThe scholarship committee requires the following information:\n- Full legal name\n- Bank account number\n- Routing number\n- Photo ID\n\nPlease complete the submission before midnight on **June 2nd**. Failure to provide the required details will result in forfeiture of the award.\n\nConfirm your award here: <URL>\n\nFor any questions, email the Scholarship Office at scholarship@government.gov or call 555‑987‑6543.\n\nAct now and claim your reward!\n\nBest regards,\n\nNational Scholarship Committee"
+    }
+}

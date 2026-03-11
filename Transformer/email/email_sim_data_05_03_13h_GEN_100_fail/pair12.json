@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance Notice – IT Department",
+        "body": "Dear Team,\n\nPlease be advised that a routine maintenance window will occur on Thursday, 9 March 2026, from 00:00 to 02:00 UTC. During this period, the corporate VPN and intranet services will be unavailable. You may need to adjust your work schedule accordingly. All critical data is backed up and no data loss is expected. If you encounter any issues, refer to the troubleshooting guide at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Your Microsoft 365 Account Is At Risk – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nIt has come to our attention that your Microsoft 365 account has shown suspicious activity. To protect your data, we have temporarily disabled your services. This restriction will be in effect until we confirm your identity.\n\nTo reinstate your access and avoid a permanent account closure, you must verify your identity within the next 24 hours. Please click the link below:\n\n<URL>\n\nFailure to comply will result in permanent suspension.\n\nSincerely,\nMicrosoft Security Team"
+    }
+}

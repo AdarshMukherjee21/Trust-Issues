@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance Notice: CloudSync Services",
+        "body": "Hello Team,\n\nOur CloudSync platform will undergo routine maintenance from 02:00 AM to 04:00 AM PST on Friday, April 12th. During this window, file sync and collaboration features may be temporarily unavailable. You may log in during the maintenance, but large file uploads or large project deployments are recommended to be deferred.\n\nIf you encounter any issues outside the scheduled downtime, please open a ticket in the IT Service Portal.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Your CloudSync Account May Be Suspended!",
+        "body": "Dear Employee,\n\nIt has come to our attention that your CloudSync account has been flagged for a potential security violation. If not addressed, your account will be suspended within the next 48 hours. To avoid any interruption of your work, please verify your identity and reset your password immediately by clicking the link below:\n\n<URL>\n\nThe IT Security Team requires your compliance to keep your access active.\n\nThank you,\n\nJohn R. Miller\nDirector of Information Security"
+    }
+}

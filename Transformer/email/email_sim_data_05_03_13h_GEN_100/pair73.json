@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Critical Security Patch Deployment – 12:00 UTC",
+        "body": "Dear Engineering Team,\n\nOur security team has identified a high‑severity vulnerability in the OpenSSL library used across several microservices. A critical patch is scheduled for automatic deployment at 12:00 UTC. The script will restart affected services; please double‑check custom configurations in your CI pipelines to avoid interference.\n\nWhat you need to do:\n\n1. Verify that you have a recent backup of your Docker images.\n2. Ensure your ECS task definitions reference the latest base image.\n3. If you have custom sidecar containers, confirm they are compatible with the new OpenSSL version.\n\nThe patch will complete in approximately 45 minutes. Services should remain unavailable for 30–45 minutes during restart.\n\nIf you encounter any errors or service disruptions, please open a ticket in the IT Service Portal and attach relevant logs.\n\nThank you for your cooperation.\n\nBest,\nAlex Martinez\nSenior Systems Engineer"
+    },
+    "spam": {
+        "subject": "URGENT: Your Cloud Account Will Be Disabled in 24 Hours",
+        "body": "Dear Cloud User,\n\nWe have detected unusual activity on your account (ID: 3f9b1c7e-4d2a-11ee-8c97-0242ac110003). In accordance with our security policy, we have temporarily suspended your access to avoid potential data loss.\n\nTo restore full service, you must verify your account information immediately. Failure to do so within 24 hours will result in permanent deletion of all associated data.\n\nPlease click the link below and log in with your usual credentials to confirm:\n\n<URL>\n\nIf you believe this suspension is mistaken, contact us immediately at support@cloudservices.com.\n\nThank you for your quick attention to this critical matter.\n\nRegards,\nCloud Security Team"
+    }
+}

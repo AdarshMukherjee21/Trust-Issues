@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Notice: Updated Schedule for CS 231 – Fall 2026",
+        "body": "Dear CS 231 Students,\n\nWe would like to inform you that the lecture and lab times for CS 231 have been adjusted to better accommodate the new semester timetable. Please see the updated schedule below:\n\n- Lectures: Mon & Wed 2:00 PM – 3:30 PM\n- Labs: Fri 10:00 AM – 12:00 PM\n\nA detailed PDF of the schedule is attached. If you have any conflicts, please contact the teaching assistant by replying to this email before September 5th. We will do our best to make necessary accommodations.\n\nThank you for your attention and happy learning!\n\nBest regards,\nSarah Lee\nRegistrar’s Office\nUniversity of Westbrook"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Award Awaiting Verification – Immediate Action Required!",
+        "body": "Hello,\n\nCongratulations! You have been selected for a $5,000 academic scholarship by the Office of Student Grants.\n\nTo receive the funds, you must confirm your enrollment details and provide a copy of your student ID within the next 24 hours. Failure to comply will result in automatic forfeiture of the scholarship.\n\nPlease verify your information by clicking the secure link below:\n\n<URL>\n\nThis is a mandatory step to protect your eligibility. If you do not act promptly, the scholarship amount will be reassigned.\n\nRegards,\nDanielle Kim\nChief Grant Officer\nOffice of Student Grants\nUniversity of Westbrook"
+    }
+}

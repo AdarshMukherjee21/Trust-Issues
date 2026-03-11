@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled IT Maintenance – LDAP Update on Thursday 10:00 AM",
+        "body": "Hi Team,\n\nPlease be advised that our corporate LDAP servers will undergo a planned maintenance window this Thursday from 10:00 AM to 11:30 AM PST. During this time you may experience temporary authentication failures when accessing internal resources or the web portal.\n\nWhat to expect:\n• All user accounts will be re‑synchronised.\n• No password changes are required.\n• Workstations will automatically reconnect after the maintenance period.\n\nIf you encounter prolonged login issues, log out and log back in after 12:00 PM PST or contact the help desk at 555‑123‑4567.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: Your Tax Refund Is Delayed!",
+        "body": "Dear Valued Taxpayer,\n\nOur records indicate that your 2024 federal tax refund is still pending but your account information has not been verified. In order to receive your refund within the next 48 hours, you must confirm your personal details.\n\nIf you do not validate your identity, your refund will be permanently suspended, and you may be subject to a penalty. Please click the link below and provide the requested information immediately.\n\nVerify My Refund Now: <URL>\n\nWe appreciate your swift action to avoid any further delays.\n\nSincerely,\nInternal Revenue Service – Refund Processing Unit"
+    }
+}

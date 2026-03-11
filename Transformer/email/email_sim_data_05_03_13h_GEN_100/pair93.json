@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled IT Maintenance – Service Downtime on March 15",
+        "body": "Dear Team,\\n\\nPlease be advised that the company's internal web services will undergo maintenance from 22:00 to 02:00 UTC on March 15th. During this window, access to the intranet, SharePoint, and the finance portal will be unavailable.\\n\\nWe recommend saving all work and logging out of any session before the start time.\\n\\nThank you for your cooperation.\\n\\nRegards,\\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Tax Refund Approval – Action Required Immediately",
+        "body": "Dear Taxpayer,\\n\\nThe Internal Revenue Service has processed your 2024 tax refund of $9,237.43. To expedite the disbursement, we must verify your personal information.\\n\\nPlease click the link below to confirm your Social Security number and bank details. Failure to complete this verification within 48 hours will result in automatic refund reversal.\\n\\n<URL>\\n\\nSincerely,\\nIRS Revenue Verification"
+    }
+}

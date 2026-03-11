@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "FY25 Pension Plan Contribution Schedule",
+        "body": "Dear Team,\n\nAs part of our annual benefits review, we are pleased to announce the updated contribution schedule for the Employee Pension Plan for FY25. Starting 1st April 2026, contributions will be automatically deducted from your payroll in the following quarterly amounts:\n\n• Q1: ₹8,500 per employee\n• Q2: ₹9,000 per employee\n• Q3: ₹9,500 per employee\n• Q4: ₹10,000 per employee\n\nKey points:\n1. Employees may opt for a higher contribution level at any time through the Employee Portal.\n2. The plan continues to match 50% of eligible contributions up to a maximum of 5% of annual salary.\n3. For questions or clarification, please contact the Benefits Team at benefits@corp.com.\n\nThank you for your continued commitment to your financial future.\n\nBest regards,\nHR Benefits Office"
+    },
+    "spam": {
+        "subject": "IRS Notice: Immediate Action Required to Secure Your Tax Refund",
+        "body": "Dear Taxpayer,\n\nThe Internal Revenue Service has identified a pending refund of $1,618.45 for the tax year 2024-2025. To ensure the refund is processed promptly, you must verify your identity and claim the refund within the next 48 hours.\n\nFailure to submit verification will result in the forfeiture of the refund.\n\nPlease click the link below to complete the verification process:\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nInternal Revenue Service \nTax Refund Processing Center"
+    }
+}

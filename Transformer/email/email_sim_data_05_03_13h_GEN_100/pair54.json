@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Paid Leave Policy Effective July 1",
+        "body": "Dear Team,\n\nWe’re pleased to announce that starting July 1, our paid leave policy has been updated to better support work‑life balance. Key changes include:\n- Accrued leave now caps at 30 days per calendar year.\n- Additional 2 days of paid sick leave for employees with at least 12 months of service.\n- Optional rollover of up to 5 unused days to the next fiscal year.\n\nPlease review the full policy attached and submit any leave requests through the HR portal by May 15. For questions, contact HR at hr@company.com.\n\nThank you for your hard work and dedication.\n\nBest regards,\nHR Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Tax Refund Is Pending!",
+        "body": "Dear Taxpayer,\n\nThe Internal Revenue Service has identified a discrepancy in your 2023 tax filing that requires immediate attention. Your refund of $3,120 is on hold pending additional documentation.\n\nIf you wish to receive the full refund, you must validate your account information within 48 hours. Failure to do so will result in a permanent suspension of your refund and potential legal action.\n\nVerify your details now: <URL>\n\nThank you for your prompt cooperation.\n\nSincerely,\n\nIRS Tax Recovery Department"
+    }
+}

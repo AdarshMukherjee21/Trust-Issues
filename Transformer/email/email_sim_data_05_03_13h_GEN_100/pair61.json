@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Maintenance on Moodle – 12 October 2026",
+        "body": "Dear Students,\n\nPlease be advised that the Moodle Learning Management System will undergo scheduled maintenance on Saturday, 12 October 2026 from 02:00 AM to 05:00 AM UTC. During this window, all course pages, grades, and discussion forums will be temporarily unavailable.\n\nWe recommend saving any work before the maintenance window begins and logging back in after 05:00 AM UTC. For a detailed maintenance schedule and impact assessment, visit the university IT portal: <URL>\n\nThank you for your cooperation.\n\nBest regards,\nUniversity IT Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Account Verification Required – University IT",
+        "body": "Dear Student,\n\nOur security audit has detected unusual activity on the account associated with your university e‑mail address. To prevent any potential compromise and ensure uninterrupted access to your courses, you must verify your identity within the next 24 hours.\n\nPlease click the button below to confirm your account details:\n\n[Verify My Account] <URL>\n\nFailure to verify may result in temporary suspension of your university email and access to learning resources.\n\nIf you believe this is a mistake, contact the University IT Helpdesk immediately at ithelp@university.edu.\n\nRegards,\nUniversity IT Security Team"
+    }
+}

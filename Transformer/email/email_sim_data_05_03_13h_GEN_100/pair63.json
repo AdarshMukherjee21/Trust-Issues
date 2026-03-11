@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Security Alert: Mandatory Patch Deployment for Workstations",
+        "body": "Hello Team,\n\nThe IT Security Team has identified a critical vulnerability (CVE-2026-1234) affecting Windows 10 Pro and 11. A patch will be deployed to all managed devices on Friday, 12 March 2026 at 16:00 UTC.\n\nAll users are advised to keep devices connected and idle during the window to ensure the update completes successfully. No action is required except to check that your device restarts after the deployment.\n\nThank you for your cooperation.\n\n- IT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Corporate Account Is Suspended – Verify Immediately",
+        "body": "Dear Employee,\n\nWe have detected multiple failed login attempts on your corporate account. To prevent permanent lockout, please verify your identity by following the link below.\n\n<URL>\n\nThis email is automated. Do not reply. The link will take you to a secure page where you can submit your username and password.\n\nIf no action is taken within 24 hours, your account may be disabled permanently.\n\nThank you for your prompt attention."
+    }
+}

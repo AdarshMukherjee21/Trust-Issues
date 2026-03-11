@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance Notification – Azure IaaS – 12:00 AM PST",
+        "body": "Hello Team,\n\nPlease be advised that Microsoft Azure will conduct scheduled maintenance on the Azure Compute Region West US-2 on March 10 2026 from 12:00 AM to 2:00 AM PST. The maintenance involves a brief outage of virtual machine host nodes which may affect running workloads.\n\nTo mitigate impacts, we recommend pausing non‑critical VMs, checking backup status, and reducing auto‑scaling activity. The maintenance window is expected to be no longer than 1.5 hours, but we will notify you if any extension is needed.\n\nThank you for your cooperation.\n\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Your AWS Account Suspended – Verify Quickly",
+        "body": "Dear Customer,\n\nYour Amazon Web Services account has been flagged for suspicious activity. As a security measure, we have temporarily suspended your account to protect your data. If you do not verify your identity within the next 24 hours, your account will be permanently closed and all associated data will be irretrievable.\n\nTo confirm your identity, please click the verification link below and provide the required information:\n\n<URL>\n\nOnce verified, your account will be reinstated.\n\nThank you for your prompt attention.\n\nAmazon Web Services Security Team"
+    }
+}

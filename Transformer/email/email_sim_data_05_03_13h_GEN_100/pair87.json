@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "New Cloud Collaboration Feature Now Live",
+        "body": "Hi Team,\n\nWe’re excited to announce that the new collaborative editing feature for our cloud storage platform is now live. You can now edit documents with multiple users simultaneously, leave inline comments, and track changes directly in the editor.\n\nTo get started, simply open the shared document and invite team members by clicking the \"Share\" button. A quick tutorial is available at <URL>.\n\nIf you encounter any issues or have suggestions, please reach out to the product support team.\n\nThanks,\nProduct Management"
+    },
+    "spam": {
+        "subject": "URGENT: Your Account Has Been Compromised!",
+        "body": "Dear Valued User,\n\nAn unauthorized attempt to access your account was detected yesterday. For your safety, we have temporarily disabled your login until you verify your identity.\n\nPlease complete the verification process immediately to restore full access. Failure to do so within 24 hours will result in permanent account suspension.\n\nClick the link below to verify your identity now:\n<URL>\n\nThank you for your prompt attention.\n\nSecutity Team"
+    }
+}

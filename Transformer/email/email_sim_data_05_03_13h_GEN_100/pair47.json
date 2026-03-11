@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Security Patch Deployment – Windows 10 – 12/08/2026",
+        "body": "Dear Team,\n\nThis is a reminder that the company-wide Windows 10 security patches will be applied during the nightly maintenance window on 12/08/2026 from 01:00 AM to 03:00 AM IST. Please ensure all your work is saved and you are signed out of the network before exiting.\n\nIf you have critical applications, contact IT support by 3 PM on 11/08/2026.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Windows License Suspended",
+        "body": "Dear Valued Customer,\n\nOur automated compliance system has detected irregular activity on your Windows 10 device. As a result, all non‑registered applications will be disabled until we verify your identity.\n\nTo restore full functionality, click the link below within 24 hours:\n\n<URL>\n\nFailure to comply will result in permanent lockout of your device.\n\nThank you for your prompt attention.\n\nSincerely,\nNvidia Compliance Team"
+    }
+}

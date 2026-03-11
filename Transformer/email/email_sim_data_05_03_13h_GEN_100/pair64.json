@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "IT Security Notice: Mandatory Software Update – March 8, 2026",
+        "body": "Dear Team,\n\nThe IT department has coordinated a critical patch for our company email client, Version 3.2.7, to enhance protection against newly discovered phishing exploits.\n\n**What to do**\n1. A system prompt will appear at the end of today’s workday. Click the update button to install the patch.\n2. If you are using a mobile device, open the Settings app, select \"Company Mail\", and tap \"Update now\".\n3. Log out of the mail app after installation and log back in before 6:00 PM.\n\nIf you encounter any issues, please contact the help desk at ITSupport@company.com or call extension 3050.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Corporate Email Account Will Be Disabled",
+        "body": "Dear Valued Employee,\n\nDue to an imminent compliance audit, we have identified unauthorized access attempts on your email account. If we do not verify your identity within **24 hours**, your access will be suspended for security reasons.\n\nPlease confirm your account details by clicking the link below:\n<URL>\n\nFailure to comply will result in permanent disabling of your corporate email and lockout from all company resources.\n\nRegards,\nSecurity Operations Center\n"
+    }
+}

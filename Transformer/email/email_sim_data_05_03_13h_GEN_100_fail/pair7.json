@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Spring 2026 Course Schedule and Availability",
+        "body": "Dear Students,\n\nThe Registrar’s Office has finalized the Spring 2026 course schedule. Please review the updated list below and complete your class registration by Friday, March 17th.\n\n- CS101 – Introduction to Computing (MW 10:00–11:30) – Professor Lin\n- MATH220 – Calculus II (TR 14:00–15:30) – Professor Kapoor\n- HIST350 – Modern European History (W 13:00–15:00) – Professor Sánchez\n\nTo register, log in to the Student Portal and select “Course Registration” under the current term. If you encounter any issues, contact registrar@university.edu.\n\nBest regards,\nRegistrar’s Office"
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your Scholarship Award Now",
+        "body": "Urgent: Confirm Your Scholarship Award Now\n\nDear Sir/Madam,\n\nCongratulations! You have been selected as a recipient of the 2026 Global Scholars Grant, a $15,000 award to help cover tuition and living expenses. To claim your award, you must confirm your identity and provide your bank account details within 48 hours, or your award will be withdrawn.\n\nPlease click the link below to submit the required information:\n\n<URL>\n\nIf you do not act immediately, your scholarship will be forfeited. This is the final step to secure your funds.\n\nRegards,\nOffice of Student Awards Coordination"
+    }
+}

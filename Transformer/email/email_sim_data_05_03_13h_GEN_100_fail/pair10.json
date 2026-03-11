@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Azure Storage Maintenance Notification – July 15, 2026",
+        "body": "Hello Team,\n\nWe would like to inform you that Azure Storage will undergo a scheduled maintenance window on July 15, 2026 from 01:00 AM to 04:00 AM (UTC). During this time, you may experience brief unavailability of the storage accounts. We recommend that you schedule your backups and data operations accordingly.\n\nIf you have any concerns, please contact the Azure Operations team at azure.ops@corp.com.\n\nThank you for your cooperation.\n\nBest Regards,\nAzure Operations Team"
+    },
+    "spam": {
+        "subject": "Alert: Immediate Action Required to Secure Your Azure Account",
+        "body": "Dear Valued User,\n\nA recent security scan has identified suspicious activity on your Azure account. A login attempt originating from IP 203.0.113.47 was detected and is being flagged for potential compromise. To protect your data and prevent service interruption, you must verify your account information immediately.\n\nPlease click the link below to confirm your identity and secure your account:\n<URL>\n\nIf you do not act within 24 hours, your Azure services may be temporarily suspended to safeguard against unauthorized access.\n\nThank you for your prompt attention.\n\nRegards,\nMicrosoft Azure Security Team"
+    }
+}

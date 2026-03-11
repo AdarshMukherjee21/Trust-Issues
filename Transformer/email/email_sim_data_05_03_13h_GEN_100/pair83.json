@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – March 15, 2:00‑4:00 UTC",
+        "body": "Hello Team,\\n\\nPlease be advised that our corporate VPN servers will undergo scheduled maintenance from 02:00 UTC to 04:00 UTC on Monday, March 15. During this period, VPN access may be temporarily unavailable. We recommend saving your work and planning accordingly.\\n\\nFor troubleshooting and status updates, visit <URL>.\\n\\nIf you encounter issues, please contact the IT Help Desk at helpdesk@company.com.\\n\\nThank you for your cooperation.\\n\\nBest regards,\\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Security Alert – Verify Your Account Now",
+        "body": "Dear Valued Employee,\\n\\nOur security system has detected an unauthorized login attempt to your corporate email account from an IP address in Brazil. To protect your account and ensure continued access, we urgently need you to confirm your identity.\\n\\nPlease click the link below within 24 hours to verify your personal details:\\n\\n<URL>\\n\\nFailure to complete verification will result in a temporary suspension of your email account until further notice.\\n\\nIf you do not recognize this activity, please contact the Corporate Security Team immediately.\\n\\nThank you for your swift action.\\n\\nSincerely,\\nCorporate Security"
+    }
+}

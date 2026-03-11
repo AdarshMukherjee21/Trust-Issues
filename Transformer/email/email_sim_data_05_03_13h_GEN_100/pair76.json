@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled OneDrive Maintenance – 23 March 2026",
+        "body": "Dear Team,\n\nPlease be advised that OneDrive will undergo routine maintenance on Wednesday, 23 March 2026 from 10:00 PM to 1:00 AM IST. During this time, you may experience intermittent access to shared files and folders. This is a normal part of our service enhancement plan.\n\nNo action is required on your part. Should you encounter any issues, kindly contact the IT Help Desk at helpdesk@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nIT Service Management"
+    },
+    "spam": {
+        "subject": "URGENT: Your Microsoft Account Has Been Suspended",
+        "body": "Hello,\n\nWe have detected multiple unauthorized login attempts on your Microsoft account. As a security measure, we have temporarily suspended access to protect your personal data.\n\nIf you wish to restore immediate access, you must verify your identity within the next 24 hours. Failure to do so will result in permanent account disabling.\n\nClick the secure link below to confirm your identity and reactivate your account:\n<URL>\n\nIf you did not authorize these changes, please contact Microsoft Support immediately.\n\nThank you,\nMicrosoft Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Remote Work Policy – Effective April 15",
+        "body": "Dear Team,\n\nWe are pleased to announce updates to our remote work policy, effective April 15, 2024. The new policy allows employees to work from home for up to two days a week, subject to managerial approval, and establishes guidelines for communication, cybersecurity, and work‑output tracking.\n\nPlease review the full policy at <URL> and confirm receipt by Friday.\n\nThank you,\nHuman Resources"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Secure Your Account",
+        "body": "Dear Valued Customer,\n\nThis is an official notice from your regional branch of XYZ Bank. Due to a recent security breach, several accounts have been flagged for suspicious activity. If you do not confirm your account information within 48 hours, your account will be permanently suspended.\n\nClick the link below to verify your account number, contact details, and recent transactions:\n<URL>\n\nFailure to comply will result in irreversible account closure.\n\nSincerely,\nAlexandra White\nSenior Compliance Officer, XYZ Bank"
+    }
+}

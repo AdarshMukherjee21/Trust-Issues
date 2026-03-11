@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Monthly IT Security Newsletter – September 2026",
+        "body": "Hello Team,\n\nWelcome to the September edition of the IT Security Newsletter. We bring you the latest updates, upcoming training, and a quick reminder of our security best practices.\n\n• New Password Policy – Effective October 1, 2026. Passphrases must be at least 12 characters with a mix of letters, numbers, and symbols. Please review the policy in Confluence.\n• Security Awareness Training – Your annual refresher is now available. Complete it by 15th October to renew your access.\n• Vulnerability Bulletin – CVE‑2026‑XXXX now mitigated; our patch has been applied to all Windows servers.\n• Two‑Factor Authentication (2FA) Rollout – All employees are required to enable 2FA on the corporate portal by end of month.\n\nThank you for your continued cooperation in keeping our environment secure.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "Alert: Unauthorized Login Attempt – Immediate Action Required",
+        "body": "Dear Valued Employee,\n\nOur security monitoring system has detected an attempt to access your corporate account from an unrecognized location. If you did not initiate this activity, your account will be temporarily suspended until the issue is resolved.\n\nPlease verify your identity immediately by logging in through the link below. Failure to respond within 24 hours will result in a permanent suspension of your account.\n\nVerify Now: <URL>\n\nThank you for your prompt attention.\n\nSenior IT Security, Acme Corporation"
+    }
+}

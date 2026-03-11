@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Performance Review – Action Required",
+        "body": "Hi Team,\n\nPlease note that the Q1 performance review minutes are now circulated in the shared drive. Make sure to read and acknowledge by Friday.\n\nThanks,\nPerformance Team"
+    },
+    "spam": {
+        "subject": "Urgent: HR Verification – Action Required",
+        "body": "Dear Valued Employee,\n\nOur records indicate an issue with your employee ID verification. To avoid payroll delays, you must upload your government ID within the next 24 hours.\n\nPlease submit your documents here: <URL>\n\nThank you for your prompt attention,\nHR Security Team"
+    }
+}

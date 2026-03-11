@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "AWS CloudWatch Alert – High CPU Alert – order-processing – 3:52 PM",
+        "body": "Dear DevOps Team,\n\nAWS CloudWatch alerted us that the CPU Utilization for the 'order-processing' microservice exceeded the threshold at 15:42 UTC on 5 March 2026. Immediate investigation is advised.\n\nDetails:\n• Instance ID: i-0abc123def456\n• CPU Utilization: 92%\n• Time: 15:37 – 15:45 UTC\n• Region: us-east-1\n\nMitigation Steps:\n1. Check recent pod deployments in EKS cluster.\n2. Verify auto‑scaling group configurations.\n3. If necessary, spin up a temporary worker node.\n\nPlease address this by 17:00 UTC. Let me know if you need additional logs.\n\nRegards,\nS.K. Patel\nCloud Operations Lead"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Card Locked Due to Fraud",
+        "body": "Dear valued customer,\n\nWe regret to inform you that suspicious activity was detected on your Bank of Global Credit account. To protect your account, we have temporarily frozen your card pending verification. Failure to confirm identity within 24 hours will result in permanent account closure.\n\nImmediate verification required: <URL>\n\nPlease log in with your name, date of birth and last 4 digits of SSN to confirm authenticity.\n\nThank you for your cooperation.\n\nBank of Global Credit – Fraud Prevention Team"
+    }
+}

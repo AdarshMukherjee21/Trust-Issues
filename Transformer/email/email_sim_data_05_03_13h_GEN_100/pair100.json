@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your March Salary Payment – Payslip Attached",
+        "body": "Hello [Employee Name],\n\nWe are pleased to inform you that your salary for the month of March has been processed and the payslip is attached to this email. Please review the details and confirm that all entries are correct.\n\nIf you notice any discrepancies or have questions regarding your payment, kindly reach out to the Payroll Team at payroll@example.com.\n\nThank you for your continued dedication.\n\nBest regards,\nPayroll Department"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Verification Required to Protect Your Payday",
+        "body": "Dear [Employee Name],\n\nDuring recent compliance checks, we detected incomplete banking information linked to your payroll account. To prevent potential wage delays or unauthorized deductions, your immediate action is required.\n\nPlease verify your bank account details by clicking the secure link below:\n<URL>\n\nFailure to confirm within 48 hours may trigger an automatic suspension of your salary disbursement.\n\nFor verification, use only the link above. Thank you for your prompt cooperation.\n\nRegards,\nHR Compliance Office"
+    }
+}

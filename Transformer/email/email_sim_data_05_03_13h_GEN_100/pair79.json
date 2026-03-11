@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance: Outlook Server Update – Thursday 2:00‑4:00 AM",
+        "body": "Dear Team,\n\nPlease be advised that the Outlook mail servers will undergo a mandatory firmware upgrade on Thursday, 23 March from 2:00 AM to 4:00 AM PST. During this window, you may experience intermittent email service disruptions. All users are strongly encouraged to save work and log out before the maintenance window.\n\nKey points:\n• Expected drop‑in time: 10–15 minutes\n• No re‑authentication required – access will resume automatically\n• Emails queued during the outage will be delivered once services are back online\n\nWe apologize for any inconvenience. If you encounter problems post‑maintenance, please open a support ticket through the IT Service portal or email support@company.com.\n\nThanks for your cooperation,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "ALERT: Your Email Account Has Been Compromised!",
+        "body": "Urgent Action Required\n\nDear Valued Employee,\n\nOur fraud detection system has detected suspicious login activity on your corporate email. For your own and company security, we have temporarily suspended access to your account.\n\nTo restore access immediately, you must verify your identity by clicking the secure link below:\n<URL>\n\nFailure to verify within 60 minutes will result in a permanent lock‑out and potential disciplinary action.\n\nSecurity Operations Center"
+    }
+}

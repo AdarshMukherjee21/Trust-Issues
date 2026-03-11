@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Password Expiration – Action Required",
+        "body": "Hello,\n\nThis is a friendly reminder that your corporate password will expire on 2026-03-15. Please reset your password using the Company Password Portal before the deadline to avoid any service interruptions.\n\nSteps to reset your password:\n1. Go to the <URL>\n2. Enter your current credentials.\n3. Follow the on-screen instructions to set a new password (minimum 12 characters, include upper case, lower case, number, and symbol).\n4. Confirm the change and log in.\n\nIf you need assistance, please contact IT Support at it-support@example.com or call extension 3145.\n\nThank you for keeping your account secure.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Account Will Be Locked Immediately",
+        "body": "Dear Valued User,\n\nOur security audit has identified a potential violation on your account. If you do not verify your identity within the next 4 hours, your account will be permanently locked, and all access to corporate resources will be revoked.\n\nTo confirm your identity and restore account access, please click the link below:\n<URL>\n\nAny attempt to access the system after verification will result in disconnection from all services. Your immediate attention is required to prevent data loss and service downtime.\n\nThank you for your swift cooperation.\n\nSincerely,\nCorporate Security Operations"
+    }
+}

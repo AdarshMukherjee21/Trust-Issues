@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "July Payroll Schedule – Updated Time Statements",
+        "body": "Dear Team,\n\nPlease be advised that the payroll for all employees for the month of July 2024 will be processed on Wednesday, 10th August 2024. All timesheet submissions should be finalized and approved on the portal by Friday, 6th August 2024.\n\nKey Reminders:\n1. Ensure overtime is verified under section 3.2 of the payroll guide.\n2. Direct deposit setup must be confirmed; if not, you will receive a paper check.\n3. For any discrepancies, contact HR@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nFinance Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Tax Refund Awaiting Verification",
+        "body": "Dear Valued Taxpayer,\n\nWe have processed your 2023 tax return and are ready to issue your refund of $5,750. However, due to updated IRS regulations, we require additional verification. Failure to verify within 48 hours will result in the refund being withheld.\n\nPlease log in to your secure <URL> to submit the required documents. Once verified, the refund will be credited to your bank within 5 business days.\n\nThank you for your prompt attention.\n\nSincerely,\nIRS Tax Compliance Team"
+    }
+}

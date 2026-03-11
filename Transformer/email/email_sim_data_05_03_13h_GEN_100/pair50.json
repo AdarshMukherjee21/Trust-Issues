@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Server Maintenance – July 12, 2024",
+        "body": "Dear colleagues,\n\nThis is a reminder that the internal file‑sync service will undergo an upgrade on July 12, 2024 from 23:30 to 01:30 UTC. During this short window the sync server cluster will be restarted and the latest security patches will be applied.\n\nNo action is required on your part; you can continue using your sync apps as usual. If you notice any sync disruptions after the maintenance, please open a ticket through the IT support portal.\n\nThank you for your cooperation.\n\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Account is At Risk",
+        "body": "Dear valued customer,\n\nWe have detected irregular activity on your account ending with 4529. As a precaution, the account has been temporarily locked pending verification.\n\nPlease confirm your identity within the next 24 hours or your account will be permanently closed. Click <URL> to verify your information.\n\nFailure to complete this step will result in a full account suspension.\n\nThank you for your prompt attention.\n\nKind regards,\nGlobal Bank Secure Pay"
+    }
+}

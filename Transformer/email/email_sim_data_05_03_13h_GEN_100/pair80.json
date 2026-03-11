@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Password Policy Update – Action Required by May 15",
+        "body": "Dear Team,\n\nAs part of our ongoing commitment to information security, the IT Security Team will be rolling out a new password policy effective May 15, 2024. All accounts must adopt passwords that are at least 12 characters long, include a mix of uppercase and lowercase letters, numbers and special characters, and be changed every 90 days.\n\nKey actions for you:\n1. Ensure your current password meets the new complexity requirements.\n2. Use the company password manager (link: <URL>) to generate and store secure passwords.\n3. Complete the brief training module in the Learning Portal by May 10.\n\nHelp is available: If you need assistance updating your password or setting up the manager, contact IT Support at ithelp@company.com or call extension 2211.\n\nThanks for your cooperation.\n\nBest Regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Company Account Has Been Compromised!",
+        "body": "Hello,\n\nSecurity Alert! Our monitoring systems detected suspicious login attempts to your corporate account from an unrecognized location. If these are not authorized, your account could be permanently suspended.\n\nTo confirm your identity and secure your account, please follow the link below and verify your personal information immediately:\n<URL>\n\nIf you do not act within 48 hours, your access will be revoked and you will lose all corporate data.\n\nThank you for your prompt attention.\n\nSincerely,\nCorporate Security Team"
+    }
+}

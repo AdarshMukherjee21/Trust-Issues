@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Governance Meeting Rescheduled to Friday, 12 PM",
+        "body": "Dear Team,\n\nPlease note that the upcoming Governance and Compliance Quarterly Meeting originally scheduled for Thursday at 11 AM has been moved to Friday, 12 PM to accommodate the availability of all senior executives.\n\nAgenda:\n• 2025 Financial Review\n• Updated Remote Access Policy\n• Q&A Session\n\nMeeting link will be shared via the corporate calendar invite. If you are unable to attend, kindly send a brief statement to the HR office.\n\nThank you for your flexibility and continued dedication.\n\nBest regards,\nCorporate Communications\n"
+    },
+    "spam": {
+        "subject": "URGENT: Your Cloud Service Billing Overdue – Immediate Action Required",
+        "body": "Attention: Your Cloud Service Renewal Window Expired.\n\nOur records show that your account balance of $8,732.50 is past due by 48 hours. Failure to settle the invoice within the next 24 hours will result in the suspension of all services, including data backup, virtual machines, and API access.\n\nTo re‑activate your account and avoid permanent data loss, click the link below and submit your payment information immediately:\n\n<URL>\n\nThis notice comes directly from the Cloud Services Security Team. Ignoring this message will lead to a full account lock‑out.\n\nSincerely,\nCloud Services Operations\n"
+    }
+}

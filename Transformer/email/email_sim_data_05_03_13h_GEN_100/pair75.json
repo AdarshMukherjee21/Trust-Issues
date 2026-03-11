@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "AWS Service Health Update – Scheduled Maintenance on Oct 12",
+        "body": "Dear CloudOps Team,\n\nAWS will perform routine scheduled maintenance on the us-east-1 region beginning at 02:00 UTC on October 12, 2026. During this window, the following services may experience intermittent downtime:\n\n- Amazon EC2 (instances)\n- Amazon RDS (SQL servers)\n- Amazon S3 (storage buckets)\n\nWe recommend reviewing your resource utilisation and confirming that automated health checks will run as expected.\n\nFor the full maintenance timeline and impact details, please refer to the AWS Service Health Dashboard: <URL>\n\nThank you for your attention.\n\nBest,\nAWS Cloud Operations"
+    },
+    "spam": {
+        "subject": "Security Alert: Immediate Action Required on Your AWS Account",
+        "body": "Dear Valued Customer,\n\nOur automated security monitoring has detected suspicious activity originating from IP address 203.0.113.45 on your AWS account (Account ID: 123456789012). If you did not initiate this activity, your account is at risk of being suspended.\n\nTo protect your data and prevent potential financial loss, please verify your account details and confirm recent activity within the next 24 hours. Failure to comply will result in full account suspension and may trigger a lockout of all services.\n\nVerify your account now: <URL> (this link expires in 12 hours).\n\nSecurity Team\nAWS Support"
+    }
+}

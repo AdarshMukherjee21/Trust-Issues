@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "AWS Monthly Usage Summary – March 2026",
+        "body": "Dear [Name],\n\nHere is your AWS usage report for March 2026. Your total cost for this billing cycle was $1,240.35, which is 8% higher than the previous month.\n\nKey metrics:\n- Compute: 3200 CPU‑hrs ($740)\n- Storage: 45 TB (S3) ($200)\n- Data Transfer: 3 TB (outbound) ($300)\n- Other services: $200\n\nYou can review detailed usage and cost allocation here: <URL>.\n\nIf you have any questions or need assistance, reply to this email or open a support ticket in the AWS Console.\n\nThank you for using AWS.\n\nBest regards,\nAWS Billing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Verify Your AWS Account to Avoid Suspension",
+        "body": "IMPORTANT: Your AWS Account Has Been Suspended\n\nDear [Customer],\n\nThe AWS Security Team has detected suspicious activity on your account (Account ID: XXXXXXXXXX) and has temporarily suspended it to protect your data. If you do not take immediate action, the account will be permanently disabled and all resources will be terminated within 24 hours.\n\nPlease confirm your identity and reset your password here: <URL>.\n\nFailure to comply will result in the loss of all data stored in your account.\n\nIf you believe this is a mistake, contact AWS Support immediately.\n\nSincerely,\nAWS Security Team"
+    }
+}

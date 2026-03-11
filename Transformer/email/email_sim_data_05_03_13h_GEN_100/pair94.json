@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled IT System Maintenance – March 10, 2026",
+        "body": "Hi Team,\n\nPlease note that the company’s internal servers and the HR portal will undergo routine maintenance on March 10, 2026 from 1:00 AM to 4:30 AM CDT. During this window, you may experience brief service interruptions.\n\nWhat to expect:\n- All employee email services and Microsoft Teams will be temporarily unavailable.\n- The payroll system will be offline from 2:00 AM to 3:30 AM.\n- All backup and snapshot processes will run as scheduled.\n\nRecommendations:\n- Save and close any open documents before 12:30 AM.\n- If you are currently in the office, we advise you to avoid accessing the CRM during maintenance.\n- Should you encounter any unusual activities or services remaining offline post-maintenance, report immediately to the IT Helpdesk (helpdesk@company.com).\n\nThank you for your cooperation.\n\nBest,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Suspended Corporate Credit Card – Verify Now",
+        "body": "Dear Valued Employee,\n\nOur security audit detected multiple suspicious transactions on your company corporate credit card ending in 9823. As a result, access to the card has been automatically suspended to protect your interests.\n\nImmediate actions required:\n1. Click the link below to confirm your identity and restart card services: <URL>\n2. Complete a quick 2‑minute verification questionnaire to verify payment authorization.\n\nFailure to comply within the next 6 hours will permanently block the card and delay your reimbursements. This measure is mandatory under new compliance regulations.\n\nIf you believe this is a mistake, contact the Finance compliance desk right away.\n\nThank you for your prompt attention.\n\nSincerely,\nCorporate Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Azure Backup Completed 01-Feb-2026",
+        "body": "Hi Team,\n\nI want to inform you that the scheduled nightly backup of the Azure Virtual Machines in the Production environment completed successfully last night at 02:17 AM. All backup logs are archived in the shared repository '\\\\corp\\cloud\\backups'. No errors were recorded.\n\nKey details:\n- Start: 01-Feb-2026 01:45\n- End: 01-Feb-2026 02:17\n- Storage: 120GB\n- Retention policy: 30 days\n\nIf you need to review the logs or have any questions, please reply to this thread or contact the Cloud Operations team.\n\nThank you for your cooperation.\n\nBest,\nSamira Patel\nCloud Infrastructure Lead"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Outstanding Invoice",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your account has an outstanding invoice (Invoice #3245) for the January Cloud Services usage. The total amount due is $5,739.00 and is past the due date. Failure to pay within 24 hours will result in immediate suspension of your services and potential data loss.\n\nTo view and settle the invoice, please click the link below:\n\n<URL>\n\nOnce the payment is confirmed, we will reactivate your account services.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nBilling Enforcement Team\nXYZ Cloud Services"
+    }
+}

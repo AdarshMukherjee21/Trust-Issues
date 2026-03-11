@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Monthly Patch Release – Server Updates Scheduled",
+        "body": "Dear Engineering Team,\n\nPlease note that System Upgrade Services will push the latest security patches to the production servers on September 28th, 2024 between 02:00 and 04:00 UTC. During this maintenance window, access to the internal portal and VPN may be temporarily unavailable.\n\nKey points:\n- Patch set 2024-Q3 will resolve known vulnerabilities in WebSphere and Apache Tomcat.\n- No data will be altered; the update is purely a code and configuration refresh.\n- All scripts will be re‑tested on the staging environment first.\n\nIf you have any critical workloads scheduled during the window, please notify the Operations Lead by EOD Friday.\n\nThank you for your cooperation.\n\nBest regards,\nIT Infrastructure Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Account is Suspended",
+        "body": "Dear Valued Customer,\n\nWe have detected suspicious activity on your account. As a precaution, we have temporarily suspended all transactions to protect your funds.\n\nTo restore full access, you must verify your identity within the next 24 hours. Failure to comply will result in permanent account closure and potential loss of your balance.\n\nClick the link below to confirm your details and unlock your account immediately:\n<URL>\n\nWe apologize for the inconvenience and appreciate your prompt attention to this matter.\n\nSincerely,\nSecurity Operations Center"
+    }
+}

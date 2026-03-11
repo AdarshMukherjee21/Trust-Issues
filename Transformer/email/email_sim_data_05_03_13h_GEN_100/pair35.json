@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming AWS S3 Maintenance – 24 July 2026",
+        "body": "Dear Team,\n\nPlease be advised that our AWS S3 buckets will undergo a scheduled maintenance window on July 24, 2026 from 02:00 UTC to 04:30 UTC. During this period, you may experience temporary read–write latency for affected buckets.\n\nKey points:\n- Backup status will be verified before migration.\n- No action required from you.\n- Any critical jobs should be paused before 01:30 UTC.\n\nFor detailed change logs and support contacts, access the internal knowledge base here: <URL>\n\nThank you for your cooperation.\n\nRegards,\nCloud Services Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Your AWS Account Access Suspended – Verify Now",
+        "body": "Hello,\n\nWe have detected unusual activity on your AWS account. As a security measure, your access has been temporarily blocked until we confirm your identity. If you do not verify within the next 30 minutes, your account will be permanently removed.\n\nPlease click the link below to confirm your details:\n<URL>\n\nThank you for your prompt attention.\n\nAWS Security Team"
+    }
+}

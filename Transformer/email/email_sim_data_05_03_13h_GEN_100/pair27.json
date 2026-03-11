@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly IT Security Training – March 2026",
+        "body": "Dear Team,\n\nOur annual IT Security Awareness Training for Q1 2026 is now available. Please log in to the learning portal and complete the 45‑minute module before May 15, 2026.\n\nKey Topics:\n- Phishing & Social Engineering\n- Password Management\n- Secure Remote Work Practices\n- Incident Reporting Procedures\n\nTo access the training, click here: <URL>\n\nIf you encounter any issues, reply to this email or contact the IT Help Desk at it‑support@company.com.\n\nThank you for keeping our data safe!\n\nBest Regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Office 365 Account Compromised – Immediate Action Required",
+        "body": "Dear Valued Employee,\n\nThis is an emergency notice from the Office 365 Security Team. Our automated monitoring has detected a suspicious login attempt to your account (user@company.com). If not addressed, the account will be permanently disabled to protect corporate data.\n\nPlease verify your identity and reset your password within the next 15 minutes by clicking the link below:\n\n<URL>\n\nFailure to comply will result in account suspension and potential security breaches. For a safe re‑activation, complete the verification immediately.\n\nThank you,\n\nMicrosoft 365 Security Team\nSupport: 1‑800‑123‑4567"
+    }
+}

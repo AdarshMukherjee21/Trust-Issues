@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Staff Meeting – Q2 Budget Review – 14th March 2026",
+        "body": "Dear Team,\n\nThis is a reminder that our Q2 budget review meeting will take place on Monday, 14th March 2026 at 11:00 AM in Conference Room B1.\n\nAgenda:\n1. Review of Q1 expenditures\n2. Forecast for remaining Q2 budget\n3. Departmental resource reallocation\n4. Open discussion and Q&A\n\nPlease be prepared to discuss your departmental spending and bring any supporting documents.\n\nThank you for your cooperation.\n\nBest regards,\nFinance Department"
+    },
+    "spam": {
+        "subject": "Urgent: Your Tax Refund Application Requires Verification",
+        "body": "Esteemed Taxpayer,\n\nOur records indicate that your 2025 tax refund application is still pending due to incomplete documentation. The Internal Revenue Service has flagged this case for further review.\n\nTo avoid suspension of your refund processing and potential penalties, you must verify your identity and submit the required documents within 48 hours.\n\nPlease click the link below to complete the verification:\n<URL>\n\nFailure to comply will result in permanent suspension of your tax refund claim.\n\nSincerely,\nIRS Compliance Team"
+    }
+}

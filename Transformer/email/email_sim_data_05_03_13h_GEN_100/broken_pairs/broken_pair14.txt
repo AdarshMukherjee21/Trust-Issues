@@ -1,0 +1,15 @@
+Error: Expecting value: line 1 column 1 (char 0)
+
+--- RAW RESPONSE ---
+```json
+{
+  "ham": {
+    "subject": "Upcoming Phishing Awareness Training – September 15",
+    "body": "Dear Team,\n\nAs part of our ongoing cybersecurity initiatives, we are rolling out a mandatory Phishing Awareness Training session scheduled for September 15th at 10:00 AM in Conference Room B, or via the virtual link for remote participants.\n\nPlease pre-register by clicking the link below: <URL>\n\nKey topics will include:\n- Identifying spoofed emails\n- Safe attachment handling\n- Reporting suspicious activity\n\nThank you for your cooperation and commitment to keeping our organization secure.\n\nBest regards,\nIT Security Team"
+  },
+  "spam": {
+    "subject": "URGENT: Your ACME Bank Account Secured – Immediate Action Required",
+    "body": "Dear Valued Customer,\n\nOur security team has detected a potential unauthorized access attempt on your ACME Bank account. Instant verification is required to prevent a possible freeze of your funds.\n\nPlease click the link below and provide your account credentials to validate your identity and restore full access:\n<URL>\n\nFailure to act within the next 24 hours will result in a temporary account lock.\n\nThank you,\nACME Bank Compliance Department"
+  }
+}
+```

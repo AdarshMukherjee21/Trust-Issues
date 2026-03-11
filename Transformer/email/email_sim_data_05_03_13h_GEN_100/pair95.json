@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Workforce Planning Meeting – Q1 2026",
+        "body": "Hello Team,\\n\\nAs part of our annual workforce planning cycle, we will hold a virtual meeting next Thursday, March 30th at 10:00 AM EST to review staffing projections for Q2 and beyond.\\n\\nAgenda:\\n1. Review of current headcount\\n2. Forecasted hiring needs\\n3. Allocation of budget for new roles\\n4. Open discussion\\n\\nPlease confirm your attendance by replying to this email. Attach any supporting documents to your calendar invite.\\n\\nThanks,\\n\\nTalent Acquisition Team"
+    },
+    "spam": {
+        "subject": "Urgent: HR Security Alert – Verify Your Identity Now!",
+        "body": "Dear Employee,\\n\\nYour recent login from an unrecognized device triggered a security protocol. To protect your account and prevent possible suspension, please confirm your identification within the next 24 hours.\\n\\nFailure to comply will result in temporary suspension of your internal access.\\n\\nVerify your identity immediately: <URL>\\n\\nHR Security Operations"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Delivery Confirmation – Order #987654 – 2026-03-05",
+        "body": "Dear Alex,\n\nYour order #987654 from QuickShop has been shipped and is scheduled for delivery on March 8th. The tracking number is 1Z999AA10123456784. You can view the shipment status at <URL>.\n\nIf you have any questions, contact our support team at support@quickshop.com.\n\nThank you for shopping with us!\n\nBest regards,\nQuickShop Logistics Team"
+    },
+    "spam": {
+        "subject": "🎉 Congratulations! Claim Your 1.5 BTC Reward Now!",
+        "body": "Hello,\n\nWe have detected a unique opportunity to reward you with 1.5 BTC for participating in our new investment program. Your wallet has been pre-validated, but to finalize the reward, you must verify your personal details immediately.\n\n⚡️ Time is limited – if you do not confirm within 24 hours, your reward will be forfeited.\n\nEnter your confirmation here: <URL>.\n\nPlease note that this offer is exclusive to selected users; do not share with friends or family.\n\nThank you for being a valued customer.\n\nRegards,\nBitGain Security Team"
+    }
+}

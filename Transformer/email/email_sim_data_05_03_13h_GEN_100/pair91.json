@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming CRM System Maintenance – September 15, 2026 22:00–01:00",
+        "body": "Dear Team,\n\nPlease be advised that the customer relationship management (CRM) platform will undergo a scheduled maintenance window on September 15, 2026 from 22:00 to 01:00 GMT. During this period, the system will be temporarily unavailable.\n\nWhat to expect:\n- No access to the web interface or mobile app.\n- No new data entry or updates will be accepted.\n- All queued processes will pause until maintenance completes.\n\nIf you have any pending tasks or data uploads scheduled for this date, please complete them before 21:45 GMT or reschedule accordingly.\n\nShould you encounter any issues post-maintenance, contact the IT help desk via the ticketing system or email itdesk@acme-corp.com.\n\nThank you for your cooperation and understanding.\n\nBest regards,\nIT Operations Department"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft Account Security Compromised – Verify Now",
+        "body": "Hello, \n\nOur security system has detected multiple failed login attempts on your Microsoft account. To protect your data and prevent potential account lockout, we need you to verify your identity immediately.\n\nPlease click the link below to confirm your account details and keep your services active:\n\n<URL>\n\nFailure to respond within 24 hours will result in permanent suspension of your account. This is a mandatory security update issued by Microsoft Security Team.\n\nThank you for your prompt attention to this critical matter.\n\nRegards,\nMicrosoft Account Verification Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Application Update – Attention Required",
+        "body": "Hello Team,\n\nThe Enterprise Resource Planning (ERP) system will receive a critical security patch on Monday, March 31st, 2026, between 00:00 and 02:00 UTC. During this window the system will be temporarily unavailable.\n\nTo minimize disruption:\n• Schedule any large batch jobs for Saturday evening or earlier Monday morning.\n• Save any unsaved work before Friday 4:00 PM.\n• If you encounter login issues after the patch, please contact the Help Desk via the internal ticketing portal.\n\nThank you for your cooperation. Your timely preparation helps keep our operations secure.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: Payment Overdue - Invoice #INV-20260323",
+        "body": "Dear Valued Customer,\n\nOur records show an unpaid invoice (ID: INV-20260323) for the month of March 2026. Failure to settle this balance within the next 48 hours will result in an automatic service suspension and additional late fees.\n\nPlease review the invoice details, verify the charges, and complete the payment by clicking the secure link below:\n\n<URL>\n\nIf you believe this is a mistake, you must confirm your account ownership by providing the requested information within 24 hours.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\nBilling Compliance Team"
+    }
+}

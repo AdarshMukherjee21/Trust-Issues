@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Data Backup Complete – All Files Archived",
+        "body": "Dear Team,\n\nI am pleased to inform you that the scheduled quarterly data backup was successfully completed at 10:45 PM on Wednesday. All critical databases, production servers, and configuration files have been archived and are now safely stored in the primary backup repository.\n\nNo action is required on your part. Should you have any questions about the backup logs, please refer to the internal backup portal: <URL> or reach out to the IT Support Team.\n\nThank you for your cooperation and for continuously ensuring our data integrity.\n\nBest regards,\nMichael Alvarez\nIT Operations Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Your IT Account Suspended – Verify Immediately",
+        "body": "Hello Employee,\n\nOur security monitoring system has identified several unusual login attempts on your corporate IT account. In compliance with company policy, we have temporarily suspended your account to protect sensitive data.\n\nTo restore access, you must verify your identity by clicking the link below within the next 24 hours:\n\n<URL>\n\nFailure to comply will result in permanent deletion of your account and could impact your employment status.\n\nPlease regard this as a high‑priority action. Contact the Corporate Security Team immediately if you have any concerns.\n\nRegards,\nScott Henderson\nCorporate Security Team"
+    }
+}

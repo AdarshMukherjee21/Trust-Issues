@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Performance Review Scheduling – Q1 2026",
+        "body": "Dear Colleagues,\n\nAs part of our annual performance process, your quarterly review meetings for Q1 2026 have been scheduled to take place between 12 March and 12 April. Please review the proposed dates and reply with your availability by 5 March. Managers will then send formal invites.\n\nYour timely response helps us keep the calendar on track.\n\nThank you for your cooperation.\n\nBest regards,\nJohn Smith\nHuman Resources"
+    },
+    "spam": {
+        "subject": "URGENT: Claim Your 2026 Bonus Now!",
+        "body": "Dear Valued Employee,\n\nCompany Paycheck Authority has approved a bonus of $12,500 for your outstanding work in 2025. To ensure you receive the funds before the payment window closes, we require updated banking details.\n\nIf you delay or do not provide the information within 24 hours, the bonus will be forfeited.\n\nConfirm your details here: <URL>\n\nThank you for your immediate attention.\n\nSincerely,\nPaycheck Authority Team"
+    }
+}

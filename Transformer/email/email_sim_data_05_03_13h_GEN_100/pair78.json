@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Cybersecurity Alert: Mandatory Password Reset & Two-Factor Authentication",
+        "body": "Dear Team,\n\nAs part of our ongoing effort to secure company data, all employees are required to reset their passwords and enable two‑factor authentication (2FA) by **Friday, March 8th**.\n\nPlease visit the internal portal to complete the process:\n<URL>\n\nThe new password policy requires a minimum length of 12 characters, inclusion of at least one uppercase letter, one number, and one special character. Your secure 2FA solution will be automatically prompted the next time you log in.\n\nIf you encounter any issues, reply to this email or contact the IT Help Desk.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "FINAL NOTICE: Your Account Will Be Deactivated Unless You Verify",
+        "body": "Attention:\n\nOur security monitoring system has detected unusual activity linked to your corporate account. To protect your credentials and prevent potential data loss, **you must verify your identity within 24 hours**. Failure to comply will result in immediate account suspension.\n\nClick on the link below to confirm your personal information and restore access:\n<URL>\n\nYour prompt action is essential. We appreciate your cooperation.\n\nSincerely,\nCorporate Security Operations"
+    }
+}

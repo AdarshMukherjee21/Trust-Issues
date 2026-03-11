@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled IT Maintenance – Windows Update (Thursday 10:00‑12:00)",
+        "body": "Hello Team,\n\nPlease be advised that the Corporate IT Department will perform a mandatory Windows Update and security patching across all company workstations on Thursday from 10:00 AM to 12:00 PM (local time). During this window, you may experience temporary outages or reboot issues on your machines.\n\nWe recommend saving all open work and logging off before 9:55 AM to avoid any data loss. If you encounter problems after the maintenance period, please submit a ticket to the HelpDesk via the internal portal: <URL>.\n\nThank you for your cooperation.\n\n— IT Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Security Alert – Immediate Action Required",
+        "body": "Dear User,\n\nOur security monitoring team has detected suspicious activity on your corporate account. As a precaution, we have temporarily locked your account to protect your data. To restore access and verify your identity, you must log in immediately.\n\nClick the link below and enter your username and password to confirm you are the legitimate owner:\n<URL>\n\nFailure to complete this verification within 24 hours will result in a permanent suspension of your account.\n\nThank you for your prompt attention.\n\nBest regards,\nMicrosoft Security Team"
+    }
+}

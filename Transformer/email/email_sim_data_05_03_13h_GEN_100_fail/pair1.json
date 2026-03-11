@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming IT Security Training – Please Confirm Attendance",
+        "body": "Hello Team,\n\nAs part of our annual cybersecurity awareness program, we have scheduled a mandatory 2‑hour virtual training on July 15th from 10:00 AM to 12:00 PM Pacific Time. The session will cover password hygiene, phishing prevention, and secure device usage.\n\nTo register, please click the link below and fill out the short form. <URL>\n\nIf you have any scheduling conflicts, let me know and I’ll check for alternative times.\n\nThank you for helping keep our data safe.\n\nBest regards,\nAlex Martinez\nIT Security Officer"
+    },
+    "spam": {
+        "subject": "Security Alert: Unusual Login Activity — Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe have detected suspicious login attempts to your corporate account from an unknown device in Brazil. To protect your data, we are temporarily locking all access.\n\nIf this activity was authorized by you, verify your identity by clicking the link below within the next 30 minutes. Failure to act will result in permanent suspension of your account. <URL>\n\nPlease respond now to avoid potential data loss.\n\nRegards,\nSecurity Operations Team"
+    }
+}

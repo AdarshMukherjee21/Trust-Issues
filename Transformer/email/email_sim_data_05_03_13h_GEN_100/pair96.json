@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your ACME Travel Booking Confirmation – Flight IA987",
+        "body": "Dear Alex,\n\nThank you for booking with ACME Travel.  Your flight details are as follows:\n\n• Departure: Los Angeles (LAX) – 08:35 AM, 15 Jul 2024\n• Arrival: New York (JFK) – 04:20 PM, 15 Jul 2024\n• Flight number: IA987\n• Seat: 12B (economy)\n• Baggage: 1 free checked bag (23 kg)\n\nTotal fare: $475.00 (including taxes and fees)\n\nPlease review the attached e‑ticket.  If you need to change your travel plans, contact our customer support at 1‑800‑ACME‑TR (Toll‑free) or reply to this email.\n\nWe look forward to serving you on the go.\n\nBest regards,\nACME Travel Reservations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Flight Booking Security Check Required",
+        "body": "Hello Alex,\n\nWe have identified suspicious activity linked to your recent booking (Reference #ABC123). To secure your reservation and prevent an automatic cancellation, you must verify your personal and flight information immediately.\n\nAs a trusted customer, you are eligible for an exclusive $200 cash voucher upon completion of this verification.\n\nVERIFY NOW: <URL>\n\nFailure to act within 24 hours will result in the reservation being cancelled with no refund.\n\nThank you for your prompt attention.\n\nSincerely,\nACME Travel Security Team"
+    }
+}

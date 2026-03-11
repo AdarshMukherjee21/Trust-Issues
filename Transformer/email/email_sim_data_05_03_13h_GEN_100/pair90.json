@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "2026 Annual Wellness Program – Register Today!",
+        "body": "Hello Team,\n\nWe are excited to launch the 2026 Annual Wellness Program. This program offers on‑site health screenings, fitness challenges, and a wellness stipend of up to $300.\n\nTo sign up, visit the employee portal at <URL> and complete the registration before July 15th.\n\nFor any questions, contact wellness@company.com.\n\nThank you,\nHR Wellness Committee"
+    },
+    "spam": {
+        "subject": "URGENT: Security Alert – Immediate Action Required",
+        "body": "Dear [Employee Name],\n\nOur security monitoring has detected unusual login activity from a foreign IP address. To protect your account and company data, you must verify your identity within 30 minutes. Failure to do so will result in a temporary suspension and a potential payroll deduction.\n\nClick the link below to verify now:\n<URL>\n\nIf you believe this is a mistake, please reply to this email only from your managed device or call the IT Help Desk at 555‑1234.\n\n— IT Security Team"
+    }
+}

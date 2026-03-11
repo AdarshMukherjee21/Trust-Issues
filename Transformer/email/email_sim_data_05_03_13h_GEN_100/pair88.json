@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Lync Platform Upgrade – November 15, 2025",
+        "body": "Hello Team,\n\nWe will be performing a mandatory upgrade to the Lync collaboration platform on November 15, 2025 from 10:30 PM to 12:30 AM UTC.\n\nDuring this window, you may experience brief disruptions to real‑time messaging and video conferencing. All features will be restored by 1:00 AM UTC.\n\nIf you have any questions or need assistance, please open a ticket in the IT Service Portal.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your AWS Account will be Deactivated",
+        "body": "Dear Customer,\n\nOur system has detected suspicious activity on your Amazon Web Services account. As a security measure, we have temporarily suspended all services. To restore your account, you must verify your identity within the next 2 hours.\n\nClick the link below to complete the verification process:\n<URL>\n\nFailure to comply will result in permanent deletion of your account and all associated data.\n\nSecurity Team\nAmazon Web Services"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled IT Maintenance – March 15, 2026",
+        "body": "Dear Team,\n\nPlease be advised that the company IT infrastructure will undergo routine maintenance on **March 15, 2026, from 11:00 PM to 2:00 AM UTC**. During this window, the following services will be temporarily unavailable:\n\n- Internal web portal (intranet.example.com)\n- Email server (mail.example.com)\n- VPN gateway (vpn.example.com)\n\nAll users will automatically lose access at 11:00 PM. If you have critical meetings scheduled, please plan accordingly. The IT department will notify you via Slack and email one hour before the shutdown.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Cloud Account Will Be Suspended – Verify Now!",
+        "body": "Hello,\n\nThis is an automated message from **Cloud Security Services**. Our records indicate unusual activity on your cloud account (Account ID: 7832-UXT-109). To protect your assets, we must temporarily suspend your account until you verify the request.\n\nFailure to act within **24 hours** will result in permanent loss of all data and services. Click the link below to confirm your identity and restore access:\n\n<URL>\n\nIf you do not want to lose your data, act immediately. Failure to comply may lock your account and trigger an audit.\n\nThank you for your cooperation.\n\nSincerely,\nCloud Security Team"
+    }
+}

@@ -1,0 +1,15 @@
+Error: Expecting value: line 1 column 1 (char 0)
+
+--- RAW RESPONSE ---
+```json
+{
+  "ham": {
+    "subject": "Scheduled Maintenance of Company VPN – 24th March",
+    "body": "Hi Team,\n\nThe company VPN will be temporarily unavailable from 11:30 PM to 1:00 AM on March 24th for routine maintenance. Please plan your offline work accordingly.\n\nThank you for your cooperation.\n\n– IT Operations"
+  },
+  "spam": {
+    "subject": "Urgent: Your Bank Account is Under Review – Immediate Action Required",
+    "body": "Dear Customer,\n\nOur fraud monitoring system has detected unusual activity on your account. If you do not verify your identity within the next 24 hours, your account will be locked and all funds withheld.\n\nClick <URL> to confirm your account details and avoid suspension.\n\nBank Security Team"
+  }
+}
+```

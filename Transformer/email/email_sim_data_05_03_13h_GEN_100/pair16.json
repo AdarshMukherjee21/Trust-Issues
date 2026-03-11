@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance: Cloud Storage Update – Oct 23, 2024",
+        "body": "Dear CloudOps Team,\n\nPlease be advised that the CloudSafe Platform will undergo a mandatory security patch on Oct 23, 2024, from 22:00 UTC to 02:00 UTC. During this period, API access to all services will be briefly unavailable.\n\nWe appreciate your cooperation and apologize for any inconvenience.\n\nBest regards,\nCloudSafe IT Operations"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: Your CloudSafe Account Is In Suspicious Use",
+        "body": "Dear CloudSafe User,\n\nOur security team has detected unusual login activity from an unrecognized device. To prevent a possible compromise, we must verify your account information immediately.\n\nPlease confirm your identity by clicking the link below and providing the required credentials:\n\n<URL>\n\nIf we do not receive confirmation within 4 hours, your account will be temporarily suspended and all stored data will be purged to protect your privacy.\n\nThank you for your prompt attention.\n\nSecurity Team – CloudSafe\n\nP.S. Verify now to avoid losing precious data."
+    }
+}

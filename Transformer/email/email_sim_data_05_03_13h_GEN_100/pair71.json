@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Server Upgrade – 2nd April 2026 02:00 AM BST",
+        "body": "Dear All,\n\nPlease note the upcoming maintenance window for the Acme ERP system scheduled on 2nd April 2026 from 02:00 AM to 04:00 AM BST. During this period, the system will be inaccessible. All users should save their work and log out before the start time.\n\nIf you have any questions, contact the IT Helpdesk at helpdesk@example.com.\n\nThank you,\nAcme IT Services"
+    },
+    "spam": {
+        "subject": "URGENT: Tax Collection Notice",
+        "body": "Dear Customer,\n\nOur records indicate that your Canada Revenue Agency account has an outstanding balance of CAD 12,345.00 for the year 2025. Failure to settle within 48 hours will result in account suspension and potential legal action.\n\nTo avoid penalties, verify your account details now: <URL>\n\nSincerely,\nSurest Tax Services\nCompliance Team"
+    }
+}

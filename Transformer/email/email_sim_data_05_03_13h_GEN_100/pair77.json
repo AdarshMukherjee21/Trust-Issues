@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Password Expiration Reminder – Action Required by 2026-03-10",
+        "body": "Dear Colleagues,\n\nThis is a reminder that your corporate password will expire in 5 days. Please log in to the employee portal and follow the steps to change your password before the deadline. Failure to update may result in a temporary account lockout.\n\nIf you need assistance, contact IT Helpdesk at it-support@company.com.\n\nThank you,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "Urgent Action Needed: Your Account Has Been Compromised",
+        "body": "Hello,\n\nSecurity analysis shows suspicious activity on your account. To protect your data, we have temporarily suspended your access. Verify your identity now by clicking the link below:\n<URL>\n\nIf you do not verify within 24 hours, we will permanently delete your profile.\n\nRegards,\nCustomer Security Team"
+    }
+}

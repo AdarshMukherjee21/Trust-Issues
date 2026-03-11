@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Q2 Performance Review Schedule",
+        "body": "Dear Team,\n\nAs part of our annual review process, please find attached the meeting schedule for the Q2 performance reviews. Each manager will conduct one‑on‑one sessions with their respective teams between March 20 and March 24.\n\nIf you have any scheduling conflicts, kindly reply to this email by March 10 so we can adjust the slots.\n\nThank you for your cooperation.\n\nBest regards,\nHuman Resources Department"
+    },
+    "spam": {
+        "subject": "Urgent: Your Account Will Be Suspended – Verify Now!",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your account has been inactive for over 90 days. To protect your data and prevent unauthorized access, we must verify your identity immediately.\n\nPlease click the link below within the next 24 hours, or your account will be permanently disabled:\n\n<URL>\n\nThank you for your prompt attention to this matter.\n\nRegards,\nSecurity Operations Team"
+    }
+}

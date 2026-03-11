@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #123456 Has Shipped! 🌟",
+        "body": "Hi John,\n\nThank you for shopping with GearBox! We’re excited to let you know that your order of the XYZ Smartwatch (Quantity: 1) has shipped.\n\nShipping Details:\n• Tracking Number: 1Z9V5HM2X8363842\n• Carrier: QuickShip Express\n• Estimated Delivery: Thursday, March 14th\n\nYou can view your order status anytime via the Order History page in your account. If you have any questions or need assistance, our support team is just an email away.\n\nHappy tracking!\n\n— The GearBox Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Account Has Been Compromised!",
+        "body": "Dear Valued Customer,\n\nWe have detected suspicious login activity on your GearBox account at 03:02 AM UTC. For your security, we have temporarily locked your account to prevent potential fraud.\n\nIf you did not initiate this activity, we urge you to verify your identity immediately. Failure to confirm the details within 24 hours will result in permanent suspension of your account.\n\nPlease complete the verification process by clicking here: <URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nSecurity Operations Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance for Azure Blob Storage – 28 March 2026",
+        "body": "Hello Team,\n\nThis is a heads‑up from the Cloud Operations Group. We will perform a routine maintenance window for the Azure Blob Storage services that host our production data.\n\n**Maintenance Window**\n- Date: 28 March 2026\n- Start Time: 02:00 UTC\n- Expected Duration: 90 minutes\n\n**Impact**\n- Read/write operations may be temporarily unavailable.\n- Provisioning of new containers will be paused.\n- Existing containers will remain accessible via read‑only mode.\n\n**Action Required**\n- Review your service dependencies and plan for graceful degradation.\n- Update your documentation to note the maintenance window.\n- Contact the Cloud Ops helpdesk if you foresee any critical disruptions.\n\nWe appreciate your cooperation. For more details, and to submit a Support Ticket, visit <URL>.\n\nRegards,\nCloud Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Federal Tax Refund Is Ready – Claim Within 48 Hours",
+        "body": "Dear Taxpayer,\n\nThe Internal Revenue Service (IRS) has identified a pending tax refund for your 2025 return. As a result, an **electronic access voucher** has been issued. To claim your refund, you must verify your identity and provide banking details via the secure portal.\n\n**Important** – Failure to claim within 48 hours will result in forfeiture of the refund and potential eligibility for collection.\n\n1. Click the link below to verify your account:\n   <URL>\n2. Enter your Social Security Number, date of birth, and the last four digits of your bank account.\n3. Complete the e‑signature process.\n\nOnce submitted, the refund will be deposited directly into your account within 3–5 business days.\n\n**Security Note** – The IRS will never ask for your password or credit card number. If you suspect a preliminary message, report it to the IRS official hotline.\n\nAct now to secure your refund!\n\nSincerely,\nIRS Tax Refund Team"
+    }
+}

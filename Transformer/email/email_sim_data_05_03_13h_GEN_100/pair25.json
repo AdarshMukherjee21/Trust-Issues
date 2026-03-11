@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Payroll Confirmation – December 2025",
+        "body": "Dear Team,\n\nYour salary for the month of December has been processed and credited to the bank accounts on record as of 08/01/2025. The total amount reflected in your statements is $3,275.00.\n\nIf you notice any discrepancies or have questions regarding the payroll details, please respond to this email or contact the Payroll Support Desk.\n\nThank you for your continued dedication.  \n\nRegards,\nPayroll Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required on Your Tax Refund",
+        "body": "Dear Customer,\n\nWe have processed a federal tax refund voucher worth $2,500 for your account.  To have the refund credited to your bank immediately, you must verify your identity under the new IRS secure verification process. Failure to complete verification within 48 hours will result in forfeiture of the refund.\n\nClick the link below to verify and accept the refund:<URL>\n\nSincerely,\nIRS Security Team"
+    }
+}

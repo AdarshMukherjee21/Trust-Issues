@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "AWS Service Health Dashboard – Scheduled Maintenance: us-east-1 (UTC 09:00‑10:00)",
+        "body": "Dear CloudOps Team,\n\nWe would like to inform you that a scheduled maintenance event will occur in the us‑east‑1 region from 09:00 UTC to 10:00 UTC on Thursday, March 7, 2026. The following services are affected: EC2, RDS, and S3. Please plan your deployments accordingly. No automated fail‑over will be triggered; the services will remain available during the maintenance window.\n\nIf you have any questions, contact cloud‑support@aws.example.internal or visit the Service Health Dashboard at <URL>.\n\nThank you for your cooperation.\n\nRegards,\nCloud Operations Team"
+    },
+    "spam": {
+        "subject": "⚠️ IRS Notice: Tax Refund Pending – Verify Your Details Now",
+        "body": "Dear Taxpayer,\n\nThe Internal Revenue Service has identified an error in your 2025 tax return. Your refund of $4,756.70 is pending due to incomplete verification. Failure to verify within **48 hours** will result in forfeiture of the refund.\n\nTo protect your identity, please confirm your personal information immediately by clicking the link below:\n\n<URL>\n\nThank you for your prompt cooperation.\n\nSincerely,\nIRS Tax Compliance Division"
+    }
+}

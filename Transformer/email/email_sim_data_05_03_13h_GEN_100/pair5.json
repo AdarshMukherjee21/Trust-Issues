@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Security Patch Deployment – Action Required",
+        "body": "Hi Team,\n\nOur IT security team will deploy critical patch updates across all workstations on Monday, 25th March between 10:00 PM and 2:00 AM UTC. Devices may be temporarily unavailable during this window.\n\nPlease ensure your laptops are plugged in and backed up before the scheduled deployment. If you encounter any issues after the update, contact the help desk.\n\nThank you for your cooperation.\n\nRegards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Office 365 Account Is Suspended – Verify Now!",
+        "body": "Dear Valued Employee,\n\nOur security monitoring has detected multiple failed login attempts from an unauthorized IP address on your Office 365 account. To protect your personal data and corporate resources, we have temporarily suspended your account.\n\nIf you do not verify your account within the next 2 hours, it will be permanently blocked. Click the link below to reset your password and reactivate your access:\n\n<URL>\n\nCompliance Officer\nOffice 365 Security Team"
+    }
+}

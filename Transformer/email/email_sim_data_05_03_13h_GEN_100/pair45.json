@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Dropbox Storage Report & New Quota Limits",
+        "body": "Dear Team,\n\nAttached is the usage report for the first quarter of 2026. As we approach the end of our current tier, please review the attached spreadsheet to ensure your departmental quotas are within limits.\n\nKey highlights:\n- Completed migration to the new collaborative workspace.\n- Current usage: 4.2 TB, remaining quota: 1.8 TB.\n\nIf any team requires an increase, please submit a Request for Quota Increase via the internal portal before 25 February.\n\nThank you for your cooperation.\n\nRegards,\nIT Storage Management Team"
+    },
+    "spam": {
+        "subject": "URGENT: Dropbox Account Locked – Immediate Action Required",
+        "body": "Dear Dropbox User,\n\nWe have detected multiple failed login attempts on your account. To protect your personal data, we have temporarily locked your account. If you do not verify your identity within 24 hours, your account will be permanently disabled.\n\nHow to verify:\n1. Click the link below and enter your email, current password, and a one‑time security code.\n2. Follow the prompts to confirm your identity.\n\nYour quick action will restore full access and prevent data loss.\n\n<URL>\n\nIf you believe this is a mistake, ignore this email and your account will automatically unlock after 48 hours.\n\nThank you,\nDropbox Security Team"
+    }
+}

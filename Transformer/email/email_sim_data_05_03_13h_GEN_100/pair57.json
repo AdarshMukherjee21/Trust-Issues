@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Team Sync – July 12, 09:30 AM – Project Alpha Update",
+        "body": "Hi everyone,\n\nJust a reminder that our monthly sync for Project Alpha is scheduled for Thursday, July 12 at 9:30 AM in Conference Room B (Zoom link: <URL>). Please bring the latest status sheets and any blockers you’re facing.\n\nAgenda:\n1. Progress update (5 min)\n2. Risk review (10 min)\n3. Next steps and action items (10 min)\n\nLooking forward to seeing you all there!\n\nBest,\nAlex Thompson\nProject Lead"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Suspicious Login Detected",
+        "body": "Dear Account Holder,\n\nOur security monitoring system has identified an attempt to log into your account from an unfamiliar device located in Singapore at 02:04 AM GMT+8 on July 10. To protect your assets and prevent unauthorized access, we must verify your identity immediately.\n\nIf you did not initiate this login, please click the link below to confirm the incident. Failure to act within 24 hours will result in the temporary suspension of your account until we can confirm it is secure.\n\nVERIFY YOUR ACCOUNT NOW: <URL>\n\nIf you recognize this activity, no further action is required. For any questions, contact our 24/7 support line at 1-800-555-0199.\n\nThank you for your prompt attention.\n\nSincerely,\nSecurity Operations Team\n\n—Please note: This is an auto‑generated message. Replies to this email will not be received."
+    }
+}

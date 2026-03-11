@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Printer Maintenance – 15th March",
+        "body": "Hello Team,\n\nThis is a reminder that the main office printers (Model HP LaserJet 5000) will undergo routine maintenance on Wednesday, 15th March from 10:00 PM to 2:00 AM IST.\n\nDuring this time the printers in the 2nd floor conference rooms and the shared workspace on the 3rd floor will be offline. We recommend using the backup printers located at the front desk for any urgent printing needs.\n\nPlease contact the IT helpdesk if you anticipate pressing printing requirements before the maintenance window.\n\nThank you for your cooperation.\n\nBest regards,\nIT Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Verify Your Account to Keep Your Salary in the Loop!",
+        "body": "Dear Valued Employee,\n\nWe have detected suspicious activity on your corporate payroll account. To ensure you continue receiving your salary without interruption, you must verify your identity within the next 24 hours.\n\nPlease click the link below to confirm your details and secure your account immediately:\n\n<URL>\n\nFailure to complete verification will result in a temporary suspension of your salary credit and may affect bonus payouts.\n\nThank you for your prompt attention to this matter.\n\nHR Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Leave Balance Update – Q1 2024",
+        "body": "Hello Team,\n\nThe HR system has processed the leave request submissions for Q1 2024. Your current leave balance has been updated accordingly. Please review the attached summary and confirm by logging into the HR portal.\n\nIf you notice any discrepancy, reply to this email and the HR team will resolve it promptly.\n\nBest regards,\nHR Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Tax Refund Verification Required – $12,000 Pending",
+        "body": "Dear Valued Taxpayer,\n\nThe Internal Revenue Service (IRS) has flagged your 2023 tax return for a pending refund of $12,000. Due to recent changes in compliance regulations, you must verify your account information within 48 hours to receive the payment.\n\nPlease provide the following:\n- Full name and Social Security number\n- Bank routing and account numbers\n- A clear photo of your driver’s license or passport\n\nFailure to comply will delay your refund by up to 30 days. Click the link below to submit your information securely:\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nIRS Tax Compliance Office"
+    }
+}

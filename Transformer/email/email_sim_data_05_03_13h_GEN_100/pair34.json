@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Azure Service Health – Scheduled Maintenance for Storage Accounts (Oct 12‑14)",
+        "body": "Hello Team,\n\nThis is a notification from the Azure Trust Center regarding upcoming maintenance for our Storage Accounts in the East US region.\n\n**Maintenance Window:**\n- **Start:** Friday, October 12, 2024 02:00 UTC\n- **End:** Sunday, October 14, 2024 04:00 UTC\n\n**Impact:**\n- Read–only operations will be available.\n- Write operations may experience intermittent latency.\n- Services dependent on these Storage Accounts should perform any critical write operations before the start time.\n\nWe recommend reviewing your applications and scheduling backups ahead of the maintenance window. For detailed guidance on how to prepare, please visit the Azure Maintenance Release Notes at <URL>.\n\nIf you have any questions or need assistance adjusting workloads, contact the Cloud Operations team.\n\nThank you for your cooperation.\n\nBest regards,\nCloud Ops Team\nAzure Trust Center"
+    },
+    "spam": {
+        "subject": "URGENT: YOUR AZURE ACCOUNT WILL BE TERMINATED – ACT NOW!",
+        "body": "Dear ACCOUNT OWNER,\n\nWITNESSING INCONVENIENT STATUS! Your Microsoft Azure account is in violation of our Terms of Service and has NOT BEEN ACCEPTED by KYOS for PROVISIONING. Failure to comply MAY RESULT IN permanent ACCOUNT TERMINATION within 48 HOURS.\n\nPLEASE REVIEW YOUR ACCOUNT STATUS AT THIS LINK IMMEDIATELY: <URL>\n\nYOU MUST CLICK THE LINK, ENTER YOUR EMAIL AND PASSWORD \nAND CONFIRM YOUR REPORTED PROMPTLY PAYMENTS.\n\nREMEMBER: ALL ACCOUNTS WITH PLUS 1000$ BALANCE WILL BE BLACKLISTED WITHOUT PREVIOUS WARNING.\n\nTO AVOID THIS YOU MUST:\n1. VERIFY IDENTIFICATION\n2. ENDARY OBS ARE SPAFISH \n3. CONFIRM BONUS PAYMENT (If you DO NOT COMPLETE, IT WILL BE SUSPENDED.)\n\nTHIS IS A FINAL WARNING! \nANY DELAY WILL RESULT IN LOSS OF YOUR CLOUD SERVICES. \n\nFOR MORE INFORMATION:\nARCFUN SUPPORT MANAGER\nM: +1-800-555-1234 (GUEST OF THE DAY)\n\nRegards,\n\nMicrosoft Azure\nSecurity Team"
+    }
+}

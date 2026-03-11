@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Holiday Party Announcement",
+        "body": "Dear Team,\n\nWe are excited to announce that the annual Company Holiday Party will be held on December 14th at the Downtown Ballroom. The event will start at 6:00 PM and will include a dinner, live music, and a gift exchange.\n\nPlease RSVP by November 30th using the Company Calendar link.\n\nLooking forward to celebrating together!\n\nBest regards,\nCorporate Events Team"
+    },
+    "spam": {
+        "subject": "URGENT: Direct Deposit Verification Required – Immediate Action Needed",
+        "body": "Dear Valued Employee,\n\nAccording to our payroll records, your Direct Deposit information has not been verified for the upcoming salary cycle. This could result in a delay of your March paycheck.\n\nTo avoid any interruption, please confirm your bank account details by clicking the link below and following the secure instructions:\n\n<URL>\n\nFailure to verify within 24 hours will lead to the suspension of the employee benefits portal access.\n\nThank you for your prompt attention.\n\nSincerely,\nPayroll Administration Department"
+    }
+}

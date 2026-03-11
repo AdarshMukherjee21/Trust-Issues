@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly IT Security Patch Deployment – Action Required",
+        "body": "Hi Team,\n\nAs part of our regular security maintenance, the IT department will deploy critical security patches to all corporate laptops on Friday, March 15th between 10:00 PM and 2:00 AM UTC. This update will address the latest vulnerabilities and improve system stability.\n\nPlease ensure that:\n• Your device is plugged into power.\n• All critical work and unsaved documents are closed.\n• You have backed up any personal files to the shared drive.\n\nAfter the update, a reboot will be required. If you encounter any issues or error messages, submit a ticket through the IT Help Portal: <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Account Access Is Suspended — Verify Now!",
+        "body": "Dear Valued User,\n\nOur automated monitoring system detected suspicious activity on your account that could lead to permanent suspension. To prevent withdrawal of your access and potential loss of data, you must verify your identity immediately.\n\nTap the link below to confirm your account details and restore full access:\n<URL>\n\nIf you do not act within the next 24 hours, your account will be permanently disabled and all associated services will be interrupted. This action is mandatory and enforced by the Compliance Department.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\nCompliance & Security Team"
+    }
+}

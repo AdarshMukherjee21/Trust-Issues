@@ -1,0 +1,15 @@
+Error: Expecting value: line 1 column 1 (char 0)
+
+--- RAW RESPONSE ---
+```json
+{
+  "ham": {
+    "subject": "Scheduled Maintenance for DynCloud Platform – 20th March 2026",
+    "body": "Dear DynCloud Users,\n\nPlease be advised that DynCloud’s platform will undergo a mandatory maintenance window on 20th March 2026, from 02:00 AM to 04:30 AM UTC. During this period, storage access and data transfer services may be temporarily unavailable. We have entered this window to apply critical security patches and improve overall platform stability.\n\nKey Points:\n- No alerts or push‑notifications will be sent at the time of the maintenance.\n- All scheduled backups will be completed before the maintenance begins.\n- If you anticipate heavy usage upon resumption, we recommend pre‑processing data in advance.\n\nThank you for your cooperation and understanding. For any questions, please contact <Person> in the IT Operations team.\n\nBest regards,\nDynCloud Infrastructure Team"
+  },
+  "spam": {
+    "subject": "URGENT: Your DynCloud Account Will Be Disabled – Action Required!",
+    "body": "Hello,\n\nOur records indicate that your DynCloud account has been flagged for suspicious activity. To protect your data and prevent unauthorized access, we must verify your ownership.\n\nIf you do not confirm your details *within the next 24 hours*, your account and all stored data will be permanently deleted.\n\nTo verify, please click the link below:\n<URL>\n\nFailure to respond will result in immediate account closure and loss of data. This is the last warning.\n\nThank you,\nDynCloud Security Team"
+  }
+}
+```

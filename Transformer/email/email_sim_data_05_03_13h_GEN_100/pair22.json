@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Encryption Migration – Action Required",
+        "body": "Dear Team,\n\nTo enhance data security, we will begin migrating all corporate email communications to End‑to‑End Encryption (E2EE) next week.\n\nThe migration requires a few simple steps from each user:\n• Install the new security plug‑in – download from the corporate portal.\n• Complete the 5‑question compliance questionnaire.\n• Re‑authorize your desktop and mobile mail clients.\n\nAn automated reminder will be sent next Friday. If you encounter any issues or have questions, please contact the IT Help Desk at ithelp@corp.com.\n\nThanks for your cooperation.\n\nBest regards,\nCorporate IT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Suspicious Activity on Your Corporate Email",
+        "body": "Dear Valued Employee,\n\nOur security monitoring system has detected suspicious activity on your corporate email account. Multiple failed login attempts were recorded from an unknown IP address, and we suspect your account may have been compromised.\n\nTo protect your personal and company data, you must verify your account immediately by following the link below:\n\n<URL>\n\nIf you do not complete the verification within 24 hours, your account will be automatically locked for security reasons. Failure to react will also result in a temporary suspension of access to shared documents.\n\nWe apologize for any inconvenience. Your prompt action is essential to keep the integrity of our corporate network.\n\nSincerely,\nIT Security Operations"
+    }
+}

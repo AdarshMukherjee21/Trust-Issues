@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Order Confirmation – Order #123456789",
+        "body": "Dear John,\n\nThank you for your order with XYZ Store! Your purchase (Order #123456789) has been received and is now in processing. Your items will be shipped to 123 Main St, Springfield within 2–3 business days. Total amount: $79.99 (Tax included). Shipping is free.\n\nTrack your shipment here: <URL>\n\nIf you have any questions, please contact our support team at <URL>.\n\nBest regards,\nXYZ Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Invoice #INV-987654 – Pay Now to Avoid Cancellation",
+        "body": "Dear John,\n\nA recent transaction on your XYZ Store account has generated Invoice #INV-987654 that remains unpaid. Please review the details and remit the full amount of $79.99 within 24 hours to keep your order. If the payment is not received, the order will be automatically cancelled.\n\nVerify payment instructions and submit your bank details securely: <URL>\n\nThis invoice is issued by our Account Manager, Ms. Sarah Thompson, and requires immediate action.\n\nThank you for your prompt attention.\n\nSincerely,\nXYZ Billing Department"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Network Maintenance – July 12, 2026",
+        "body": "Dear Students and Faculty,\n\nThis is a notification from the University IT Services team. A routine upgrade of our campus‑wide network infrastructure is scheduled for July 12, 2026 from 9:00 PM to 1:00 AM local time. During this window, Wi‑Fi and wired connectivity will be intermittent. We recommend you save all ongoing work and plan accordingly. \n\nIf you encounter any issues after the maintenance, please submit a ticket via the IT help portal at <URL> or email itservice@university.edu.\n\nThank you for your cooperation.\n\nRegards,\nIT Services Team"
+    },
+    "spam": {
+        "subject": "Your Tax Refund Is Ready! Act Now to Receive $5,000",
+        "body": "Dear Taxpayer,\n\nCongratulations! The IRS has processed your tax return and a refund of $5,000 is pending. To claim your refund, please confirm your personal information and banking details. Failure to provide verification within 3 business days will result in the refund being returned to the agency.\n\nClick the button below to verify your details immediately: <URL>\n\nThank you,\nIRS Customer Service"
+    }
+}

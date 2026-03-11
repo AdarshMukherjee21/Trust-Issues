@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance – Windows Update Service",
+        "body": "Dear Team,\n\nThis is a notice from the IT Infrastructure Group that the Windows Update service will undergo scheduled maintenance on Monday, March 18th, 2026 from 2:00 AM to 4:30 AM PST. During this window, user computers will automatically download and install critical security patches.\n\nPlease ensure that you save all work and close any unsaved applications before the start time. If you experience any connectivity issues or errors during the update, submit a ticket via the internal IT portal.\n\nThank you for your cooperation.\n\nBest regards,\nIT Infrastructure Team"
+    },
+    "spam": {
+        "subject": "Urgent: Account Disabled – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nYour corporate email account has been compromised and is scheduled for immediate suspension. To prevent loss of access to essential services, you must verify your identity now.\n\nClick <URL> and enter your current password along with the temporary code we just emailed you. Failure to complete this verification within 2 hours will permanently lock your account.\n\nThis is an official notice from Microsoft Security. Failure to comply will result in data loss.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

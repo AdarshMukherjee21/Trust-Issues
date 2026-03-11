@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Security Update – 2:00 PM BST",
+        "body": "Hi Team,\n\nThis is a heads‑up from IT Security: a critical security patch will be deployed automatically to all company workstations at 2:00 PM BST today. The update resolves recent vulnerabilities in the web browsing and email clients.\n\nNo action is required from you; the systems will reboot automatically, and normal operations will resume shortly afterward. If you have any questions or experience problems post‑update, please reach out via the Helpdesk portal: <URL>\n\nThank you for staying vigilant.\n\n— IT Support"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Account Has Been Compromised",
+        "body": "Dear User,\n\nOur system has detected suspicious activity on your corporate account. To prevent permanent suspension, you must verify your identity within the next 24 hours.\n\nClick here to confirm your credentials: <URL>\n\nFailure to comply will result in a complete account lock and all associated data will be deleted. If you believe this is a mistake, contact IT Security immediately at <URL> or call 1‑800‑555‑0123.\n\nThank you for your prompt attention.\n\n— Corporate Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Workshop on Data Analytics – RSVP by Monday",
+        "body": "Dear Professor Sharma,\n\nWe are pleased to host the annual Data Analytics Workshop on 15th March at the main auditorium. Please confirm your attendance and any dietary requirements by Monday, 12th March.\n\nThank you for your participation.\n\nBest regards,\nS. Patel\nAcademic Programs Coordinator\nUniversity of Riverside"
+    },
+    "spam": {
+        "subject": "You’ve Been Shortlisted for a $5,000 Scholarship – Act Now!",
+        "body": "Dear Applicant,\n\nCongratulations! The Global Education Fund has identified you as a top candidate for a $5,000 scholarship award to support your studies. To claim the grant, you must provide your bank account details and a photocopy of your ID before 24 hours.\n\nClick <URL> to submit the required documents and secure your prize. Failure to act in time may result in forfeiture of the award.\n\nRegards,\nGlobal Education Fund Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Office Relocation Schedule – September 2024",
+        "body": "Dear Team,\n\nAs part of our ongoing efforts to optimize workspaces, we are moving our marketing and finance departments to the new Level 5 office. The relocation will take place in two phases:\n\n• Marketing: 29 September 2024 – 2:00 PM to 4:00 PM\n• Finance: 30 September 2024 – 1:00 PM to 3:00 PM\n\nPlease ensure that all personal belongings are removed by the end of each day. All IT equipment will be handled by the on‑site IT crew.\n\nIf you have any concerns or need assistance, reply to this email or contact the facilities team at facilities@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nFacilities Management"
+    },
+    "spam": {
+        "subject": "✨ Claim Your $12,000 Tax Credit – Immediate Verification Required",
+        "body": "Dear Valued Customer,\n\nCongratulations! The National Tax Agency has identified you as a beneficiary of the 2024 Home Energy Tax Credit worth $12,000. To receive your credit, you must submit verification documents within 72 hours or risk forfeiture of the award.\n\nYour provisional credit statement:\n• Eligibility ID: HT-081724-0123\n• Amount: $12,000.00\n\nFailure to act will result in immediate suspension of your tax account.\n\nSecurely upload your documents now: <URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nNational Tax Agency\nCustomer Relations Department\nTax.gov"
+    }
+}

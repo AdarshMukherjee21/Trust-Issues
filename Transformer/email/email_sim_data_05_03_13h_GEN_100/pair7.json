@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Scheduled Maintenance – Cloud Service (Apr 15, 2026 02:00‑04:00 UTC)",
+        "body": "Hi Team,\n\nThe IT Operations team will perform a routine firmware upgrade on the company’s cloud infrastructure during the window below.  \n\n• Date: Friday, April 15, 2026\n• Time: 02:00 UTC – 04:00 UTC  (Local time 08:00‑10:00 IST)\n• Impact: All services hosted on the cloud (CRM, File Share, BI Dashboard) will be unavailable for approximately 2 hours.\n\nWe recommend you:\n1. Save all work and log out of cloud applications before the start time.\n2. Re‑authenticate after the maintenance completes.\n3. Report any service issues to the helpdesk at helpdesk@example.com.\n\nThank you for your cooperation. If you have questions or need alternative access during the maintenance window, please let me know.\n\nBest regards,\n\nSonia Patel\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Your Account Will Be Suspended Within 24 Hours – Verify Immediately",
+        "body": "Dear Valued Customer,\n\nOur security system has detected unusual activity on your account.  To protect your assets and prevent premature suspension, we require immediate verification of your information.\n\nPlease click the link below to confirm your identity and secure your account:\n<URL>\n\nIf you fail to verify within 24 hours, we will have no choice but to suspend the account entirely, and you will lose access to all services.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\n\nCompliance Team\nGlobal Payments Inc."
+    }
+}

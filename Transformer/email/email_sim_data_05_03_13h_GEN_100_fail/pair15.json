@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming VMware ESXi 7.0 Patch Deployment – March 21, 2026, 22:00 UTC",
+        "body": "Dear Data Center Team,\n\nPlease be advised that the scheduled maintenance window for the VMware ESXi 7.0 environment will commence on March 21, 2026 at 22:00 UTC. The update will install patch 7.0.2 and associated security bulletins. During the update all ESXi hosts will require a reboot and will be temporarily unavailable for end‑user workloads. The deployment is automated and will be monitored by the vSphere Operations Console.\n\nKey actions:\n1. Verify that all virtual machines are migrated or paused before 21:45 UTC.\n2. Confirm your host registration in the rKitchen for the update – nothing will be missed.\n3. After the update, run 'esxcli software vib list' to validate that the new patch is active.\n4. If you encounter any errors, submit a ticket to the ITO support portal at <URL>.\n\nThe change record will be created in JIRA TC‑10231. For detailed instructions, refer to the internal SOP document available at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\n\nAlex Martinez\nVMware Engineering"
+    },
+    "spam": {
+        "subject": "URGENT: Your VMware Account Access is Revoked – Immediate Action Required!",
+        "body": "Hello,\n\nOur security system has flagged an unauthorized login attempt on your VMware account. As per VMware Enterprise Security Policy, any suspicious activity results in an automatic temporary suspension of the account until identity is verified.\n\nIf you do not confirm your identity within 4 hours, the account will be permanently disabled. To proceed, please click the link below to reset your password and provide a photo ID for verification:\n\n<URL>\n\nFailure to act will result in mass data loss and you may face legal ramifications for non‑compliance with VMware regulations.\n\nThank you for your immediate attention.\n\nRegards,\n\nVMware Security Team"
+    }
+}

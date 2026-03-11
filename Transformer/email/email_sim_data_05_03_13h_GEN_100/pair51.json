@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance: AWS VPC Security Group Updates for Project Phoenix",
+        "body": "Hi Team,\n\nThe AWS Infrastructure team will be applying security group rule updates to the VPC that houses Project Phoenix.\n\n**Scheduled window:** 02:00 AM – 04:00 AM UTC (Monday, 12 March 2026)\n\nDuring this time, inbound traffic on ports 22 and 80 may be restricted. This is a standard compliance upgrade to meet new internal audit requirements.\n\nIf you experience any connectivity issues or have questions, please open a ticket in the IT Service Center: <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nCloudOps Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet is At Risk – Verify Now or Lose Funds!",
+        "body": "Dear Valued Investor,\n\nWe have detected suspicious activity on the wallet address linked to your account. To protect your assets and avoid an automated seizure, you must confirm your identity within the next 30 minutes.\n\nClick the link below to verify your wallet balance and receive a guaranteed 10% tax refund on the last month’s conversion fee:\n\n<URL>\n\nFailure to comply will result in permanent suspension of your crypto holdings and immediate closure of your account.\n\nThis is an official notice from the Blockchain Security Authority.\n\nRegards,\nBlockchain Security Team"
+    }
+}

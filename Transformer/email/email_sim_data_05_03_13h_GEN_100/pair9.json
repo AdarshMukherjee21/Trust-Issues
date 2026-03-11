@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Infrastructure Budget Review Meeting – 25th March 2026",
+        "body": "Dear Team,\n\nPlease be reminded that the Quarterly Infrastructure Budget Review will take place on Wednesday, 25 March 2026 at 10:00 AM in Conference Room B.\n\nAgenda items include:\n- Budget allocations for cloud services\n- Cost‑saving initiatives for data centers\n- Review of vendor contracts\n\nKind regards,\nFinance Department"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Government Tax Account Overdue",
+        "body": "Dear Valued Citizen,\n\nYour tax account has been flagged for overdue payments. Immediate action is required to avoid penalties and account suspension.\n\nPlease verify your identity and update your payment information by clicking the link below:\n\n<URL>\n\nThank you,\nRevenue Department"
+    }
+}

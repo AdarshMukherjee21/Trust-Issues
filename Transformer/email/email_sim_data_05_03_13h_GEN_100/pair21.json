@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Annual Performance Review – Schedule Confirmation",
+        "body": "Hi Team,\n\nThis is a reminder that the company’s annual performance review sessions will take place next week. Please find your scheduled meeting details below:\n\n• Date: Thursday, March 28, 2026\n• Time: 10:00 AM – 11:00 AM (IST)\n• Location: Conference Room B, 3rd Floor\n• Virtual link (for remote attendees): <URL>\n\nIf you have any scheduling conflicts or need to request a different time, please email me by Tuesday, March 26.\n\nLooking forward to our productive discussions.\n\nBest regards,\nAditi Sharma\nPerformance Management Lead"
+    },
+    "spam": {
+        "subject": "Urgent: Unauthorized Transaction Alert – Immediate Action Required",
+        "body": "Dear valued customer,\n\nWe detected a suspicious transaction on your account that has not been authorized by you. To protect your account from potential loss, we have temporarily frozen the affected card until you verify the activity.\n\nPlease verify your identity and confirm this transaction within 24 hours by clicking the secure link below. Failure to act will result in the permanent suspension of your account.\n\nVerify your account here: <URL>\n\nIf you do not recognize this activity, contact our 24/7 support hotline immediately.\n\nRegards,\nFinSecure Bank – Fraud Prevention Team"
+    }
+}

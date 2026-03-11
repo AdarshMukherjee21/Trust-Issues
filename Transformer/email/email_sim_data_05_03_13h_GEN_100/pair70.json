@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your IT Support Password Reset Confirmation",
+        "body": "Hello Alex,\n\nThis is to confirm that we have successfully reset your corporate password at 09:44 UTC on 04‑Feb‑2026.\n\nYou can log in to the employee portal with your new credentials by clicking the link below:\n<URL>\n\nIf you did not request this change, please reply to this email or contact IT Support immediately.\n\nThank you for keeping your account secure.\n\nBest regards,\nIT Support Team"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Security Action Needed – Account Inactive Soon",
+        "body": "Dear Alex,\n\nOur security monitoring has flagged suspicious activity on your corporate account. As a precaution, we have temporarily disabled access to prevent unauthorized usage.\n\nYou must verify your identity within 24 hours to restore full access. Failure to act will result in permanent suspension of your account and possible data loss.\n\nPlease click the secure link below to confirm your identity and unlock your account:\n<URL>\n\nIf you ignore this notice, your department access, email, and internal tools will remain inaccessible.\n\nPriority: High\n\nSincerely,\nSecurity Operations\n(Corporate Safety Team)"
+    }
+}

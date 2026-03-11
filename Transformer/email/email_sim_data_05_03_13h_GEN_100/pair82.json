@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Company‑Wide Security Awareness Training – March 12",
+        "body": "Dear Team,\n\nAs part of our commitment to keep our workplace secure, we are holding a mandatory security awareness training session on March 12 from 11:00 AM to 12:30 PM in the main conference hall. The session will cover phishing best practices, password hygiene, and how to spot suspicious emails.\n\nPlease confirm your attendance by clicking the link below:\n<URL>\n\nThank you for your participation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "URGENT: Security Breach Requires Immediate Action",
+        "body": "Dear Valued User,\n\nOur monitoring systems have detected an unauthorized login attempt to your corporate network from an external IP address. Immediate action is required to prevent potential data compromise.\n\nTo verify your identity and secure your account, please complete the verification process within the next 30 minutes. Failure to do so will result in temporary suspension of your network access.\n\nBegin verification now:\n<URL>\n\nThank you for your prompt cooperation.\n\nSincerely,\nGlobal Security Team"
+    }
+}

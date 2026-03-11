@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Database Migration – 28th April",
+        "body": "Hi Team,\n\nPlease be advised that the enterprise data warehouse will undergo a scheduled migration on Thursday, 28th April from 22:00 UTC to 04:00 UTC. During this window, read‑only access to the analytics platform will be disabled. You may continue to use the operational database without interruption.\n\nKey Points:\n- Migrated tables: Sales, Inventory, Customer Relations\n- Backup complete as of 20:00 UTC\n- Post‑migration verification will be performed by the Data Engineering squad\n\nIf you anticipate any conflicts or have critical reporting deadlines in that timeframe, please coordinate with the ops team by 15:00 UTC Tuesday. Thank you for your cooperation.\n\n‐\nRachel L. Chen\nSenior IT Infrastructure Lead\n"
+    },
+    "spam": {
+        "subject": "Urgent: Your PayPal Account May Be Terminated",
+        "body": "Dear PayPal User,\n\nOur security team has detected multiple anomalous login attempts on your account. If you do not verify your identity within the next 12 hours, PayPal will suspend your account and refuse all pending transactions.\n\nTo confirm your identity, click the link below:\n<URL>\n\nFailure to act will result in permanent account closure and potential legal consequences.\n\nThank you for your prompt attention.\n\n—\nSecurity Operations\nPayPal, Inc."
+    }
+}

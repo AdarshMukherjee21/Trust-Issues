@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Google Workspace Security: New User Created – Review Required",
+        "body": "Hello,\n\nThis is a notification from the Google Workspace Administration console. A new user has been added to your organization’s tenant.\n\nAccount: alex.smith@company.com\nCreated: 2026-03-04 09:15 UTC\nIAM roles: Editor on all projects\nDevice: Windows 11\n\nPlease review the newly created user account details and ensure it complies with your security policies. You can view the log activity and manage permissions here: <URL>\n\nThank you,\nGoogle Workspace Admin"
+    },
+    "spam": {
+        "subject": "URGENT: Your Google Account is at Risk – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe have detected suspicious activity linked to your Google Account (alex.smith@company.com). To safeguard your personal data and prevent potential account shutdown, we must verify your identity immediately.\n\nIf you do not confirm your identity within 24 hours, your account will be temporarily suspended and all access will be revoked. Click the link below to verify now and avoid permanent suspension:\n\n<URL>\n\nFailure to comply may result in loss of access to all Google Workspace services.\n\nSincerely,\nGoogle Account Security Team"
+    }
+}

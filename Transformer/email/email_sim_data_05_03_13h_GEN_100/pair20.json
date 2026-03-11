@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Compliance Settings for AWS S3 Buckets",
+        "body": "Hi Team,\n\nAs part of our ongoing cloud security review, the IT Security Group has updated the default access policies for all AWS S3 buckets. The key changes include:\n\n• Enforced MFA delete enabled on all new buckets.\n• Default encryption switched to SSE‑KMS with the new corporate key.\n• Permitted cross‑region replication now requires explicit approval.\n\nPlease review the attached policy digest and confirm that your team’s buckets are compliant by Friday, 19 March 2026. If you have existing buckets that need adjustments, contact the CloudOps team before the deadline.\n\nFor further details, refer to the internal wiki page: <URL>\n\nThanks for your cooperation.\n\nRegards,\nRahul Patel\nCloud Infrastructure Lead"
+    },
+    "spam": {
+        "subject": "🚨 Exclusive Opportunity: Claim Your $100,000 Bonus in Bitcoin! 🚨",
+        "body": "Dear Esteemed Investor,\n\nYour crypto wallet has been flagged for high‑value activity. The Global Digital Asset Authority (GD‑AA) has identified you as a *worthy* candidate to receive an **$100,000 Bitcoin bonus**. This offer is limited to 20 recipients and will expire in 48 hours.\n\nTo claim your bonus:\n1. Verify your identity by clicking the secure link below.\n2. Submit scanned KYC documents within 24 hours.\n\nFailure to act promptly will result in the cancellation of your bonus and potential restriction of your trading privileges.\n\nVerify now: <URL>\n\nSincerely,\n\nV. Singh\nDirector of Investor Relations\nGlobal Digital Asset Authority\n📞 +91‑987‑654‑3210"
+    }
+}

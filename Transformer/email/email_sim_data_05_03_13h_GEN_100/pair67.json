@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Monthly Statement for March 2026 is now Available",
+        "body": "Dear Valued Customer,\n\nYour monthly bank statement for the period of March 1, 2026 to March 31, 2026 is now available for download in your online banking portal. Please log in at your convenience to review transactions and update your records.\n\nIf you notice any discrepancies, contact the customer support team within 7 days of statement issuance.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Service Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Account Has Been Flagged for Suspicious Activity – Verify Identity Now",
+        "body": "Dear Mr. Smith,\n\nThe security monitoring system has detected activity on your account that matches our fraud patterns. As a precaution, we have temporarily placed a restriction on your account. To avoid permanent suspension and loss of funds, you must verify your identity within the next 2 hours.\n\nPlease click the link below and confirm the requested documents:\n<URL>\n\nFailure to act will result in immediate lock and deletion of all transaction history for your account.\n\nThank you for your prompt attention.\n\nSincerely,\nSecurity Operations"
+    }
+}

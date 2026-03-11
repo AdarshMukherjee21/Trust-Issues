@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: CRM Software License Renewal – Action Required",
+        "body": "Hi Team,\n\nThis is a friendly reminder that the license for our Salesforce Enterprise Edition will expire on 15th March 2026. Please review and renew your access via the internal Licensing portal by 10th March to ensure uninterrupted service.\n\nIf you have already completed the renewal, you can ignore this notice. For any questions, contact the IT Licensing Support team.\n\nThanks,\nJohn D. Smith\nIT Licensing Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: Your Software License Expired – Immediate Action Needed",
+        "body": "Dear Sir/Madam,\n\nOur records indicate that your Salesforce Enterprise Edition license has been suspended due to non‑payment. Failure to reactivate your license within 24 hours will result in permanent account lock and loss of all customer data.\n\nTo restore your access and avoid data loss, please log in to your account and complete the payment immediately:\n\n<URL>\n\nThank you for your prompt attention. – Salesforce Licensing Administration"
+    }
+}

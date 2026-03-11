@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order Confirmation: #9876543 – Thank you for shopping with TechWorld!",
+        "body": "Dear Jane Doe,\n\nThank you for your recent purchase with TechWorld. Your order #9876543 has been processed and is now on its way. Below you will find the details of your purchase:\n\n• Item: UltraHD 55\" Smart TV\n• Price: 1,499.00 USD\n• Shipping Method: Standard Shipping (5‑7 business days)\n• Tracking Number: 1Z999AA10123456789 – use it on the carrier’s website for live updates.\n\nWe appreciate your business and look forward to your feedback. If you have any questions regarding your order, please reply to this email or contact our Customer Support at support@techworld.com.\n\nThank you,\n\nTechWorld Team"
+    },
+    "spam": {
+        "subject": "Account Suspended! Immediate Payment Required to Restore Access",
+        "body": "Dear valued customer,\n\nOur records indicate that your account with PrimeRewards has not been verified since the 12th of March. Due to security protocols, we have temporarily suspended your account. To restore full access and avoid permanent closure, please complete the payment verification process within the next 24 hours.\n\nUnverified payment could result in loss of points, discounts, and exclusive offers. Click the secure link below to confirm your bank details and submit the required documents:\n\n<URL>\n\nIf you do not act within the specified timeframe, your account will be permanently deactivated and all pending rewards forfeited.\n\nThank you for your prompt attention to this matter.\n\nBest Regards,\n\nPrimeRewards Security Team"
+    }
+}

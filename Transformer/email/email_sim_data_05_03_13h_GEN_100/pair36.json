@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Office 365 Migration – Action Required",
+        "body": "Dear Team,\n\nAs part of our ongoing effort to improve productivity, Microsoft Office 365 will be upgraded on March 12th. Please save any unsaved files before the deadline and review the new collaboration guidelines attached.\n\nIf you have any questions, contact IT Support.\n\nThanks,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Office 365 Migration – Your Account Suspended",
+        "body": "Attention Team,\n\nAll employees must comply with the upcoming Office 365 upgrade today. Failure to verify your account will result in immediate suspension of your work profile. Verify your credentials now: <URL>\n\nIf you do not act within 24 hours, your application access will be disabled.\n\nBest regards,\nMicrosoft Compliance Team"
+    }
+}

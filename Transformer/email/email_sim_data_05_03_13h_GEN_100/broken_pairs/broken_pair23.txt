@@ -1,0 +1,15 @@
+Error: Expecting value: line 1 column 1 (char 0)
+
+--- RAW RESPONSE ---
+```json
+{
+  "ham": {
+    "subject": "Scheduled Security Patch Deployment – 15th March 2026",
+    "body": "Hi Team,\n\nPlease be advised that our IT Security team will deploy critical security patches across all endpoints on March 15, 2026, between 02:00 AM and 04:00 AM IST. During this window, you may experience temporary network and remote‑access interruptions.\n\nIf you have scheduled critical work or remote sessions, kindly plan accordingly. For any concerns or to report an exception, contact the IT Helpdesk at helpdesk@company.com or ping @ITSupport on the internal Slack channel.\n\nThank you for your cooperation.\n\nBest,\nIT Security Team"
+  },
+  "spam": {
+    "subject": "Urgent: Verify Your Account to Avoid Service Disruption",
+    "body": "Dear Valued Customer,\n\nOur records show suspicious activity on your XBank account. To protect your funds, we require immediate verification of your account details. Failure to comply within 48 hours will result in temporary suspension of all services.\n\nClick the link below to confirm your identity and secure your account:\n<URL>\n\nOnce verified, you will receive a confirmation email and your account will be restored.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\nXBank Security Team"
+  }
+}
+```

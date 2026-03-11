@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Employee Wellness Fair – Join Us on 15th March!",
+        "body": "Dear Team,\n\nWe are excited to announce the 2026 Spring Wellness Fair, scheduled for Wednesday, 15th March, from 10:00 AM to 4:00 PM in the main conference hall. This year’s theme is \"Mindful Living\" and we have a rich lineup of activities:\n\n• 10:00 – 11:00: Guided Meditation with Dr. Lina Park\n• 11:15 – 12:30: Healthy Cooking Demo by Chef Raj\n• 1:30 – 3:00: Plant‑Based Nutrition Workshop\n• 3:15 – 4:00: Mindfulness Talk – \"Managing Stress in the Workplace\"\n\nRefreshments and wellness swag tents will be available throughout the event. Feel free to bring your family; the event is open to employees and their immediate relatives.\n\nKindly RSVP by 5th March to help us finalize catering and seating arrangements. Simply reply to this email with \"I will attend\".\n\nLooking forward to seeing you all healthy and happy!\n\nBest regards,\n\nWellness Coordination Team\n\nCorporate HR Department"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: Your Cloud Storage Account is Suspended",
+        "body": "Dear Valued Customer,\n\nThis is an automated notice from CloudGuard Services. Our records indicate unusual access attempts to your account (account ID: 8423-5678). Due to security protocols, the account has been temporarily suspended to protect your data.\n\nIf you wish to reactivate your account, please verify your identity by clicking the link below within the next 24 hours. Failure to verify will result in permanent data deletion.\n\n<URL>\n\nFor any questions, please contact our Support Team immediately via the same link.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nCloudGuard Security Team"
+    }
+}

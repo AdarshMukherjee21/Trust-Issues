@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Mandatory Security Awareness Training – Deadline 15 May 2026",
+        "body": "Dear Colleagues,\n\nAs part of our ongoing commitment to protect our corporate assets, the Security & Compliance team is rolling out the annual Security Awareness Training on Phishing & Malware. Please complete the online module by Saturday, 15 May 2026.  You can access the training portal here: <URL>.\n\nAfter successful completion, a certificate will be automatically uploaded to your employee profile. If you encounter any technical difficulties or have questions, contact the IT Help Desk at ithelp@examplecorp.com.\n\nThank you for your cooperation.\n\nBest regards,\n\nJohn Doe\nHead of Security & Compliance\nExampleCorp Ltd"
+    },
+    "spam": {
+        "subject": "URGENT: Your XYZ Bank Account Has Been Suspended",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your XYZ Bank online banking account has been temporarily suspended due to suspicious activity. If you do not verify your identity within the next 24 hours, your account will be permanently locked and any pending transactions may be denied.\n\nTo reactivate your account immediately, please click the secure verification link below and follow the on‑screen instructions:\n\n<URL>\n\nThis action must be completed within 24 hours. If you believe this notice is a mistake, do not reply to this email. For assistance, contact our support team only through the official XYZ Bank website.\n\nThank you for choosing XYZ Bank.\n\nSincerely,\n\nAlex Smith\nXYZ Bank Security Operations"
+    }
+}

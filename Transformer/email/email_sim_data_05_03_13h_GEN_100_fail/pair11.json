@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Team Building Lunch: March 12th – RSVP by March 2nd",
+        "body": "Hi Team,\n\nAs part of our continued commitment to fostering collaboration, we’re hosting a team‑building lunch at the Downtown Bistro on Monday, March 12th at 12:30 p.m. Please RSVP to Karen by March 2nd so we can confirm the reservation. This will be a great opportunity to network and celebrate our recent project milestones.\n\nSee you there!\n\nBest Regards,\nLogan – Operations Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Your Business Account Credit Boost!",
+        "body": "Dear Valued Partner,\n\nCongratulations! Your business account has been selected for a limited‑time credit boost of ₹750,000 offered by the Ministry of Finance’s Prosperity Initiative. To receive this award, you must confirm your account details by clicking the secure link below within 24 hours. Failure to verify will result in the suspension of your account and loss of pending rewards.\n\nVerify your details now: <URL>\n\nSincerely,\nFinancial Compliance Officer\nMinistry of Finance"
+    }
+}

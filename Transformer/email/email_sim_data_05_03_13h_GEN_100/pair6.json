@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Antivirus Patch: Version 4.3 – Maintenance Window",
+        "body": "Dear Employees,\n\nThe IT Security Team will deploy the latest version of our enterprise antivirus (Version 4.3) during the scheduled maintenance window from 10:30 PM to 12:30 AM IST tomorrow. This update includes critical security patches and performance improvements.\n\nWhat you need to know:\n- Your workstation may reboot automatically during the window.\n- Any open documents will be temporarily saved.\n- No action is required from you unless you encounter an error on startup.\n\nIf you notice any issue after the update, please open a Service Desk ticket (ticketing at <URL>). The IT team will resolve it within 24 hours.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    },
+    "spam": {
+        "subject": "!!! Immediate Action Required: Your CryptoRewards Account Has Been Suspended !!!",
+        "body": "Dear CryptoRewards User,\n\nWe have detected suspicious activity on your account that violates our Terms & Conditions. As a result, your account has been temporarily suspended to protect your assets.\n\nTo avoid permanent shutdown and to recover your pending rewards, you must verify your identity NOW. Failure to respond within 24 hours will result in loss of all unclaimed earnings.\n\nVerify your account by clicking the link below:\n<URL>\n\nThis is an official notice from the CryptoRewards Compliance Department. Do NOT ignore or delay.\n\nThank you for your immediate cooperation.\n\nSincerely,\nCryptoRewards Security Team"
+    }
+}

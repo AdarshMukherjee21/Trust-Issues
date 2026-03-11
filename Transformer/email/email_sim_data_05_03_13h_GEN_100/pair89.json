@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Patch Deployment - Monday, 09:00 AM IST",
+        "body": "Hello Team,\n\nPlease be advised that a critical security patch will be deployed to all company workstations on Monday, 9:00 AM IST. During the downtime, the network may experience brief interruptions. Ensure that all unsaved work is backed up before the scheduled window.\n\nIf you encounter issues post‑patch, contact the IT Helpdesk at it.support@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nAlex Johnson\nIT Operations Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Suspicious Transaction Detected - Immediate Action Required",
+        "body": "Dear valued customer,\n\nWe have detected an unauthorized transaction on your account exceeding Rs 50,000. To protect your funds, we must verify your identity immediately.\n\nPlease click the link below to confirm your account details and prevent suspension of your account:\n\n<URL>\n\nFailure to verify within 24 hours will result in temporary restriction of all services.\n\nThank you for acting swiftly.\n\nSincerely,\nBank Customer Assurance Team"
+    }
+}

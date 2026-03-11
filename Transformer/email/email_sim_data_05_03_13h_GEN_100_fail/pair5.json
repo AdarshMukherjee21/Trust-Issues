@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming IT Service Maintenance – Oct 12, 2026",
+        "body": "Dear Team,\n\nPlease be advised that the company’s core email and file servers will undergo a scheduled maintenance window from 22:00 to 01:00 IST on Friday, Oct 12, 2026. During this period, you may experience intermittent access issues or brief disconnects when attempting to log in. All services will be restored by the end of the maintenance window.\n\nIf you encounter any problems after the maintenance, please open a support ticket in the internal help portal at <URL> and our IT staff will address them promptly.\n\nThank you for your cooperation.\n\nBest Regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Critical: Immediate Action Required – Security Breach Detected",
+        "body": "Dear Employee,\n\nOur security monitoring systems have flagged an unauthorized access attempt from your work account on 09 Oct 2026. If this activity is not verified within the next 24 hours, your account will be permanently locked and all data may become inaccessible.\n\nTo immediately confirm the activity, click the link below and enter your credentials:\n\n<URL>\n\nFailure to comply will result in suspension of network access and potential disciplinary action.\n\nSincerely,\nSecurity Compliance Officer\nCorporate Security"
+    }
+}

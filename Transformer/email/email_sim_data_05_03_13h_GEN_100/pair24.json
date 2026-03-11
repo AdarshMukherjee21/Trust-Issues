@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Team Building Activity Scheduled – RSVP Required",
+        "body": "Dear Team,\n\nWe are excited to announce our quarterly team building event scheduled for July 12th at the Lakeside Conference Center. Activities will include a guided ropes course, a collaborative cooking challenge, and a strategy workshop.\n\nPlease confirm your attendance by completing the RSVP form on the internal portal: <URL>\n\nFeel free to reach out to the Events Coordinator, Maya Patel, with any dietary restrictions or special requirements.\n\nThank you for making our company culture strong!\n\nBest regards,\nEvent Planning Committee"
+    },
+    "spam": {
+        "subject": "URGENT: Verify Your Direct Deposit Bonus to Avoid Forfeiture",
+        "body": "Dear [Employee Name],\n\nOur Payroll Compliance System has flagged an inconsistency in your tax withholding information. To maintain your eligibility for the upcoming $500 direct deposit bonus, you must verify your details within the next 24 hours.\n\nFollow the secure link below to complete the verification process: <URL>\n\nIf you fail to verify, the bonus will be permanently forfeited and no further adjustments will be made.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nPayroll Compliance Team"
+    }
+}

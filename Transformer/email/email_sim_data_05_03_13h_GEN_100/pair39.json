@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Maintenance – HR Portal (Oct 22, 2026, 02:00‑04:00 UTC)",
+        "body": "Dear Colleagues,\n\nWe will be performing routine security updates on the HR portal and related services during the window of **02:00 – 04:00 UTC** on October 22, 2026. Please note:\n\n- The portal will be temporarily unavailable during this period.\n- All employee records will remain intact; no data will be lost.\n- Existing login sessions may need to be refreshed after maintenance.\n\nWe apologize for any inconvenience and appreciate your cooperation.\n\nIf you encounter issues once the service is back online, please contact the Help Desk at helpdesk@company.com.\n\nThank you,\n\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your AWS Management Console Access Will Be Revoked",
+        "body": "Hello,\n\nThis is an automated security alert from the AWS Security Team. Our systems have detected **multiple failed login attempts** from unrecognized IP addresses to your account ending in 7321. To prevent permanent shutdown of your AWS services, you **must confirm your identity within 30 minutes**.\n\nPlease review the recent activity and verify your account via the following link:\n\n<URL>\n\nFailure to complete verification will result in immediate suspension of all services, including any running instances, buckets, and databases. This action is mandatory to protect your cloud resources and personal data.\n\nIf you believe this is an error, contact AWS Support immediately.\n\nAWS Security Compliance"
+    }
+}
