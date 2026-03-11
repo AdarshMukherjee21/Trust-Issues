@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Script from "next/script"; // 1. Import the Script component
 import "./globals.css";
 
 const geistSans = Geist({
@@ -26,6 +27,13 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
+
+        {/* 2. Cloudflare Web Analytics */}
+        <Script
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon='{"token": "389b1f02eb394d52a99a5b43d6725cc9"}'
+          strategy="afterInteractive"
+        />
       </body>
     </html>
   );
