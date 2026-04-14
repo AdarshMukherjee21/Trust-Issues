@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective 1st June 2024",
+        "body": "Hi Team,\n\nWe hope you are doing well. As part of our continuous efforts to improve work‑life balance, the HR department has updated the Company Leave Policy. Please review the new guidelines attached to this email and note the following key changes:\n\n1. Annual Leave: 18 days from 1st June 2024, with a carry‑over limit of 5 days.\n2. Sick Leave: Increased to 12 days per calendar year, subject to medical certificate.\n3. Remote Work: Employees can now request up to 5 remote days per month.\n4. Maternity/Paternity Leave: Enhanced benefits and extended eligibility.\n\nThe updated policy will take effect from 1st June 2024. If you have any questions, please reach out to HR at hr@company.com or call 012-345-6789.\n\nThank you for your cooperation.\n\nBest regards,\nHR Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Zoom Meeting Invitation – Action Required",
+        "body": "Dear Team,\n\nWe have scheduled a critical Zoom meeting to discuss the upcoming project rollout. This meeting is mandatory for all project leads. Kripya join us at the following time:\n\nDate: 12th October 2024\nTime: 10:30 AM IST\n\nTo join the meeting, click the link below: <URL>\n\nMeeting ID: 123-456-7890\nPassword: ABC123\n\nIf you are unable to attend, please notify the manager immediately. Failure to attend may affect your project status.\n\nThank you for your prompt attention.\n\nBest,\nProject Lead Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹15,000 Debit from Your Account on 07/04/2026",
+        "body": "Dear Mr. Gupta,\n\nWe hope you are doing well. This is a notification from State Bank of India regarding a recent transaction on your account (Account No: 1234567890).\n\nDate: 07 Apr 2026\nDescription: ATM Withdrawal\nAmount: ₹15,000\nBalance after transaction: ₹85,000\n\nIf you did not authorize this transaction, please contact our customer care immediately at 1800-123-456 or visit the nearest branch.\n\nThank you for banking with us.\n\nSincerely,\nSBIN Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Overdue – Immediate Action Required",
+        "body": "Hello Ravi,\n\nI hope you are doing well. I am writing to inform you that an invoice from QuickBooks/Norton for the month of March 2026 is still pending payment. As per our records, the amount of ₹25,000 was due on 01/04/2026.\n\nPlease log in to your QuickBooks account at <URL> and submit the payment immediately to avoid any late fees or service interruptions. If you do not process this payment within 48 hours, your account will be suspended.\n\nFor your reference, here are the invoice details:\n\nInvoice No: QB-INV-2026-003\nDate Issued: 15 Mar 2026\nDue Date: 01 Apr 2026\nAmount: ₹25,000\n\nIf you have already paid, kindly send the payment receipt to this email. If you need assistance, reply to this message or call our support at 1800-987-654.\n\nThank you for your prompt attention to this matter.\n\nBest Regards,\n\nShalini Sharma\nAccounts Manager\nQuickBooks/Norton"
+    }
+}

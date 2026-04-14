@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rohan Sharma",
+        "body": "Hi Team,\n\nMain 10 May 2024 tak office se bahar hoon. Email check nahi kar paunga. Agar koi urgent kaam ho toh please direct contact karein Mr. Asha Devi, Finance Manager.\n\nThanks & see you soon.\n\nRegards,\nRohan"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your crypto wallet. As per regulatory compliance, your wallet has been temporarily suspended. To restore access, please verify your identity by clicking the link below:\n\n<URL>\n\nFailure to act within 24 hours may result in permanent lock and forfeiture of funds. Please do not ignore this message.\n\nThank you for your prompt attention.\n\nSincerely,\nSecurity Team\nGlobal Crypto Exchange"
+    }
+}

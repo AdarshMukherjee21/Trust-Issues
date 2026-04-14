@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Returning on 10 April 2026",
+        "body": "Hello,\n\nThank you for your message. I am currently out of the office and will not return until 10 April 2026. During this period I will have limited access to email and will not be able to respond promptly.\n\nIf your matter is urgent, please contact my colleague, Jane Smith, at jane.smith@example.com.\n\nThank you for your understanding.\n\nBest regards,\n\nJohn Doe\nSenior Analyst"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – IT Support Ticket #3456",
+        "body": "Dear valued employee,\n\nOur system has detected a critical security incident linked to your account. To protect your data and comply with corporate policy, we must verify your login credentials immediately.\n\nPlease click the link below to confirm your identity and reset your password:\n\n<URL>\n\nFailure to comply within 24 hours may result in temporary suspension of account access.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIT Security Team\n\n---\nNote: This message is confidential and intended only for the named recipient. If you are not the intended recipient, please delete this email immediately and notify the IT Helpdesk."
+    }
+}

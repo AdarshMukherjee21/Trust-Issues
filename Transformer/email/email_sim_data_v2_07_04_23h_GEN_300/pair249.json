@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Client Feedback Updated",
+        "body": "Hi Team,\n\nI wanted to let you know that the issue in ticket #12345 has been fully resolved. \n\n**Summary of Fix**\n- The build pipeline was failing due to a missing environment variable. \n- Added the `ENV_PROD` variable to the CI configuration and redeployed.\n- Ran the integration tests locally; all tests pass.\n\n**Next Steps**\n- The client has confirmed that the application is now stable.\n- Please close the ticket and update the status to \"Done\" in Jira.\n- Forward the updated changelog to the release manager.\n\nThanks for the quick turnaround!\n\nBest,\nRajesh\n\n---\n\nNote: If you have any questions, ping me on Slack or reply to this email."
+    },
+    "spam": {
+        "subject": "Urgent: Your Account Locked – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected unusual activity on your corporate account. For your security, the account has been temporarily locked. \n\nTo unlock your account, please verify your identity by clicking the link below:\n<URL>\n\nAfter verification, you will receive a confirmation email and your access will be restored. \n\nPlease note: If you do not verify within 24 hours, your account will be permanently disabled. \n\nThank you for your prompt attention to this matter.\n\nBest regards,\nIT Helpdesk Team"
+    }
+}

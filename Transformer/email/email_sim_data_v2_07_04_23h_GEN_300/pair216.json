@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – New Products & Exclusive Offers",
+        "body": "Hello Team,\n\nWe are excited to share this week’s highlights:\n\n- **New Product Launch**: Our latest smart thermostat now supports voice control.\n- **Customer Loyalty Program**: Earn double points on all purchases made before Friday.\n- **Upcoming Webinar**: Join us on Tuesday, 15th May, at 10:00 AM to learn about our sustainability initiatives.\n\nThank you for your continued support. Please feel free to reach out if you have any questions or feedback.\n\nBest regards,\nMarketing Operations\n\n---\nMarketing Operations Team\n1234 Innovation Drive\nCityville, ST 56789"
+    },
+    "spam": {
+        "subject": "Urgent: Your University Scholarship Application Requires Immediate Action",
+        "body": "Dear Applicant,\n\nThis is the University Scholarship Office at XYZ University. We have reviewed your scholarship application and are pleased to offer you a provisional award of $15,000. However, to confirm your enrollment, we require a processing fee of $150 to secure your place.\n\nPlease complete the payment by <URL> within 48 hours. Failure to do so will result in the automatic cancellation of your scholarship and your application will no longer be considered for the upcoming academic year.\n\nIf you have any questions, contact us immediately at scholarshipoffice@xyz.edu.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nDr. Jane Smith\nDirector, Scholarship Office\nXYZ University"
+    }
+}

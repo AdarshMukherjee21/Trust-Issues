@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th December",
+        "body": "Dear Student,\n\nThis is a friendly reminder that the deadline for the semester project submissions is on 15th December 2023. Please ensure that your final report and presentation slides are uploaded to the Course Management System by 5:00 PM on that day.\n\nKey points to remember:\n• The report should be no more than 12 pages, double‑spaced, with 1‑inch margins.\n• Include a bibliography in APA format.\n• Upload your PDF and the source files (Word or LaTeX) in the designated folder.\n\nIf you encounter any issues, contact the project coordinator, Ms. Laura Kim (l.kim@university.edu), or the teaching assistant, Mr. Ravi Patel (r.patel@university.edu).\n\nThank you for your cooperation."
+    },
+    "spam": {
+        "subject": "Urgent: Your Scholarship Application Requires Immediate Action",
+        "body": "Urgent: Your Scholarship Application Requires Immediate Action\n\nDear Applicant,\n\nWe are pleased to inform you that your application for the Distinguished Scholars Program has been shortlisted. However, our records indicate that the supporting documents you submitted are incomplete. To secure your scholarship, you must verify your personal details and upload the missing documents within 48 hours.\n\nFailure to comply will result in automatic forfeiture of your scholarship and possible suspension of your enrollment.\n\nPlease click the link below to verify your information:\n\n<URL>\n\nThis action is mandatory and must be completed by 12:00 PM on 30th November 2023.\n\nWe appreciate your cooperation.\n\nSincerely,\nScholarship Office\nCollege of Business & Economics\nDean: Dr. Alexander Thompson\nPhone: +1-555-123-4567"
+    }
+}

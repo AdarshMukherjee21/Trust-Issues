@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Hot Deals – Exclusive Offers Inside!",
+        "body": "Hello [Name],\n\nBhai/Bhaiya, \n\nAaj se shuru ho rahi hai hamari weekly shopping spree! \n\n• Pay 0.99% interest on credit cards for the next 30 days. \n• 20% off on all electronics – limited stock. \n• Buy 2 get 1 free on selected fashion items. \n• Free shipping on orders above ₹999.\n\nIn deals ko miss mat karna – they are valid till Sunday 11:59 PM. \n\nClick <URL> to explore and grab your favorites before they’re gone. \n\nThanks for being a valued customer. \n\nShukriya,\n\nTeam ShopZilla\n\nP.S. Agar aapke paas koi query ho, to humse 24/7 chat kar sakte hain. Happy shopping!"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet is Suspended – Immediate Action Required",
+        "body": "Hi [Name],\n\nNamaste! \n\nAapko yeh batate hue khushi ho rahi hai ki aapka crypto wallet (ID: 0xABC123) ab temporary suspend ho chuka hai. Yeh security audit ke part ke roop me liya gaya ek precautionary step hai. \n\nIs wallet ko re‑activate karne ke liye aapko apni identity verify karni hogi within 48 ghante. \n\nKripya neeche diye gaye link par click karein aur apni details confirm karein: <URL>.\n\nAgar aap 48 ghante ke andar comply nahi karte, to wallet permanently delete ho jayega aur saare funds freeze ho jayenge. \n\nYeh action regulatory authority dwara mandatory kiya gaya hai. \n\nThank you for your cooperation.\n\nBest regards,\n\n[Your Name]\nCompliance Officer\nCryptoSecure Ltd."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rahul Sharma",
+        "body": "Hi Team,\n\nI am currently out of the office and will return on 10th October. I will respond to your emails as soon as I am back.\n\nThank you for your understanding.\n\nBest,\nRahul\n"
+    },
+    "spam": {
+        "subject": "Urgent: HR Payroll Update – Immediate Action Required",
+        "body": "Dear Employee,\n\nNamaste! This is a confidential notification from the HR Department regarding a critical update to your payroll. Due to recent changes in the tax regulations and company policy, we need to verify your bank details and tax ID immediately.\n\nPlease click on the following link to confirm your information: <URL>.\n\nIf you do not complete this verification within 48 hours, your salary for the upcoming month may be withheld and you may incur penalties. The HR team is under strict directives to ensure compliance and protect the company's financial interests.\n\nFor any queries, reply to this email or contact the HR helpdesk directly at hrhelp@company.com.\n\nRegards,\nHR Operations Team\n"
+    }
+}

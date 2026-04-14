@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Company Leave Policy Effective May 1, 2024",
+        "body": "Dear Team,\n\nI hope this message finds you well. We have updated our company leave policy to provide more flexibility and support for our employees. Please review the key changes below:\n\n1. Additional Paid Holidays: Starting May 1, 2024, each employee will receive 4 extra paid holidays per year.\n2. Remote Work Days: Employees can now accrue up to 5 remote work days per month.\n3. Parental Leave: Maternity and paternity leave have been extended to 12 weeks each.\n4. Sick Leave Accrual: Sick leave will now be accrued at 1 day per 30 days of work.\n\nA detailed PDF of the new policy is attached for your reference. If you have any questions or need clarification, please reach out to HR at hr@company.com.\n\nThank you for your continued dedication and hard work.\n\nBest regards,\n\nRajesh Kumar\nHR Manager\n\nCompany Inc."
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #12345 Requires Immediate Action",
+        "body": "Hello [Employee Name],\n\nThis is an automated notification from the IT Helpdesk regarding your support ticket #12345. Our records indicate that the issue with your laptop's network connectivity has not been resolved and requires immediate attention.\n\nPlease click on the link below to verify your account details and confirm the ticket status. Failure to do so within 24 hours may result in temporary suspension of your network access.\n\n<URL>\n\nOnce verified, our technicians will schedule a repair session at your earliest convenience.\n\nThank you for your cooperation.\n\nBest,\n\nIT Support Team\n\n[Company Name] IT"
+    }
+}

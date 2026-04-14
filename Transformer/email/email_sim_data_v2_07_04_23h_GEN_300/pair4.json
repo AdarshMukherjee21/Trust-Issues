@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15 April",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the final semester project submission is due on **15 April 2026**. Please ensure that your project report and the accompanying presentation slides are uploaded to the course portal by 11:59 PM on the deadline day.\n\n**Submission Checklist**\n- Project report (PDF, max 10 MB)\n- Slide deck (PowerPoint, max 5 MB)\n- Source code archive (ZIP, max 20 MB)\n- README file with build/run instructions\n\nIf you have any questions or need clarification on the requirements, feel free to drop by my office hours tomorrow (Mon‑Wed 2:00‑3:30 PM) or send me an email.\n\nThank you for your hard work this semester. Looking forward to reviewing your projects!\n\nBest regards,\n\nProf. Elena Martinez\nDepartment of Computer Science\nUniversity of Midtown"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet has been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that **your CryptoWallet account (ID: 7X8C-9Z2K)** has been **suspended** due to suspicious activity detected on 12 April 2026. To restore access and prevent a permanent lock, you must complete the verification process within **24 hours**.\n\n**What you need to do:**\n1. Verify your identity by providing a copy of your government‑issued ID and a selfie.  \n2. Confirm the recent transaction details shown in the attachment.  \n3. Click the secure link below to upload the documents and complete the verification.\n\n**Secure Verification Link:** <URL>\n\nFailure to respond within the allotted time will result in a **permanent** suspension of your wallet, and any remaining funds will be frozen and inaccessible.\n\nIf you believe this is a mistake, please contact our support team immediately by replying to this email or calling 1‑800‑CRYPTO‑SEC. Do not ignore this message – your funds are at risk.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nCryptoWallet Security Team"
+    }
+}

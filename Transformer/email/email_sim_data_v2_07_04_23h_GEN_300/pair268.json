@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 3 Days Remaining",
+        "body": "Hi Team,\n\nJust a quick reminder that the semester project submission deadline is this Friday (May 25th). We need to have all deliverables submitted to the course portal by 5:00 PM. Please ensure your reports, code, and presentation slides are ready and uploaded before the deadline.\n\nIf you anticipate any issues meeting this timeline or need clarification on the submission requirements, feel free to reach out to me or the TA by Thursday afternoon.\n\nThanks for your hard work and dedication!\n\nBest regards,\nAlexandra Lee\nCourse Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks License Payment Required – Immediate Action Needed",
+        "body": "Dear Valued QuickBooks Customer,\n\nOur records indicate that your Norton license is due for renewal. QuickBooks has automatically generated an invoice for the outstanding balance. To ensure uninterrupted access to your software, please review and pay the invoice within the next 48 hours.\n\nClick <URL> to view your invoice details and complete the payment securely.\n\nFailure to settle the invoice by the due date will result in an automatic suspension of your Norton license, and you may lose access to critical security updates and support services.\n\nIf you believe this notification is in error, please contact our billing department immediately at <URL> and provide your account details.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

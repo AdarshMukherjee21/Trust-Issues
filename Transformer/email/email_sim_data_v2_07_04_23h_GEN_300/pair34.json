@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation #123-4567890-1234567",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon! Your order has been processed and is on its way.\n\nOrder Number: 123-4567890-1234567\nOrder Date: 21 April 2026\nItem(s):\n- 1 x Sony WH-1000XM4 Wireless Headphones – $299.99\n- 1 x Kindle Paperwhite – $139.99\n\nSubtotal: $439.98\nShipping: $0.00\nTotal: $439.98\n\nYour tracking number is: 1Z999AA10123456789. You can view the status of your shipment by clicking <URL>.\n\nIf you have any questions or need to make changes to your order, please contact our Customer Service.\n\nThank you for choosing Amazon!\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Immediate Action Needed",
+        "body": "Dear Valued QuickBooks Customer,\n\nWe have identified an outstanding invoice in your account that requires immediate attention. Failure to resolve this issue within 48 hours may result in suspension of your QuickBooks and Norton services.\n\nInvoice Details:\n• Invoice Number: QB-INV-20260407\n• Amount Due: $1,234.56\n• Due Date: 22 April 2026\n\nPlease verify your account and submit payment by clicking the link below:\n\n<URL>\n\nAfter payment, you will receive a confirmation receipt and your services will be reinstated.\n\nIf you have already paid, please ignore this message. Otherwise, act now to avoid service interruption.\n\nThank you for your prompt action.\n\nSincerely,\nQuickBooks Support Team"
+    }
+}

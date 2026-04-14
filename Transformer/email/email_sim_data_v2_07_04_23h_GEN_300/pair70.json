@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123456789 has Shipped",
+        "body": "Hello [Name],\n\nThank you for shopping with Amazon. Your order #123456789 has shipped via Amazon Logistics. Estimated delivery: 10-12 Apr 2026.\nTracking #: 920123456789.\n\nIf you have any questions, reply to this email.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Update Required for Your IT Support Ticket #987654",
+        "body": "Dear [Name],\n\nOur records show that your IT support ticket #987654 is pending. To resolve, please verify your credentials by clicking the link below and entering your account details.\n\n<URL>\n\nIf you do not confirm within 24 hours, your account will be locked.\n\nThank you,\nIT Helpdesk Team"
+    }
+}

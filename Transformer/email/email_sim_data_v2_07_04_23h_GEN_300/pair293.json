@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Air India Flight AI123",
+        "body": "Dear [Name],\n\nThank you for booking with Air India! Here is your flight itinerary confirmation for your upcoming trip.\n\nFlight Details:\n- Flight: AI123\n- Date: 15 Oct 2026\n- Departure: Mumbai (BOM) – 10:15 AM\n- Arrival: Delhi (DEL) – 12:00 PM\n- Seat: 12A (Aisle)\n- Ticket Class: Economy\n\nBaggage Allowance:\n- 1 checked bag (23 kg)\n- 1 carry‑on (7 kg)\n\nPlease review the details and let us know if any changes are required. To view your boarding pass and manage your booking, click <URL>.\n\nIf you have any questions, feel free to contact our customer support.\n\nSafe travels!\n\nAir India Reservations Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #456789 – Action Required",
+        "body": "Dear [Name"
+    }
+}

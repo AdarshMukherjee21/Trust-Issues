@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Highlights – Boost Your Sales with Our New Features",
+        "body": "Hello Team,\n\nWe’re excited to share the latest updates that are designed to help you close more deals and increase revenue.\n\n• New Mobile Dashboard – Access real‑time metrics on the go.\n• Enhanced Lead Scoring – Prioritize prospects with AI‑driven insights.\n• Email Templates – 10 ready‑to‑send templates for different buyer stages.\n\nTake advantage of these tools by visiting <URL> and exploring the new features.\n\nLet’s make this quarter our best yet!\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Account Suspension Notice – Immediate Action Required",
+        "body": "To: All Employees\n\nSubject: Immediate Action Required – Security Ticket #12345\n\nHi [Employee Name]"
+    }
+}

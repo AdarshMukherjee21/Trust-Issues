@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 – Issue Resolved: Missing Build Artifacts",
+        "body": "Hi Team,\n\nI'm writing to inform you that the issue reported in ticket #12345 regarding missing build artifacts has been resolved.\n\nRoot cause was a misconfigured CI pipeline that omitted the artifact upload step. The pipeline has been updated and re-run, and the artifacts are now available in the artifacts store.\n\nPlease verify by checking the artifacts in the latest build at <URL> and let me know if you encounter any further issues.\n\nThanks,\nAlice Johnson\nDevOps Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – IT Security Alert",
+        "body": "Dear Valued User,\n\nOur automated security system has detected suspicious activity on your account. Immediate action is required to prevent potential account lockout.\n\nPlease verify your login credentials by following the link below:\n<URL>\n\nFailure to comply within 24 hours may result in temporary suspension of your account. If you believe this is a mistake, reply to this email immediately.\n\nThank you for your prompt attention.\n\nSincerely,\nIT Security Team\nHelpdesk"
+    }
+}

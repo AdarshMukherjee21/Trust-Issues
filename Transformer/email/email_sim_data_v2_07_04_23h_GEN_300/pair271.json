@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance – Action Required",
+        "body": "Hello Team,\n\nThis is to inform you that the corporate VPN will undergo scheduled maintenance on 10th May 2026 from 02:00 AM to 04:00 AM IST. During this window, VPN services will be unavailable. Please ensure you have logged out of all VPN sessions before 01:50 AM to avoid any disruptions.\n\nSteps to prepare:\n- Verify that all critical work is saved.\n- Log out from the VPN client.\n- If you are on the corporate network, please note that remote access will not be possible.\n\nFor more details, click <URL>.\n\nThank you for your cooperation.\n\nRegards,\nIT Support"
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your Scholarship Award – Immediate Action Needed",
+        "body": "Dear Applicant,\n\nCongratulations! You have been selected for the prestigious National Merit Scholarship 2026. To claim your award, please verify your personal and financial details by clicking the link below. This is a mandatory step to process your scholarship and avoid missing the payment.\n\nClick here: <URL>\n\nPlease respond within 48 hours to secure your scholarship. Failure to comply will result in cancellation of your award.\n\nRegards,\nNational Scholarship Office"
+    }
+}

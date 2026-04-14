@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Newsletter – Special Offers Inside",
+        "body": "Hi there,\n\nIt's that time again – our weekly newsletter is here with the latest deals, top picks, and exclusive offers. Check out our new arrivals, enjoy 20% off on selected items, and get free shipping on orders over INR 2000. Stay tuned for more exciting updates.\n\nHappy shopping!\n\nBest,\nABC Retail Team"
+    },
+    "spam": {
+        "subject": "URGENT: Pay Your Missed Delivery Fee Immediately",
+        "body": "Dear Customer,\n\nWe regret to inform you that your FedEx package was not delivered due to a missing address. To avoid additional charges, please pay the missed delivery fee of INR 850 within 24 hours. Click <URL> to proceed. Failure to pay will result in cancellation.\n\nThank you,\nFedEx Customer Support"
+    }
+}

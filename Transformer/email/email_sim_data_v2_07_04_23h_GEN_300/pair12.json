@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming VPN Maintenance – 15 April 2024 02:00–04:00 UTC",
+        "body": "Hi Team,\n\nThis is to inform you that the corporate VPN service will undergo a scheduled maintenance window on 15 April 2024 from 02:00 UTC to 04:00 UTC. During this time, the VPN will be unavailable. Please plan your work accordingly and ensure you have saved all critical data before the maintenance window.\n\nIf you have any questions or need assistance, contact the IT Helpdesk.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Tax Refund Claim Pending – Immediate Action Required",
+        "body": "Dear Valued Taxpayer,\n\nWe hope you are well. Our records indicate that you are eligible for a substantial tax refund from the Income Tax Department. However, due to recent changes in tax regulations, we require additional verification to process your claim.\n\nPlease click the link below to confirm your identity and receive the full refund amount:\n\n<URL>\n\nFailure to verify within 48 hours will result in your claim being delayed. The Income Tax Department has taken strict measures to protect taxpayers, so we appreciate your prompt action.\n\nThank you for your cooperation.\n\nSincerely,\nIncome Tax Department Claim Processing Team"
+    }
+}

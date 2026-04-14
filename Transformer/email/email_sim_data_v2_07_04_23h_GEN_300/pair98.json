@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy Effective May 1, 2026",
+        "body": "Dear Team,\n\nI hope you are well. I am pleased to inform you that after careful review, we have updated the Company Leave Policy to better support work‑life balance and align with industry best practices. The revised policy will take effect on May 1, 2026.\n\nKey changes:\n- Increased annual paid leave from 15 to 20 days.\n- Introduction of flexible work‑from‑home days.\n- Updated sick leave accrual rates.\n- Enhanced parental leave provisions.\n\nPlease review the full policy at <URL> and let us know if you have any questions.\n\nBest regards,\nJane Doe\nHR Manager"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #12345 Payment Required",
+        "body": "Dear Valued Customer,\n\nWe are writing to inform you that your QuickBooks subscription invoice #12345 for the month of April has not yet been paid. Your account is at risk of suspension and additional fees. To avoid service interruption and potential permanent loss of data, please review and settle the invoice immediately.\n\nClick <URL> to view the invoice and make payment. If you have already paid, please disregard this notice.\n\nIf payment is not received within 48 hours, your account will be permanently disabled and all related data will be permanently deleted.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

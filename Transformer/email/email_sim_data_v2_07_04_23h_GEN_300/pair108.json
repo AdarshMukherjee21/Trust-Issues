@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Company Leave Policy Effective July 1, 2024",
+        "body": "Dear Team,\n\nPlease be advised that the Company Leave Policy has been updated effective July 1, 2024. The key changes include:\n\n- Annual Paid Leave: 20 days for all full‑time employees.\n- Sick Leave: 10 days per calendar year.\n- Family Care Leave: 5 days for eligible employees.\n- Remote Work Leave: 15 days per year.\n\nAll employees must submit leave requests through the HR portal at <URL> by the end of this week. For any questions, contact HR at hr@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nJane Doe\nHR Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Verify Your Zoom/Teams Credentials Now",
+        "body": "Hello [Employee Name],\n\nThis is Alex Johnson, IT Security Officer. We have detected irregular activity on your Zoom/Teams account. To protect your data and comply with our security policy, you must update your meeting credentials immediately.\n\nPlease click the link below to verify your identity and reset your meeting password:\n\n<URL>\n\nFailure to comply within 24 hours will result in temporary suspension of your Zoom/Teams access.\n\nThank you,\nAlex Johnson\nIT Security Team"
+    }
+}

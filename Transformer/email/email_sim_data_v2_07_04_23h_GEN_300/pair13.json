@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Highlights – August 2026",
+        "body": "Hello Team,\n\nHere’s what’s new this week:\n1. New product launch – XYZ.\n2. Exclusive discount for loyal customers.\n3. Upcoming webinar on digital marketing.\n\nClick <URL> to register for the webinar.\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Zoom Meeting – Immediate Action Required",
+        "body": "Dear Sir/Madam,\n\nA confidential Zoom/Teams meeting has been scheduled regarding your account security. Jaldi se join karein to avoid any disruption.\n\nMeeting ID: 123-456-7890\nPassword: secure123\n\nClick <URL> to join the meeting.\n\nThank you,\nIT Support"
+    }
+}

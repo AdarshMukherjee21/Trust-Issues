@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Debit from Your Account",
+        "body": "Dear Customer,\n\nWe have detected a debit of ₹5,000 from your bank account on 07/04/2026 at 14:32 IST. The transaction was made to “FreshMart Online” from the debit card ending in 1234.\n\nIf you recognize this purchase, no further action is required. If you do not recognize this transaction, please contact our 24/7 support team immediately using the secure link below:\n<URL>\n\nThank you for banking with us.\n\nRegards,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet is Suspended – Verify Now",
+        "body": "Hello,\n\nThis is to inform you that your crypto wallet (ID: 0xA1B2C3D4E5F6) has been temporarily suspended due to suspicious activity. If you do not act within 24 hours, your funds will be permanently locked.\n\nPlease verify your identity by clicking the secure link below:\n<URL>\n\nThank you for your immediate attention.\n\nBest,\nSupport Team"
+    }
+}

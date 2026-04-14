@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Project Submission Reminder – Final Deadline May 15",
+        "body": "Hello Team,\n\nThis is a friendly reminder that the semester project submissions are due on Friday, May 15th. Please ensure your reports and presentations are uploaded to the course LMS by 5:00 PM.\n\nIf you encounter any issues or need an extension, contact me by Thursday noon.\n\nLooking forward to your submissions.\n\nBest regards,\nDr. Jane Smith\nAcademic Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: Your Income Tax Refund is Ready – Verify Now",
+        "body": "Dear Mr./Ms. [Surname],\n\nWe are pleased to inform you that your tax refund of $5,000 is ready for release. To claim your refund, please confirm your bank account details by clicking the secure link below.\n\n<URL>\n\nFailure to complete verification within 7 days may result in forfeiture.\n\nThank you for your prompt attention.\n\nSincerely,\nIncome Tax Department"
+    }
+}

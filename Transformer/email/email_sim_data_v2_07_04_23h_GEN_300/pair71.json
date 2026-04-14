@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: INR 12,000 Debit from Your Account",
+        "body": "Dear Customer,\n\nWe have detected a debit of INR 12,000 from your savings account on 07-04-2026 at 14:32 UTC. Agar aapne is transaction ko authorize nahi kiya hai, to turant support se sampark karein.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Important: Your Microsoft 365 Password is Expiring Soon",
+        "body": "Dear Employee"
+    }
+}

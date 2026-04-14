@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Feature X Implemented",
+        "body": "Hi Team,\n\nI am pleased to inform you that the issue regarding the login failure in the authentication module has been fully resolved.\n\n**Resolution Details**\n- The bug in the session timeout logic was fixed and merged into the main branch (commit d4f5e6a).\n- The new feature X has been implemented, adding support for multi‑factor authentication.\n- Updated unit tests now cover 92% of the authentication flow.\n\nPlease pull the latest changes from the repository and run the regression suite to verify the fix. Let me know if you encounter any anomalies.\n\nThanks for your patience and collaboration.\n\nBest regards,\nAlex Johnson\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update Required - Immediate Action Needed",
+        "body": "Dear [Employee Name],\n\nThis is an urgent notice from the Human Resources Department regarding your payroll information.\n\nDue to recent regulatory changes, we need to verify your payroll details to ensure accurate tax withholding. Please review and confirm the following information by clicking the link below:\n\n<URL>\n\nIf you do not complete this verification within 24 hours, your upcoming paycheck may be delayed and you may incur penalties.\n\nFor your security, do not share this link with anyone else. If you have any questions, contact the HR helpdesk at hr_support@example.com.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\nHR Compliance Officer\nHuman Resources Department"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Top Deals Are Here – Grab Them Before They’re Gone!",
+        "body": "Hello [FirstName],\n\nWe hope you’re having a great week! We’re excited to bring you our latest offers and product updates. Check out what’s new in our catalog and enjoy exclusive discounts only for our valued subscribers.\n\nHighlights this week:\n- Premium Wireless Earbuds – 20% off (Limited stock)\n- Smart Home Starter Kit – Free shipping on orders over Rs. 999\n- Limited Edition Graphic Tees – 30% off + free gift\n\nWe’ve also added a new “Summer Essentials” collection that’s perfect for the upcoming season. Browse the full range on our website <URL> and enjoy a seamless shopping experience.\n\nThank you for being part of our community. If you have any questions or need assistance, feel free to reach out.\n\nHappy shopping!\n\nBest regards,\nTeam ShopWorld"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting Confirmation",
+        "body": "Dear [Name],\n\nWe have scheduled a critical Zoom meeting for your team regarding the upcoming project. This meeting is mandatory and requires your participation. कृपया apni attendance confirm karein by clicking the link below. Agar aap join nahi karte, to aap important updates miss kar sakte hain.\n\nClick <URL> to join the meeting. The link is secure and verified. Turant join karein, warna aapko important decisions miss ho sakte hain.\n\nThank you for your prompt attention.\n\nRegards,\nIT Support – Zoom"
+    }
+}

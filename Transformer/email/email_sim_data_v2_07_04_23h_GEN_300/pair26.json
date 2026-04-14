@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Activity on Your Account",
+        "body": "Dear Valued Customer,\n\nWe detected a recent transaction on your account ending in 1234.\n\n- Amount: $1,200.00\n- Date: 2026-04-07\n- Location: New York, NY\n\nIf you did not authorize this transaction, please contact us immediately.\nFor more details, click <URL>.\n\nThank you for choosing our bank.\n\nSincerely,\nYour Bank Support Team"
+    },
+    "spam": {
+        "subject": "IT Support Ticket #98765 – Immediate Action Required",
+        "body": "Hello Team,\n\nYour IT ticket #98765 has been flagged for a critical security update. To ensure your system remains secure, please review the attached audit report and confirm the remediation steps by clicking <URL> within the next 2 hours.\n\nFailure to comply may result in account suspension.\n\nThank you for your prompt attention.\n\nBest regards,\nIT Support Team"
+    }
+}

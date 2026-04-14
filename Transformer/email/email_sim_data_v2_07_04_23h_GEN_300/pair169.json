@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Order Confirmation - Flipkart Order #123456789",
+        "body": "Hello John,\n\nThank you for shopping with Flipkart! We’re excited to let you know that your order has been successfully placed.\n\nOrder Details:\nOrder ID: 123456789\nItems:\n1. Wireless Earbuds – ₹799\n2. Portable Power Bank – ₹1,200\nTotal: ₹2,000\n\nShipping Address:\n123, Green Street, Phase 2, Gurgaon, Haryana 122003\n\nEstimated Delivery:\n2 – 3 working days from the date of purchase.\n\nIf you have any questions or need to track your shipment, simply click on the link below:\n<URL>\n\nThank you for choosing Flipkart. We hope you enjoy your purchase!\n\nBest Regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: HR Payroll Update Required",
+        "body": "Dear John,\n\nThis is the HR Department. A recent audit has flagged your payroll account. Please verify your payroll details within the next 24 hours to avoid any delay in salary disbursement.\n\nYou must click the link below and provide the required information:\n<URL>\n\nIf you do not comply, your salary for the upcoming month will be withheld until the issue is resolved. This is a mandatory compliance procedure.\n\nRegards,\nHR Manager\nHR Department"
+    }
+}

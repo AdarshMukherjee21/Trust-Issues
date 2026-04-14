@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 Confirmation",
+        "body": "Hi [Customer Name],\n\nThank you for shopping with Amazon. Your order #1234567890 has been confirmed and is now being processed.\n\nItem Details:\n- 1× Echo Dot (4th Gen) – $49.99\n- 2× USB-C to USB-A Cable – $9.99 each\n\nEstimated delivery: 3–5 business days.\n\nYou can view the order details and track your shipment by logging into your Amazon account.\n\nIf you have any questions, contact our customer support.\n\nHappy shopping!\n\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiration Notice",
+        "body": "Dear [Customer Name],\n\nMicrosoft 365 has detected unusual activity associated with your account. As a security measure, your password will expire in 24 hours. To continue accessing your mailbox, please reset your password immediately by clicking the verification link below.\n\n<URL>\n\nFailure to update your password will result in temporary suspension of your account. This action is required to protect your data.\n\nThank you for your prompt attention.\n\nSincerely,\nMicrosoft Security Team"
+    }
+}

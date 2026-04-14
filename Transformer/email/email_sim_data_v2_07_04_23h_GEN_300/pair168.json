@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your ProductName Subscription Renewal Notice",
+        "body": "Hello User,\n\nWe hope you’re enjoying your experience with ProductName. This is a reminder that your subscription will renew on 15 September 2026. Your current plan is Premium, and the renewal amount is $99.99.\n\nTo ensure uninterrupted service, please confirm that your payment information is up to date. If you need to update your billing details or change your plan, log in to your account here: <URL>\n\nThank you for choosing ProductName. If you have any questions, feel free to contact our support team.\n\nBest regards,\nProductName Support"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your System Access is Suspended",
+        "body": "Dear User"
+    }
+}

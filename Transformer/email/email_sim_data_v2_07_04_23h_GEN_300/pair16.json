@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – New Deals Inside!",
+        "body": "Hi [Name],\n\nWe’re excited to share this week’s roundup of exclusive offers and product updates. From new features in our CRM platform to limited‑time discounts on our premium plans, we’ve got something for everyone.\n\nHighlights:\n- Launch of the new AI‑driven analytics dashboard – try it free for 30 days.\n- Upgrade to Enterprise plan now and get 20% off for the first 12 months.\n- Webinar: “Maximizing ROI with Data‑Driven Marketing” – register today.\n\nWe value your partnership and look forward to helping you achieve even greater success.\n\nBest regards,\nMarketing Team\nCompany Name"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Due – Action Required",
+        "body": "Dear Valued Customer,\n\nThis is an automated notification from QuickBooks. Your account has an outstanding invoice (Invoice #123456) for $1,234.56. If payment is not received within 7 days, your account will be suspended and you may lose access to your financial data.\n\nPlease log in to your QuickBooks portal to review and pay the invoice. Click the link below to verify your account details and complete payment.\n\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

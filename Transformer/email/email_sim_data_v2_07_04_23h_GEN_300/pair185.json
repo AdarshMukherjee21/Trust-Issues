@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flight Itinerary Confirmation – Flight AI 567",
+        "body": "Dear Mr. Kumar,\n\nWe are pleased to confirm your flight itinerary with SkyFly Airlines for your upcoming trip. Your flight details are as follows:\n\n- Flight Number: AI 567\n- Departure: 15th April 2026, 10:30 AM, Indira Gandhi International Airport (DEL)\n- Arrival: 15th April 2026, 2:45 PM, Kempegowda International Airport (BLR)\n- Seat: 12B, Economy\n- Baggage Allowance: 23 kg\n\nPlease review the itinerary and let us know if you have any questions. Your e-ticket has been attached in the PDF file. If you need to make any changes, contact our support team via the link below.\n\nThank you for choosing SkyFly Airlines. We wish you a pleasant journey!\n\nBest regards,\nSkyFly Customer Service"
+    },
+    "spam": {
+        "subject": "Congratulations! You have been awarded a Full Scholarship from XYZ University – Immediate Action Required",
+        "body": "Dear [Name],\n\nWe are delighted to inform you that you have been selected for a Full Scholarship for the Academic Year 2026-2027 at XYZ University. As part of the process, we require a nominal processing fee of ₹10,000 to complete your enrollment.\n\nPlease click <URL> and enter your details to confirm your acceptance. This is a time-sensitive offer and you must act within 48 hours. Failure to do so may result in forfeiture of your scholarship.\n\nIf you have any questions, call our office at +91-9876543210. We look forward to welcoming you to XYZ University.\n\nWarm regards,\nDr. A. B. Sharma\nScholarship Officer\nXYZ University"
+    }
+}

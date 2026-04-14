@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Highlights – April 2026",
+        "body": "Hello Team,\n\nWelcome to this week’s marketing newsletter. In this issue, we share insights on our latest campaigns, upcoming events, and key success metrics from the past month. Our new product launch has exceeded expectations, and we’re excited to celebrate the milestones with you.\n\nHighlights:\n- 15% increase in click‑through rates on the summer promotion.\n- Successful partnership with XYZ Corp, reaching 200,000 new users.\n- Upcoming webinar on brand storytelling – save the date!\n\nFor full details and to view the campaign assets, please click below:\n<URL>\n\nThank you for your continued dedication and creativity.\n\nBest regards,\nMarketing Department"
+    },
+    "spam": {
+        "subject": "Urgent: Verify Your Zoom Meeting Attendance Now",
+        "body": "Hi [Name],\n\nAccording to our records, a Zoom meeting has been scheduled for your account on [date] at [time]. Please confirm your attendance by clicking the link below within 24 hours to avoid your account being suspended.\n\nIf you do not respond, your Zoom account will be locked and all scheduled meetings will be canceled.\n\nClick here: <URL>\n\nThank you,\n\nZoom Security Team"
+    }
+}

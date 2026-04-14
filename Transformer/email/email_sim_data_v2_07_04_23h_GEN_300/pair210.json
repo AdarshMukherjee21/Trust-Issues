@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation – Flight 1234",
+        "body": "Dear Jane Doe,\n\nThank you for booking with SkyHigh Airlines. Please find below the details of your upcoming flight:\n\n• **Flight**: SH1234\n• **Departure**: New York (JFK) – 08:15 AM, 22 May 2026\n• **Arrival**: Los Angeles (LAX) – 11:45 AM, 22 May 2026\n• **Seat**: 12B (Aisle)\n• **Gate**: 18\n• **Check‑in**: 07:15 AM, 22 May 2026\n• **Baggage**: 1 carry‑on (max 7 kg) + 1 checked bag (max 23 kg)\n\nPlease arrive at the airport at least 2 hours before departure. For any changes to your booking, use the link below:\n<URL>\n\nWe look forward to welcoming you aboard.\n\nBest regards,\n\nSkyHigh Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Approval Pending – Immediate Action Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the 2026 Global Scholars Program has been shortlisted by the Office of the Dean at Prestigious University. You have been selected for a full scholarship worth $10,000, covering tuition, housing, and a stipend.\n\nTo finalize your award, we require immediate verification of your personal details. Failure to respond within 48 hours may result in your award being revoked.\n\nPlease click the link below to complete the verification process:\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nDr. Alan Thompson\nDean, Office of Student Affairs\nPrestigious University"
+    }
+}

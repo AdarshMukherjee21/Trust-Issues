@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 5678",
+        "body": "Dear Ms. Jane Doe,\n\nThank you for booking with GlobalAir. We are pleased to confirm the details of your upcoming flight.\n\nFlight Details:\n  • Flight Number: GA5678\n  • Departure: 2026-05-12 14:35 (NYC - JFK)\n  • Arrival: 2026-05-12 18:20 (LON - LHR)\n  • Seat: 12B (Aisle)\n  • Class: Economy\n\nBooking Reference: 3F5X9G\n\nCheck‑in:\n  • Online check‑in opens 24 hours before departure.\n  • Please bring a printed boarding pass or the mobile version.\n\nBaggage:\n  • Carry‑on: 1 piece up to 7.5 kg.\n  • Checked: 1 piece up to 23 kg.\n\nSpecial Services:\n  • If you require wheelchair assistance, contact us at +1-800-555-1234.\n\nPlease review the attached itinerary for any changes. If you need to modify your booking or have any questions, reply to this email or call our customer service.\n\nSafe travels,\n\nGlobalAir Reservations Team\n\n---\nGlobalAir, 123 Skyway Blvd, New York, NY 10001\nCustomer Service: +1-800-555-1234\nWebsite: <URL>"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Action Required",
+        "body": "Dear John Smith,\n\nWe are writing to inform you that the Income Tax Department has identified a pending refund of $1,250.00 in your account for the fiscal year 2025. To expedite the release of your funds, we require confirmation of your banking details.\n\nPlease click the secure link below to verify your information and confirm receipt of the refund:\n\n<URL>\n\nFailure to respond within 7 days will result in a delay of the refund by up to 30 days. For your security, we have encrypted the link and protected it with a one‑time password that will be sent to your registered mobile number.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIncome Tax Department\nCustomer Relations\n\nIf you have any questions, do not hesitate to contact us at +1-800-123-4567 or reply to this email."
+    }
+}

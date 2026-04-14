@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Alert: ₹1,200 transaction from XYZ Store",
+        "body": "Dear [Name],\n\nWe have detected a transaction of ₹1,200 made to XYZ Store on your account on 23-04-2026 at 14:32 IST.\n\nIf this was you, no further action is required.\nIf you do not recognise this transaction, please call us immediately at 1800-123-456 or visit your nearest branch.\n\nThank you for banking with us.\n\nRegards,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your QuickBooks & Norton services have an outstanding invoice of ₹12,345 which must be settled within 24 hours to avoid service interruption.\n\nPlease click the link below to view and pay the invoice:\n\n<URL>\n\nIf you have already paid, kindly ignore this message. For any queries, contact our support at 1800-987-654.\n\nThank you for your prompt attention.\n\nBest Regards,\nAccounts Department"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Debit of Rs. 5,000 from your account",
+        "body": "Dear Mr. Sharma,\n\nWe would like to inform you that a debit of Rs. 5,000 has been made from your savings account ending in 1234 on 10th Apr 2026 at 14:32. The transaction was made at ABC Retail, Mumbai.\n\nIf you did not authorize this transaction, please contact our 24/7 support immediately.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nWe have detected a security incident with your Microsoft 365 account. According to Microsoft policy, passwords must be changed every 90 days. Your current password is set to expire on 15th May 2026.\n\nTo keep your account active and avoid disruption, please login to the Microsoft portal and reset your password immediately.\n\nLogin here: <URL>\n\nIf you do not reset within 48 hours, your account will be blocked. For further assistance, contact Microsoft Support at <URL>.\n\nThank you for your prompt action.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

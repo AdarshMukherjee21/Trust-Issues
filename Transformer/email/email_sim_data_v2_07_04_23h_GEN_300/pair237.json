@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 1234",
+        "body": "Hi Rahul,\n\nThank you for booking with SkyBlue Airlines. Here are your flight details:\n\nFlight: SB1234\nDate: 15th April 2026\nDeparture: Delhi (DEL) at 09:30 AM\nArrival: Mumbai (BOM) at 12:15 PM\nSeat: 12B\nBaggage Allowance: 2 checked bags + 1 carry-on\n\nCheck-in opens at 06:00 AM, and boarding starts 45 minutes before departure. Please arrive at the airport at least 2 hours prior.\n\nIf you need to make changes or have any queries, reply to this email or call our 24/7 support at +91-123-456-7890.\n\nEnjoy your trip!\n\nBest regards,\nSkyBlue Airlines Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Immediate Action Needed",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your QuickBooks account has an outstanding invoice that needs to be settled urgently. Failure to make the payment within 48 hours may result in suspension of your account and loss of access to essential financial services.\n\nInvoice Details:\nInvoice No.: QB-56789\nAmount Due: INR 12500.00\nDue Date: 16th April 2026\n\nPlease click the link below to view and pay your invoice:\n<URL>\n\nFor your reference, the payment can be processed via Net Banking, Credit/Debit Card, or UPI. If you have already made the payment, kindly disregard this notice.\n\nIf you have any questions or concerns, reply to this email or call our support line at +91-987-654-3210. We appreciate your prompt attention to this matter.\n\nThank you,\nQuickBooks Billing Team"
+    }
+}

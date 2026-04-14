@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Reminder",
+        "body": "Hi [Name],\n\nWe hope you are enjoying our services. This is a reminder that your subscription to XYZ SaaS platform is set to renew on 15th April 2026. To ensure uninterrupted service, please review your plan and make payment.\n\nIf you have any questions, please contact our support team. Thank you for choosing XYZ.\n\nRegards,\nXYZ Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Gift Card Arrangement Required",
+        "body": "Dear Mr. Sharma,\n\nI hope you are doing well. I am writing to you with an urgent matter that requires your immediate attention. As you know, we have been collaborating with our clients and partners on a major project, and we have recently received a request from one of our key clients to receive a gift card as a token of appreciation.\n\nPlease arrange for a Rs. 10,000 gift card to be issued and delivered to our office by the end of today. Kindly confirm once the card has been processed. Agar koi delay hota hai, please let me know right away so that I can take necessary action.\n\nThank you for your cooperation.\n\nBest regards,\n[CEO's Name]"
+    }
+}

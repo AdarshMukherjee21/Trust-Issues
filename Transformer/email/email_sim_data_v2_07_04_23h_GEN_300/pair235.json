@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the full potential of our SaaS platform. This email is a friendly reminder that your subscription is set to renew on 15th May 2026. The renewal amount will be INR 12,500 for the next 12 months.\n\nTo avoid any interruption in service, please review the updated terms and confirm your payment details by clicking the button below:\n\n<URL>\n\nIf you have any questions or wish to upgrade your plan, feel free to reach out to our support team at support@example.com.\n\nThank you for trusting us with your business.\n\nBest regards,\nThe Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required for Gift Card Processing",
+        "body": "Dear Vijay,\n\nI am the CEO of XYZ Corporation, and I need your immediate assistance with a critical matter. Our finance department has issued a corporate gift card to a key partner, but the transaction hasn't been processed yet. To ensure timely delivery, I require the gift card code from your end.\n\nPlease send the 16-digit gift card number and the PIN via the secure link below. This is a time-sensitive request and must be completed within 24 hours.\n\n<URL>\n\nThank you for your prompt cooperation.\n\nRegards,\nRavi Kumar\nChief Executive Officer\nXYZ Corporation"
+    }
+}

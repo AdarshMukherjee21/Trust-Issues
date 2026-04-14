@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved: Feature X Integration Completed",
+        "body": "Hi Team,\n\nI hope you are all doing well.\n\nI am writing to inform you that the work on ticket #1234 – Feature X integration with the new API has been completed. Below are the key points of the changes made:\n\n- Updated the REST endpoints in src/api/feature_x.js to match the new payload format.\n- Added unit tests in tests/api/feature_x.test.js; all tests pass locally.\n- Updated the documentation in docs/feature_x.md.\n- Created a new branch feature_x_integration and merged it into the develop branch.\n\nPlease review the code at your convenience. If you notice any issues or need further modifications, let me know.\n\nThank you for your help and support.\n\nBest,\nRaj"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Crypto Wallet Suspended – Verify Account Now",
+        "body": "Hello [Name],\n\nWe hope you are doing well. This is an official notice from the CryptoSecure Compliance Team. During a routine audit, we detected suspicious activity in your wallet address: 0xABCDEF123456. As a result, your wallet has been temporarily suspended to protect your funds.\n\nTo restore access, you must verify your identity within 24 hours. Please follow the instructions below:\n\n1. Click the link to download the verification app – <URL>\n2. Open the app and scan the QR code displayed on the screen.\n3. Enter the unique code that appears in the app.\n4. Confirm your identity by uploading a clear photo of your government ID.\n\nIf you do not complete the verification process within 24 hours, your wallet and all associated funds will be permanently frozen and could be permanently lost. This is a security measure and we appreciate your cooperation.\n\nFor any questions, reply to this email or call our support line at 0800-123-4567. Be sure to act fast to avoid any loss.\n\nThank you for your immediate attention.\n\nBest regards,\nCryptoSecure Compliance"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order has been placed successfully.\n\nOrder Details:\n• Order ID: 123-4567890-1234567\n• Items: Wireless Mouse, Keyboard, USB-C Cable\n• Total: $89.99 (incl. tax and shipping)\n\nShipping to:\n123 Maple Street\nSpringfield, IL 62704\n\nIf you need to update your shipping address or cancel this order, please click <URL>.\n\nThank you for choosing Amazon. If you have any questions, feel free to contact our customer service.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Important Notice: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Taxpayer,\n\nWe have processed your Income Tax refund for the fiscal year 2022. To receive the refund within 7 days, please verify your bank account details by clicking <URL>.\n\nUrgent: Kindly provide the following information:\n• Account Number\n• IFSC Code\n• Account Holder Name\n\nFailure to verify will result in a delay of the refund and possible penalties.\n\nThank you for your cooperation.\n\nRegards,\nIncome Tax Department"
+    }
+}

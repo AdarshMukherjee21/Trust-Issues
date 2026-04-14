@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs. 5,000 Debit from ABC Store",
+        "body": "Dear Customer,\n\nWe have detected a transaction of Rs. 5,000.00 from your account ending 1234 on 07/04/2024 at 10:15 AM. The transaction was made at ABC Store in Mumbai.\n\nYadi aapne is transaction ko authorize nahi kiya hai, to turant hamse sampark karein. Please contact our support immediately at 1800-123-456 or reply to this email.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Your Zoom Meeting is Scheduled! Please Confirm",
+        "body": "Hi [Name],\n\nYour Zoom meeting titled 'Quarterly Review' is scheduled for tomorrow at 3:00 PM IST.\n\nJoin Link: <URL>\nMeeting ID: 123 456 7890\nPasscode: 123456\n\nPlease ensure you join on time. If you have any issues, click the link above.\n\nImportant: Please confirm your attendance by replying to this email.\n\nThanks,\nZoom Support"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline",
+        "body": "Hi Team,\n\nI hope you’re all doing well. This is a friendly reminder that the final submission for our semester project is due on **Friday, 15th May at 5:00 PM**. Please make sure to upload your reports and code to the shared folder on Google Drive before the deadline.\n\nIf you have any questions about formatting or need clarification on the deliverables, feel free to reach out to me or our teaching assistant. We’re also setting up a brief virtual review session on Thursday (14th May) at 3:00 PM to go over any last‑minute concerns.\n\nThank you for your hard work and dedication. Looking forward to seeing your final projects!\n\nShukriya,\n\nAnanya\n\nP.S. Attachments for the submission guidelines are in the drive link below.\n<URL>"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nWe have detected that your Microsoft 365 credentials are about to expire. To ensure uninterrupted access to your emails, OneDrive, Teams, and other corporate services, you must verify and reset your password **within the next 48 hours**.\n\nPlease click the link below to confirm your account details and create a new password:\n<URL>\n\nFailure to complete this step will result in a temporary lockout of your account. This security measure is mandatory as per company policy.\n\nIf you believe this notification is a mistake, immediately contact the IT helpdesk at ithelpdesk@example.com.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

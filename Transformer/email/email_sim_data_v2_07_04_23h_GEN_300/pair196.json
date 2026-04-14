@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Acme Cloud Subscription Renewal Reminder",
+        "body": "Dear Valued Customer,\n\nThank you for being a part of Acme Cloud. This is a friendly reminder that your SaaS subscription (Plan: Pro) will expire on 15 May 2026. To continue enjoying uninterrupted access to all features, please renew your subscription at your earliest convenience.\n\nClick <URL> to review pricing and renew. If you have any questions, feel free to contact our support team.\n\nThank you,\nAcme Cloud Team"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required – IT Helpdesk Ticket #4572",
+        "body": "Hello Team,\n\nWe have detected multiple failed login attempts on your account. As part of our security protocol, we have temporarily locked your account to protect your data. Please verify your identity and reset your password immediately.\n\nClick <URL> to complete the verification process. Failure to do so within 24 hours may result in permanent lockout.\n\nIf you did not initiate this request, please reply to this email or contact the IT helpdesk at helpdesk@company.com.\n\nThank you,\nIT Support Team"
+    }
+}

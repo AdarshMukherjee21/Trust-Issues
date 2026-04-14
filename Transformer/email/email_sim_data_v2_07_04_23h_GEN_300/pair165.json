@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Jira Issue Fixed",
+        "body": "Hi Team,\n\nI wanted to update you that the Jira ticket #12345 (Login page error) has been resolved. I fixed the null pointer exception in the AuthService module, committed the change to the 'develop' branch, and created a pull request (#9876) which is now merged into 'main'. The deployment to UAT has been successful; you can check the status at <URL>.\n\nAlso, I closed the related GitHub issue #45678 and merged the PR. If you need any further clarifications or want to review the diff, let me know.\n\nThanks,\nAnita Sharma\nSenior Developer\n\nDhanyavaad for your support!"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Confirmation Needed",
+        "body": "Dear Mr. Sharma,\n\nI hope you are doing well. I am writing to you on behalf of the CEO, Mr. Rajesh Kumar, regarding an urgent gift card requirement for our upcoming client meeting. The CEO has requested that we send a gift card worth INR 15,000 to Mr. Anil Mehta by tomorrow. Please confirm the details by replying to this email or by visiting the verification portal at <URL>.\n\nFailure to comply within 24 hours may result in a delay in the meeting schedule. Kindly treat this as top priority.\n\nThank you for your immediate cooperation.\n\nRegards,\nRajesh Kumar\nDirector of Operations"
+    }
+}

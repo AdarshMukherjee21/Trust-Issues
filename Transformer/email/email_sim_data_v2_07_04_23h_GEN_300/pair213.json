@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Corporate VPN Maintenance Notice – Scheduled Downtime",
+        "body": "Dear Team,\n\nWe would like to inform you that the corporate VPN will undergo a routine maintenance window to upgrade our security protocols. \n\n**Maintenance Window:**\n- **Start:** 02:00 AM IST (28th September 2024)\n- **End:** 04:00 AM IST (28th September 2024)\n\nDuring this period, VPN access will be **unavailable**. Please plan your work accordingly and ensure that any critical remote sessions are completed before the start time.\n\n**What to Expect**\n- All VPN connections will drop.\n- Local network resources (shared drives, intranet sites) will remain accessible.\n- After maintenance, the VPN will be back online with improved performance.\n\nIf you experience any issues post-maintenance, please contact the IT Helpdesk at <URL> or call extension 1234.\n\nThank you for your cooperation and understanding.\n\nBest Regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – FedEx Delivery Fee Pending",
+        "body": "Hello,\n\nThis is an automated message from FedEx Delivery Services. \n\nIt has come to our attention that a delivery you scheduled on 25th September 2024 has been **missed** due to an unpaid delivery fee of INR 250.00.\n\nTo avoid any further delay and to secure your shipment, please make the payment within the next 48 hours. Failure to do so will result in the shipment being permanently cancelled and the item returned to sender.\n\n**Account Details**\n- **Tracking Number:** 1Z9999W99999999999\n- **Amount Due:** INR 250.00\n\nPlease click the link below to complete the payment securely:\n\n<URL>\n\nThank you for your immediate attention to this matter.\n\nBest Regards,\nFedEx Delivery Services\nCustomer Support Team"
+    }
+}

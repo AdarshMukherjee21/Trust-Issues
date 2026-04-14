@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation - Order #123-4567890-1234567",
+        "body": "Hi John,\n\nThank you for shopping with Amazon! Your order has been received and is now being processed.\n\nOrder ID: 123-4567890-1234567\nOrder Total: $129.99\n\nItem(s):\n- \"Wireless Bluetooth Headphones\" – Qty: 1 – $79.99\n- \"Portable Charger 20000mAh\" – Qty: 1 – $49.99\n\nShipping Method: Standard Delivery (5-7 business days)\nShipping Address:\nJohn Doe\n123 Maple Street\nAnytown, NY 12345\n\nIf you need to modify your order, please log in to your Amazon account or reply to this email. For any questions, contact our Customer Support at <URL>.\n\nHappy Shopping!\n\n--\nAmazon Customer Service Team\n"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #987654 is Overdue – Immediate Action Required",
+        "body": "Dear Valued QuickBooks Customer,\n\nOur records indicate that your QuickBooks invoice #987654, dated 03/15/2026, remains unpaid. As a result, your QuickBooks Online services will be suspended in 48 hours.\n\nTo avoid interruption, please verify your account information and complete the payment within the next 24 hours. Failure to do so will result in a permanent suspension of your QuickBooks Online access.\n\nClick the button below to review and pay your invoice immediately:\n\n[Pay Now] <URL>\n\nIf you did not authorize this payment, or if you believe this is an error, please contact QuickBooks Support immediately at <URL>.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nQuickBooks Billing Team"
+    }
+}

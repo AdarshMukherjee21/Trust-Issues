@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Exclusive Deals Just for You!",
+        "body": "Hi there,\n\nThanks for being a loyal customer! In this week's newsletter, we bring you the best offers on electronics, fashion, and home appliances.\n\n- 30% off on all smartphones\n- Buy 1 Get 1 free on selected apparel\n- Free delivery on orders above ₹2000\n\nHurry, offers valid till Sunday, 31st May. Visit <URL> to shop now and enjoy these amazing discounts!\n\nStay tuned for more exciting deals every week.\n\nBest,\nThe Team"
+    },
+    "spam": {
+        "subject": "Important: Your 2023 Income Tax Refund is Pending - Immediate Action Required",
+        "body": "Dear [Name],\n\nI am Ravi Sharma from the Income Tax Department. During our recent audit, we identified that your 2023 tax return has not been processed due to missing verification documents. To avoid your refund being withheld, please verify your bank account details at the earliest.\n\nClick <URL> and fill the secure form. Failure to comply within 48 hours will result in your refund being permanently blocked.\n\nThank you for your prompt cooperation.\n\nBest Regards,\nRavi Sharma\nIncome Tax Department"
+    }
+}

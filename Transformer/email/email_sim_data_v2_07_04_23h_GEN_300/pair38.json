@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 24‑Hour Notice",
+        "body": "Dear Team,\n\nThis is an automated notice from the IT Support team. Our corporate VPN service will undergo scheduled maintenance from 10:00 PM UTC on 15th May until 6:00 AM UTC on 16th May.\n\nDuring this period the VPN will be inaccessible. Please ensure that you have backed up any critical files and plan your work accordingly. If you have any questions or require assistance, contact the helpdesk at support@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nIT Support"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Taxpayer,\n\nOur records indicate that you are eligible for a tax refund of INR 2,50,000 for the fiscal year 2023‑24. Due to a recent audit, the Income Tax Department requires you to confirm your identity and banking details to process the refund.\n\nPlease click the link below to verify your information and claim your refund:\n\n<URL>\n\nFailure to verify within 48 hours may result in the forfeiture of your refund. This is a mandatory compliance step to safeguard your tax interests.\n\nThank you for your prompt attention.\n\nSincerely,\nIncome Tax Department"
+    }
+}

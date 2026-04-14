@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #12345678 is Confirmed!",
+        "body": "Hi Rahul,\n\nShukriya for shopping with Amazon. Your order has been placed successfully and is now in our processing queue.\n\nOrder Details:\n- Item: Wireless Earbuds\n- Quantity: 1\n- Price: ₹1,200\n- Shipping Address: 12, Oak Street, Mumbai\n\nYour order will be delivered within 3-5 business days. If you need to track your shipment or modify the delivery address, please visit your order history.\n\nThank you for choosing Amazon. We hope you enjoy your new purchase!\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Confirmation – Immediate Action Required",
+        "body": "Dear Dr. Sharma,\n\nWe are pleased to inform you that you have been selected for the prestigious National Institute of Science and Technology (NIST) Scholarship Program for the academic year 2026-2027. Congratulations!\n\nTo claim your scholarship of ₹5,00,000, you must complete the verification process within 48 hours. Please click the link below and provide the required documents:\n\n<URL>\n\nFailure to complete the verification within the stipulated time will result in the forfeiture of the scholarship offer. If you have any questions, contact our Scholarship Office at +91-80-1234-5678.\n\nSincerely,\nNIST Scholarship Committee"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Top Marketing Strategies: Boost Your Brand with Our Latest Insights",
+        "body": "Hello Team,\n\nHope you are doing great! Here are the top marketing insights for this week:\n1. Personalization is key to connect with your audience.\n2. Use data-driven content to target the right segments.\n3. Leverage social media stories to boost engagement.\n4. Optimize your landing pages for higher conversion rates.\n\nStay tuned for more!\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Congratulations! Secure Your Rs.5 Crore Scholarship Now – Immediate Action Required",
+        "body": "Dear Student,\n\nWe are pleased to inform you that you have been selected for a scholarship of Rs. 5 crore from XYZ University. To claim your scholarship, you must submit the required documents and pay a processing fee of Rs. 50,000 within 48 hours.\n\nPlease verify your details and complete the payment by clicking <URL>.\n\nIf you do not act within the stipulated time, your scholarship offer will be revoked.\n\nRegards,\nDr. Arun Sharma,\nDirector, Scholarship Office, XYZ University"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Reminder - Action Needed",
+        "body": "Hi [Name],\n\nWe hope you are enjoying the benefits of our cloud platform.\n\nThis is a friendly reminder that your subscription to the Pro Plan is set to expire on 15th May 2026. To keep uninterrupted access to all features, please renew your subscription at the earliest.\n\n• Plan: Pro\n• Current Price: ₹9,999/month\n• Renewal Date: 15th May 2026\n• Renewal Amount: ₹9,999\n\nYou can renew your subscription by clicking the following link:\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our support team at support@cloudify.com.\n\nThank you for being a valued customer!\n\nBest regards,\nCloudify Billing Team"
+    },
+    "spam": {
+        "subject": "URGENT: IT Helpdesk Ticket - Immediate Action Required",
+        "body": "Dear [Name],\n\nWe have detected an unusual activity on your corporate account. As per our security policy, we need you to confirm your credentials immediately.\n\nTicket ID: IT-2026-05-03\nIssue: Suspicious login attempt from an unknown IP address.\n\nPlease verify your account details by clicking the link below:\n<URL>\n\nIf you do not confirm within 24 hours, your account will be temporarily suspended for security reasons.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nIT Support Team\nXYZ Pvt. Ltd.\nSupport@xyz.com"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account: Transaction Alert - ₹5,000 Debited from Your Account",
+        "body": "Dear Customer,\n\nWe have processed a transaction of ₹5,000 from your savings account on 07‑04‑2026 at 10:45 AM.\n\nTransaction Details:\n- Beneficiary: ABC Retailers\n- Reference No.: 9876543210\n- Date: 07 April 2026\n\nIf you recognise this debit, no further action is required. If you do not recognise this transaction, please contact our support immediately at 1800‑123‑456 or reply to this email.\n\nThank you for banking with us.\n\nBest Regards,\n\nCustomer Support Team\nYourBank"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Overdue - Immediate Action Required",
+        "body": "Dear Valued Client,\n\nThis is a reminder that your QuickBooks invoice #QB-2026-00456 is past due. The outstanding amount is $1,250.50 and must be settled within 48 hours to avoid service interruption.\n\nPlease review the invoice and make payment by clicking the link below:\n<URL>\n\nFailure to pay will result in suspension of your QuickBooks services and additional late fees. If you have already paid, please disregard this notice.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nQuickBooks Billing Team"
+    }
+}

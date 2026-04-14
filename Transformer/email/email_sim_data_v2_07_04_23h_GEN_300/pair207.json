@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice - Action Required",
+        "body": "Hello Team,\n\nThis is a friendly reminder that your subscription to XYZ SaaS platform is set to renew on 30th April 2026. Please review the renewal details below:\n\n• Plan: Premium Plus\n• Amount: INR 15,000 per month\n• Renewal Date: 30-Apr-2026\n\nTo continue uninterrupted service, simply log in to your account and confirm the renewal. If you would like to make any changes to your plan or billing information, please do so before the renewal date.\n\nAccess your account here: <URL>\n\nIf you have any questions, feel free to reach out to our support team at support@xyzsaas.com.\n\nThank you for choosing XYZ SaaS. We appreciate your continued partnership.\n\nBest regards,\nXYZ SaaS Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Gift Card Request from CEO",
+        "body": "Dear Sir/Madam,\n\nI am writing to you in my capacity as the CEO of ABC Corp. Due to an urgent corporate event, I need to issue a gift card to our top performer. However, our internal system is down and I am unable to process the request through the usual channels.\n\nPlease send an INR 5,000 gift card to the following account details:\n\n• Name: Raj Patel\n• Bank: State Bank of India\n• Account Number: 1234567890\n• IFSC: SBIN0001234\n\nTime is of the essence. If the gift card is not processed within the next 3 hours, the employee’s performance bonus will be at risk. To expedite, simply click the link below to confirm the transaction:\n\n<URL>\n\nYour prompt action will be greatly appreciated and will ensure that our employee receives the deserved recognition on time.\n\nThank you for your cooperation.\n\nBest regards,\nRajesh Kumar\nCEO, ABC Corp"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Account Activity Alert: Recent Transaction",
+        "body": "Dear Customer,\n\nWe are writing to inform you of a recent transaction on your account.\n\n**Transaction Details**\n• Date & Time: 2026-04-07 14:32:07 UTC\n• Amount: $1,250.00\n• Merchant: TechGear Electronics\n• Location: 1425 Market St., San Francisco, CA\n\nIf you recognize this transaction, no further action is required. If you do not recognize this activity, please contact our support team immediately at <URL> or call 1-800-555-1234.\n\nThank you for banking with us.\n\nSincerely,\nThe Customer Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiration Notice",
+        "body": "Hello,\n\nThis is an automated notice from Microsoft 365 Security. Your account password is set to expire in 48 hours. Failure to update your password will result in temporary suspension of access to your Microsoft 365 services.\n\nPlease log in now to verify and reset your password. Click the link below to proceed:\n<URL>\n\nWe appreciate your prompt attention to this matter.\n\nRegards,\nMicrosoft 365 Security Team"
+    }
+}

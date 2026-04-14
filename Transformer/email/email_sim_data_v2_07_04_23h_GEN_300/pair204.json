@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Withdrawal from Your Account",
+        "body": "Dear Valued Customer,\n\nWe would like to inform you that a withdrawal of $250.00 was made from your checking account on 2026-04-07 at 09:45 AM. The transaction reference number is 123456789. If you did not authorize this transaction, please contact our customer service immediately at <URL>.\n\nThank you for banking with us.\n\nSincerely,\nYour Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase",
+        "body": "Dear [Employee Name],\n\nI hope you are doing well. I need to urgently request your assistance in purchasing a $50 Amazon gift card for me. This is a time-sensitive matter, and I need the card sent to me by the end of the day.\n\nPlease use the following link to complete the purchase: <URL> and confirm when you have done so.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

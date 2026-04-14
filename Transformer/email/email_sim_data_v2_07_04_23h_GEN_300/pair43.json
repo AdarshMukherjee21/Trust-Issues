@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update - New Products & Offers Inside",
+        "body": "Hi Team,\n\nHere’s your weekly update on our latest products and exclusive offers just for you.\n\n1. New Arrival: Ultra‑Comfort Chair – 20% off this week only.\n2. Top Rated: Smart LED Lamp – buy 1 get 1 free.\n3. Customer Spotlight: See how our users are transforming their spaces.\n\nTo claim these deals, visit <URL> and use code WEEKLY20.\n\nThank you for being part of our community!\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Account Suspended - Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet account has been temporarily suspended due to suspicious activity. To avoid permanent suspension, you must verify your identity within 24 hours.\n\nPlease click on the link below to confirm your details:\n<URL>\n\nFailure to act will result in loss of access to your funds.\n\nRegards,\nWallet Support Team"
+    }
+}

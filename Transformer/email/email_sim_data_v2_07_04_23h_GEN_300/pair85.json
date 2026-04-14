@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal Confirmation",
+        "body": "Hello [Name],\n\nThank you for being a valued XYZ customer. We are pleased to inform you that your subscription plan has been successfully renewed for another year, effective from 1 April 2026. Your account details remain unchanged, and you can continue accessing all features without interruption.\n\nIf you wish to review your subscription details or update billing information, simply log in to your account at <URL>. For any assistance, our support team is available 24/7 at support@xyz.com or via the live chat on the website.\n\nWe appreciate your continued trust in XYZ. Happy working!\n\nBest regards,\nXYZ Sales Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update Notice",
+        "body": "Dear [Name],\n\nWe hope you are doing well. This is an urgent notification from the HR Department regarding your payroll update for the month of March. As per our records, your bank account details have not been verified for the last salary cycle. Please confirm your bank details within 48 hours to avoid any delay.\n\nTo verify, click here <URL> and enter the confirmation code we will send you. If you do not act within the given timeframe, your salary will be withheld.\n\nIf you have any questions, contact HR at hr@company.com.\n\nThank you for your prompt attention.\n\nRegards,\nHR Department\nCompany Name"
+    }
+}

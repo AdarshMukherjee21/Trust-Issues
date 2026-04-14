@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #12345",
+        "body": "Hello Arjun,\n\nThank you for booking with Air India. Yahan aapke flight ke details hain:\n\n• Flight Number: AI 102\n• Departure: New Delhi (DEL) – 12:15 PM, 20 Oct 2024\n• Arrival: Mumbai (BOM) – 3:55 PM, 20 Oct 2024\n• Seat: 12B (Window)\n• Baggage: 1 checked bag (23 kg) + 1 carry‑on\n• Ticket Class: Business\n\nPlease find the attached itinerary and boarding pass. Agar aapko koi changes karne hain, to hamare customer care se 1800-123-456 par call karein ya neeche ke button par click karein.\n\nThank you for choosing Air India. Wishing you a pleasant journey!\n\nBest regards,\nAir India Reservations Team\n\n<URL>"
+    },
+    "spam": {
+        "subject": "URGENT: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Priya,\n\nAapke Microsoft 365 account ke password 48 ghante mein expire ho jayega. Kripya turant reset karein, varna aapko access khone ka khatra hai.\n\nPassword reset karne ke liye yahan click karein:\n\n<URL>\n\nAgar aap 48 ghante ke andar action nahi liya, to aapka account lock ho jayega aur aap important documents nahi dekh paayenge.\n\nThank you for your immediate attention.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

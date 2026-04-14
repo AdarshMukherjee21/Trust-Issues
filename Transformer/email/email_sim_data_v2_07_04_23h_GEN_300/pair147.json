@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Deployment to Production Completed",
+        "body": "Hi Team,\n\nJust a quick update on the Jira ticket #12345 that was opened last week regarding the bug in the payment gateway integration.\n\nAfter thorough testing in the staging environment, the issue has been fixed and the patch has been merged into the main branch. I have also created a pull request in GitHub (PR #9876) which correlates with this Jira ticket.\n\nDeployment to production is scheduled for tomorrow at 02:00 AM IST. Please ensure that the deployment window is clear and that the rollback plan is ready just in case.\n\nThanks for the prompt support and for prioritizing this fix.\n\nBest,\nAnjali Sharma\nDevOps Lead\n\n---\n\nCompany: FinTech Solutions Pvt Ltd\nAddress: 12, Tech Avenue, Bangalore 560001\nPhone: +91-80-1234-5678"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Overdue – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your QuickBooks account has an outstanding invoice that remains unpaid for over 60 days. As per our records, the amount due is ₹75,000.00 and the invoice number is QB-INV-2026-08.\n\nIf payment is not received within the next 48 hours, your account will be suspended and all your documents will be locked. This action is in compliance with QuickBooks' Terms of Service.\n\nTo avoid any disruption, please log into your QuickBooks account and complete the payment by clicking the link below:\n\n<URL>\n\nIf you believe this is an error, or if you have already made the payment, please contact our support team immediately at support@quickbooks.com or call +91-80-9876-5432.\n\nThank you for your immediate attention to this matter.\n\nRegards,\nQuickBooks Billing Department\n\n---\n\nQuickBooks\n\nNote: This email is automatically generated, please do not reply."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "JIRA-7890 Resolved – Merge Request #345 Completed",
+        "body": "Hi Team,\n\nI’m pleased to inform you that the issue documented in JIRA ticket JIRA-7890 has been successfully resolved.\n\n**Resolution Details**\n- Merge Request: GitHub #345\n- Branch: feature/payment-integration\n- Commit Hash: a1b2c3d4\n- Deployment: Master branch verified, pipeline passed.\n\nPlease review the changes in the repository and confirm that the new payment flow behaves as expected. If you discover any regressions or edge cases, let me know and I’ll address them promptly.\n\nThank you for your collaboration!\n\nBest regards,\nAlex Martinez\nSoftware Engineer\nAcme Corp."
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #123456 Overdue – Pay Now",
+        "body": "Dear Valued QuickBooks Customer,\n\nOur billing system has flagged an outstanding balance on your account. Invoice #123456 for the period of July 2023 remains unpaid. If the payment is not received within 48 hours, QuickBooks access will be suspended and legal action may be pursued.\n\nTo avoid disruption, please verify your account details and complete the payment immediately by clicking the secure link below:\n\n<URL>\n\nIf you have already processed this invoice, please disregard this notice. Otherwise, your prompt action is essential to maintain uninterrupted service.\n\nThank you for your immediate cooperation.\n\nSincerely,\nQuickBooks Billing Team\nSupport Center"
+    }
+}

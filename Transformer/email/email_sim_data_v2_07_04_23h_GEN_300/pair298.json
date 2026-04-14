@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Update – This Week’s Highlights",
+        "body": "Hi Team,\n\nHere is your weekly marketing newsletter with the latest campaign performance, upcoming events, and a few quick tips for the next quarter.\n\nCampaign Highlights:\n- Social Media Launch: 25% increase in engagement.\n- Email Campaign: 18% open rate, 4% click-through.\n- Upcoming Webinar: 150 registrations.\n\nQuick Tips:\n- Use dynamic content to boost click rates.\n- Segment your lists for personalized messages.\n- Test subject lines A/B testing.\n\nThank you for your hard work. Let’s keep the momentum going!\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – CEO Gift Card Request",
+        "body": "Dear [Name],\n\nI hope you are doing well. I am writing to urgently request the purchase of a $250 gift card for the upcoming executive retreat scheduled for next Friday. This is a critical expense that needs to be processed at your earliest convenience.\n\nPlease use the following secure link to complete the transaction: <URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nJohn Doe\nChief Executive Officer"
+    }
+}

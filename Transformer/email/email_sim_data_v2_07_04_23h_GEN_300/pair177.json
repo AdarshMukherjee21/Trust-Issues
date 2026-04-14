@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hi Pratik,\n\nWe hope you are enjoying the features of our SaaS platform. This email is to inform you that your current subscription plan is set to renew on 15th May 2026.\n\nPlan Details:\n• Plan: Premium Plus\n• Amount: ₹1,200 per month\n• Billing Cycle: Monthly\n\nPlease review your account settings and confirm the renewal preferences. If you wish to change the plan or update your payment method, you can do so in your account dashboard.\n\nIf no action is taken, the renewal will proceed automatically on 15th May and the service will continue uninterrupted.\n\nThank you for choosing our platform. Let us know if you have any questions.\n\nBest regards,\nCustomer Success Team\n[Company Name]\n"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice #QBI-56789 Requires Immediate Payment",
+        "body": "Dear Pratik,\n\nWe have detected an outstanding invoice for your QuickBooks subscription. The invoice amount is ₹9,999 and it is overdue by 3 days.\n\nTo avoid interruption of your accounting services, please complete the payment within the next 48 hours. Failure to do so may result in suspension of your QuickBooks account and loss of access to critical financial data.\n\nSecure Payment Link: <URL>\n\nIf you believe this is a mistake or have already paid, please reply to this email with your transaction reference number.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nQuickBooks Billing Support\n"
+    }
+}

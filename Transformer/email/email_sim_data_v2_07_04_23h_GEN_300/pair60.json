@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Daily Account Summary – $1,234.56 Transaction",
+        "body": "Dear John,\n\nThis is a notification from your Financial Services Team regarding a recent transaction on your account.\n\n• Date: 07/04/2026\n• Transaction ID: TXN-20260407-001\n• Amount: $1,234.56\n• Description: Purchase at \"Tech Gear Outlet\"\n\nYour available balance is now $5,678.90. Please review the details above and let us know if you notice any discrepancies.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support Team\nFinance Corp."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear John,\n\nWe have detected an issue with your payroll processing for the current month. To avoid a delay in your salary, you must confirm your account details within the next 24 hours.\n\nPlease click the link below to verify your information:\n<URL>\n\nIf you do not complete this verification, your next paycheck may be withheld. This is a security measure required by our new compliance policy.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nPayroll Administration\nHR Department"
+    }
+}

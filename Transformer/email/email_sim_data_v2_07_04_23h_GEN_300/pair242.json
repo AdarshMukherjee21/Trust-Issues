@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Please Review & Merge",
+        "body": "Hi Team,\n\nI am pleased to inform you that the issue reported in Jira ticket #12345 has been resolved. The underlying bug in the authentication module was fixed, and all regression tests are passing. Please review the changes in the repository <URL> and merge pull request #6789.\n\nOnce merged, the ticket can be closed. If you have any questions, feel free to reach out.\n\nThanks,\n[Developer Name]\n[Company]"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Delivery Fee is Overdue – Pay Immediately",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent FedEx delivery was marked as missed, and a delivery fee of $75.00 has been applied to your account. If this fee is not paid within 48 hours, your account will be suspended and the shipment will be returned to the sender. To avoid any inconvenience, please log in to your FedEx account <URL> and confirm your payment details.\n\nFailure to comply will result in additional charges and potential legal action. This is an official notification from FedEx Customer Support.\n\nThank you,\nFedEx Customer Support Team"
+    }
+}

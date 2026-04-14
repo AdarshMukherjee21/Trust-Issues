@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission – Deadline 30th September",
+        "body": "Dear Students,\n\nI hope you are all doing well. This is a friendly reminder that the semester project for the course CS-210 (Data Structures) is due on 30th September 2026, Friday, at 10:00 AM.\n\nPlease ensure that you submit your final report through the university portal no later than the deadline. Late submissions will incur a 10% penalty unless prior arrangement is made with the TA.\n\nIf you have any questions or need clarification, feel free to reach out to me or the TA, Mr. Rajesh Kumar, via email at rajesh.kumar@university.edu.\n\nGood luck with your projects!\n\nWarm regards,\nProf. Anil Sharma\nCourse Coordinator, CS-210"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Hi Team,\n\nI hope you are doing well. This is an important notice from the HR Department regarding your upcoming salary disbursement.\n\nDue to a recent update in our payroll system, we need you to verify your bank account details before the next salary release scheduled for 15th September 2026. Please click on the link below and submit your updated information within 24 hours to avoid any delay in payment.\n\n<URL>\n\nIf you do not complete the verification, your salary for the month may be withheld until the issue is resolved.\n\nPlease treat this as a top priority and respond at your earliest convenience.\n\nThank you for your cooperation.\n\nBest regards,\nHR Team"
+    }
+}

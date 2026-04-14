@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – #123-4567890-1234567",
+        "body": "Dear Customer,\n\nThank you for shopping with Amazon! Your order #123-4567890-1234567 has been placed and is now being processed. Here are the details of your purchase:\n\n- Echo Dot (4th Gen) – Quantity: 1 – $49.99\n- Fire TV Stick – Quantity: 2 – $29.99 each\n\nShipping Address:\n123 Main Street\nSpringfield, IL 62704\n\nEstimated delivery date: 10‑12 days after purchase. Once the item ships, you will receive another email with a tracking number. If you would like to track your shipment, visit <URL> and log in to your Amazon account.\n\nIf you did not place this order or suspect fraudulent activity, please contact our Customer Service immediately by replying to this email or calling 1‑800‑XXX‑XXXX.\n\nThank you for choosing Amazon.\n\nSincerely,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – CEO Gift Card Purchase",
+        "body": "Dear Team,\n\nI hope this message finds you well. I am writing to urgently request that you purchase a $200 Amazon gift card on my behalf and forward the card details to the corporate finance department by the end of the day. This is part of a contingency plan for a sudden cash flow requirement.\n\nPlease follow the instructions below:\n\n1. Go to <URL> (the official Amazon site) and select “Gift Cards” → “$200” → “Send to Self”.\n2. Enter my corporate email address: ceo@company.com and specify that the gift card is for “urgent corporate use”.\n3. Once you receive the confirmation email, forward the entire email and the card code to finance@company.com.\n\nThis is a time‑critical request. Any delay could jeopardize the company’s finances.\n\nThank you for your prompt assistance.\n\nBest regards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

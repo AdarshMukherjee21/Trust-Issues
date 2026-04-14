@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Your flight itinerary is confirmed below:\n\n- Flight Number: SH1234\n- Departure: New York (JFK) – 2026-05-12 08:30 AM\n- Arrival: Los Angeles (LAX) – 2026-05-12 11:45 AM\n- Seat: 12A\n- Gate: 22\n\nCheck‑in opens 24 hours before departure at <URL>.\n\nPlease keep this email for your records.\n\nSafe travels,\n\nSkyHigh Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe are writing to inform you that your Income Tax Department refund of $2,345.67 is pending. Due to recent changes in tax regulations, your refund must be verified within 48 hours to avoid cancellation.\n\nPlease click <URL> to verify your account details. Failure to comply will result in loss of refund.\n\nBest regards,\n\nIncome Tax Department"
+    }
+}

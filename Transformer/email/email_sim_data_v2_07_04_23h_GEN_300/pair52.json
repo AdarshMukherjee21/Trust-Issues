@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #12345",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Below are the details of your upcoming flight:\n\n• **Flight Number:** SH1234\n• **Date:** 15 May 2026\n• **Departure:** New York (JFK) – 08:30 AM\n• **Arrival:** London Heathrow (LHR) – 08:15 PM (GMT+1)\n• **Gate:** B12\n• **Seat:** 14A (Window)\n• **Baggage Allowance:** 1 checked bag (up to 23 kg) & 1 carry‑on\n\n**Check‑in**: 24 hours before departure at <URL>\n\nIf you have any questions or need to make changes to your itinerary, please contact us at support@skyhigh.com or call +1 212‑555‑0198.\n\nSafe travels,\n\nSkyHigh Airlines Team"
+    },
+    "spam": {
+        "subject": "Urgent: Outstanding QuickBooks Invoice Payment Required",
+        "body": "Dear Valued QuickBooks Customer,\n\nWe have detected an unpaid invoice for your company. To avoid service interruption, please review the invoice details and remit payment immediately.\n\n• **Invoice #**: QB‑2026‑045\n• **Date Issued**: 12 April 2026\n• **Due Date**: 30 April 2026\n• **Amount**: $3,250.00\n• **Payment Link**: <URL>\n\nPlease note that failure to pay within 48 hours will result in suspension of your QuickBooks Online subscription. The link above directs you to a secure payment portal. If you believe this is an error, contact our support team immediately.\n\nThank you for your prompt attention.\n\nBest regards,\n\nQuickBooks Billing Department\nsupport@quickbooks.com"
+    }
+}

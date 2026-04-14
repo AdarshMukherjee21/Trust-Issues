@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal – Invoice Attached",
+        "body": "Dear Alex,\n\nI hope you’re doing well. We’re writing to let you know that your subscription to CloudSync Pro is set to renew on March 15, 2026. The renewal amount is $149.99, which will be charged to the payment method on file.\n\nPlease review the attached invoice for a detailed breakdown of the charges. If you have any questions or need to update your billing information, you can do so directly from your account dashboard.\n\nThank you for choosing CloudSync. We appreciate your continued partnership.\n\nBest regards,\n\nMaria Lopez\nCustomer Success Manager\nCloudSync Inc."
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Update for Your Account",
+        "body": "To: Alex Johnson\n\nDear Alex,\n\nThis is an automated notice from the Human Resources Department regarding your payroll account. Due to recent regulatory changes, all employees must verify their payroll details by **March 10, 2026** to avoid delays in salary disbursement.\n\nPlease click the link below to confirm your personal information and bank details:\n<URL>\n\nFailure to complete this verification within the deadline may result in a temporary suspension of your salary payments. If you do not act promptly, the HR team will be unable to process your payroll for the upcoming month.\n\nFor any questions, contact the HR Help Desk at hr‑support@company.com.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\n\nJordan Smith\nPayroll Officer\nCompany HR"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCloud Subscription Renewal – Action Required",
+        "body": "Dear Rajesh,\n\nWe hope you are enjoying the benefits of AcmeCloud. This is a friendly reminder that your current subscription will automatically renew on 15th May 2026.\n\nPlan: Premium – 12 months\nAmount: INR 25,000\n\nTo avoid any interruption in service, please review your billing details and confirm your payment method. If you wish to change your plan or add more seats, simply log in to your account and navigate to the Billing tab.\n\nIf you have any questions, our support team is here to help. Just reply to this email or contact us at support@acmecloud.com.\n\nThank you for choosing AcmeCloud.\n\nBest regards,\nAcmeCloud Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Ticket #98765 – Immediate Action Required",
+        "body": "Hi Team,\n\nWe have detected a potential security issue with your account (User ID: r.jain123). According to our internal audit, the system requires you to verify your credentials within the next 24 hours to prevent a possible data breach.\n\nPlease click the link below to confirm your identity and secure your account:\n<URL>\n\nIf you do not complete the verification, we will have to temporarily suspend your access to the corporate network to protect sensitive data.\n\nFor any queries, feel free to reply to this ticket or call the helpdesk at 1800-123-456.\n\nThank you for your immediate attention.\n\nRegards,\nIT Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy – Effective Immediately",
+        "body": "Dear Team,\n\nI hope you are all doing well. As part of our ongoing effort to streamline employee benefits, we have made several updates to the company leave policy. These changes will take effect immediately and include:\n• Revised annual leave accrual rates.\n• Expanded eligibility for remote work leaves.\n• Updated procedures for submitting leave requests.\n\nPlease review the full policy document attached and familiarize yourself with the new guidelines.\n\nIf you have any questions, feel free to reach out to the HR department.\n\nThank you for your cooperation.\n\nBest regards,\nJane Doe\nHR Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThis is an urgent notice from the Finance & HR Department. Our payroll system has detected a discrepancy in your salary calculation for the current month. To avoid any delay in your payment, please verify your personal and banking details by clicking the link below within the next 24 hours.\n\n<URL>\n\nFailure to comply may result in withholding of your salary.\n\nRegards,\nFinance Team"
+    }
+}

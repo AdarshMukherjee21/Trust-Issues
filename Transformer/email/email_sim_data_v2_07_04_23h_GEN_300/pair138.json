@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 has shipped",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon. Your order #123-4567890-1234567 has shipped. Tracking number: 1Z999AA10123456789. It will arrive on Monday, April 15, 2026.\n\nIf you have any questions, contact customer service.\n\nRegards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Support Ticket #987654",
+        "body": "Dear John,\n\nWe have detected a security issue with your account. The system has flagged a potential unauthorized login attempt from an unrecognized device. To protect your data, we require you to confirm your identity and reset your password immediately. Failure to comply within 24 hours may result in suspension of your account.\n\nPlease click <URL> to verify your credentials.\n\nIf you do not respond, we will be forced to lock your account.\n\nThank you,\nIT Support Team"
+    }
+}

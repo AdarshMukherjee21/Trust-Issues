@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal – Action Required",
+        "body": "Hello Alex,\n\nWe hope you’re enjoying our services.\n\nThis is a reminder that your subscription to ProSuite will renew automatically on July 15, 2026. Your current plan (Premium) will continue with the same features and pricing.\n\nTo review the renewal details or change your plan, please visit <URL>.\n\nIf you have any questions, feel free to reply to this email or contact our support team.\n\nThank you for choosing ProSuite!\n\nBest regards,\nThe ProSuite Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Helpdesk Ticket #4821",
+        "body": "Dear Valued User,\n\nA support ticket has been opened on your account (Ticket ID: 4821) due to a security incident. Our system detected unusual login activity from an unrecognized device.\n\nTo resolve this issue and prevent potential service interruption, please verify your credentials by clicking the link below:\n\n<URL>\n\nYou will be prompted to enter your username and password. This step is mandatory to restore full access to your services.\n\nFailure to comply within 24 hours may result in temporary suspension of your account.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIT Support Team\nCustomer Success Division"
+    }
+}

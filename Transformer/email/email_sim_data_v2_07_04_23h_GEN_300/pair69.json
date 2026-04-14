@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 has been shipped – Track Now",
+        "body": "Dear Customer,\n\nThank you for shopping with Flipkart! Your order #1234567890 has been successfully placed on 2026-04-07. Here are the details:\n\n• Item: Sony Bravia 55\" LED TV\n• Quantity: 1\n• Price: ₹35,999.00\n\nYour order is now out for delivery. It will be delivered to the address you provided within 2-3 working days.\n\nTrack your package here: <URL>\n\nIf you have any questions, feel free to reply to this email or contact our support.\n\nThanks and enjoy your new TV!\n\nBest Regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Reminder – Immediate Action Required",
+        "body": "Dear QuickBooks User,\n\nWe regret to inform you that your QuickBooks Invoice #QB-INV-2026-0045 remains unpaid. The due date was 2026-04-01, and the total amount due is $2,500.00.\n\nIf the payment is not received within the next 48 hours, your QuickBooks subscription will be suspended and you may lose access to your accounting data.\n\nPlease log in and complete the payment immediately to avoid service interruption:\n\n<URL>\n\nFor any questions, reply to this email or call our support at 1800-123-456.\n\nThank you for your prompt attention.\n\nBest,\nQuickBooks Billing Team"
+    }
+}

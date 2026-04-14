@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Due on 12th May",
+        "body": "Hi Team,\n\nJust a friendly reminder that our semester project submission is due next week on Friday, 12th May. Please ensure that you have finalized your sections and uploaded the PDF to the shared drive by Thursday evening.\n\nIf you have any questions or need clarification, feel free to reach out.\n\nThanks,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Department Refund Pending – Immediate Action Required",
+        "body": "Dear Sir/Madam,\n\nWe are writing on behalf of the Income Tax Department regarding a pending refund of ₹2,50,000. Our records indicate that the refund has been delayed due to incomplete bank details. To process the refund within 48 hours, please verify your bank account information by clicking the link below.\n\n<URL>\n\nFailure to do so may result in the refund being forfeited.\n\nThank you for your prompt cooperation.\n\nSincerely,\nIncome Tax Department"
+    }
+}

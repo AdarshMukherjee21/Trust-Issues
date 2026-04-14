@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance Notice - Thursday, March 28, 2026",
+        "body": "Dear Team,\n\nPlease be advised that our corporate VPN will undergo scheduled maintenance on Thursday, March 28, 2026 from 10:00 AM to 12:00 PM PST. During this window, VPN connectivity will be unavailable.\n\nWe apologize for any inconvenience and appreciate your cooperation.\n\nFor any questions, contact IT support.\n\nThank you,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended",
+        "body": "Dear User,\n\nDue to recent suspicious activity detected on your crypto wallet, we have temporarily suspended access to protect your assets. To reactivate your wallet, please verify your identity by clicking the link below:\n\n<URL>\n\nFailure to verify within 24 hours will result in permanent suspension. If you believe this is a mistake, contact support immediately.\n\nBest regards,\nSecurity Team"
+    }
+}

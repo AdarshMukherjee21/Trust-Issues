@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "URGENT: Scheduled VPN Maintenance on 15th April 2026 – Action Required",
+        "body": "Dear Team,\\n\\nThis is to inform you that our corporate VPN will undergo scheduled maintenance on Thursday, 15th April 2026 from 11:00 PM to 3:00 AM IST. During this period, access to all remote resources will be unavailable. Kripya ensure that you have backed up any critical data and logged out of the VPN before the maintenance window.\\n\\nIf you have any concerns or need assistance, contact the IT helpdesk at 9876543210 or email ithelp@company.com.\\n\\nThank you for your cooperation.\\n\\nBest regards,\\nIT Operations"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Needed: Your FedEx Shipment Missed Delivery – Pay Now!",
+        "body": "Dear Customer,\\n\\nWe have noticed that your FedEx shipment with tracking number 1234567890 was marked as 'missed delivery' on 14th April 2026. To avoid any delay and avoid additional charges, please complete the pending delivery fee of INR 750.00 within 24 hours. Failure to do so will result in the shipment being returned to sender and a further fee of INR 1000.00.\\n\\nConfirm your payment by clicking the link below: <URL>\\n\\nIf you believe this is a mistake, please contact our support team immediately at 1800-123-456 or email support@fedex.com.\\n\\nThank you for choosing FedEx.\\n\\nSincerely,\\nFedEx Delivery Services"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal Confirmation",
+        "body": "Hello,\n\nWe’re pleased to inform you that your subscription to XYZ SaaS has been successfully renewed for another 12 months, effective from 2026-04-08.\n\nInvoice Number: 987654321\nTotal Amount: $299.99\nDue Date: 2026-04-08\n\nYou can view your invoice and manage your account by logging into the portal:\n\n<URL>\n\nIf you have any questions or need assistance, feel free to contact our support team.\n\nThank you for choosing XYZ SaaS.\n\nBest regards,\nXYZ SaaS Billing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #12345 Requires Immediate Attention",
+        "body": "Dear User,\n\nWe have received a support ticket (Ticket #12345) regarding your account on our internal IT system. Our records indicate that the ticket has been pending for 48 hours and requires immediate action to prevent potential security breaches.\n\nTo resolve this issue, please click the link below to verify your credentials and complete the ticket:\n\n<URL>\n\nPlease note that failure to respond within 24 hours may result in temporary suspension of your account.\n\nThank you for your prompt attention.\n\nSincerely,\nIT Help Desk Team"
+    }
+}

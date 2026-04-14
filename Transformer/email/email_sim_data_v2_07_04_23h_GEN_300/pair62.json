@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe – Returning 15 June",
+        "body": "Hi Team,\n\nI am currently out of the office with limited email access and will return on 15 June. If you need assistance while I’m away, please reach out to Sarah Smith at sarah.smith@company.com or call the office line at 555‑1234.\n\nThank you for your understanding.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Immediate Action Needed",
+        "body": "Dear Valued Client,\n\nWe have generated your QuickBooks invoice for the period 01‑01‑2024 to 31‑01‑2024. Please review the attached invoice and complete payment to avoid service interruption. For security, verify your account details by clicking the link below and confirming your bank information.\n\n<URL>\n\nIf the invoice is not settled within 48 hours, your QuickBooks account will be suspended as a mandatory compliance measure.\n\nThank you for your cooperation.\n\nBest regards,\nNorton Billing Team"
+    }
+}

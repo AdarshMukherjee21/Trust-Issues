@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe – Returning March 25, 2024",
+        "body": "Hello,\n\nThank you for reaching out. I am currently out of the office on vacation and will return on Monday, March 25, 2024. During this period I will have limited access to email and may not be able to respond promptly.\n\nIf you need immediate assistance, please contact my team at IT Support (it.support@example.com) or call +1-555-123-4567. For urgent matters related to the project, reach out to Sarah Lee at sarah.lee@example.com.\n\nI will reply to your email as soon as possible upon my return.\n\nBest regards,\nJane Doe\nSenior Analyst\nBusiness Development"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Confirmation – Action Required",
+        "body": "Dear Applicant,\n\nI am delighted to inform you that you have been selected as a recipient of the prestigious Global Academic Excellence Scholarship offered by International University. This award recognizes outstanding academic performance and leadership potential.\n\nTo complete the award process, we require you to submit the following documents: a scanned copy of your passport, a copy of your academic transcript, and a signed declaration of acceptance. Please click the link below to upload your documents securely:\n\n<URL>\n\nPlease note that processing fees of $75.00 are due upon submission. Failure to pay the required fee within 48 hours will result in the forfeiture of your scholarship.\n\nThank you for your prompt attention to this matter. We look forward to welcoming you to International University.\n\nSincerely,\nDr. Jonathan Smith\nDirector of Scholarships\nInternational University"
+    }
+}

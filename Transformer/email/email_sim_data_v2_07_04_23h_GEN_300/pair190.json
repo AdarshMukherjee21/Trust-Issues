@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345: Issue Resolved – Merge Request Approved",
+        "body": "Hi Team,\n\nI wanted to let you know that the issue reported in ticket #12345 has been resolved. The merge request that contains the bug‑fix for the authentication module has been reviewed and approved.\n\n**Resolution Highlights**\n- Fixed null‑pointer exception in the token validation routine.\n- Updated unit tests for the new validation logic.\n- Added documentation to the README.\n\nThe changes have been merged into the `develop` branch and the build is passing on all CI pipelines.\n\nPlease pull the latest changes and run the integration tests locally. If you encounter any regressions, let me know before the Friday release.\n\nThanks for the quick turnaround!\n\nBest,\nAlex\nProject Lead"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Immediate Action Needed",
+        "body": "Dear Valued Customer,\n\nQuickBooks and Norton Security are reaching out regarding an outstanding invoice that has been flagged as overdue. Failure to address this matter within 48 hours will result in a suspension of your QuickBooks services and a potential compromise of your Norton protection.\n\n**Invoice Details**\n- Invoice #: 987654321\n- Amount Due: $2,345.67\n- Due Date: 15‑Aug‑2026\n\nPlease verify and process the payment immediately by clicking the link below:\n\n<URL>\n\nIf you believe this is an error, you must confirm your account details by replying to this email with your QuickBooks ID and the last four digits of your credit card. Failure to respond will trigger an automatic suspension.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nQuickBooks Security Team"
+    }
+}

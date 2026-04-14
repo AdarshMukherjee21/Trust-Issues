@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Company Leave Policy – Please Read",
+        "body": "Hi Team,\n\nWe hope you are doing well. Please be informed that the company leave policy has been updated effective from July 1, 2024. Key changes include:\n\n- Annual leave entitlement increased from 15 to 20 days.\n- New guidelines for remote work days and sick leave.\n- Updated procedures for submitting leave requests through the HR portal.\n\nPlease review the full policy document attached and ensure you follow the updated procedures. If you have any questions, feel free to reach out to HR.\n\nThank you for your cooperation.\n\nBest,\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected that your Microsoft 365 password is set to expire in 48 hours. If you do not update your password immediately, your account may be locked and you will lose access to company email, OneDrive, Teams, and other critical services.\n\nKripya click the link below to verify and reset your password:\n\n<URL>\n\nFor security reasons, you are required to complete this process within 24 hours. After the reset, you will receive a confirmation email. If you do not receive this email within 30 minutes, please contact IT support immediately.\n\nThank you for your prompt attention.\n\nBest regards,\nIT Security Team"
+    }
+}

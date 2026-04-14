@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – Don't Miss Out!",
+        "body": "Hello Team,\n\nI hope you’re all having a productive week. Here’s a quick roundup of what’s happening in our marketing department:\n\n• **New Campaign Launch** – Our \"Summer Splash\" campaign went live on Monday. Early metrics show a 15% lift in engagement.\n• **Content Calendar Update** – The updated calendar for the next two months is now available on the shared drive. Please review and add any feedback by Friday.\n• **Webinar Series** – Registration for the upcoming webinar on \"Data‑Driven Growth\" is open. Slots are limited, so secure your spot soon.\n• **Upcoming Events** – Remember to mark your calendars for the annual Marketing Expo on June 12th. Keynotes from industry leaders are confirmed.\n\nIf you have any questions or need additional resources, feel free to reach out.\n\nBest regards,\n\nAlex Martinez\nMarketing Lead\n\n---\nCompany Confidential – This message is intended for the above‑named recipients only. If you are not the intended recipient, please delete it immediately and notify the sender."
+    },
+    "spam": {
+        "subject": "URGENT: Your IT Ticket #12345 Requires Immediate Action",
+        "body": "Dear [Employee Name],\n\nWe have detected a security incident that may affect your workstation. Your IT ticket #12345, submitted on 03/08, has been flagged as a potential threat.\n\nTo resolve this issue and prevent further complications, please click the link below and follow the on‑screen instructions:\n\n<URL>\n\nIf you do not complete the verification within 24 hours, your account will be temporarily suspended to protect company data.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nJordan Lee\nIT Support Manager\n\n---\nThis email is confidential and intended only for the named recipient. If you received this by mistake, please reply with “Wrong Recipient” and delete the message immediately."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Your account statement",
+        "body": "Dear Mr. Singh,\n\nWe are writing to inform you that a transaction of ₹5,000 was made from your account at 10:23 AM on 06-04-2026. The transaction was to XYZ Store, Mumbai. If you did not authorize this transaction, please contact us immediately at 1800-123-456 or visit <URL> to secure your account.\n\nThank you for choosing Reliance Bank.\n\nRegards,\nReliance Bank Support"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Payment Required",
+        "body": "Dear Valued Customer,\n\nThis is to inform you that your FedEx shipment (Tracking No. 123456789) was not delivered due to an outstanding delivery fee of ₹200. To proceed with the delivery, please pay the fee within 48 hours by clicking the link below:\n\n<URL>\n\nFailure to pay within the deadline will result in cancellation of the shipment and possible return of the package.\n\nThank you for your prompt attention.\n\nRegards,\nFedEx India Customer Support"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 is Confirmed",
+        "body": "Hello [Customer Name],\n\nThank you for shopping with Amazon! Your order has been received and is now being processed. Below are the details of your purchase:\n\n• Order ID: 123-4567890-1234567\n• Items: 2 x \"Wireless Earbuds\", 1 x \"Portable Charger\"\n• Total: $149.99\n• Expected Delivery: 5–7 business days\n\nTo track the shipment of your order, click the link below:\n\n<URL>\n\nIf you have any questions about your order, feel free to contact our customer support.\n\nThank you for choosing Amazon!\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiration Notice",
+        "body": "Dear Microsoft 365 user,\n\nThis is an official notice from the Microsoft Security Team. Your Microsoft 365 password is scheduled to expire in 24 hours. To maintain uninterrupted access to your account and protect your data, please verify your password immediately by clicking the link below:\n\n<URL>\n\nIf you do not update your password within the specified timeframe, your account will be temporarily suspended and you may lose access to critical services.\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\nMicrosoft Security Team"
+    }
+}

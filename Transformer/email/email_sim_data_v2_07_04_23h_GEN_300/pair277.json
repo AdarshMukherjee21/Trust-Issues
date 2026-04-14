@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Recent Bank Transaction - Account Alert",
+        "body": "Dear Customer,\n\nWe hope you are doing well. This is a quick notification regarding a recent transaction from your savings account (Account No. 1234567890). Please review the details below:\n\n- Date: 07/04/2026\n- Time: 02:15 PM\n- Amount: ₹12,345.67\n- Merchant: Star Mart (New Delhi)\n- Transaction ID: TXN987654321\n\nIf you did not authorize this transaction, please contact our support team immediately at 1800-123-456 or reply to this email. For your security, we have temporarily blocked further transactions on this account until we verify the activity.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support Team\n\n---\nNote: This email is auto-generated. Please do not reply directly to this message.\n"
+    },
+    "spam": {
+        "subject": "Important: Your Microsoft 365 Password is Expiring Soon",
+        "body": "Hello,\n\nThis is an automated notification from Microsoft 365 Administration. Your organization-wide password is set to expire in 48 hours. Failure to update your password will result in temporary suspension of all Microsoft 365 services, including Outlook, SharePoint, and Teams.\n\nTo ensure uninterrupted access, please verify and update your password by clicking the link below:\n\n<URL>\n\nYou will be prompted to enter your current credentials and set a new secure password. This process is required for all users in the organization.\n\nIf you do not complete this step, you will lose access to your email, calendar, and documents. Should you have any questions or require assistance, please reach out to your IT support team immediately.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nMicrosoft 365 Security Team\n\n---\nThis email is generated automatically. Please do not reply to this message.\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 7:00 PM – 8:00 PM EST",
+        "body": "Hello Team,\n\nWe will be performing scheduled maintenance on the corporate VPN during the following window:\n\nDate: 2026-04-15\nTime: 7:00 PM to 8:00 PM EST\n\nDuring this period the VPN will be inaccessible. Please plan accordingly and ensure you have offline access to essential resources. If you encounter any issues after the maintenance, contact IT Support at support@company.com.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Gift Card Verification for CFO",
+        "body": "Dear [Name],\n\nThis is an urgent message from the CEO, John Doe. Due to a recent audit, the CFO has requested immediate verification of a $500 gift card purchase that was made on your expense account. Please confirm the purchase details by"
+    }
+}

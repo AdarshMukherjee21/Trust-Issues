@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Deals Inside – Save Big on Your Next Purchase!",
+        "body": "Hi there,\n\nWelcome to this week’s exclusive deals! Here’s what we’ve lined up for you:\n\n• 20% off on all electronics – grab the latest gadgets.\n• Buy 1 get 1 free on selected fashion items.\n• Free shipping on orders above ₹999.\n\nDon’t miss out – these offers are valid till Sunday. Click <URL> to explore and shop now.\n\nThank you for being a valued customer!\n\nCheers,\nYour Friends at TrendyMart"
+    },
+    "spam": {
+        "subject": "FedEx Delivery Fee Due – Act Now!",
+        "body": "Hello,\n\nWe have noticed that your FedEx shipment was not delivered due to an unpaid delivery fee. To avoid any delay or return of your package, please settle the outstanding fee within the next 24 hours.\n\nClick <URL> to view the invoice and pay securely.\n\nThank you for choosing FedEx. We appreciate your prompt attention to this matter.\n\nBest regards,\nFedEx Customer Support"
+    }
+}

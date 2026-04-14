@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe",
+        "body": "Hi,\n\nThank you for your email. I am currently out of the office on vacation and will return on 15 September 2024. I will have limited access to email during this period. If you require immediate assistance, please contact my colleague, John Smith (john.smith@example.com) or call the office line at +1-555-123-4567.\n\nBest regards,\nJane Doe\nSenior Analyst"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required - Meeting Confirmation",
+        "body": "Dear Team,\n\nWe have detected suspicious activity on your account and require immediate verification to ensure your upcoming meeting is secure. Please confirm your participation in the Zoom Teams meeting by clicking the link below:\n\n<URL>\n\nMeeting ID: 123-456-7890\nPassword: 123456\n\nFailure to verify within the next 15 minutes will result in your meeting access being revoked. This is a mandatory security protocol enforced by the IT Department.\n\nBest regards,\nIT Security Team"
+    }
+}

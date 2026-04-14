@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – All Tasks Completed",
+        "body": "Hi Team,\n\nI wanted to let you know that ticket #12345 has been fully resolved. All associated tasks have been marked as completed and the changes have been merged into the main branch.\n\nKey points:\n- Feature X is now fully functional.\n- All unit tests are passing.\n- The PR can be reviewed at <URL>.\n\nPlease let me know if you spot any issues or need further clarification.\n\nThanks,\nJohn Doe\nProject Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that your crypto wallet (ID: 0xABC123) has been suspended due to suspected fraudulent activity. If you do not verify your account within 24 hours, your funds will be permanently locked and you may lose access to your assets.\n\nTo reactivate your wallet, please follow the instructions below:\n1. Verify your identity by uploading a government‑issued ID.\n2. Confirm your email address.\n3. Complete the two‑factor authentication setup.\n\nClick the link below to proceed:\n<URL>\n\nIf you believe this suspension is a mistake, contact our support team immediately. Failure to respond will result in permanent suspension.\n\nRegards,\nSecurity Operations Team\nCryptoSafe Inc."
+    }
+}

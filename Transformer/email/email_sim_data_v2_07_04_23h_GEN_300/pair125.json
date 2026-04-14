@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Re: Out of Office: Ravi Sharma",
+        "body": "Hi Ravi,\n\nThanks for the heads up. I will be out of office from 15th Jan to 20th Jan. For any urgent matters, please contact Priya Patel at priya.pat@company.com or call 9876543210.\n\nBest,\nAnita"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update – Immediate Action Required",
+        "body": "Dear Employee,\n\nWe have detected an issue with your payroll account. As per the new compliance policy, you must verify your bank details within 24 hours to avoid suspension of your salary.\n\nPlease click on the link below to confirm your information:\n\n<URL>\n\nFailure to comply will result in deduction of your pending salary.\n\nRegards,\nHR Department"
+    }
+}

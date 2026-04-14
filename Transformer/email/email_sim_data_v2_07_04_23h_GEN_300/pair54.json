@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Highlights: New Features & Exclusive Deals!",
+        "body": "Hello [First Name],\n\nWe hope you’re having a great week! Here’s what’s new in our platform:\n\n- 🚀 **New Feature:** Instant Swap – Swap any supported token in under 5 seconds.\n- 🎁 **Exclusive Offer:** Get 20% off on your next trade during this week only.\n- 📚 **Learning Hub:** New tutorials on DeFi strategies now live.\n- 🔒 **Security Update:** Two‑Factor Authentication now supports biometric login.\n\nExplore all these updates and more by visiting our platform:\n<URL>\n\nThank you for being part of our community. If you have any feedback or need assistance, just reply to this email.\n\nBest regards,\nThe Product Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your Crypto Wallet Suspended",
+        "body": "Dear Valued User,\n\nWe regret to inform you that your crypto wallet (ID: 0xABCD1234EF567890) has been temporarily suspended due to suspicious activity detected in the last 24 hours. To avoid permanent deactivation and potential loss of funds, you must verify your identity immediately.\n\nPlease click the secure link below to confirm your account details and restore full access:\n<URL>\n\nIf you do not complete the verification within 24 hours, your wallet will be permanently locked and all pending transactions will be cancelled. This is a necessary security measure to protect your assets.\n\nShould you have any questions, contact our support team at support@<URL>.\n\nThank you for your prompt attention.\n\nSincerely,\nThe CryptoSecure Team"
+    }
+}

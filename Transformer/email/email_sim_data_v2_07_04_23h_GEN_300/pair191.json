@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: I'll be away till 15th April",
+        "body": "Hi Team,\n\nThank you for reaching out. I am currently out of the office and will be back on 15th April. I will have limited access to emails during this period. If you need immediate assistance, please contact my colleague Rahul at rahul@example.com.\n\nLooking forward to catching up when I'm back.\n\nBest,\nAnita"
+    },
+    "spam": {
+        "subject": "Congratulations! You are a Winner of the 2024 National Scholarship – Immediate Verification Needed",
+        "body": "Dear [Name],\n\nCongratulations! You have been selected as a recipient of the prestigious National Scholarship Program by the University of Delhi. After a rigorous selection process, your application has been approved.\n\nTo secure your scholarship and complete enrollment, you must submit the processing fee of INR 10,000 within 48 hours. Failure to do so will result in cancellation of your award.\n\nKindly verify your details and make the payment via the official portal at <URL>. This is the only legitimate channel for transaction.\n\nPlease note: This is an official communication from the Ministry of Education and the University. Do not share this email with anyone.\n\nBest regards,\n\nDr. A. Sharma\nDirector, Scholarship Office\nUniversity of Delhi"
+    }
+}

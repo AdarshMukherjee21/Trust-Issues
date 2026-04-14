@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal - Action Needed",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the full features of XYZ SaaS. This is a friendly reminder that your current subscription plan will renew on 15th May 2026. Your subscription will automatically renew for another 12 months at the same rate of ₹9,999 per month.\n\nTo ensure uninterrupted service, please confirm your payment details or update your billing information by visiting the dashboard at <URL>.\n\nIf you wish to change your plan or cancel, simply click on \"Manage Subscription\" in the dashboard before the renewal date.\n\nThank you for choosing XYZ SaaS. We look forward to serving you for another year.\n\nBest regards,\nXYZ SaaS Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your IT Ticket #12345 - Immediate Action Required",
+        "body": "Hi Team,\n\nI am writing to you regarding the IT helpdesk ticket #12345 that was opened yesterday for the \"Server Access Issue\" on the internal portal. According to the ticket details, the server credentials sent via email are no longer valid, and you need to reset your password immediately.\n\nPlease click on the link below to reset your password and verify your identity. This action is mandatory to restore access to the internal resources and to avoid any security breach.\n\nReset Password: <URL>\n\nOnce you have completed the reset, kindly reply to this email with the confirmation code. Failure to comply may result in temporary suspension of your access rights.\n\nThanks for your prompt attention.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

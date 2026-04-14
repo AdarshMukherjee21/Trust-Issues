@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hello [Name],\n\nThis is a reminder that your subscription to Acme SaaS Platform will expire on 15 September 2026. To ensure uninterrupted service, please renew your subscription by 10 September 2026.\n\nClick <URL> to review and complete the renewal process.\n\nIf you have any questions, feel free to reach out to our support team.\n\nThank you for your continued partnership.\n\nBest regards,\nAcme SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear [Name],\n\nWe have detected an issue with your payroll information. Immediate action is required to avoid salary withholding.\n\nPlease verify your payroll details by clicking <URL> within the next 24 hours. Failure to do so will result in a temporary suspension of your salary disbursement.\n\nIf you have already updated your information, please disregard this notice.\n\nThank you,\nHR Payroll Department\n\nBest regards,\nJohn Doe\nSenior Payroll Officer"
+    }
+}

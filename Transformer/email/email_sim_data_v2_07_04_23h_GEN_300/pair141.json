@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #JIRA-1234 Resolved – Code Merge Completed",
+        "body": "Hi Team,\n\nJust wanted to let you know that the Jira ticket #JIRA-1234 (Feature: Add user profile picture) has been resolved. I have merged the changes into the main branch and pushed the PR to GitHub (PR #5678). The unit tests are passing and the code review is complete.\n\nPlease take a moment to pull the latest changes and run your local tests. Let me know if you encounter any issues.\n\nThanks,\nRahul"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 Password is Expiring Soon – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected that your Microsoft 365 account password is set to expire within the next 48 hours. To ensure uninterrupted access to your corporate email, calendar, and documents, you must update your password immediately.\n\nPlease click the link below to verify your account and set a new password:\n\n<URL>\n\nAfter updating, you will receive a confirmation email. If you do not reset your password within 48 hours, your account will be locked and you will lose access to all Microsoft 365 services.\n\nFor assistance, call our support hotline at 1800-123-456 or email support@company.com.\n\nThank you for your prompt attention.\n\nRegards,\nMicrosoft Account Security Team"
+    }
+}

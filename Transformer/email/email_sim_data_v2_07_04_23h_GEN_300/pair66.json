@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your CloudDesk Subscription Renewal Notice – Action Required",
+        "body": "Hello Alex,\n\nThis is a friendly reminder that your CloudDesk subscription is set to renew on 15 May 2026. To maintain uninterrupted service, please review your account details and confirm payment.\n\nIf you wish to adjust your plan or cancel the renewal, simply log into your dashboard at <URL> and update your billing information.\n\nThank you for choosing CloudDesk.\n\nBest regards,\nCloudDesk Billing Team\nsupport@clouddesk.com"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Delivery Fee Payment Required Immediately",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking #123456789) was marked as a missed delivery. If the package is not delivered within the next 48 hours, FedEx will impose an additional delivery fee of $25.00.\n\nTo avoid further charges and ensure delivery, please complete the payment immediately by verifying your account at <URL>. The payment will be processed securely and your shipment will be scheduled for delivery.\n\nFailure to pay within the specified time frame will result in the cancellation of your shipment and forfeiture of the package.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Service\nservice@fedex.com"
+    }
+}

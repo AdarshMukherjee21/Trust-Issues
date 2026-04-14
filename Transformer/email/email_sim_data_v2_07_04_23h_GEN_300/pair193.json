@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 has been shipped",
+        "body": "Hi Priya,\n\nThank you for shopping with Amazon! Your order #123-4567890-1234567 has been shipped and is on its way to you.\n\nItem: 1x \"Wireless Earbuds\" (Blue)\nQuantity: 1\nPrice: ₹2,500\n\nShipping Method: Amazon Logistics\nEstimated Delivery: 3-5 business days\n\nTracking Number: 1Z999AA10123456789\nTrack your shipment here: <URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our customer support at 1800-11-3522.\n\nHappy Shopping!\n\nBest Regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Due - Pay Now to Avoid Delay",
+        "body": "Dear Customer,\n\nOur records show that your FedEx package (Tracking # 1234567890) was scheduled for delivery on 15-Apr-2026, but the recipient was not available. As a result, a delivery fee of $45.00 has been added to your account.\n\nTo avoid further delays and ensure timely delivery, please complete the payment within 24 hours.\n\nPayment Link: <URL>\n\nIf you do not pay, your package will be returned to the sender and you will incur additional charges.\n\nThank you,\nFedEx Customer Support"
+    }
+}

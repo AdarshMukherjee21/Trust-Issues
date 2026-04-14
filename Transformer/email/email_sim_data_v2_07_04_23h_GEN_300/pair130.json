@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Your Recent Debit",
+        "body": "Dear Valued Customer,\n\nWe would like to inform you that a transaction of $1,250.00 was successfully processed from your account ending in 4827 on 07/04/2026 at 14:23:08 UTC. The payment was made to \"Acme & Co. Services\" and was authorized by your card.\n\nIf you recognize this transaction, no further action is required. If you do not recognise this activity, please contact our 24/7 support line immediately at 1‑800‑BANK‑HELP or visit your online banking portal to review your recent activity. Your security is our top priority.\n\nThank you for banking with us.\n\nSincerely,\n\nCustomer Support Team\n\nBank of Global Finance"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Award Confirmation – Immediate Action Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application has been selected for the prestigious Global Scholars Fellowship at the University of Global Studies. We are pleased to offer you a full‑ride scholarship covering tuition, housing, and a monthly stipend of $1,500 for the next four academic years.\n\nTo finalize your enrollment, we require verification of your personal information and the completion of a mandatory scholarship agreement. Please provide the following details:\n\n1. Full legal name\n2. Date of birth\n3. Nationality\n4. Student ID (if available)\n5. Confirmation of acceptance by signing the attached agreement\n\nKindly submit the signed agreement and a scanned copy of your passport or government ID by clicking the link below. Failure to complete these steps within 48 hours will result in the forfeiture of your scholarship offer.\n\n<URL>\n\nWe look forward to welcoming you to our academic community and supporting your future success.\n\nBest regards,\n\nDr. Elena Martinez\nDirector, Global Scholars Fellowship\nUniversity of Global Studies\n\nP.S. This offer is exclusive and must be accepted promptly. Thank you for your cooperation."
+    }
+}

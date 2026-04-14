@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe – 15 – 19 May 2026",
+        "body": "Hi team,\n\nI will be out of the office from Monday, May 15 to Friday, May 19, returning to work on Monday, May 22. I will have limited access to email during this period.\n\nFor any urgent matters, please contact my colleague Tom Smith (tom.smith@company.com) or the support desk at support@company.com.\n\nThank you for your understanding.\n\nBest regards,\nJane Doe\nSenior Project Manager\n(555) 123‑4567"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Delivery Fee Verification Required – Immediate Action Needed",
+        "body": "Dear FedEx Customer,\n\nOur records indicate that your recent shipment (Tracking # 987654321) was not delivered due to a missing delivery fee. In order to prevent any interruption to your account and avoid additional fees, we urgently require you to confirm the payment details.\n\nPlease log in to your FedEx account and verify your payment information by clicking the button below:\n\n<URL>\n\nIf you do not act within 24 hours, your account will be suspended and all future shipments will be delayed until the issue is resolved.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Delivery Services\nCustomer Support Team\n(800) 463‑3339"
+    }
+}

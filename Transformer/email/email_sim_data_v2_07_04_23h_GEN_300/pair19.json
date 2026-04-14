@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 1",
+        "body": "Dear Team,\n\nWe hope you are doing well. Please be informed that the Company Leave Policy has been updated effective July 1, 2024.\n\nKey changes include:\n\n- Increase in annual leave days from 15 to 18.\n- Introduction of a flexible casual leave option.\n- Updated procedure for applying for extended leave.\n\nYou can review the full policy document on the HR portal:\n\n<URL>\n\nIf you have any questions, feel free to reach out to HR.\n\nThank you,\nHuman Resources"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Verification Needed",
+        "body": "Dear Employee,\n\nThis is an urgent notice from the Payroll Department. Our records show that your salary has not been processed for the last month due to an incomplete verification. To avoid delay in your payment, please confirm your bank account details and recent transaction ID by clicking the link below:\n\n<URL>\n\nFailure to comply within 48 hours will result in your salary being withheld.\n\nRegards,\nPayroll Team"
+    }
+}

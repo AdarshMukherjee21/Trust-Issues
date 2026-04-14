@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Hello Jane Doe,\n\nThank you for shopping with Amazon. We are pleased to confirm your order #123-4567890-1234567.\n\nItems:\n1x Echo Dot (4th Gen) – $49.99\n2x Fire TV Stick – $29.99 each\n\nSubtotal: $109.97\nShipping: $4.99\nTotal: $114.96\n\nYour items will ship from: 123 Main St, Springfield, IL 62704\nEstimated delivery: 2026-04-04 to 2026-04-06\n\nIf you need to cancel or modify your order, please visit <URL> or call 1-800-280-4331.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Action Needed Within 24 Hours",
+        "body": "Dear Valued Customer,\n\nWe have detected an outstanding invoice from QuickBooks for your Norton subscription. Invoice #QB-INV-2026-045 is overdue as of 2026-04-01. Failure to settle within 48 hours may result in suspension of services and potential legal action.\n\nPlease confirm your payment by clicking <URL> and entering your account details. If you have already paid, reply to this email with your transaction ID.\n\nFor immediate assistance, call us at 1-800-123-4567.\n\nThank you for your prompt attention.\n\nSincerely,\nQuickBooks Billing Department"
+    }
+}

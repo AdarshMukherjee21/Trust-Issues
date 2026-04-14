@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flipkart Order Confirmation - Order ID: FK123456789",
+        "body": "Hi,\n\nThank you for shopping with Flipkart! Your order (Order ID: FK123456789) has been confirmed.\n\nOrder Details:\n• Product: Kindle Paperwhite 8GB\n• Quantity: 1\n• Price: ₹1,999.00\n\nPayment Method: Visa ending in 4242\nShipping Address: 12, Laxmi Nagar, Delhi - 110006\n\nYour order will be dispatched soon. Expected delivery: 3-5 working days.\n\nIf you have any questions, reply to this email or contact our customer service.\n\nThanks for choosing Flipkart.\n\nBest regards,\nFlipkart Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent IT Ticket: Immediate Action Required",
+        "body": "Hi,\n\nWe have detected suspicious activity on your corporate account. An IT ticket has been created (Ticket #IT-987654) and requires your immediate attention.\n\nPlease verify your account information by clicking the link below:\n\n<URL>\n\nAfter verification, your account will be restored and you can continue using the corporate portal.\n\nIf you ignore this ticket, your account will be suspended until we receive your verification.\n\nThank you,\nIT Helpdesk"
+    }
+}

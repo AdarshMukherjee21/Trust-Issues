@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Your Account Activity",
+        "body": "Dear Customer,\n\nWe have detected a transaction of INR 12,500 on your savings account (Account No: ****1234) on 07 Apr 2026 at 10:35 AM. The transaction was made at \"Reliance Digital\" on 07 Apr 2026.\n\nIf you did not authorize this transaction, please contact your bank immediately at the customer care number 1800-123-456 or visit a branch.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Verification Required",
+        "body": "Dear Sir/Madam,\n\nWe are pleased to inform you that a refund of INR 2,50,000 has been processed to your bank account (Account No: ****5678) under Income Tax Department, FY 2025-26. To confirm the refund details, please log in to your tax account by clicking the link below:\n\n<URL>\n\nPlease note that if the refund is not verified within 48 hours, the refund amount will be forfeited and the tax authorities may initiate further action.\n\nKindly provide your PAN and DOB for verification.\n\nThank you for your cooperation.\n\nSincerely,\nIncome Tax Department"
+    }
+}

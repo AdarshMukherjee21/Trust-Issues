@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flipkart Order Confirmation – #123456789",
+        "body": "Hello Ravi,\n\nThank you for shopping with Flipkart! Your order #123456789 has been successfully placed and is now being processed.\n\nOrder details:\n• Item 1: Xiaomi Redmi 10 – Qty: 1 – ₹ 4999\n• Item 2: Amazon Basics USB-C Cable – Qty: 2 – ₹ 299\nTotal: ₹ 5597 + GST 18% = ₹ 6540.36\n\nShipping:\n• Address: 123, MG Road, Bengaluru\n• Expected delivery: 3-5 business days\n• Tracking number: <URL> (use this link to track)\n\nIf you have any queries or need to change delivery details, reply to this email or call our customer support at 1800-123-456.\n\nThanks for choosing Flipkart!\n\nBest Regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "Zoom Meeting Invite – Urgent: Discuss Project X",
+        "body": "Dear Team,\n\nYou have been invited to a Zoom/Teams meeting titled 'Project X Review' scheduled on 12th April 2026 at 15:00 IST. This meeting is critical for the next sprint and attendance is mandatory for all stakeholders.\n\nMeeting details:\n• Platform: Zoom (or Teams)\n• Link: <URL>\n• Meeting ID: 123 4567 8901\n• Password: 123456\n\nKripya 5 minute early join karein to ensure smooth start. Agar aap attend nahi kar sakte, please inform the manager immediately.\n\nBest,\nIT Operations"
+    }
+}

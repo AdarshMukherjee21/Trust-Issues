@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – Exclusive Offers Inside!",
+        "body": "Hi there,\n\nHope you’re having a great week! We’re excited to bring you our latest marketing insights and some exclusive deals that we think you’ll love.\n\n✨ Featured Campaigns\n- Boost Your Brand’s Reach with AI‑Driven Ads – 20% off on all plans.\n- Summer Sale: Get 50% off on our premium newsletter subscription.\n- Customer Success Stories – Learn how brands like yours doubled their engagement.\n\n🔍 What’s New\n- New analytics dashboard now available – track your ROI in real time.\n- Fresh content on social media trends – stay ahead of the curve.\n- Limited time offer: Free strategy session for the first 10 sign‑ups.\n\nWe appreciate your partnership and look forward to helping you grow.\n\nBest Regards,\nMarketing Team\n\nP.S. Reply “YES” to this email and we’ll add you to our upcoming webinar on “Maximizing ROI with Data‑Driven Campaigns.”"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Pending – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent shipment (Tracking #FDX123456789) cannot be delivered because a delivery fee of ₹200 remains unpaid. According to FedEx policy, all pending fees must be cleared within 48 hours to avoid shipment cancellation.\n\nTo settle the fee, please click the link below and complete the payment securely:\n\n<URL>\n\nIf the fee has already been paid, please disregard this notice. Otherwise, failure to pay will result in the package being returned to sender and the cancellation of the delivery.\n\nThank you for choosing FedEx. We apologize for any inconvenience.\n\nSincerely,\nFedEx Customer Support\n\nP.S. All transactions are guaranteed by FedEx Secure Payment. If you suspect any fraud, contact us immediately at 1-800-123-4567."
+    }
+}

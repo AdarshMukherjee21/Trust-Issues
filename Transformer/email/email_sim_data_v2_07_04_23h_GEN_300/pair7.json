@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Subscription is About to Expire – Renew Now",
+        "body": "Hi Rahul,\n\nHope you’re doing well. We noticed that your current subscription to ProAnalytics will expire on 30th April 2026. To ensure uninterrupted access to all features, please renew your plan at your earliest convenience. You can review your plan details and complete the renewal securely here: <URL>.\n\nIf you have any questions or need assistance, feel free to reply to this email or call our support team at 1800-123-456.\n\nThank you for choosing ProAnalytics!\n\nBest regards,\nThe ProAnalytics Team"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #7654 - Immediate Action Required",
+        "body": "Hello Team,\n\nI am writing from the IT Helpdesk. We have detected a security anomaly on your account. Please confirm your credentials immediately by clicking on the link below and logging in:\n\n<URL>\n\nOnce logged in, you will receive a verification code that you must enter in the confirmation box. If you do not confirm within 15 minutes, your account will be temporarily disabled for your safety.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nIT Helpdesk Support"
+    }
+}

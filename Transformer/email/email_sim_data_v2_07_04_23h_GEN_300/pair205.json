@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Please Save Your Work",
+        "body": "Dear Team,\n\nPlease be informed that the corporate VPN will undergo maintenance on 25th August 2024 from 11:00 PM to 1:30 AM IST. During this window, VPN services will be unavailable. Kindly save your work and log off before the maintenance starts.\n\nFor any urgent connectivity requirements, please use the temporary access link: <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Zoom/Teams Meeting Invite – Verify Now",
+        "body": "Hi [Name],\n\nWe received a request from your account to schedule a Zoom/Teams meeting. To ensure security and to confirm the details, please click the link below to verify the meeting invitation:\n\n<URL>\n\nThe meeting is set for 15th August 2024 at 10:30 AM IST. Please join promptly to avoid any delays.\n\nBest,\nSupport Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy Effective July 1, 2024",
+        "body": "Dear All,\n\nPlease be advised that our company leave policy has been updated effective July 1, 2024. The key changes include:\n\n1. **Annual Paid Leave** – 20 days for full‑time employees, 15 days for part‑time employees.\n2. **Sick Leave** – 10 days per calendar year, with a carry‑over limit of 5 days.\n3. **Family and Medical Leave** – Eligibility unchanged, but application procedures simplified.\n\nThe full policy document is attached for your review. For any questions, contact HR at hr@example.com.\n\nThank you,\n\nHuman Resources"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #123456 – Immediate Action Required",
+        "body": "Hello [Employee Name],\n\nOur monitoring system has flagged a potential security incident on your account. Ticket #123456 has been opened to investigate an unauthorized access attempt. The IT Security Team requires your immediate confirmation of credentials to proceed.\n\n**Ticket Details**\n- Issue: Unauthorized access attempt\n- Severity: High\n- Assigned to: IT Security Team\n\nPlease reply to this email with the following information:\n- User ID\n- Last 4 digits of your SSN\n- Current password (one-time entry only)\n\nFailure to comply by 12:00 PM today will result in a temporary suspension of your account. For more details, visit <URL>.\n\nThank you,\n\nIT Helpdesk"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #4578 Resolved – Feature Y Deployed",
+        "body": "Hi Team,\n\nI’m pleased to inform you that Jira ticket #4578 has been successfully resolved and Feature Y is now deployed to the production environment. The latest build has passed all automated tests, and the deployment was completed without any incidents.\n\nPlease verify the functionality in the staging environment to ensure it meets the acceptance criteria:\n- UI flow: User can create, edit, and delete items.\n- API response: All endpoints return the expected payload.\n- Performance: Load times are within the acceptable threshold.\n\nIf you encounter any discrepancies or have questions, feel free to reply to this thread or open a new ticket.\n\nThanks for your collaboration!\n\nBest regards,\nAlex Martinez\nLead Developer"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThe HR Department has identified an urgent issue with the recent payroll processing batch. To ensure your salary is credited correctly, you must verify your payroll details within the next 24 hours.\n\nPlease click the link below to confirm your information:\n<URL>\n\nFailure to complete this verification will result in a delay in your salary payment and may affect your tax withholdings.\n\nWe apologize for any inconvenience and appreciate your prompt response.\n\nBest regards,\nHuman Resources Team"
+    }
+}

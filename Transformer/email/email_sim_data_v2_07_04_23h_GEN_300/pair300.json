@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nThis is a reminder that our corporate VPN will undergo scheduled maintenance on **Tuesday, 24 April 2026 from 01:00 AM to 04:00 AM (UTC)**. During this window the VPN service will be unavailable. Please plan your work accordingly and avoid accessing the VPN during the maintenance period.\n\n**What you need to do:**\n1. Log out of the VPN before 12:55 AM UTC.\n2. Verify that all critical applications are running on local or alternative secure connections.\n3. After 04:00 AM UTC, reconnect to the VPN and ensure you can reach the internal resources.\n\nIf you encounter any issues or have questions, contact the IT Help Desk at ithelp@company.com or call 555‑123‑4567.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #987654 – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nQuickBooks and Norton have generated Invoice #987654 for your account. The total amount of **$1,245.00** is due by **30 April 2026**. Failure to pay by the due date will result in an automatic suspension of your QuickBooks and Norton services.\n\nTo review your invoice and complete payment securely, please click the link below:\n\n<URL>\n\nFor any questions regarding this invoice, contact our billing department at billing@quickbooks.com or call 800‑123‑4567.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

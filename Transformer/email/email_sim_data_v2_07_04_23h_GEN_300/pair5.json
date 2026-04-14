@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 has been Shipped",
+        "body": "Hi Rahul,\n\nThank you for shopping with Flipkart. Your order #1234567890 has been shipped and is on its way. The estimated delivery date is 3-5 working days.\n\nItems:\n- 1x Wireless Earbuds (Black)\n- 1x Phone Case – Glitter\n\nIf you have any questions, contact our support.\n\nThank you for choosing Flipkart!\n\nBest,\nFlipkart Team"
+    },
+    "spam": {
+        "subject": "Congratulations! Scholarship Award for 2025-2026",
+        "body": "Dear Student,\n\nCongratulations! Aapko National Merit Scholarship ke liye shortlist kiya gaya hai. Aapke academics aur extracurriculars ko dhyan me rakhte hue, hum aapko ye prestigious award dene ke liye khush hain.\n\nTo claim your scholarship, please verify your account details and complete the enrollment process by clicking the link below:\n\n<URL>\n\nPlease note: Failure to respond within 48 hours will result in forfeiture of the scholarship.\n\nBest regards,\nScholarship Office\nUniversity of Excellence"
+    }
+}

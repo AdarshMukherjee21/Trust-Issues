@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription is Expiring Soon – Renew Now",
+        "body": "Hi [Customer Name],\n\nWe hope you're enjoying the full suite of features in your current plan. This email is a friendly reminder that your subscription will expire on [Expiration Date]. To continue uninterrupted service, please renew your plan at your earliest convenience.\n\nIf you have any questions or need assistance, feel free to reach out to our support team.\n\nThank you for choosing [Company Name].\n\nBest,\n[Support Team]"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required - Gift Card Processing",
+        "body": "Dear [Employee Name],\n\nI hope you are well. I am writing from the Finance Department regarding an urgent matter that requires your immediate attention. As part of our annual incentive program, I need to process a corporate gift card for a key client tomorrow. Unfortunately, the payment system is down and I cannot complete the transaction through the usual portal.\n\nCould you please arrange for a $1,000 gift card to be issued to the following recipient and confirm the transaction with the attached reference number? Please click the link below to finalize the order: <URL>\n\nI appreciate your prompt response as this is time‑sensitive. Thank you for your cooperation.\n\nBest regards,\n[CEO Name]"
+    }
+}

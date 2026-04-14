@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your [Product] Subscription is Renewing Soon – Action Required",
+        "body": "Hello [Customer Name],\n\nWe hope you’re enjoying the benefits of your current subscription to [Product]. This is a friendly reminder that your subscription will automatically renew on 15 May 2026. Your plan will continue to provide you with all the features you’ve been using, including:\n\n- Unlimited access to the Pro Dashboard\n- Priority support with a dedicated account manager\n- 24/7 API access and advanced analytics\n\nIf you wish to change your plan, update your billing information, or cancel your subscription, please do so before the renewal date. You can manage your account by logging into your portal at <URL>.\n\nThank you for being a valued customer. If you have any questions, feel free to reply to this email or contact our support team.\n\nBest regards,\n\nThe [Company] Team\nSupport: <URL>\n"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update Confirmation Needed",
+        "body": "Dear [Employee Name],\n\nThis message is coming from the Human Resources Department regarding an urgent payroll update that requires your immediate attention.\n\nDuring a recent audit, we discovered that your direct deposit information was not fully updated in our system. To ensure you receive your next paycheck on time, please confirm your bank details by completing the verification form linked below.\n\nFailure to submit the required information within the next 24 hours may result in a delay of your payroll disbursement. We understand that this is a critical matter and appreciate your prompt cooperation.\n\nTo verify your details, click the link below:\n<URL>\n\nIf you have already updated your information, please disregard this notice. Should you have any questions or need assistance, do not hesitate to reply to this email or call the HR helpdesk at 555‑123‑4567.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\n\nHR Operations Team\n[Company Name]\n"
+    }
+}

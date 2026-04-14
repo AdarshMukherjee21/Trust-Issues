@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira ticket resolved: [PROJ-123] – Database migration complete",
+        "body": "Hi Team,\n\nI wanted to let you know that the Jira ticket PROJ-123 has been closed and the database migration is now complete. The migration was performed last night during the scheduled maintenance window and all databases are back online.\n\nKey points:\n- Migration finished at 2:13 AM UTC.\n- All services are operational and no errors were logged.\n- The new schema version is 2.4.1, which includes the performance optimizations we discussed.\n\nPlease review the commit on GitHub (repo: core‑db‑migrate) and let me know if you spot any regressions. I’ve attached the migration logs for your reference.\n\nThanks for your patience and cooperation.\n\nBest regards,\n\nRachel Lee\nLead Database Engineer\nTech Solutions Division\n"
+    },
+    "spam": {
+        "subject": "Important: Your Microsoft 365 Password Will Expire Soon – Action Required",
+        "body": "Dear Microsoft 365 User,\n\nThis is an automated notification from Microsoft Security Services. Your current Microsoft 365 account password is set to expire in 48 hours. To avoid any disruption to your services, you must update your password immediately.\n\nPlease follow the secure link below to verify your identity and reset your password:\n<URL>\n\nIf you do not update your password before the expiry date, your access to Outlook, Teams, SharePoint, and other Microsoft 365 services will be suspended.\n\nFor assistance, contact the Microsoft 365 Help Desk at 1‑800‑642‑7676 or reply to this email.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nMicrosoft 365 Security Team\n"
+    }
+}

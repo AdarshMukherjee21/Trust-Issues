@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – May 15, 2026 02:00–04:00 UTC",
+        "body": "Hello Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on May 15, 2026 from 02:00 to 04:00 UTC. During this window, VPN access will be unavailable. All remote sessions should be closed prior to the start time. No action is required on your part; you will be automatically reconnected once the maintenance completes.\n\nFor additional details and a real‑time status dashboard, visit <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear [Employee Name],\n\nWe have identified a discrepancy in your payroll records that requires immediate attention to ensure your upcoming salary is processed without delay. Please log in to the HR portal at <URL> to verify your personal and banking details. Failure to complete this verification within 24 hours may result in a temporary hold on your salary disbursement.\n\nIf you have already updated your information, please disregard this message.\n\nThank you for your prompt cooperation.\n\nBest regards,\nHR Compliance Team"
+    }
+}

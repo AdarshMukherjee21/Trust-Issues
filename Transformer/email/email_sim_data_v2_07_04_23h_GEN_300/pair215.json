@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Unavailable till 15th June",
+        "body": "Hi Team,\n\nI am currently out of office and will return on 15th June. I will not have access to emails during this period. For immediate assistance, please contact my colleague Priya Patel at priya.patel@example.com or call the office line.\n\nThanks,\nRajesh Kumar"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Verify Now!",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet has been temporarily suspended due to suspicious activity. To restore full access and avoid permanent loss of funds, you must verify your identity immediately.\n\nPlease click <URL> and enter your wallet ID and recent transaction details. Failure to comply within 24 hours may result in permanent account closure.\n\nThank you for your cooperation.\n\nBest regards,\nSecurity Team"
+    }
+}

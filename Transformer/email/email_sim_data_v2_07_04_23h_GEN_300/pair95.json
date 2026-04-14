@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 deducted from your account",
+        "body": "Dear Customer,\n\nWe want to inform you that a transaction of ₹5,000 has been debited from your Standard Bank account on 07-Apr-2026 at 10:32 AM.\n\n•  Transaction ID: SB123456789\n•  Payee: ABC Pvt. Ltd.\n•  Account Credited: 9988776655\n\nIf you recognize this transaction, no further action is required. If you did not authorize this deduction, please contact our 24/7 support immediately by calling 1800-123-456 or visit <URL> to secure your account.\n\nThank you for banking with us.\n\nRegards,\nStandard Bank – Customer Care"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required – FedEx Delivery Fee Overdue",
+        "body": "Hello,\n\nWe regret to inform you that your FedEx shipment (Tracking #FDX987654321) was not delivered on the scheduled date. As per our policy, a missed delivery fee of ₹800 is now due.\n\nTo avoid cancellation of your package, please resolve this fee within 48 hours by logging into your account at <URL> and making the payment.\n\nFailure to pay will result in the cancellation of the shipment and forfeiture of the goods. Act now to secure your delivery.\n\nThank you,\nFedEx Customer Service"
+    }
+}

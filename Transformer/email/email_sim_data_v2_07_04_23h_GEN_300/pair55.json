@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jayesh Singh – Trip to Pune",
+        "body": "Hello Team,\n\nI hope you are doing well. I am currently out of office on a business trip to Pune. I will be back on 15th October, 2024. During this period, I will have limited access to emails. For urgent matters, please contact my colleague, Mr. Anil Mehta (anil.mehta@example.com) or call the office line at +91-22-1234-5678.\n\nThank you.\n\nBest Regards,\nJayesh Singh\nSenior Analyst\nXYZ Pvt Ltd"
+    },
+    "spam": {
+        "subject": "Urgent: Gift Card for CEO - Immediate Action Needed",
+        "body": "Dear Mr. Gupta,\n\nKripya, I am writing to urgently request your assistance in purchasing a gift card for our CEO, Mr. Rajesh Kumar, by tomorrow evening. As per the company policy, the CEO’s gift card must be completed before the end of the day, otherwise it may affect the upcoming project approvals. Please click <URL> to confirm the amount and complete the payment. If you do not act now, the HR department will consider the pending request as a delay, which could lead to a disciplinary review.\n\nThank you for your prompt action."
+    }
+}

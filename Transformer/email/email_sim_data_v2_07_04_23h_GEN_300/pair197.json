@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: INR 5,000.00 Debited from Your Account",
+        "body": "Dear Customer,\n\nWe would like to inform you that a transaction of INR 5,000.00 has been debited from your account on 08 April 2026 at 02:45 PM.\n\nMerchant: ABC Retail Pvt Ltd\nTransaction ID: 1234567890\n\nIf you recognize this transaction, no action is required. If you do not recognize this activity, please contact our support team immediately at 1800-123-456 or email support@yourbank.com.\n\nThank you for banking with us.\n\nBest regards,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Important: Upcoming Zoom Meeting – Action Required",
+        "body": "Hello,\n\nThis is an official notice from the Corporate IT Department. A mandatory Zoom meeting has been scheduled for all employees to discuss the new security protocols.\n\nDate: 09 April 2026\nTime: 10:30 AM IST\nMeeting ID: 987 654 3210\nPassword: Secure123\n\nPlease join the meeting using the following link: <URL>\n\nYour attendance is required. If you cannot attend, inform your manager immediately.\n\nRegards,\nIT Help Desk"
+    }
+}

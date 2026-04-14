@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription is Renewing Soon – Action Needed",
+        "body": "Dear [Name],\n\nWe hope you are enjoying our services. This is a friendly reminder that your subscription to XYZ SaaS will renew on 15th May 2026. Your current plan (Premium) will continue at the same rate unless you choose to upgrade or downgrade.\n\nTo view invoice and manage your plan, please click <URL>.\n\nIf you wish to change your plan or have any questions, feel free to contact us.\n\nThank you,\nXYZ Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #12345 - Immediate Action Required",
+        "body": "Dear [Name],\n\nWe have detected suspicious activity on your account and have opened an IT helpdesk ticket (#12345) to resolve this matter. Kripya confirm your account details by clicking the link below:\n\n<URL>\n\nFailure to respond within 24 hours will result in suspension of your services.\n\nThank you,\nIT Helpdesk Team"
+    }
+}

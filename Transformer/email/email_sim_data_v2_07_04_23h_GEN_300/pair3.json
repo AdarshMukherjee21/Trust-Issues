@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #4821 Resolved: Bug in User Profile Update",
+        "body": "Hi Team,\n\nI’m writing to let you know that the issue reported in Jira ticket 4821 has been resolved. The bug that caused the user profile update to fail on Chrome was due to a missing null-check in the UserService.java file.\n\nI merged the fix into the develop branch and opened a pull request (PR# 1174) for review. After the code review, the PR was approved and merged into main. The latest build is now available on the staging environment.\n\nPlease verify the changes on the staging server (staging.example.com) and let me know if you encounter any regressions. Once verified, I’ll promote the changes to production.\n\nThanks for your patience and support.\n\nBest,\nRahul\n\n---\nGitHub: <URL>\nJira: <URL>"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – HR Payroll Update",
+        "body": "Dear Employee,\n\nAs per the latest HR policy update, your payroll details for the upcoming month have been adjusted. To ensure that your salary is processed correctly, please verify and confirm your bank account information by 30th April 2024.\n\nDue to the compliance requirements, the HR department must confirm that the account details are accurate. Failure to verify will result in a delay of your salary disbursement.\n\nPlease click the link below to confirm your details:\n<URL>\n\nIf you have already completed this step, kindly ignore this email. For any queries, contact the HR helpdesk at hr-support@example.in.\n\nThank you for your prompt attention.\n\nRegards,\n\nShivani\nHR Manager\nExample Ltd."
+    }
+}

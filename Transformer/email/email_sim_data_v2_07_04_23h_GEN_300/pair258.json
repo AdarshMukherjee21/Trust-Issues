@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $500.00 Debited from Your Account",
+        "body": "Dear John,\n\nWe are writing to inform you that a transaction of $500.00 was debited from your account (Account ending 1234) on 07/04/2026 at 10:15 AM. This amount was withdrawn for \"Online Purchase\".\n\nIf you did not authorize this transaction, please contact our fraud prevention team immediately by calling 1-800-123-4567 or by visiting <URL>.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support Team\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Application Approval Pending",
+        "body": "Dear Jane,\n\nCongratulations! Your application for the XYZ University Scholarship has been approved. To finalize the award, we require additional documentation.\n\nPlease upload the following documents at <URL> by 09/04/2026:\n- Official transcript\n- Proof of income\n- Recommendation letter\n\nFailure to comply may result in forfeiture of the scholarship.\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\nDr. John Smith\nDean of Admissions\nXYZ University"
+    }
+}

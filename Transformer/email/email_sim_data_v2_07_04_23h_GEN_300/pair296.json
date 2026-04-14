@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 Has Shipped – Delivery Expected 2026-04-10",
+        "body": "Hi there,\n\nThank you for shopping with Amazon! We’re excited to let you know that your order #123-4567890-1234567 has shipped and is on its way.\n\nOrder Summary:\n• Item: Wireless Bluetooth Headphones\n• Quantity: 1\n• Order Total: $79.99\n\nTracking Information:\n• Carrier: Amazon Logistics\n• Tracking Number: 1Z9999999999999999\n• Estimated Delivery: 2026-04-10\n\nYou can check the status of your delivery by logging into your Amazon account.\n\nIf you have any questions or need assistance, feel free to contact our customer service team.\n\nThank you for choosing Amazon. We hope you enjoy your new headphones!\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Unpaid Delivery Fee for Your Recent FedEx Shipment",
+        "body": "Dear FedEx Customer,\n\nOur records indicate that your recent shipment with FedEx/DHL was marked as \"Missed Delivery\" and a handling fee of $89.99 is now pending. To avoid further delays and additional charges, please confirm your payment within the next 48 hours.\n\nTo resolve this issue, click <URL> to enter the secure payment portal and verify your shipping details.\n\nIf you believe this notice is in error, please reply to this email with your tracking number so we can investigate.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

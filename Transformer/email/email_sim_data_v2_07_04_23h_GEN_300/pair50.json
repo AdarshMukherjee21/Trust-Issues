@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-9876543 has shipped",
+        "body": "Hi [FirstName],\n\nGood news! Your order from Amazon has shipped and is on its way. You can track the delivery status by clicking <URL>.\n\nOrder Details:\n• Item: Echo Dot (4th Gen)\n• Quantity: 1\n• Price: $49.99\n• Shipping Address: 123 Maple Street, Springfield, IL 62704\n\nEstimated Delivery: 3-5 business days\n\nIf you have any questions or need to modify delivery options, please contact our Customer Service team.\n\nThank you for shopping with Amazon.\n\nBest regards,\nAmazon Customer Experience"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Verify Now",
+        "body": "Dear [FirstName],\n\nWe regret to inform you that your crypto wallet (ID: 0xABCD1234EF) has been temporarily suspended due to suspicious activity detected on your account. To restore full access and prevent any potential loss of funds, you must verify your identity immediately.\n\nPlease click <URL> to confirm your account details. Failure to complete verification within 24 hours will result in permanent suspension and possible loss of your assets.\n\nWe understand the urgency and are here to help. If you have any questions, contact our support team at support@<URL>.\n\nThank you for your cooperation.\n\nSincerely,\nCryptoSecure Team"
+    }
+}

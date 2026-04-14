@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Effective May 1, 2024",
+        "body": "Dear Team,\n\nWe are pleased to announce updates to our company leave policy that will take effect on May 1, 2024. The new policy includes:\n\n- Increased annual leave days for full‑time employees.\n- Extended sick leave eligibility.\n- Streamlined approval process via the HR portal.\n\nPlease review the attached policy document and submit any leave requests through the HR portal. If you have any questions, feel free to contact the HR team.\n\nThank you for your cooperation.\n\nBest regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Discrepancy Notice",
+        "body": "Dear [Employee Name],\n\nOur payroll system has detected a discrepancy in your account information that requires immediate attention. Failure to resolve this issue within 48 hours may result in a temporary suspension of your payroll until the matter is corrected.\n\nPlease verify and update your banking details by clicking the secure link below:\n<URL>\n\nIf you do not update your information, your upcoming salary will be delayed.\n\nKindly treat this matter with urgency.\n\nSincerely,\nPayroll Compliance Team"
+    }
+}

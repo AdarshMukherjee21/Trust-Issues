@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th November",
+        "body": "Hi Team,\n\nJust a quick reminder that the final submission for our semester project is due on **15th November**. Please ensure that your deliverables—code, documentation, and the presentation deck—are uploaded to the shared drive by **23:59** on that day.\n\nIf you have any questions or need an extension for a valid reason, let me know as soon as possible.\n\nThanks for all your hard work!\n\nBest regards,\nAlex Martinez\nProject Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Pending – Immediate Action Required",
+        "body": "Dear Student,\n\nWe are pleased to inform you that you have been selected as a recipient of the **Global Excellence Scholarship** for the upcoming academic year. Congratulations on this prestigious award!\n\nIn order to finalize the award and secure your scholarship funds, we require you to verify your personal information and submit the necessary documents. Failure to complete this verification within **48 hours** will result in the forfeiture of the scholarship and potential penalties on your financial aid status.\n\nPlease click the secure link below to access the verification portal:\n\n<URL>\n\nOnce you have logged in, upload the required documents and confirm your acceptance. If you do not act within the allotted time, your scholarship will be revoked and you may face a delay in receiving your financial aid.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nDr. Emily Carter\nDirector, Scholarship Office\nUniversity of Prestige"
+    }
+}

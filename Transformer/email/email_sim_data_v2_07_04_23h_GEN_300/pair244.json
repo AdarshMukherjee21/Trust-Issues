@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy – Effective July 1, 2026",
+        "body": "Dear Team,\n\nI hope you are all doing well. \n\nWe are writing to inform you that the Company Leave Policy has been updated and will take effect on July 1, 2026.  The key changes include:\n\n* **Paid Family Leave** – 10 days of paid leave for all employees who have completed 12 months of service.\n* **Sick Leave Accrual** – Accrual increased from 5 to 7 days per year for full‑time staff.\n* **Remote Work Flexibility** – Employees may now request a hybrid schedule for up to 3 days per week.\n* **Policy Accessibility** – The full policy document, along with FAQs, is now available on the HR portal under the “Benefits” section.\n\nPlease review the updated policy at your earliest convenience. If you have any questions or need clarification, feel free to reach out to the HR Helpdesk (hr-help@company.com) or schedule a meeting through the internal calendar.\n\nThank you for your attention and continued dedication.\n\nBest regards,\n\nMaria Thompson\nHR Director\nCompany Inc."
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that your crypto wallet (Account ID: 0xA1B2C3D4E5) has been temporarily suspended due to a series of suspicious transactions detected on our network.  This action is mandatory to protect your assets from potential fraud.\n\nTo restore full access to your wallet, you must verify your identity and confirm recent activity within 24 hours.  Failure to comply may result in permanent loss of access to your funds.\n\nPlease visit <URL> and complete the verification process.  You will be asked to upload a government‑issued ID and confirm the last four digits of your 6‑digit PIN.\n\nIf you do not act promptly, the suspended funds will be permanently locked and unrecoverable.  This is a security measure enforced by our compliance team.\n\nWe apologize for any inconvenience and appreciate your immediate cooperation.\n\nSincerely,\n\nSecurity Operations Team\nCryptoGuard Services"
+    }
+}

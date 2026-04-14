@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 2026-04-10 02:00–04:00 UTC",
+        "body": "Hello Team,\n\nThis is a reminder that our corporate VPN will undergo routine maintenance on Thursday, April 10th, 2026, from 02:00 UTC to 04:00 UTC. During this window the VPN services will be unavailable. Please plan accordingly and ensure that any critical workflows are completed before the start time.\n\nIf you experience any post‑maintenance connectivity issues, reply to this email or open a ticket in ServiceNow (ref: VPN‑MTN‑2026-04-10).\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations\n"
+    },
+    "spam": {
+        "subject": "❗ Immediate Action Required: QuickBooks Invoice Payment Overdue ❗",
+        "body": "Dear Valued Customer,\n\nOur records indicate that the QuickBooks invoice (Ref: QB‑INV‑2026‑04‑09) issued on March 28th, 2026, remains unpaid. As per the terms of your Norton security agreement, failure to settle the invoice within 7 days will result in service suspension and potential legal action.\n\nTo avoid interruption of your QuickBooks and Norton services, please verify your payment details and complete the transaction immediately by clicking the link below:\n\n<URL>\n\nIf you have already made the payment, kindly disregard this notice. For any questions, contact our Billing Support at billing@quickbooks.com.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

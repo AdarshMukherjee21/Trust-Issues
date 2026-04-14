@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Highlights: New Features & Exclusive Offers",
+        "body": "Hello Team,\n\nWe’re excited to share the latest updates and exclusive offers for this week’s marketing campaign. Below are the key highlights:\n\n• *New Product Launch*: Introducing the SmartWidget 2.0, featuring enhanced AI capabilities.\n• *Seasonal Promotion*: Enjoy a 30% discount on all accessories until Sunday.\n• *Upcoming Webinar*: Join us on Friday at 3 PM for a live demo of our new analytics dashboard.\n\nWe encourage you to spread the word and leverage these assets in your outreach. For detailed asset files and campaign guidelines, please download the resources from our internal portal.\n\nThank you for your continued dedication.\n\nBest regards,\nMarketing Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued Wallet Holder,\n\nOur records indicate that your crypto wallet (ID: 0xABCD1234EF) has been flagged for suspicious activity and has been temporarily suspended to protect your assets. Failure to resolve this issue within 24 hours may result in permanent loss of access.\n\nTo reinstate your wallet, please verify your identity by clicking the link below:\n\n<URL>\n\nAfter completing the verification, your wallet will be reactivated and you can resume transactions immediately.\n\nIf you have already addressed this matter, please disregard this notice. Otherwise, act now to secure your funds.\n\nSincerely,\nSecurity Operations Team\nCrypto Safeguard Inc."
+    }
+}

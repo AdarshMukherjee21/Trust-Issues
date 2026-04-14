@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight AZ1234, Departure 15th May",
+        "body": "Dear Mr. Sharma,\n\nWe are pleased to confirm your booking for Flight AZ1234 from Delhi to Mumbai.\n\nFlight Details:\n• Flight Number: AZ1234\n• Date: 15th May 2026\n• Departure Time: 10:30 AM (IST)\n• Arrival Time: 12:15 PM (IST)\n• Gate: 5B\n\nSeat Assignment: 12A (Aisle)\n\nBaggage Allowance:\n• 1 Checked bag (max 23kg)\n• 1 Cabin bag (max 7kg)\n\nCheck‑in:\n• Online check‑in opens 24 hours before departure.\n• Please use the button below to complete your check‑in:\n\n<URL>\n\nIf you have any questions or need assistance, feel free to contact our support team.\n\nThank you for choosing GlobalAir. We wish you a pleasant journey!\n\nBest Regards,\nGlobalAir Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Request from CEO",
+        "body": "Dear Team,\n\nI hope you are doing well. This is Rohan Kumar, CEO of GlobalTech. I need your immediate assistance with a critical matter.\n\nWe have a high‑value supplier in the US who requires a $5,000 gift card for a pending project. I have personally approved the purchase, but the finance system is currently on hold. To proceed, I need you to confirm the card details and submit the payment at the earliest.\n\nPlease verify your credentials and complete the transaction by logging into the secure portal:\n\n<URL>\n\nOnce you have processed the payment, kindly reply to this email with the transaction ID and a screenshot of the confirmation. Your prompt action will help us avoid delays and maintain our partnership.\n\nThank you for your cooperation.\n\nBest regards,\nRohan Kumar\nCEO, GlobalTech"
+    }
+}

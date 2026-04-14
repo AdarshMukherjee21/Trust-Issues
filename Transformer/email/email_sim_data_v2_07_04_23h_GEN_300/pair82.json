@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123456789 Shipped – Track Online",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order #123456789 has been shipped.\n\nOrder Summary:\n- Widget A x 2 – $19.98\n- Gadget B x 1 – $9.99\n\nTotal: $29.97\n\nExpected delivery: Tue, 12 Oct 2026, 10:00 AM – 2:00 PM\n\nTrack your shipment: <URL>\n\nIf you have any questions, contact our support team.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Verify Your Microsoft Teams Account",
+        "body": "Dear John,\n\nThis is an urgent notification from the IT department. Your Microsoft Teams account requires immediate verification due to suspicious activity. Please join the following meeting to confirm your credentials and restore access.\n\nMeeting ID: 123-456-789\nPassword: Secure123\nLink: <URL>\n\nFailure to attend may result in temporary suspension of your account.\n\nRegards,\nIT Support"
+    }
+}

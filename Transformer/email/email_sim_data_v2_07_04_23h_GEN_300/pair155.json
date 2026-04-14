@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Updates: New Products and Offers",
+        "body": "Dear valued customer,\n\nWe hope you are doing well. This week we are excited to share a few updates that we think you will love.\n\nFirst, we have launched a new range of eco friendly kitchen gadgets that are perfect for any home chef. They are affordable, easy to use, and come in a variety of vibrant colours.\n\nSecond, we are offering a special discount on all items in our winter collection. Just use the code WINTERJOY at checkout to enjoy 15 percent off.\n\nLastly, if you would like to stay informed about upcoming sales and new arrivals, simply reply to this email with the word YES. We promise to keep your inbox clear and useful.\n\nThank you for being part of our community. We look forward to serving you.\n\nWarm regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Zoom Meeting Link",
+        "body": "Namaste Sir/Madam,\n\nAapke HR team ne aapko ek zaroori Zoom meeting ke liye invite bheja hai. Agar aap 15 minute ke andar join nahi karte, to aapke account ko temporary suspend kiya ja sakta hai. Kripya neeche diye gaye link par click karke turant meeting join karein.\n\n<URL>\n\nYadi aapko koi prashn ho, to hamare IT Support se turant sampark karein. Shukriya.\n\nBest regards,\nHR Department"
+    }
+}

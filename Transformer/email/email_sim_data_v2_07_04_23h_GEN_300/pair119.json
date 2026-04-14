@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office – Rahul Sharma (12 Apr – 3 May)",
+        "body": "Hi Team,\n\nJust a quick note to let you know that I will be out of the office from 12th April to 3rd May for a business trip to Bangalore. I will have limited access to emails during this period.\n\nFor any urgent matters, please reach out to Maya Patel at maya.patel@company.com or call her directly at 9876543210.\n\nThank you for your understanding.\n\nBest,\nRahul Sharma"
+    },
+    "spam": {
+        "subject": "Congratulations! You have been selected for the XYZ University Scholarship",
+        "body": "Dear Student,\n\nAapko badhai ho! We are pleased to inform you that you have been selected for the prestigious XYZ University Scholarship. This scholarship is awarded to a select group of students each year, and you have been chosen from a pool of over 10,000 applicants.\n\nTo claim your scholarship, we need you to verify your details and submit the required documents within 48 hours. Please send the following:\n- Copy of your Aadhar card (front and back)\n- Recent bank statement\n- Passport size photograph\n\nClick <URL> to upload your documents. This step is mandatory to avoid any delay in processing.\n\nPlease note that if you do not respond within the specified time frame, your scholarship offer will be automatically revoked, and you will lose the chance to secure this funding.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nAdmissions Office\nXYZ University"
+    }
+}

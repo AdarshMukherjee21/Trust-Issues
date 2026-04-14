@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Recent Purchase at ABC Retailers",
+        "body": "Dear Valued Customer,\n\nWe are writing to inform you that a transaction of $125.47 was made on your account at ABC Retailers on 2026-04-05. If you did not authorize this transaction, please contact our fraud prevention team immediately at 1-800-XYZ-1234.\n\nThank you for using our banking services.\n\nSincerely,\nYour Bank"
+    },
+    "spam": {
+        "subject": "FedEx Delivery Notice – Immediate Action Required to Avoid Additional Charges",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your recent FedEx shipment (Tracking #123456789) was not delivered due to a missed delivery attempt. As a result, an additional"
+    }
+}

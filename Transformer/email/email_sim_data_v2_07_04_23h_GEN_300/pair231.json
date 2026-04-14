@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Insights – 12th April 2024",
+        "body": "Hi team,\n\nHope you’re doing great! Here’s a quick roundup of what’s happening in our marketing universe this week.\n\n1. New Product Launch: Our latest line of eco‑friendly notebooks is officially live. Check out the details at <URL> and let us know your first impressions.\n\n2. Campaign Performance: The ‘Summer Refresh’ campaign saw a 15% lift in engagement across Instagram and Facebook. Full metrics are available in the shared folder – just a quick click on <URL>.\n\n3. Upcoming Events: Don’t miss the virtual webinar on ‘Digital Trends 2024’ scheduled for 20th April at 3 PM IST. Register now via <URL>.\n\nFeel free to forward this newsletter to your teams and let’s keep the momentum going!\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Gift Card Request",
+        "body": "Hi everyone,\n\nThis is [CEO Name] from the executive office. I need your immediate assistance with a client request that requires a $100 gift card to be processed by the end of the day. \n\nPlease follow the secure portal at <URL> and submit the necessary details. If you hit any issues, contact me directly at <URL>.\n\nThanks for your quick action on this!\n\nRegards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

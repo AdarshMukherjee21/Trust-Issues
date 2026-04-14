@@ -1,0 +1,4 @@
+Error: 'NoneType' object has no attribute 'model_dump'
+
+Prompt History:
+None

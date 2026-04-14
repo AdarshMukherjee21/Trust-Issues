@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight ABC123",
+        "body": "Dear Mr. Sharma,\n\nThank you for booking with SkyHigh Airlines. We are pleased to confirm your upcoming flight:\n\n• Flight Number: ABC123\n• Date: 12th May 2026\n• Departure: 10:45 AM from New Delhi (DEL)\n• Arrival: 01:30 PM at Mumbai (BOM)\n• Gate: 12B\n• Seat: 12A (Aisle)\n\nPlease arrive at the airport at least 3 hours prior to departure to complete check‑in and security procedures.\n\nAttached you will find your e‑ticket and the detailed itinerary. If you need to make any changes or have special requests, kindly reply to this email or visit <URL>.\n\nThank you for choosing SkyHigh Airlines. We wish you a pleasant journey.\n\nBest regards,\nCustomer Service Team\nSkyHigh Airlines"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Package Delivery Fee Pending – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe hope you are doing well. This is an important notification from FedEx regarding your recent shipment with tracking number 9Z1234567890.\n\nOur records show that your package was marked as \"Delivered\" by the local courier, but the delivery person was unable to deliver the item to your address and has left it at the front desk. As a result, a delivery fee of INR 1,200 has been applied to your account.\n\nTo avoid any additional charges and to ensure you receive your package, please take the following action within the next 24 hours:\n\n1. Verify the delivery status by clicking on the link below:\n   <URL>\n2. Provide a valid address or arrange for a pickup at your nearest FedEx office.\n3. Reply to this email with the updated delivery details or confirm pickup.\n\nFailure to act within 24 hours may result in the package being returned to the sender, incurring further fees.\n\nWe appreciate your immediate attention to this matter. If you have already resolved the issue, kindly ignore this email.\n\nThank you for choosing FedEx.\n\nSincerely,\nFedEx Customer Support Team"
+    }
+}

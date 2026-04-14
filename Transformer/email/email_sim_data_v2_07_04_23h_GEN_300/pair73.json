@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Bank Transaction Alert – ₹1,200.00 Debited",
+        "body": "Dear Mr. Sharma,\n\nWe hope you are doing well. This is to inform you that a transaction of ₹1,200.00 has been debited from your account (Account No: 1234567890) on 07/04/2026 at 10:15 AM.\n\nYadi aapne is transaction ko authorize nahi kiya hai, kripya turant humse sampark kare.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "Microsoft 365 Account Password Expiry Notice – Immediate Action Required",
+        "body": "Dear User,\n\nMicrosoft has detected unusual activity on your Microsoft 365 account. Your password is set to expire in 24 hours. To continue accessing your emails, files, and Office apps, you must reset your password immediately. Failure to do so may result in temporary suspension of your account.\n\nClick <URL> to reset your password now.\n\nIf you did not request this action, kindly contact Microsoft Support.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

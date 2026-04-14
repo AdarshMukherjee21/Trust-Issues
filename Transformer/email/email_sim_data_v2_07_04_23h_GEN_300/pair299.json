@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – New Campaigns & Insights",
+        "body": "Hi Team,\n\nHope you are all doing well! Here’s your quick snapshot of what’s happening in the marketing world this week:\n\n• **Product Launch:** Our new smart speaker is hitting the market next Friday. Check the launch deck here: <URL>\n• **Campaign Performance:** The \"Summer Vibes\" campaign has exceeded our CTR targets by 12%. Full report: <URL>\n• **Upcoming Webinar:** Join us on Thursday at 3 PM for a deep dive into the new analytics tool. Register here: <URL>\n• **Team Shout‑Out:** Kudos to Maya for closing the Q2 partnership deal with XYZ Corp – great work!\n\nFeel free to reach out if you have any questions or want to contribute to the next campaign. Let’s keep the momentum going!\n\nCheers,\n\nAnita\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update – Immediate Action Required",
+        "body": "Dear Employee,\n\nThis is an official notice from the HR & Payroll Department regarding your upcoming salary disbursement. Due to a recent system upgrade, all employees must confirm their bank details and complete the payroll verification process within 48 hours to avoid any delay in payment.\n\nPlease log in to the secure portal and verify your information using the link below:\n<URL>\n\nIf you do not complete this step by 5 PM on 12th May, your salary for the month of April will be withheld as per company policy. Failure to comply may result in disciplinary action.\n\nFor assistance, contact the payroll helpdesk at +91‑22‑1234‑5678 or reply to this email.\n\nThank you for your immediate attention to this matter.\n\nRegards,\n\nRajesh Kumar\nHead of HR & Payroll"
+    }
+}

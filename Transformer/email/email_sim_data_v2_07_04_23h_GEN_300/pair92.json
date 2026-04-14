@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 Confirmation",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon! This email confirms your recent order placed on 07 April 2026. Your order has been successfully processed and is now ready for shipment.\n\nOrder Summary:\n• 1× Wireless Bluetooth Headphones – $59.99\n• 2× USB-C Charging Cable – $19.98\n• 1× Portable Power Bank – $39.99\nTotal: $119.96\n\nEstimated Delivery: 08 April 2026 – 04:30 PM\n\nIf you need to modify your shipping address or track the package, please log in to your Amazon account.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear Investor,\n\nWe have detected irregular activity in your crypto wallet (Wallet ID: 0xABC123). In accordance with our latest security protocols, the wallet has been temporarily suspended to protect your assets from potential threats.\n\nTo regain access, please verify your identity by following the secure link below. Failure to do so within 24 hours may result in permanent suspension.\n\nClick here to verify: <URL>\n\nYour prompt action is essential to safeguard your investments.\n\nSincerely,\nCoinSecure Security Team"
+    }
+}

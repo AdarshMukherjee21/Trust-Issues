@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved – Action Required",
+        "body": "Hi Team,\n\nI wanted to let you know that the Jira issue [ABC-987] has been resolved and merged into the main branch. The PR was reviewed and approved by @devops. Please pull the latest changes and run the integration tests.\n\nThanks,\nJohn Doe\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Hello,\n\nWe have detected suspicious activity on your crypto wallet and have temporarily suspended it to protect your assets. To restore access, please verify your identity by clicking the link below:\n\n<URL>\n\nFailure to complete verification within 24 hours may result in permanent lockout and loss of funds.\n\nRegards,\nSecurity Team"
+    }
+}

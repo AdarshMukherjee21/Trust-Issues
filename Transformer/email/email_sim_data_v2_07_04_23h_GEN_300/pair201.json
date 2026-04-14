@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flipkart Order Confirmation – Order #1234567890",
+        "body": "Dear Customer,\n\nThank you for shopping with Flipkart! We are pleased to confirm your order details below:\n\nOrder Number: 1234567890\nOrder Date: 08-Apr-2026\n\nItems:\n1. **Sunglasses – Polarized UV Protection** – Qty: 1 – ₹1,200\n2. **Stainless Steel Water Bottle (1L)** – Qty: 2 – ₹800 each\n3. **Premium Leather Wallet** – Qty: 1 – ₹2,500\n\nTotal Payable: ₹5,300 (incl. GST & delivery charges)\n\nYour order is now *Processing* and will be dispatched within 24 hours. The estimated delivery date is **12-Apr-2026**.\n\nIf you have any questions or need to modify your delivery address, please reply to this email or contact our customer care at 1800-123-5432.\n\nThank you for choosing Flipkart!\n\nBest Regards,\nFlipkart Customer Support\n\n*This is an automated message. Please do not reply.*"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update - Immediate Action Required",
+        "body": "Dear Employee,\n\nThis is an urgent notification from the HR & Finance Department regarding your payroll details for the upcoming month. Our records indicate that there is a discrepancy in the bank account information on file, which might delay your salary disbursement.\n\n**Action Required:**\n1. Click the link below to verify and update your banking details.\n2. Complete the mandatory confirmation within 24 hours to avoid any delay.\n\n<URL>\n\nPlease treat this email as confidential. If you do not take action, your salary for May 2026 may be postponed.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nRajesh Kumar\nHR Manager\nABC Pvt. Ltd.\nHR@abc.com\nPhone: +91-9876543210"
+    }
+}

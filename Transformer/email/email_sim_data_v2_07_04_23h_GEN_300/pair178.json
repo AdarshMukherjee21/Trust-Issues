@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved – Deployment Pipeline Updated",
+        "body": "Hi Team,\n\nI wanted to let everyone know that ticket #1234 (Deploy latest API changes to staging) has been closed successfully. The build passed all unit tests, and the deployment to the staging environment was completed without any issues. I have updated the Jira status to \"Done\" and pushed the corresponding commit to the repository (commit hash: abcdef12345).\n\nKey points:\n• The new endpoint now supports pagination.\n• The response schema has been updated to include the `last_updated` field.\n• All related unit tests were updated to reflect the changes.\n\nPlease verify the changes in the staging environment and let me know if you encounter any discrepancies. If everything is fine, I'll merge the changes into the main branch next Friday.\n\nThanks for all the hard work!\n\nBest regards,\nAlex"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiry Notice",
+        "body": "Dear [FirstName] [LastName],\n\nIt has come to our attention that your Microsoft 365 account password is due to expire on [Date]. In order to maintain uninterrupted access to your corporate email, OneDrive, Teams, and other Microsoft 365 services, you must reset your password within 48 hours.\n\nPlease click the link below to reset your password immediately:\n\n<URL>\n\nIf you do not reset your password by the deadline, your account will be disabled, and you may lose access to critical business data. This is a mandatory security measure to protect your account and the company’s sensitive information.\n\nFor assistance or if you have any questions, contact the IT Help Desk at helpdesk@company.com or call 555‑123‑4567.\n\nThank you for your prompt attention.\n\nRegards,\nIT Security Team"
+    }
+}

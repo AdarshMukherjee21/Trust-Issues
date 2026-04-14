@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: Company Leave Policy Changes Effective 1st June 2026",
+        "body": "Dear Team,\n\nI hope you all are doing well. We would like to inform you about some important updates to our leave policy that will take effect from 1st June 2026.\n\nKey changes:\n- Annual leave entitlement is increased from 12 to 15 days.\n- New flexible leave option: employees can now take up to 5 days of unpaid leave for personal commitments.\n- Leave approval process has been streamlined – simply fill out the online form and your manager will receive an automatic notification.\n- All leave requests must be submitted at least 14 days in advance for planned leave, and 48 hours for emergency leave.\n\nPlease review the attached policy document for detailed information. If you have any questions or need clarification, feel free to reach out to the HR team via chat or email.\n\nThank you for your attention to this matter and for your continued dedication.\n\nBest regards,\nHR Team"
+    },
+    "spam": {
+        "subject": "Security Alert: Immediate Action Required – Microsoft 365 Password Expiry",
+        "body": "Dear Team,\n\nWe have detected that your Microsoft 365 account password is set to expire in 48 hours. To ensure uninterrupted access to your emails, documents, and other services, you must update your password immediately.\n\nPlease click on the following link to verify and reset your password: <URL>\n\nIf you do not take action, your account will be disabled and you will lose access to all company resources. This is a mandatory security measure to protect our data.\n\nThank you for your prompt attention to this critical matter.\n\nBest,\nMicrosoft Security Team"
+    }
+}

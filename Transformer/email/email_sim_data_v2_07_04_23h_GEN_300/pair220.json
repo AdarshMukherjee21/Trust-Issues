@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "October Highlights – New Deals & Exclusive Offers Inside",
+        "body": "Hello Valued Customer,\n\nThank you for being part of our community! This week we’re excited to share our latest product lineup, seasonal promotions, and a special thank-you gift just for you.\n\n• New Arrivals: Check out our fresh collection of accessories that pair perfectly with your style.\n• Limited-Time Discount: Enjoy 15% off on all orders placed before Friday, 11:59 PM. Use code OCT15 at checkout.\n• Free Shipping: For orders over $75, shipping is on us.\n\nWe appreciate your loyalty and look forward to serving you.\n\nBest regards,\nYour Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Discrepancy Detected",
+        "body": "Hi [Employee Name],\n\nI am writing to inform you that we have detected an issue with your payroll details for the upcoming month. Our system flagged your account for an incomplete verification. If this is not resolved by 5:00 PM today, your salary will be withheld, and you may be placed on a temporary hold pending further review.\n\nTo correct this, please log in to your employee portal and verify your bank account information. Click <URL> to access the secure verification page. You must complete this within 24 hours to avoid any payroll delays.\n\nIf you believe this is a mistake, contact the HR department immediately at hr-dept@company.com or call 1-800-555-1234.\n\nThank you for your prompt attention.\n\nRegards,\n[HR Manager Name]\nHuman Resources"
+    }
+}

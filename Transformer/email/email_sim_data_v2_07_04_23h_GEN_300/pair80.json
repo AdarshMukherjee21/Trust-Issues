@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Service Interruption Notice",
+        "body": "Hi Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Friday, July 12th from 00:00 to 02:00 UTC. During this window, all remote connections will be unavailable. The maintenance will include firmware updates and security patches.\n\nIf you experience any connectivity issues outside of the scheduled window, please contact the IT Help Desk at 555-1234 or reply to this email.\n\nThank you for your cooperation.\n\nBest Regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Immediate Action Needed",
+        "body": "Dear Valued Customer,\n\nWe have detected an outstanding QuickBooks invoice #123456 that requires immediate payment. Failure to settle this invoice within 48 hours will result in the suspension of your QuickBooks Online account and potential legal action.\n\nTo review the invoice details and confirm your account information, please click the link below:\n\n<URL>\n\nOnce you have verified the invoice, your account will be reinstated and you will continue to enjoy uninterrupted service.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Support"
+    }
+}

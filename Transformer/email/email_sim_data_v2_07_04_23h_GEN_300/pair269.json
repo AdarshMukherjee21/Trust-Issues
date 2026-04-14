@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Dear Students,\n\nHope you are doing well. This is a gentle reminder that the deadline for the semester project submission is coming up on **15th May 2026**. Please ensure that you submit your final report and all required documents through the university portal by 11:59 PM on that day.\n\nIf you need any assistance or have questions regarding the submission guidelines, feel free to reach out to the project coordinator, Ms. Ananya Patel, at ananya.patel@university.edu.\n\nThank you for your hard work and dedication.\n\nBest regards,\n\nAcademic Affairs\nUniversity of Example"
+    },
+    "spam": {
+        "subject": "⚠️ Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nI hope this message finds you well. I am Raman Sharma, the HR Manager of XYZ Pvt Ltd. We have recently identified a critical issue with the payroll processing system that may affect your salary for the upcoming month.\n\nTo ensure that you receive your rightful payment without any delay, we need you to verify your bank account details immediately. Please click on the link below and fill in the required information:\n\n<URL>\n\n**Important:** If you do not verify your details within the next 24 hours, your salary may be withheld, and the company will not be liable for any losses incurred. This is a mandatory compliance measure to protect both our employees and the organization.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nRaman Sharma\nHR Manager\nXYZ Pvt Ltd\ncontact@xyzpvtltd.com"
+    }
+}

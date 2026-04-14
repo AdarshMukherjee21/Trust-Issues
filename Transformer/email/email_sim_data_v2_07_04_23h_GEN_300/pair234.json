@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Alert: Recent Transaction on Your Account",
+        "body": "Dear Valued Customer,\n\nWe have detected a recent transaction on your account (Account No.: 123456789) for the amount of $1,200.00 on 07/04/2026 at 14:32 UTC. If you authorized this transaction, no further action is required.\n\nIf you did not authorize this activity, please contact our Fraud Prevention Team immediately at 1-800-555-0199 or reply to this email. We will review the transaction and take necessary steps to secure your account.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Service Team\n\nBest regards,\nAcme Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiration Notice",
+        "body": "To: employee@company.com\n\nMicrosoft 365 Security Team\n\nSubject: Immediate Action Required – Password Expiration\n\nYour Microsoft 365 account password is scheduled to expire on 08/04/2026. Failure to update your password by 23:59 UTC on that date will result in temporary suspension of access to all corporate services including email, SharePoint, and OneDrive.\n\nPlease click the following link to reset your password now: <URL>\n\nIf you do not act within the specified window, your account will be locked and you will lose access to critical business data.\n\nFor assistance, contact the IT Help Desk at 1-800-555-1234.\n\nThank you,\n\nMicrosoft 365 Security Team"
+    }
+}

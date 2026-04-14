@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Backend API Refactor Complete",
+        "body": "Hi Team,\n\nI wanted to let everyone know that the Jira ticket #12345 has been fully resolved. The backend API refactor has been completed and the new endpoints are now live on the staging environment.\n\nKey points:\n- Updated the /users endpoint to return full profile data.\n- Removed the deprecated /userInfo route.\n- Added unit tests for the new validation logic.\n- Deployed the changes to the staging server; you can check the logs here: <URL>\n\nPlease run a quick smoke test on your side and let me know if you encounter any issues. Once you confirm everything is working, I'll merge the changes into the main branch.\n\nThanks for your patience and support.\n\nBest,\nArjun"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting 3:00 PM",
+        "body": "Dear User,\n\nThis is an automated notification from your organization’s IT department. Due to a recent security audit, we need you to join a mandatory Zoom meeting at 3:00 PM today. Failure to attend may result in a temporary suspension of your account.\n\nMeeting Details:\n- Topic: Security Compliance Briefing\n- Time: 3:00 PM – 3:15 PM\n- Link: <URL>\n- Password: 123456\n\nPlease join the meeting immediately. If you have any questions, reply to this email or call the support line at 1800-123-456.\n\nThank you for your cooperation.\n\nBest regards,\nIT Security Team"
+    }
+}

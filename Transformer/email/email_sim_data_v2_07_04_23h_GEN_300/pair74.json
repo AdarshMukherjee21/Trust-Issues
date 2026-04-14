@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved – Review & Merge Request",
+        "body": "Hi Team,\n\nI am pleased to inform you that the issue reported in Jira ticket #12345 has been fully resolved in the latest commit (commit hash: a1b2c3d). All unit tests pass, and the regression tests have been updated accordingly.\n\n**Resolution Summary**\n- Fixed null‑pointer exception in the UserService when retrieving profile data.\n- Added comprehensive validation for the new API endpoint.\n- Updated integration tests to reflect the new contract.\n\n**Next Steps**\n1. Review the changes in the `feature/12345-fix` branch.\n2. Run the full test suite locally to ensure no side‑effects.\n3. If all checks pass, create a pull request for merging into `main`.\n\nIf you have any questions or spot anything that needs further tweaking, please let me know.\n\nThanks for your collaboration!\n\nBest,\nAlex\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks & Norton Invoice #98765 Unpaid – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your QuickBooks account is currently in arrears. Invoice #98765 for the amount of $1,234.56 has remained unpaid for over 30 days. Failure to settle this balance will result in an automatic suspension of your QuickBooks and Norton services by 5:00 PM today.\n\nTo avoid any disruption, please log into your account via the secure portal at <URL> and complete payment immediately. Your account details are listed below for your convenience:\n\n- Account ID: 654321\n- Outstanding Balance: $1,234.56\n- Due Date: 09/30/2026\n\nPlease treat this matter with the utmost urgency. If you believe this notice was sent in error, contact our billing department at <URL> within 24 hours.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nBilling Operations Team\nQuickBooks & Norton"
+    }
+}

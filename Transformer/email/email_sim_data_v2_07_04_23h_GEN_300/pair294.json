@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 has been shipped",
+        "body": "Hello Valued Customer,\n\nThank you for shopping with Amazon! We’re excited to let you know that your order has shipped and is on its way to you.\n\nOrder Summary:\n• Order ID: 123-4567890-1234567\n• Shipping Address: 42 Maple St., Springfield, IL 62704\n• Items:\n  – 1 × Kindle Paperwhite – $129.99\n  – 2 × Echo Dot (3rd Gen) – $19.99 each\n  – 1 × Amazon Basics USB-C Cable – $9.99\n• Total (incl. taxes & shipping): $170.96\n\nEstimated Delivery: Thursday, Apr 25, 2026\n\nYou can track your shipment at any time by clicking the link below:\n\n<URL>\n\nIf you have any questions or need to change your delivery address, please contact Amazon Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\n\nThe Amazon.com Team"
+    },
+    "spam": {
+        "subject": "URGENT: Unclaimed FedEx Delivery – Pay $49 Fee Now",
+        "body": "Dear Customer,\n\nOur records show that a FedEx package was scheduled for delivery to your address on April 20, 2026, but the recipient was not available to accept the shipment. As a result, the package has been held at the FedEx facility for 48 hours.\n\nTo avoid further delay and potential loss of your shipment, you must pay a recovery fee of $49.00 within the next 24 hours. Failure to comply will result in the package being returned to the sender and you will be responsible for all additional shipping and handling costs.\n\nPlease complete the payment promptly by clicking the link below:\n\n<URL>\n\nWe understand the inconvenience this may cause and appreciate your immediate attention to this matter. If you believe this notice has been sent in error, please contact FedEx Customer Service immediately at 1-800-553-3860.\n\nThank you for your cooperation.\n\nSincerely,\n\nFedEx Legal Department\nFedEx Customer Support"
+    }
+}

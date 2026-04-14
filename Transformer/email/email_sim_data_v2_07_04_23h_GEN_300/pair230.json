@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order # 123-4567890-1234567",
+        "body": "Hello [CustomerName],\n\nThank you for shopping with Amazon! Your order has been successfully placed.\n\nOrder Details:\n• Order ID: 123-4567890-1234567\n• Item: [Item Name]\n• Quantity: 1\n• Price: $[Price]\n\nShipping Address:\n[Address]\n\nEstimated Delivery: [Date]\n\nTo track your order, click <URL>.\n\nIf you have any questions, contact us.\n\nThank you for shopping with us!\n\nAmazon"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase",
+        "body": "Dear [Name],\n\nThis is [CEO Name], CEO of [Company]. I need your assistance with an urgent matter regarding a corporate gift card purchase. We have a client who requires a $500 gift card by the end of the day. Please process this request immediately. Click <URL> to confirm the purchase and attach the receipt to this email.\n\nThank you,\n\n[CEO Name]\nChief Executive Officer\n[Company]"
+    }
+}

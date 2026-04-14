@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #987654321 has Shipped",
+        "body": "Dear Customer,\n\nThank you for shopping with Amazon! We are pleased to inform you that your order #987654321 has been shipped.\n\nOrder Details:\n- Item: Kindle Paperwhite – 8GB – Black\n- Quantity: 1\n- Total Paid: ₹1,299.00 (incl. GST)\n- Shipping Address: 12, Laxmi Nagar, New Delhi, 110001\n- Shipping Method: Amazon Prime – 1 day delivery\n\nYou can track your shipment using the following link: <URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or call our customer support.\n\nThank you for choosing Amazon. Happy reading!\n\nBest Regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Ticket #IT-987654 – Account Compromised",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your corporate account. A ticket has been created (Ticket ID: IT-987654). Please verify your credentials within 24 hours to avoid suspension.\n\nSteps to verify:\n1. Click on the following link: <URL>\n2. Enter your employee ID and password.\n3. Complete the captcha.\n\nIf you ignore this, your account will be blocked.\n\nKripya jaldi se verify karein.\n\nThank you,\nIT Support Team"
+    }
+}

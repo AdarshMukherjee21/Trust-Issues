@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XProduct Subscription Renewal is Coming Up – Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you’re enjoying the full benefits of XProduct! We want to remind you that your current subscription (ID: 123456) will renew on 15‑May‑2026. Your account will automatically be billed on that date, and you’ll continue to receive all premium features, priority support, and the latest updates.\n\nIf you wish to change your payment method or upgrade your plan, please visit <URL> before the renewal date. Otherwise, your subscription will remain unchanged.\n\nThank you for choosing XProduct. If you have any questions, feel free to reply to this email or contact our support team.\n\nBest regards,\nThe XProduct Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Request for CEO",
+        "body": "Hi Team,\n\nI am writing to you as the CEO of TechVenture. Due to a last‑minute client meeting, I need to send a corporate gift card to our client in New Delhi. The card value is INR 10,000 and must be processed by 09:00 AM today.\n\nPlease use the corporate account (Account No: 987654321) and initiate the transfer immediately. If this is not done on time, the client will be disappointed and we risk losing a major partnership. I’ll personally verify the transaction once it’s done.\n\nKindly confirm receipt of this request and complete the transaction as soon as possible. If you need any further details, let me know right away.\n\nThank you for your swift cooperation.\n\nRegards,\nRahul Sharma\nCEO, TechVenture"
+    }
+}

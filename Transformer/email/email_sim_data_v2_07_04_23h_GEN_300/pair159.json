@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation",
+        "body": "Dear Mr. Singh,\n\nThank you for booking with AirIndiaExpress. Below are the details of your upcoming flight:\n\n• Flight Number: AI-856\n• Date: 18th April 2026\n• Departure: 14:30 from Delhi (Terminal 3, Gate 12)\n• Arrival: 17:45 in Mumbai (Terminal 1, Gate 7)\n• Seat: 12A (Aisle)\n• Baggage Allowance: 1 free checked bag (23kg) + 1 carry‑on bag (7kg)\n\nPlease arrive at the airport at least 3 hours before departure. For any changes or assistance, reply to this email or call our helpline at 1800-123-456.\n\nWe wish you a pleasant journey!\n\nBest regards,\nCustomer Care Team\nAirIndiaExpress"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Payroll Correction Required",
+        "body": "Dear Employee,\n\nThis is an official notice from the HR & Payroll Department. Your payroll for the month of March has been flagged for discrepancy. To avoid an account block and ensure you receive your salary on time, you must verify your bank details within the next 24 hours.\n\nClick <URL> to log in and confirm the information. The link is protected by our secure authentication system and will automatically redirect you to the payroll portal.\n\nPlease note: If you ignore this request, your account will be suspended and you may face delayed salary payments.\n\nFor any queries, contact the HR helpdesk at 1800-555-123 or reply to this email.\n\nThank you for your immediate attention.\n\nSincerely,\nHR & Payroll Management"
+    }
+}

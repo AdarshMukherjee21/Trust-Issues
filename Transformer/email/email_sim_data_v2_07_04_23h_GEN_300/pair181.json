@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Newsletter - Exclusive Deals Inside!",
+        "body": "Hi there,\n\nHope you’re doing great! It’s time for our weekly update with the best offers on your favorite products.\n\n---\n**Deal of the Week**\n\nAapke liye hum laaye hain 20% discount on all kitchen appliances. Use code: KITCHEN20 at checkout.\n\n**New Arrivals**\n\nCheck out our latest collection of smart wearables that will help you track your health in real time.\n\n**Customer Spotlight**\n\nRani from Jaipur shares how our eco-friendly bamboo toothbrush saved her money and the planet.\n\n---\n\nShop now and make the most of these limited-time offers. If you have any questions, reply to this email and we’ll get back to you within 24 hours.\n\nThank you for being a valued customer!\n\nBest regards,\n\nThe Team\n\nFollow us on social media for daily updates."
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Pending – Immediate Action Required!",
+        "body": "Dear Customer,\n\nWe have detected that your recent FedEx shipment (Tracking #123456) was not delivered due to an unpaid fee of Rs. 500. To prevent shipment cancellation, please verify your account and pay the fee within 24 hours.\n\nClick <URL> to confirm your payment and secure your delivery.\n\nIf you do not take action, the shipment will be returned to sender and additional penalties may apply.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

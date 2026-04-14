@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved – Updates and Next Steps",
+        "body": "Hi Rahul,\n\nHope you are doing well. I am writing to inform you that the Jira ticket #1234 regarding the login bug has been successfully resolved. The fix has been merged into the master branch and deployed to the staging environment. You can review the changes on GitHub at <URL>.\n\nKey points:\n- The bug was caused by an incorrect session timeout value.\n- The new timeout is now set to 30 minutes.\n- All tests are passing (CI status green).\n\nPlease pull the latest changes and run your local tests. Once you confirm everything works on your side, let me know and I will close the ticket.\n\nThank you for your quick response on the earlier communication.\n\nRegards,\nAnita\nProject Lead"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 password will expire in 24 hours – Action Required",
+        "body": "Dear User,\n\nThis is an automated notification from the Microsoft 365 security team. Your password is scheduled to expire in 24 hours. To continue accessing your email, SharePoint, OneDrive and other services, you must verify your account immediately.\n\nPlease click the secure link below and follow the instructions:\n<URL>\n\nIf you do not verify within the next 24 hours, your account will be temporarily locked and you will lose access to all Microsoft 365 services. This is a security measure to protect your data.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nMicrosoft 365 Security Team"
+    }
+}

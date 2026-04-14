@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "TICKET #12345 Resolved: Update on Feature XYZ Deployment",
+        "body": "Hi Team,\n\nI am writing to inform you that the Jira ticket #12345 has been successfully resolved. The issue with the Feature XYZ deployment was due to a misconfiguration in the CI pipeline, which has now been corrected.\n\n**Resolution Details**\n- Updated the pipeline script to use the correct branch.\n- Added a new environment variable to avoid the timeout.\n- Ran a full regression test; all tests passed.\n\nPlease pull the latest changes from the `release/feature-xyz` branch and deploy to staging by end of day. Once verified, we can proceed with production rollout tomorrow.\n\nThanks for your patience and cooperation.\n\nRegards,\n\nAnanya Gupta\nDevOps Engineer\n\n---\nP.S. If you have any questions or need further assistance, feel free to reply to this email or create a new ticket."
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet has been temporarily suspended due to suspicious activity detected on your account. As per our security protocols, we are unable to confirm the legitimacy of recent transactions until you verify your wallet.\n\nTo reactivate your wallet, please follow the steps below:\n1. Click on the secure link provided below and log in with your wallet credentials.\n2. Complete the identity verification process.\n3. Confirm your recent transactions by entering the unique verification code sent to your registered email.\n\n<URL>\n\nFailure to complete the verification within 24 hours will result in permanent deletion of your wallet and its contents. This is to protect you from potential unauthorized access.\n\nIf you believe this is a mistake, please contact our support team immediately.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nSecurity Operations Team\nCryptoSafe Inc."
+    }
+}

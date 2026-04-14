@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation for 15th June",
+        "body": "Dear Passenger,\n\nThank you for choosing Indian Airlines for your travel plans. Your flight booking has been confirmed and your itinerary details are attached below.\n\nFlight Number: AI-1025\nDeparture: 15th June 2026, 10:00 AM from Delhi (DEL)\nArrival: 15th June 2026, 02:00 PM at Mumbai (BOM)\nSeat: 12A\n\nPlease review the information and let us know if any changes are required. If you have any questions, feel free to reply to this email.\n\nSafe travels!\n\nBest Regards,\nIndian Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Update Required – Immediate Action Needed",
+        "body": "Dear Applicant,\n\nWe hope this message finds you well. This is to inform you that your application for the 2026-27 National Merit Scholarship has reached the final verification stage.\n\nDue to a recent change in the scholarship disbursement policy, we require you to confirm your personal details and upload the necessary documents at the earliest. Failure to provide the required information within 48 hours may result in the automatic cancellation of your scholarship award.\n\nClick the secure link below and complete the verification process:\n\n<URL>\n\nThis is a mandatory step to ensure that your scholarship funds are processed without delay. If you have already submitted the documents, kindly ignore this notice.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nDr. Arjun Patel\nChief Academic Officer\nNational Scholarship Office"
+    }
+}

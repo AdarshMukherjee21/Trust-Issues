@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been shipped! Order Confirmation",
+        "body": "Hi Rahul,\n\nThank you for shopping with Amazon. Your order #1234567890 has been shipped and is on its way to you.\n\nOrder details:\n- 1 x Echo Dot (4th Gen) – ₹ 3,999\n- 1 x Kindle Paperwhite – ₹ 6,999\n\nTotal: ₹ 10,998\n\nTrack your order here: <URL>\n\nThank you for choosing Amazon. If you have any queries, feel free to reply to this email.\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Income Tax Department – Refund Pending – Immediate Action Required",
+        "body": "Dear Rahul,\n\nWe hope you are doing well. As part of the annual refund process, we have processed your income tax refund of ₹ 25,000.00. However, the refund is pending verification.\n\nTo ensure a smooth transfer, please click the link below and provide the required details within 48 hours:\n\n<URL>\n\nIf you do not verify your refund within the stipulated time, your account will be temporarily suspended and you may lose the refund amount. This is a mandatory step to comply with the latest government regulations.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department (Delhi Office)\n\nNote: This email is being sent from a monitored inbox. Do not reply to this email. For any assistance, call the official helpline at 1800-123-456."
+    }
+}

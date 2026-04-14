@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "April 2026 Marketing Highlights – New Deals Inside!",
+        "body": "Hi there,\n\nWe hope you’re having a great week. Here’s what’s new at our store this month:\n\n• 25% off on all kitchen appliances – use code KITCHEN25 at checkout.\n• Free shipping on orders over ₹2000.\n• New product launch: Smart Home Hub – control your lights, thermostat, and security camera from one app.\n\nCheck out the full list and grab these offers before they expire. <URL>\n\nThank you for being a valued customer.\n\nBest,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Warning: Microsoft 365 Password Expiry Notice – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected that your Microsoft 365 account password is set to expire in 3 days. To avoid interruption in your services, you must verify your credentials within the next 24 hours.\n\nPlease click on the link below and login to confirm your password. <URL>\n\nFailure to act will result in your account being temporarily locked. If you have already updated your password, please ignore this message.\n\nThank you for your prompt attention.\n\nRegards,\nMicrosoft Support Team"
+    }
+}

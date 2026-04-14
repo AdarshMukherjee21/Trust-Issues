@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming VPN Maintenance – 15th May 2026 02:00–04:00 UTC",
+        "body": "Hello Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Friday, 15 May 2026 from 02:00 UTC to 04:00 UTC. During this window, all VPN connections will be unavailable, which may affect remote access to internal resources.\n\n**What you need to know:**\n- All employees must plan their work accordingly.\n- If you rely on VPN for critical tasks, consider using the internal network once the maintenance is complete.\n- The maintenance is part of our quarterly security upgrade and will improve overall performance.\n\nIf you experience any issues after the maintenance window, please contact the IT Help Desk at helpdesk@example.com or call extension 1234.\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that due to recent suspicious activity, your crypto wallet (ID: 0xABCD1234EF567890) has been temporarily suspended to protect your assets.\n\n**Immediate Action Required**\nTo prevent permanent lockout and potential loss of funds, please verify your identity and confirm ownership by following the steps below:\n\n1. Click the link below to access the secure verification portal.\n   <URL>\n2. Enter your wallet ID and the last four digits of your registered mobile number.\n3. Follow the on-screen prompts to upload a recent selfie and a copy of your government-issued ID.\n\nPlease complete this process within 24 hours. Failure to do so may result in irreversible account restrictions and potential loss of cryptocurrency holdings.\n\nIf you believe this suspension is a mistake, reply to this email with the subject line \"Wallet Verification – 0xABCD1234EF567890\" and include the requested documentation.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nSecurity Team\nCryptoSafe Inc."
+    }
+}

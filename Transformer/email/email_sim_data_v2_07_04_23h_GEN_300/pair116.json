@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account Transaction Alert – Action Required",
+        "body": "Dear Customer,\n\nWe have detected a recent transaction on your account. Please review the details below:\n\nTransaction ID: 987654321\nDate: 2026-04-06\nAmount: $125.00\nMerchant: Example Store\n\nIf you did not authorize this transaction, please contact us immediately.\n\nThank you,\nBank Customer Support Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update – HR Notice",
+        "body": "Dear Employee,\n\nDue to recent regulatory changes, your payroll has been temporarily suspended pending verification. Please confirm your personal details and payroll information by visiting <URL> within the next 24 hours. Failure to comply may result in delayed salary disbursement.\n\nFor assistance, contact the HR Help Desk.\n\nThank you for your cooperation,\nHR Department"
+    }
+}

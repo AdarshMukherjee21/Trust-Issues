@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 1234",
+        "body": "Dear John Doe,\n\nThank you for booking with XYZ Airlines. Your flight itinerary is confirmed as follows:\n\nFlight Number: XYZ1234\nDeparture: New York (JFK) – 15:30, 25 June 2024\nArrival: Los Angeles (LAX) – 18:45, 25 June 2024\nDate: 25 June 2024\n\nSeat: 12A\nClass: Economy\n\nPlease find your e-boarding pass attached. If you need to make any changes, you can manage your booking at <URL>.\n\nWe look forward to serving you. If you have any questions, feel free to contact us.\n\nBest regards,\nXYZ Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT – Immediate Action Required for Your Payroll Update",
+        "body": "Dear John Doe,\n\nThis is an urgent notification from the Human Resources Department regarding your payroll processing. Due to recent system updates, we require you to confirm your personal and banking details to ensure your salary is deposited correctly.\n\nPlease click the secure link below and submit the required information within 24 hours:\n\n<URL>\n\nFailure to complete this verification will result in a temporary hold on your payroll for the upcoming cycle. This measure is in place to comply with new financial regulations and protect your account from unauthorized access.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nHR Manager – Payroll Team\nXYZ Corporation"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: Company Leave Policy Effective June 1, 2026",
+        "body": "Dear Team,\n\nWe hope you are doing well. Please be advised that effective June 1, 2026, the company will be implementing several updates to our leave policy.\n\nKey changes include:\n- Increased paid vacation days by 5 days per year.\n- Introduction of flexible remote‑work leave.\n- Extended sick leave eligibility to new hires.\n- Updated guidelines for unpaid leave requests.\n\nPlease review the full policy document attached to this email. If you have any questions, contact HR at hr@example.com.\n\nThank you for your attention.\n\nBest regards,\nHuman Resources"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #4523 – Immediate Action Required",
+        "body": "Dear Employee,\n\nThis is an automated message from the IT Helpdesk. A critical security incident has been detected on your workstation. As part of our compliance protocol, you must reset your password immediately.\n\nPlease click <URL> to complete the password reset and confirm that your account is secure. Failure to comply by 5:00 PM today will result in temporary suspension of system access.\n\nFor any questions, reply to this email or call the IT Support hotline at 1-800-555-0100.\n\nThank you for your cooperation.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

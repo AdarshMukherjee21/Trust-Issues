@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Subscription is Expiring Soon – Please Renew",
+        "body": "Dear [Name],\n\nWe hope you are enjoying the features of [SaaS Product]. Your subscription is set to expire on [Date]. To continue uninterrupted service, please renew your subscription by clicking <URL>.\n\nThank you for choosing us.\n\nBest regards,\nThe [Company] Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Support Ticket #98765 – Immediate Action Required",
+        "body": "Hello [Name],\n\nOur system has detected unusual activity on your account. As a security measure, we have temporarily suspended your access. To restore access, please verify your credentials by clicking <URL> within the next 24 hours.\n\nFailure to comply will result in permanent lockout of your account.\n\nThank you,\nIT Support Team"
+    }
+}

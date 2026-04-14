@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 debited from your account",
+        "body": "Dear Mr. Sharma,\n\nWe would like to inform you that a transaction of ₹5,000 has been debited from your savings account ending with 4321 on 07-04-2026. The transaction was made on your debit card with the last four digits 9876.\n\nIf you did not authorize this transaction, please contact our customer support immediately at 1800-XXX-XXX or visit your nearest branch.\n\nThank you for banking with us.\n\nBest regards,\n\nCustomer Support Team\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Verify your Zoom Meeting Link – Action Required",
+        "body": "Hello,\n\nA confidential Zoom meeting has been scheduled for you on 08-04-2026 at 10:00 AM. Your participation is critical for the upcoming project review.\n\nTo join the meeting, you must verify your details by clicking the link below within the next 15 minutes to avoid cancellation:\n\n<URL>\n\nPlease make sure you have the Zoom app installed and your internet connection stable. If you encounter any issues, contact our IT support at 1800-XXX-XXX.\n\nRegards,\n\nRajesh Kumar\nProject Lead"
+    }
+}

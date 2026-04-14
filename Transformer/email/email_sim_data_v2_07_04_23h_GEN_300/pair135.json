@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Booking Ref: ABC123",
+        "body": "Dear Mr. Singh,\n\nThank you for choosing AirIndia for your upcoming travel. Please find below the details of your flight booking:\n\n•  Booking Reference: ABC123\n•  Passenger Name: Mr. Rajesh Singh\n•  Flight Number: AI 701\n•  Departure: New Delhi (DEL) – 25th August 2026 06:30 AM\n•  Arrival: Mumbai (BOM) – 25th August 2026 08:00 AM\n•  Gate: 12B\n•  Seat: 12A (Window)\n•  Baggage Allowance: 1 Checked Bag (23 kg) & 1 Hand Luggage (7 kg)\n•  Check‑in: 24th August 2026 10:00 PM (Online) or 24th August 2026 04:00 PM (Airport Counter)\n\nPlease arrive at the airport at least 3 hours before departure to allow time for security, boarding, and immigration checks. For any changes to your itinerary, you may log in to your account at <URL> or contact our customer support at 1800-11-1234.\n\nSafe travels!\n\nBest Regards,\nAirIndia Customer Care"
+    },
+    "spam": {
+        "subject": "Urgent: IT Ticket #12345 Requires Immediate Attention",
+        "body": "Dear Rajesh,\n\nThis is a notification from the IT Helpdesk regarding a ticket that has been logged on your behalf (Ticket ID: 12345). Our system has detected unusual activity on your corporate account and requires immediate verification to prevent potential security breaches.\n\nPlease confirm your login credentials and verify the following details as soon as possible:\n\n•  Username: rsingh@airindia.com\n•  Last login date/time: 24th August 2026 03:45 PM\n•  Device used: Laptop (Dell XPS 13)\n\nTo proceed, click on the link below and enter the requested information:\n\n<URL>\n\nIf you do not act within the next 10 minutes, your account will be temporarily suspended for security reasons. This is a mandatory compliance measure to protect your personal data and the company’s network.\n\nThank you for your prompt cooperation.\n\nRegards,\nIT Helpdesk Team\nCustomer Support: 1800-11-5678"
+    }
+}

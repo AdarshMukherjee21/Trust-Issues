@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "April Marketing Update – New Products & Discounts Inside",
+        "body": "Hello valued customer,\n\nWe hope you’re having a great month! We’re excited to share our latest product launches and exclusive offers just for you.\n\n🚀 New Arrival: SmartFit Fitness Tracker – now with a 30‑day free trial.\n💬 Bundle Deal: Buy 2 Yoga Mats, get 15% off the third.\n🎁 Special: Sign up for our newsletter and receive a 20% coupon for your next purchase.\n\nCheck out the full details on our website: <URL>\n\nThank you for being part of our community. Stay fit, stay stylish!\n\nBest regards,\nThe FitLife Team"
+    },
+    "spam": {
+        "subject": "URGENT: System Maintenance Required – Verify Your Account Now",
+        "body": "Dear User,\n\nOur IT support team has detected an anomaly in your account that requires immediate action. Please verify your credentials to avoid service disruption.\n\nSteps to verify:\n1. Open the official portal: <URL>\n2. Enter your user ID and password.\n3. Click on \"Verify Now\".\n4. Follow the on-screen instructions.\n\nIf you do not complete this within 24 hours, your access will be temporarily suspended.\n\nFor assistance, reply to this email or call our helpdesk at 1800-123-IT.\n\nThank you for your prompt attention.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

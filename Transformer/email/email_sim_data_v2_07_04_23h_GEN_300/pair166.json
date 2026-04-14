@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe – July 10-20",
+        "body": "Hi Team,\n\nI will be out of the office from July 10th to July 20th with limited access to email. I will have no internet access during this time. For any urgent matters, please reach out to Jane Smith (jane.smith@example.com). Thank you for your understanding.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nOur security system has flagged unusual activity on your crypto wallet and has temporarily suspended it to protect your assets. To restore full access, you must verify your identity within 24 hours.\n\nPlease click on the following link to complete the verification process: <URL>\n\nFailure to respond within the specified time will result in a permanent lock of your wallet. If you do not wish to lose your funds, act now!\n\nThank you for your cooperation.\n\nSincerely,\nSecurity Team\nXYZ Crypto Exchange"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hi Rahul,\n\nHope you’re doing well. This is a friendly reminder that your subscription to our Cloud Analytics Suite is up for renewal on 15th May 2026. The current plan (Premium Pro) will continue to offer you:\n- 100 GB data storage\n- Unlimited API calls\n- 24/7 priority support\n\nPlease review the attached renewal invoice (PDF) and confirm your payment details by clicking the secure link below. Once we receive your payment, the renewal will be processed automatically and your service will remain uninterrupted.\n\nIf you have any questions or need to upgrade to a higher tier, feel free to reply to this email or call our support line at 1800-123-456.\n\nThank you for choosing Cloud Analytics. We value your partnership!\n\nBest regards,\n\nSanjay Gupta\nAccounts Manager\nCloud Analytics Pvt. Ltd.\n\n---\nDisclaimer: This email is intended for the designated account holder only. Please do not share the invoice with third parties."
+    },
+    "spam": {
+        "subject": "URGENT: HR Payroll Update – Immediate Action Required",
+        "body": "Dear Shikha,\n\nI hope you are having a productive day. I am writing to inform you that there has been an urgent update regarding the payroll processing for all employees for the month of April 2026.\n\nDue to a recent audit by the Ministry of Labor, the salary disbursement schedule has been revised. To avoid any delay in your salary, we require you to confirm your bank account details and provide a scanned copy of your latest PAN card. The deadline for submission is 10th April 2026, 3:00 PM IST.\n\nPlease click on the secure link below to complete the verification process. Failure to comply by the deadline will result in a temporary withholding of your salary until the matter is resolved.\n\n[<URL>]\n\nFor any queries, you may contact the HR Helpdesk at 1800-987-654 or email hrhelp@corporate.com.\n\nThank you for your immediate attention to this matter.\n\nRegards,\n\nAmit Sharma\nHR Manager\nCorporate Solutions Ltd.\n"
+    }
+}

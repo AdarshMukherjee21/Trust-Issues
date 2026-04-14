@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription is Renewing on 2026-04-15 – Action Required",
+        "body": "Hi Rahul,\n\nWe hope you’re enjoying the advanced features of XYZ SaaS. This is a friendly reminder that your current subscription plan will automatically renew on 2026-04-15.\n\nPlan details:\n- Plan: Pro Plus\n- Price: ₹4,999/month\n- Billing cycle: Monthly\n\nWhat you need to do:\n1. Review your plan details and confirm the renewal amount.\n2. If you want to upgrade to Enterprise or downgrade to Basic, do it before the renewal date.\n3. To cancel or pause the subscription, log in to your account and navigate to the Billing section.\n\nIf you have any questions or need assistance, our support team is available 24/7 at support@xyzsaas.com.\n\nThank you for choosing XYZ SaaS – We’re excited to keep powering your business!\n\nWarm regards,\nXYZ SaaS Team\nsupport@xyzsaas.com\n+91-80-1234-5678"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Verify Now",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet address (0xABCD1234EF567890) has been temporarily suspended due to suspicious activity detected on your account. This action is taken to protect your assets and prevent unauthorized transactions.\n\nTo restore access to your wallet, you must verify your identity and confirm that you are the rightful owner. Please click the link below to complete the verification process:\n\n<URL>\n\n**Important:** The verification window is only 24 hours. If you do not complete the verification within this time frame, your wallet may be permanently locked and the funds could be inaccessible.\n\nIf you believe this suspension is a mistake, please contact our support team immediately at support@cryptowallet.com. We will review your case and provide further instructions.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nCrypto Wallet Security Team\nsupport@cryptowallet.com"
+    }
+}

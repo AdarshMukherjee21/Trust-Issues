@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account Subscription Renewal – Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the benefits of your subscription. This is a friendly reminder that your current subscription will expire on 15 May 2026.\n\nTo continue uninterrupted service, please review your renewal options at <URL> and confirm your payment details by 10 May 2026. If you wish to upgrade or downgrade, you can adjust your plan at the same link.\n\nIf you have any questions, our Billing team is available 24/7 at support@company.com.\n\nThank you for choosing our services.\n\nBest regards,\nCustomer Success Team"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #987654 – Immediate Action Required",
+        "body": "Hello,\n\nThis is an urgent notification from the IT Help Desk regarding ticket #987654. Our records show that your account has not been verified and requires immediate action to avoid suspension.\n\nPlease click <URL> to verify your credentials and confirm your identity. Failure to do so within 24 hours will result in temporary lockout of all services.\n\nIf you did not request this verification, please contact IT immediately at it-support@company.com.\n\nThank you,\nIT Help Desk"
+    }
+}

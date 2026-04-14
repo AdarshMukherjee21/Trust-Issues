@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Purchase at XYZ Store",
+        "body": "Dear Valued Customer,\n\nThis is a confirmation that a purchase was made on your account ending in 4242. The transaction details are as follows:\n\n- Merchant: XYZ Store\n- Date & Time: 2026-04-06 14:32:07\n- Amount: $127.45\n- Location: 123 Commerce Blvd, Springfield, IL\n\nIf you recognize this transaction, no further action is required. If you do not recognize this purchase, please click the link below to review and report any unauthorized activity immediately.\n\n<URL>\n\nThank you for banking with us.\n\nSincerely,\n\nCustomer Support Team\nAcme Bank"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Request for Gift Card Purchase",
+        "body": "Dear Finance Team,\n\nI hope you are well. I need your assistance with an urgent matter. Our company has been presented with a time‑critical opportunity that requires the procurement of a gift card for a key vendor. The vendor has requested the gift card to be sent within the next 24 hours in order to secure a favorable contract.\n\nPlease process the purchase of a $500 Amazon gift card and transfer the funds to the following account:\n\n- Account Name: Global Vendor Services\n- Bank: First National\n- Routing Number: 123456789\n- Account Number: 987654321\n\nI will provide the necessary confirmation once the transaction is completed. Your prompt action is critical to maintaining our strong partnership.\n\nThank you for your immediate attention to this matter.\n\nBest regards,\n\nJohn Doe\nChief Executive Officer\nAcme Corporation"
+    }
+}

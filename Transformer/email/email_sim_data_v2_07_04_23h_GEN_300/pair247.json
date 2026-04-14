@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Leave Policy Effective from 1st May 2024",
+        "body": "Dear Team,\n\nI hope you are doing well. I am writing to inform you about the updated leave policy that will be effective from 1st May 2024. Please review the revised guidelines below:\n\n1. Annual leave entitlement has been increased from 12 to 15 days.\n2. Sickness leave now allows a maximum of 10 consecutive days.\n3. All employees must submit leave requests at least 2 weeks in advance.\n4. Unused leave cannot be carried over to the next fiscal year.\n\nFor any queries, feel free to reach out to HR at hr@company.com.\n\nBest regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "URGENT: Your FedEx Package Missed Delivery - Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your FedEx shipment (Tracking ID: <TRACKING_ID>) was not delivered on the scheduled date. To avoid any further inconvenience, a missed delivery fee of INR 250 will be charged to your account. Please verify your delivery details and confirm the new delivery address by clicking the link below:\n\n<URL>\n\nIf you do not confirm within 24 hours, your package will be returned to sender, and additional charges may apply. Failure to comply may result in suspension of your FedEx account.\n\nThank you for choosing FedEx.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

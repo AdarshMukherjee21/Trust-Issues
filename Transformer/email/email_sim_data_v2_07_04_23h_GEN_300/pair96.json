@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Highlights – April 2026",
+        "body": "Hello Valued Customer,\n\nWe’re excited to bring you this week’s top deals and insights from our product line. \n\n1. **Summer Sale – Up to 30% Off**\n   Grab our bestselling items before the season ends. \n\n2. **New Arrivals**\n   Explore the latest gadgets that are turning heads in the tech community.\n\n3. **Customer Spotlight**\n   Meet Jane Doe, who transformed her workflow using our software.\n\nWe appreciate your continued support. Stay tuned for more updates next week!\n\nBest regards,\nThe Marketing Team\n\nP.S. If you received this email by mistake, simply click <URL> to unsubscribe."
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your $10,000 University Scholarship",
+        "body": "Dear Applicant,\n\nCongratulations! The University of Global Excellence has selected you as a recipient of a $10,000 scholarship for the upcoming academic year. To secure this award, you must complete the verification process within 48 hours.\n\nFailure to confirm your acceptance will result in the scholarship being reallocated to another candidate.\n\nPlease verify your identity and claim your prize by following the secure link below:\n\n<URL>\n\nOnce verified, you will receive a confirmation email with details on how to receive your funds. If you have any questions, contact the Scholarship Office at scholarship@univx.edu.\n\nWe look forward to welcoming you to our campus.\n\nSincerely,\nDr. Emily Carter\nVice President of Student Affairs\nUniversity of Global Excellence"
+    }
+}

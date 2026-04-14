@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal Notice",
+        "body": "Dear Alex,\n\nWe are writing to inform you that your subscription to the XYZ SaaS platform is scheduled to renew on 15 April 2026. Your current plan, Professional Plus, will automatically renew at the yearly rate of $1,200.00.\n\nTo review the renewal details or make any changes before the effective date, please log into your account portal by clicking the link below:\n\n<URL>\n\nIf you wish to upgrade to the Enterprise plan or cancel the renewal, you may do so within the next 7 days. Should you have any questions or need assistance, feel free to contact our support team at support@xyzsaas.com.\n\nThank you for choosing XYZ SaaS. We appreciate your continued trust in our services.\n\nBest regards,\n\nThe XYZ SaaS Billing Team\n\n---\nXYZ SaaS\n1234 Innovation Drive\nTech City, TC 56789\nPhone: (555) 123-4567\n"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Team Meeting Confirmed",
+        "body": "Hi Team,\n\nThis is a reminder that the mandatory project alignment meeting has been scheduled for tomorrow, 10 May 2026 at 9:00 AM Eastern Time. Please be advised that attendance is required for all department heads.\n\nThe meeting will be held via the corporate Zoom channel. Please join using the link below at the scheduled time:\n\n<URL>\n\nMeeting ID: 123-456-7890\nPassword: 2026Team\n\nIn case you cannot attend, you must notify the compliance officer by 8:30 AM today. Failure to do so may result in a compliance report.\n\nThank you for your prompt cooperation.\n\nRegards,\n\nCompliance & Operations\n"
+    }
+}

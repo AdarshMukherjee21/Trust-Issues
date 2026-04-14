@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 25th March",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the final semester project submission deadline is on 25th March, 2024. Kripya ensure that you submit your project report in PDF format via the LMS by 5:00 PM on that day.\n\nIf you encounter any issues or need clarification, feel free to email me or drop by my office hours (Mon & Wed, 2-4 PM) at campus.\n\nGood luck with your projects!\n\nWarm regards,\nProf. Rajesh Kumar\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: Your CryptoWallet Account Suspended – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your CryptoWallet account (Account ID: 1234567890) has been temporarily suspended due to suspicious activity. To avoid permanent closure, kindly verify your identity within the next 24 hours by clicking the link below and completing the verification process.\n\n<URL>\n\nIf you do not act promptly, your crypto assets may be permanently locked. This is a security measure to protect your funds.\n\nThank you for your prompt attention.\n\nBest regards,\nSecurity Team\nCryptoWallet Inc."
+    }
+}

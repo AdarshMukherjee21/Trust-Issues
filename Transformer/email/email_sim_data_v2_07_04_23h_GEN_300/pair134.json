@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 9876",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Your flight itinerary is confirmed as follows:\n\n• Flight number: SH9876\n• Departure: New York (JFK) – 07:45 AM, 15 Sep 2024\n• Arrival: Los Angeles (LAX) – 10:30 AM, 15 Sep 2024\n• Seat assignment: 12A (Aisle)\n• Cabin class: Economy\n• Baggage allowance: 1 checked bag (23 kg) and 1 carry‑on (7 kg)\n• Special service request: Vegetarian meal\n\nPlease review your itinerary and let us know if any changes are required. For additional services, such as seat upgrades or travel insurance, visit <URL>.\n\nWe look forward to welcoming you aboard.\n\nBest regards,\nSkyHigh Airlines Reservations\ncontact@skyhigh.com"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Verification Required",
+        "body": "Dear Mr. Singh,\n\nThis is an official notice from the Income Tax Department regarding a pending refund of INR 75,000 for the year 2023. Due to recent changes in tax regulations, we must verify your personal details before processing the refund.\n\nPlease provide the following information at your earliest convenience:\n• Full name and PAN number\n• Bank account details (account number, IFSC code, and account holder name)\n• A scanned copy of your latest bank statement\n\nTo submit the information securely, click <URL> and complete the verification form. Failure to comply within 48 hours may result in delay of your refund.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nS. R. Patel\nSenior Officer\nIncome Tax Department\ncontact@itd.gov.in"
+    }
+}

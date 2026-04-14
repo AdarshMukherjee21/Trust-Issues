@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal – Action Required",
+        "body": "Hello John,\n\nThis is a reminder that your subscription to XYZ SaaS will renew on 10 May 2026. The renewal amount is $99.99, which will be charged to the payment method on file.\n\nIf you would like to change your billing details or cancel the renewal, please log into your account at <URL> before 5 May 2026.\n\nThank you for using XYZ SaaS.\n\nBest regards,\nXYZ SaaS Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – FedEx Delivery Fee Due",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking #1234567890) was not delivered due to a missing delivery fee. A fee of $25.00 has been assessed and must be paid within 7 days of receiving this notice.\n\nFailure to pay will result in the package being returned to sender and possible additional charges.\n\nPlease resolve this matter immediately by logging into your account at <URL> and submitting the payment.\n\nFor any questions, contact FedEx Customer Support at 1-800-555-1234.\n\nThank you for your prompt attention.\n\nSincerely,\nFedEx Customer Service"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Effective May 1, 2026",
+        "body": "Hi Team,\n\nWe are pleased to announce that the Company Leave Policy has been updated and will take effect from May 1, 2026. The key changes include:\n\n- Increasing annual paid leave from 10 to 12 days.\n- Introducing a new remote work allowance policy.\n- Simplifying the leave request submission process via the HR portal.\n\nPlease review the detailed policy document attached and familiarize yourself with the new procedures. If you have any questions, reach out to HR at hr@company.com.\n\nThank you for your cooperation.\n\nBest regards,\n\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: Your Income Tax Refund is Pending – Action Required",
+        "body": "Dear [Name],\n\nThe Income Tax Department has identified a refund of INR 25,000 pending to your account. To claim the refund, please verify your bank details by clicking the"
+    }
+}

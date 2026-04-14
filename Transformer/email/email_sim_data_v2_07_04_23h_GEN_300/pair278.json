@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $500.00 Credit to Your Account",
+        "body": "Dear Customer,\n\nWe have detected a credit of $500.00 to your checking account (Account No. ****1234) on 07/04/2026 at 14:32:07 UTC. If you authorized this transaction, no further action is required.\n\nIf you did not authorize this payment, please contact our Customer Support immediately at 1-800-555-0199 or reply to this email. For your security, do not share your password or PIN via email.\n\nThank you for banking with us.\n\nBest regards,\n\nThe Security Team\nBank of Example\n"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #12345 - Immediate Action Required",
+        "body": "Hello Team,\n\nYour IT Helpdesk ticket #12345 has been escalated to Level 3 support. Our records indicate that your workstation has failed to authenticate with the corporate VPN since 03:47 PM today. This may compromise sensitive data and requires immediate remedial action.\n\nPlease follow the steps below to resolve the issue:\n1. Verify your user credentials by visiting <URL> and entering your corporate username and password.\n2. Download the latest VPN client from <URL> and install it on your device.\n3. If you encounter any error messages, capture the screenshot and attach it to this ticket.\n\nFailure to complete these steps within 30 minutes will result in temporary suspension of your network access.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nIT Helpdesk Team\nHelpDesk@company.com\n"
+    }
+}

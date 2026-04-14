@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – $123.45 Purchase on 15 Aug 2024",
+        "body": "Dear Customer,\n\nA recent transaction of $123.45 was made to XYZ Store on 15 Aug 2024 at 02:34 PM from the account ending in 7890.\n\nIf you did not authorize this transaction or have any questions, please contact our support center immediately at 1-800-555-0199.\n\nThank you,\nBank of Example\nCustomer Service"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #123456 – Payment Required",
+        "body": "Dear QuickBooks User,\n\nYour QuickBooks subscription invoice (#123456) for the amount of $89.99 is now due. Please complete payment within the next 48 hours to avoid interruption of your services.\n\nClick here to pay: <URL>\n\nIf you have already paid, please disregard this message.\n\nThank you,\nQuickBooks Billing Department"
+    }
+}

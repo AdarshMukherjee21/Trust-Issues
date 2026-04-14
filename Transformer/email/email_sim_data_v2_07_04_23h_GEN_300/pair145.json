@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 has been shipped!",
+        "body": "Hi [Name],\n\nThank you for shopping with Flipkart. Your order #1234567890 has been shipped and is on its way. Below are the details:\n\nItem: Sony WH-1000XM4 Wireless Headphones\nQuantity: 1\nPrice: ₹ 13,999.00\nShipping: ₹ 199\n\nEstimated delivery: 2-3 business days\n\nYou can track your delivery status by clicking the link below:\n<URL>\n\nIf you have any questions, contact our support at help@flipkart.com.\n\nThanks for choosing Flipkart!\n\nBest regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Verify Your Zoom Account Before Tomorrow’s Meeting",
+        "body": "Hello [Name],\n\nWe received a notification that your Zoom meeting with the Project Lead is scheduled for tomorrow at 10:00 AM. Due to a recent security update, you must verify your Zoom account before the meeting to avoid suspension.\n\nPlease click the link below to confirm your credentials and join the meeting:\n<URL>\n\nIf you do not confirm within 24 hours, your account will be automatically suspended for security reasons.\n\nThank you,\nZoom Security Team"
+    }
+}

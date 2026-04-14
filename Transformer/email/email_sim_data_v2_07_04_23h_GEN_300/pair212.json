@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe",
+        "body": "Hi team,\n\nI will be out of the office from Monday, 15 May 2026 to Friday, 20 May 2026, returning on Monday, 23 May 2026. During this period, I will have limited access to email. For urgent matters, please contact Sarah Lee at sarah.lee@example.com or the helpdesk.\n\nBest regards,\nJohn"
+    },
+    "spam": {
+        "subject": "Action Required: QuickBooks Invoice #98765 Overdue – Pay Now!",
+        "body": "Dear Valued Customer,\n\nThis is an official notice from QuickBooks Inc. Our records indicate that Invoice #98765, dated 01 May 2026, remains unpaid. If the payment is not received within 48 hours, your account will be suspended and you will incur additional fees. Please review the invoice details and submit payment immediately by clicking the link below:\n\n<URL>\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nQuickBooks Billing Department"
+    }
+}

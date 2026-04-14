@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 Confirmation – Thank you for shopping!",
+        "body": "Hi there,\n\nThank you for shopping with Flipkart! Your order #1234567890 has been successfully placed and is now in the processing stage.\n\nOrder Summary:\n• Item: Redmi Note 12 Pro – 128GB\n• Quantity: 1\n• Price: ₹18,999\n• Delivery: 4-6 working days\n\nPayment Method: Credit Card (Last 4 digits: 1234)\n\nIf you need any assistance or wish to track your shipment, simply open the Flipkart app or visit <URL>.\n\nThanks for choosing Flipkart. We appreciate your business!\n\nBest Regards,\nFlipkart Customer Care"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Microsoft 365 Password Expiry Notice",
+        "body": "Dear Customer,\n\nWe have detected that your Microsoft 365 account password is set to expire in 48 hours. To prevent any disruption to your work and secure your personal data, please verify and update your password immediately.\n\n1️⃣ Log in to your account using the official Microsoft portal.\n2️⃣ Click the link below to reset your password. Note: This link is secure and will expire in 30 minutes.\n\n<URL>\n\nIf you do not complete the password reset within the next 48 hours, your account will be temporarily locked, and you may lose access to critical services.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

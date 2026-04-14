@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved: Bug in authentication flow",
+        "body": "Hello Team,\n\nI am writing to let you know that the issue reported in ticket #1234 has been resolved. After reviewing the logs in Jira and the latest merge on GitHub, we found that the root cause was a missing environment variable in the production build.\n\n**Resolution steps**\n- Added the missing variable to the .env file.\n- Redeployed the service and ran the integration tests.\n- All tests are passing and the authentication flow is working as expected.\n\nYou can see the commit here: <URL> and the related issue in Jira: <URL>\n\nPlease test the flow on your side and let me know if you encounter any further problems.\n\nThanks for your patience.\n\nBest,\nRahul"
+    },
+    "spam": {
+        "subject": "Important: Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nThis is an automated message from Microsoft 365 Security Team. Your account password is set to expire on 15th April 2026. If you do not update your password by this date, your Microsoft 365 services will be temporarily suspended and your data may be inaccessible.\n\nTo change your password, please click the link below and follow the instructions:\n<URL>\n\nIf you do not act within 48 hours, your account will be locked and you will lose access to all corporate resources.\n\nThank you for your immediate attention to this matter.\n\nRegards,\nMicrosoft 365 Support"
+    }
+}

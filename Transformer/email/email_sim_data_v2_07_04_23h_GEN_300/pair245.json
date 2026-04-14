@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Booking #98765",
+        "body": "Dear Priya, \n\nThank you for choosing Skyways Airlines. Below are the details of your upcoming flight:\n\nBooking Reference: 98765\nPassenger: Priya Sharma\nFlight: SW123\nDeparture: 15th July 2026, 09:30 AM\nFrom: Delhi (DEL)\nTo: Mumbai (BOM)\nGate: 14B\nSeat: 12A\n\nPlease arrive at the airport at least 2 hours before departure. For any changes or assistance, contact us at support@skyways.com.\n\nWe wish you a pleasant journey.\n\nWarm regards,\nSkyways Airlines Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required for Your Payroll Update",
+        "body": "Dear Employee, \n\nThis is the HR department notifying you of a critical update required for your payroll account. Our records indicate a discrepancy in your bank details that must be verified within 24 hours to ensure uninterrupted salary disbursement.\n\nPlease click the link below to confirm your updated bank information:\n<URL>\n\nFailure to act will result in temporary suspension of your salary until the issue is resolved. This measure is in compliance with the latest company payroll policy and government regulations.\n\nIf you have already updated your details, please disregard this message. For any queries, contact the HR helpdesk at hrhelp@company.com.\n\nThank you for your immediate attention.\n\nRegards,\nHR Manager, Company"
+    }
+}

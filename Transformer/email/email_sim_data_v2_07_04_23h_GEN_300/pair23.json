@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Booking #ABCD1234",
+        "body": "Dear Mr. Sharma,\n\nThank you for booking with SkyFly Airlines. Below are the details of your upcoming trip:\n\n• Passenger: Rahul Sharma\n• Flight: SF123 from Mumbai (BOM) to Delhi (DEL)\n• Date: 12th May 2026\n• Departure: 09:45 AM from Terminal 3 (Gate A12)\n• Arrival: 11:15 AM at Terminal 3 (Gate B5)\n• Seat: 12A (Aisle)\n• Class: Economy\n\nPlease arrive at the airport at least 2 hours before departure. Keep this email handy for check‑in.\n\nIf you have any questions or need to make changes, reply to this email or call our customer support at +91-22-1234-5678.\n\nThank you for choosing SkyFly. We wish you a pleasant journey!\n\nBest regards,\n\nSkyFly Airlines Team\n\nDhanyavaad"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #12345 Overdue - Immediate Action Required",
+        "body": "Dear Mr. Sharma,\n\nWe are writing to inform you that your QuickBooks invoice #12345 (amount INR 45,000) has remained unpaid for 30 days. As per our records, this payment is now overdue and will incur penalties if not settled within 5 business days.\n\nTo avoid further interest charges and to maintain uninterrupted access to your QuickBooks services, please verify your account details and complete the payment immediately by clicking the link below:\n\n<URL>\n\nIf you have already made the payment, kindly ignore this notice. Otherwise, failure to comply may result in suspension of your QuickBooks account.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nQuickBooks India Support\n\nSincerely,\n\nRajesh Kumar\nAccount Manager"
+    }
+}

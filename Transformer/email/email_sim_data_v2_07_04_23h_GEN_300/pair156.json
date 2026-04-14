@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight ABC123",
+        "body": "Dear John Doe,\n\nThank you for booking with XYZ Airlines. We are pleased to confirm your flight details:\n\n- Passenger: John Doe\n- Flight: ABC123\n- Date: 2026-04-15\n- Departure: New York (JFK) at 08:30 AM\n- Arrival: London (LHR) at 08:00 PM\n- Seat: 12A\n- Cabin: Economy\n- Check‑in: 30 minutes before departure, available online from <URL>\n\nPlease make sure to arrive at the gate at least 45 minutes before departure.\n\nIf you need to change your reservation or have any questions, feel free to contact our support team.\n\nWe wish you a pleasant journey!\n\nBest regards,\nXYZ Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Valued Microsoft 365 User,\n\nThis is a security alert from Microsoft. Your Microsoft 365 account password will expire in 24 hours. Failure to update your password before the expiry date will result in temporary account lockout.\n\nTo reset your password, please click the link below:\n<URL>\n\nAfter resetting your password, you will be required to verify your account using the same link. Please complete the process within the next 24 hours to avoid any disruption of service.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nMicrosoft Security Team"
+    }
+}

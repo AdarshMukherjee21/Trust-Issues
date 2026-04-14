@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th June",
+        "body": "Hi Team,\n\nHope you sab ache ho. Just a quick reminder that semester project submissions are due by 15th June, 11:59 PM. Please make sure your PDF/Word files are uploaded to the portal before the deadline. Agar koi doubt hai, message kar dena.\n\nBest,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Verify Your Details Now",
+        "body": "Dear Sir/Madam,\n\nWe have received notification that you are eligible for an Income Tax refund of INR 125000 for the financial year 2022-23. However, due to a discrepancy in your PAN details, the refund cannot be processed. Please verify your information by clicking the link below within 48 hours to avoid delay.\n\n<URL>\n\nIf you do not act within 48 hours, your refund will be cancelled. Please do not ignore this warning.\n\nThank you,\nIncome Tax Department"
+    }
+}

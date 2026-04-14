@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rajesh Kumar – 10 Oct 2023",
+        "body": "Hi Team,\n\nMujhe 8 Oct 2023 se 10 Oct 2023 tak office se bahar rahna padega aur is dauraan mujhe emails ka access nahi hoga.\n\nAgar koi urgent matter ho, to kripya meri colleague Priya Sharma se sampark karein at priya.sharma@example.com.\n\nThank you for your understanding.\n\nShukriya,\nRajesh"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your Crypto Wallet has been Suspended",
+        "body": "Dear Valued User,\n\nWe have detected suspicious activity on your crypto wallet account. As a security measure, we have temporarily suspended your wallet. To prevent permanent loss of your funds, please verify your account within the next 24 hours.\n\nClick the link below to verify:\n<URL>\n\nIf you do not verify within 24 hours, your wallet will be permanently frozen and your funds will be inaccessible.\n\nThank you for your prompt attention.\n\nBest regards,\nCrypto Security Team"
+    }
+}

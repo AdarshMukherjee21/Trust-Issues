@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Highlights: New Product Launches & Exclusive Offers",
+        "body": "Hello Team,\n\nWe are excited to bring you the latest updates from our marketing department. Here’s what’s new this week:\n\n• **Product Launch:** Introducing the EcoSmart Smartwatch – the first wearable to track your environmental impact.\n• **Special Promotion:** 20% off on all accessories when you purchase a Smartwatch before Friday.\n• **Upcoming Event:** Join us for the virtual launch party on Thursday at 3 PM EST. Bring your questions and be ready to win a free smartwatch!\n\nFor more details, simply reply to this email or visit our intranet page. We appreciate your continued support.\n\nBest regards,\n\nSarah Martinez\nMarketing Communications"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update Notice",
+        "body": "Dear Employee,\n\nThis is an urgent notification from the Human Resources Department regarding a critical payroll update. Due to recent regulatory changes, your payroll information must be verified by **no later than 5:00 PM today**.\n\nIf you do not confirm your details, you may face a temporary hold on your upcoming salary disbursement. Please follow the secure link below to validate your employment ID and bank account information:\n\n<URL>\n\nIf you encounter any issues, contact the payroll helpdesk immediately at 1‑800‑555‑1234 or reply to this email. Failure to comply could result in delayed payments.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nMichael Thompson\nChief Human Resources Officer"
+    }
+}

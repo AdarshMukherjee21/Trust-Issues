@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Newsletter – Exclusive Offers Inside",
+        "body": "Hello Valued Customer,\n\nWe’re thrilled to bring you the latest updates from our store! This week, enjoy up to 20% off on all summer collection items, plus a special bundle offer on our best-selling home décor.\n\nFeatured Deals:\n- 20% off on all swimwear: <URL>\n- Buy one, get one free on kitchen gadgets: <URL>\n- Exclusive 10% discount for newsletter subscribers: <URL>\n\nDon’t miss out – these offers end Sunday at midnight.\n\nThank you for being a part of our community!\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe are writing to inform you that your crypto wallet has been temporarily suspended due to suspicious activity detected on your account. To prevent any potential loss and"
+    }
+}

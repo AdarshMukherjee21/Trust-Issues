@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Thompson – Auto‑Reply",
+        "body": "Hi there,\n\nThank you for your message. I am currently out of the office on vacation from May 15th to May 22nd, with limited access to email.\n\nIf your matter is urgent, please contact my colleague Maria Lopez at mlopez@company.com or call the office line at (555) 123‑4567.\n\nI will respond to all non‑urgent emails upon my return.\n\nBest regards,\nAlex Thompson\nSenior Analyst"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #98765 – Pay Now to Avoid Service Disruption",
+        "body": "Dear Valued Customer,\n\nWe have detected an outstanding invoice for QuickBooks/Norton services that requires immediate payment. The details are as follows:\n\n- Invoice #: 98765\n- Billing Period: April 2026\n- Amount Due: $2,349.75\n- Due Date: 24 hours from receipt of this email\n\nFailure to remit payment within the specified timeframe will result in an automatic suspension of your QuickBooks and Norton services. To avoid interruption, please complete the payment promptly by clicking the secure link below:\n\n<URL>\n\nOnce payment is confirmed, your services will be restored within 24 hours. For any questions or to verify the authenticity of this notice, contact our billing department at billing@quickbooks.com or call 1‑800‑123‑4567.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

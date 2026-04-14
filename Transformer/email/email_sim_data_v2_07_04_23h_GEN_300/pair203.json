@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Update – July 2024",
+        "body": "Hi Team,\n\nHope you’re doing well! Here’s our quick update from this week’s marketing sprint. \n\n1. **New Launch Alert** – Our ‘Summer Breeze’ collection is live. 20% off for the first 100 customers. Use code: SUMMER20.\n2. **Upcoming Sale** – The ‘Back to School’ promo starts on 15th July. Expect a 30% discount on all school supplies.\n3. **Customer Feedback** – 85% of respondents love the new packaging. Let’s keep the momentum going.\n4. **Events** – Don’t forget the virtual workshop on “Digital Branding” next Wednesday at 3 PM. RSVP via the <URL> portal.\n\nThanks for your hard work and dedication. Let’s make this quarter a record breaker!\n\nBest,\n\nRiya Patel\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required for Gift Card Transfer",
+        "body": "Dear [Your Name],\n\nI hope you’re well. This is Abhishek Sharma, CEO of XYZ Pvt. Ltd. I am writing to inform you that we have processed a premium gift card worth INR 50,000 for your outstanding contributions. \n\nTo complete the transfer, I need your bank details. Please verify your account information at the secure link below <URL> and confirm the transaction within the next 30 minutes. \n\nIf I do not receive a response by 12:00 PM today, we will have to suspend your account to comply with our internal audit protocols. \n\nThank you for your prompt attention.\n\nRegards,\n\nAbhishek Sharma\nChief Executive Officer\nXYZ Pvt. Ltd."
+    }
+}

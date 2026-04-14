@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Account Activity",
+        "body": "Dear Customer,\n\nWe have detected a transaction on your account on 07 Apr 2026 at 14:32:00 UTC. Amount: Rs. 5,000.00.\n\nIf you did not authorize this transaction, please contact us immediately at 1800-XXX-XXX or visit <URL> to secure your account.\n\nThank you for banking with XYZ Bank.\n\nRegards,\nXYZ Bank Security Team"
+    },
+    "spam": {
+        "subject": "Important: Your Scholarship Award Pending Verification",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that you have been shortlisted for the 2026 Excellence Scholarship offered by the prestigious National Institute of Technology.\n\nTo confirm your award, we need to verify your details. Please submit your full name, date of birth, student ID, and a copy of your passport by clicking the link below:\n\n<URL>\n\nFailure to verify within 48 hours will result in forfeiture of the scholarship.\n\nThank you for your prompt attention.\n\nBest regards,\nScholarship Committee\nNational Institute of Technology"
+    }
+}

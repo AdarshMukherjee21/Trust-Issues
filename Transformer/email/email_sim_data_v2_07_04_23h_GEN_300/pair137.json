@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rahul Sharma",
+        "body": "Hi team,\n\nI am currently out of the office with limited access to email from 5th April to 12th April. I will return on 13th April and reply to your emails as soon as possible.\n\nIf you need immediate assistance, please contact my colleague, Priyanka Patel at priya@example.com.\n\nThank you.\n\nBest,\nRahul"
+    },
+    "spam": {
+        "subject": "URGENT: Missed Delivery Fee – Action Required",
+        "body": "Dear Customer,\n\nAapke recent shipment with FedEx (Tracking #123456789) deliver nahi hua because of outstanding delivery fee. Please pay $45.00 within 48 ghante by clicking <URL>. Agar aap pay nahi karte, to shipment return ho jayega aur aapka account suspend ho sakta hai.\n\nFor any queries, contact us at 1-800-555-1234.\n\nThank you for your cooperation.\n\nSincerely,\nFedEx Delivery Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe - 6/1-6/10",
+        "body": "Hi Team,\n\nI’ll be out of the office on vacation from Monday, June 1 through Friday, June 10. I will have limited access to email during this period and will respond to your message when I return on June 11.\n\nIf you need immediate assistance, please contact John Smith (john.smith@example.com) or the office at (555) 123-4567.\n\nThank you for your understanding.\n\nBest regards,\nJane Doe\nSenior Analyst"
+    },
+    "spam": {
+        "subject": "Urgent: Your Scholarship Award Requires Immediate Action",
+        "body": "Dear Student,\n\nCongratulations! You have been selected as a recipient of the XYZ University Excellence Scholarship for the 2024‑2025 academic year. This award is awarded to a limited number of students based on your academic merit and financial need.\n\nTo claim and activate your scholarship, please complete the verification process within 48 hours by clicking the link below and providing your personal details and bank account information:\n\n<URL>\n\nFailure to complete the verification within the deadline will result in forfeiture of the scholarship. Please note that the scholarship funds are disbursed directly to your bank account upon verification. The process is secure and managed by the Office of the Registrar.\n\nIf you have any questions, contact the Scholarship Office at scholarships@xyzuniversity.edu or call (555) 987‑6543.\n\nWe look forward to welcoming you to XYZ University.\n\nSincerely,\nDr. Emily Carter\nDirector of Scholarships\nXYZ University"
+    }
+}

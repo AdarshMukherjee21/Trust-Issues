@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance Notice – 12th April 2026",
+        "body": "Dear Team,\n\nThis is to inform you that the corporate VPN service will undergo maintenance from 02:00 AM to 04:00 AM IST on 12th April 2026. During this window, all remote connections will be unavailable. Please plan accordingly. For any urgent connections, contact the network team at <URL>.\n\nThank you,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Helpdesk Ticket #56789",
+        "body": "Dear User,\n\nWe have detected an unauthorized access attempt to your corporate account. Your IT ticket #56789 is now pending. To verify your identity and secure your account, please click the link below and enter your credentials:\n\n<URL>\n\nFailure to comply within 15 minutes will result in account lockout.\n\nKripya jaldi se action kare.\n\nRegards,\nIT Support Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal is Scheduled for 15th Oct 2026",
+        "body": "Hi Amit,\n\nHope you’re doing well! This is a friendly reminder that your subscription to XYZ SaaS will renew automatically on **15th October 2026**.\n\n• **Plan**: Premium Pro\n• **Amount**: ₹12,500 (incl. GST)\n• **Next Billing Date**: 15 Oct 2026\n\nIf you would like to change your plan, add users, or cancel the renewal, please visit your account dashboard: <URL>\n\nThank you for being a valued customer. If you have any questions, feel free to reply to this email or contact our support team at support@xyzsaas.com.\n\nBest regards,\nXYZ SaaS Team"
+    },
+    "spam": {
+        "subject": "🚨 Urgent: FedEx Delivery Fee Pending – Immediate Action Required!",
+        "body": "Dear Mr. Sharma,\n\nWe regret to inform you that your recent shipment (Tracking #FDX123456789) was **not delivered** due to an outstanding delivery fee of **₹350**. According to FedEx regulations, shipment will be held at the nearest depot until payment is received.\n\nTo avoid further delay and additional charges, please complete the payment within the next **24 hours**. Click the link below to verify your account and pay the fee securely:\n\n<URL>\n\nIf you believe this is a mistake, contact our customer service immediately at 1800-123-456 or reply to this email. Failure to settle the fee will result in the shipment being returned to sender.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nFedEx India Delivery Team"
+    }
+}

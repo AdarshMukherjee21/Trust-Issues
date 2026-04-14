@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy Effective from July 1",
+        "body": "Dear Team,\n\nI hope you are all doing well. As per the recent discussions in the HR meeting, we are pleased to announce that the company leave policy has been updated effective from July 1, 2024. The key changes include:\n\n1. An increase in annual leave days from 12 to 15 days for all full-time employees.\n2. Introduction of a flexible leave option that allows employees to carry over up to 5 days of unused leave into the next calendar year.\n3. Clarification on the process for applying for medical leave and the documentation required.\n\nPlease review the attached policy document and submit any questions or concerns to HR by end of day Friday. These updates will be reflected in the upcoming payroll system.\n\nThank you for your cooperation.\n\nBest regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Sir/Madam,\n\nWe are contacting you on behalf of the Income Tax Department regarding your pending refund for the FY 2023-24. Our records indicate that your account has been flagged for potential discrepancies and the refund amount of INR 1,25,000 awaits verification. To avoid cancellation of the refund, we request you to confirm your account details and submit the required documents at the earliest.\n\nPlease click on the secure link <URL> to complete the verification process. The deadline for submission is 7 days from the date of this email. Failure to comply may result in the refund being permanently withheld.\n\nThank you for your immediate attention.\n\nRegards,\nIncome Tax Department\nFinance Division"
+    }
+}

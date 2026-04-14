@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rohan Sharma on Leave",
+        "body": "Hi Team,\n\nI hope you are doing well. I will be out of office from 15th May to 20th May 2024 for a brief vacation. During this period, I will have limited access to email.\n\nFor any urgent matters related to the project, please reach out to my colleague Anjali Patel at anjali.patel@example.com or call her at +91-9876543210.\n\nThank you for your understanding.\n\nBest regards,\nRohan Sharma"
+    },
+    "spam": {
+        "subject": "URGENT: Password Reset Required – Immediate Action Needed",
+        "body": "Dear User,\n\nThis is the IT helpdesk. Our system has detected suspicious activity on your account. To protect your data and prevent potential security breaches, we urgently require you to reset your password.\n\nPlease click on the link below and complete the verification process within 15 minutes:\n<URL>\n\nFailure to comply may result in temporary lockout of your account.\n\nRegards,\nIT Support Team\nHelpdesk\n+91-8001234567"
+    }
+}

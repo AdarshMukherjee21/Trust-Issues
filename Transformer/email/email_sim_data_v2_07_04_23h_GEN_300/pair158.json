@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – #123-4567890-1234567",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order has been received and is now being processed.\n\nOrder Details:\n• 1× Echo Dot (3rd Gen) – $49.99\n• 2× Fire TV Stick – $29.99 each\n\nSubtotal: $109.97\nShipping & Handling: $0.00\n\nTotal Paid: $109.97\n\nEstimated Delivery: 3–5 business days\n\nIf you have any questions about your order, please reply to this email or contact our customer support team.\n\nThank you for choosing Amazon!\n\nBest regards,\nAmazon.com\n\nFor more information, visit <URL>."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – HR Payroll Update",
+        "body": "Dear John,\n\nThis is an urgent notice from the Human Resources Department regarding your payroll account. Our records indicate that your direct deposit information is incomplete or outdated. Failure to update your details within the next 24 hours will result in a temporary suspension of your payroll until the issue is resolved.\n\nPlease verify and update your payroll account by clicking the secure link below and following the prompts:\n\n<URL>\n\nIf you do not complete this process promptly, your upcoming salary will be withheld and you may incur additional penalties. This action is in compliance with company policy and is mandatory for all employees.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\n\nHR Compliance Team\n\nIf you believe you have received this email in error, please contact the HR Help Desk immediately at <URL>."
+    }
+}

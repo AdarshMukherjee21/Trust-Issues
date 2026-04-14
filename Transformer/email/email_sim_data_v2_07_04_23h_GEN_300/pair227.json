@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 30th April",
+        "body": "Dear Students,\n\nThis is a gentle reminder that the deadline for submitting your semester project is fast approaching. All projects must be uploaded to the university portal by 11:59 PM on 30th April 2026.\n\nPlease ensure that you have followed the formatting guidelines, included all required documentation, and that your project files are free from errors. Late submissions will be penalised as per the academic policy.\n\nIf you need any clarification or assistance, feel free to reach out to the project coordinator at projectcoordinator@university.edu.\n\nBest regards,\n\nDr. A. Gupta\nProject Coordinator\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your IT Ticket #12345",
+        "body": "Hello Mr. Sharma,\n\nWe have detected an unusual activity on your corporate account. As per the latest IT security audit, a ticket has been opened under the reference number #12345. To ensure the integrity of your account, we urgently require your login credentials and a screenshot of the error message you received.\n\nPlease log in to the internal portal using the following link: <URL> and provide the requested details within the next 24 hours. Failure to comply may result in temporary suspension of your account and potential data loss.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nIT Helpdesk Team\nCorporate IT Services"
+    }
+}

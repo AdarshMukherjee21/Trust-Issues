@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Bank Alert: Recent Transaction on Your Account",
+        "body": "Dear Valued Customer,\n\nThis is an automated notification from your bank. A transaction has been processed on your account ending in 1234.\n\nDate: 2026-04-06\nAmount: $150.00\nMerchant: ABC Retail\nLocation: New York, NY\n\nIf you recognize this transaction, no further action is required. If you do not recognize this transaction, please contact our support team immediately at (800) 555-1234 or visit <URL> to secure your account.\n\nThank you for banking with us.\n\nSincerely,\nYour Bank Team"
+    },
+    "spam": {
+        "subject": "Critical: IT Support Ticket #4576 Requires Your Attention",
+        "body": "Dear [Employee Name],\n\nWe have detected an issue with your workstation that requires immediate attention. Please review the details of the ticket below and confirm the resolution steps.\n\nTicket ID: 4576\nIssue: Unauthorized access attempt detected\nRecommended Action: Reset your password and run a full system scan.\n\nTo proceed with the resolution, click the link below and follow the on-screen instructions:\n\n<URL>\n\nPlease treat this as a high priority. Failure to act within 24 hours may result in temporary suspension of your account.\n\nThank you,\nIT Support Team"
+    }
+}

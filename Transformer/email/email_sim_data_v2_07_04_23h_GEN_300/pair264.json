@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Rivera – Project X Update",
+        "body": "Hi Team,\n\nI hope you're all doing well. I wanted to let you know that I will be out of the office from Monday, 10th March to Friday, 14th March, returning on Monday, 17th March. During this period, I will have limited access to email. For urgent matters related to Project X, please contact Jane Doe at jane.doe@example.com or call the office line at (555) 123-4567.\n\nThank you for your understanding.\n\nBest regards,\nAlex Rivera"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear Colleague,\n\nThis is an urgent notification from the Human Resources Department regarding your payroll update. Please be advised that your payroll details have been updated and you are required to verify your information immediately to avoid any delays in salary disbursement.\n\nTo confirm your updated payroll information, please click on the following link: <URL>\n\nFailure to verify within 24 hours may result in a temporary hold on your salary. If you have already verified your details, please disregard this message.\n\nThank you for your prompt attention.\n\nBest regards,\nHR Payroll Team"
+    }
+}

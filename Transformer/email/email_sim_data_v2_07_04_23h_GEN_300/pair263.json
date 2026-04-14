@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been shipped!",
+        "body": "Hello [Name],\n\nThank you for shopping with Amazon India! Your order #1234567890 has been dispatched and will arrive at your address within 3-5 business days.\n\nOrder details:\n1 x 'Echo Dot (4th Gen)' – ₹3,500\n\nEstimated delivery: 15 Apr 2026\n\nIf you have any questions, contact Amazon customer support at <URL> or call 1800-123-456.\n\nThank you for choosing Amazon.\n\nBest Regards,\nAmazon India"
+    },
+    "spam": {
+        "subject": "Congratulations! You have been selected for a full scholarship at XYZ University",
+        "body": "Dear [Name],\n\nWe are pleased to inform you that you have been shortlisted for a fully-funded scholarship of ₹5,00,000 at the prestigious XYZ University in partnership with the Ministry of Education. As per the regulations, a processing fee of ₹25,000 is required to confirm your admission. Please complete the payment within 48 hours to secure your place. Failure to pay will result in cancellation.\n\nSend your bank details: account number, IFSC, and a copy of your PAN card to <URL> or reply to this email. Use the code SCH-2026. If you do not comply, your scholarship offer will be revoked.\n\nRegards,\nDr. R. Sharma\nOffice of Scholarship Affairs"
+    }
+}

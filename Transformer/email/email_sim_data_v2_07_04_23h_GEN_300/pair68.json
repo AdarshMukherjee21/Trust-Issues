@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription is Renewing Soon – Please Confirm",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the full suite of features in your SaaS platform. This is a friendly reminder that your current subscription will automatically renew on June 30, 2026, for an annual fee of $1,200.00.\n\nIf your billing information is up to date, no action is required on your part. If you would like to update your payment method, review the scope of your license, or discuss a new plan, simply click <URL> and log in to your account.\n\nThank you for choosing our services. We value your partnership and look forward to supporting your business goals.\n\nBest regards,\n\nCustomer Success Team\nSaaS Solutions Inc.\n"
+    },
+    "spam": {
+        "subject": "Action Required: Your Microsoft 365 Password Will Expire Soon",
+        "body": "Dear Alex,\n\nOur security audit has flagged that your Microsoft 365 password is set to expire on July 15, 2026. For your safety and to avoid any disruption to your email, SharePoint, and Teams access, please reset your password within the next 48 hours.\n\nTo reset, click <URL> and follow the prompts. If you do not reset the password, your account will be locked and you will lose access to all Microsoft 365 services.\n\nIf you believe this message is a mistake, immediately contact the IT Security Team at security@company.com.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIT Security Team\n"
+    }
+}

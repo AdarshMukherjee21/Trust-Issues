@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Flight 7890",
+        "body": "Dear Jane Doe,\n\nThank you for booking your flight with SkyHigh Airways. Below are the details of your upcoming trip:\n\n• Flight Number: SH7890\n• Departure: New York (JFK) – 08:45 AM, June 12, 2026\n• Arrival: Los Angeles (LAX) – 11:15 AM, June 12, 2026\n• Seat: 12A (Window)\n• Baggage Allowance: 1 checked bag (max 23 kg) and 1 carry‑on\n\nPlease arrive at the airport at least 2 hours before departure. For any changes or to add extra services, visit <URL> or contact our support at +1 800-555-0199.\n\nWe look forward to serving you and wish you a pleasant flight.\n\nBest regards,\nSkyHigh Airways Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Claim Your $50,000 University Scholarship Now!",
+        "body": "Dear Dr. Smith,\n\nWe are pleased to inform you that you have been selected as a recipient for the prestigious Global Leadership Scholarship Program offered by the International Institute of Advanced Studies. Your application, submitted on March 2, 2026, has been reviewed and approved.\n\nTo secure your scholarship, you must complete the following verification steps within the next 48 hours:\n\n1. Verify your identity by providing a scanned copy of your passport, driver's license, or national ID.\n2. Submit proof of enrollment for the upcoming academic term (e.g., registration confirmation, student ID, or official transcript).\n3. Confirm your bank account details to receive the scholarship funds directly (minimum balance of $5,000).\n\nPlease click <URL> to access the secure verification portal and proceed with the next steps. Failure to complete the verification will result in the scholarship being re‑allocated to another candidate.\n\nWe appreciate your prompt attention to this matter and look forward to welcoming you to our distinguished community.\n\nSincerely,\nDr. Emily Carter\nDirector of Scholarship Services\nInternational Institute of Advanced Studies\nPhone: +1 555-987-6543\nEmail: <Email>"
+    }
+}

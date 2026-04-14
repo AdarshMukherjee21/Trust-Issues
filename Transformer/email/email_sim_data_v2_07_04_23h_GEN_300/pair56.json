@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 Confirmation",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon. Your order has been successfully placed and is now being processed.\n\nOrder Details:\n • Order ID: 123-4567890-1234567\n • Items:\n   – Wireless Bluetooth Headphones – Qty: 1 – $79.99\n   – USB-C Charger – Qty: 2 – $19.99\n • Total: $119.97\n\nShipping Information:\n • Address: 123 Maple Street, Apt 4B, Springfield, IL 62704\n • Shipping Method: Standard Shipping (5–7 business days)\n\nEstimated Delivery: 12 Oct 2026\n\nIf you have any questions or need to update your shipping address, please visit <URL> or call our customer support at 1‑800‑AMA‑ZON.\n\nThank you for choosing Amazon. We appreciate your business!\n\nBest regards,\nAmazon.com Team"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Delivery Fee Pending – Immediate Action Required",
+        "body": "Attention: Your FedEx shipment (Tracking # 9876543210) has been delayed due to a missed delivery fee.\n\nTo avoid further delay and possible return of your package, you must pay the missed delivery fee of $34.92 within the next 48 hours.\n\nPlease complete the payment immediately by visiting <URL> or calling our secure payment line at 1‑800‑FED‑EXP.\n\nFailure to act will result in additional fees and your package may be returned to sender. This is a mandatory requirement as per FedEx policy.\n\nWe appreciate your prompt attention to this matter.\n\nThank you,\nFedEx Customer Support"
+    }
+}

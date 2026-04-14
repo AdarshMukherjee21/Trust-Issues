@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345: Deployment Issue Resolved",
+        "body": "Hi Team,\n\nI wanted to let you know that the issue reported in Ticket #12345 regarding the deployment of the new API endpoint has been resolved. I performed a rollback, applied the patch, and verified that the service is back online. Please check the Jira ticket for the detailed steps and logs.\n\nThanks,\nRaj"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended - Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that due to recent security protocols, your crypto wallet with ID XYZ123 has been temporarily suspended. To restore access and avoid permanent loss of funds, you must verify your identity immediately. Please click the link below to confirm your details:\n\n<URL>\n\nFailure to comply within 48 hours will result in permanent account closure.\n\nThank you for your prompt attention.\n\nRegards,\nCryptoSecure Support"
+    }
+}

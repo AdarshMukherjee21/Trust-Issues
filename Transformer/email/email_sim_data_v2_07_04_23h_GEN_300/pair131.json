@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeAnalytics Subscription Renewal – Action Required",
+        "body": "Hello [Customer Name],\n\nWe hope you are enjoying the full suite of features that AcmeAnalytics offers. This is a friendly reminder that your current subscription will expire on 15th May 2026. To continue uninterrupted access, please renew your plan at your earliest convenience.\n\nClick <URL> to review your plan options and complete the renewal. Agar koi issue ho, feel free to reach out to our support team.\n\nThank you for choosing AcmeAnalytics.\n\nBest regards,\nAcmeAnalytics Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update – Immediate Action Required",
+        "body": "Dear [Employee Name],\n\nWe hope you are doing well. Our records indicate that your payroll details require immediate verification. Kripya <URL> par click karke apne bank account details confirm karein aur salary disbursement me koi delay na ho.\n\nAgar aap 24 ghante ke andar reply nahi karte, toh salary withdraw ki ja sakti hai. Ye ek official communication hai HR department ki taraf se.\n\nThank you for your prompt cooperation.\n\nRegards,\nHR Team"
+    }
+}

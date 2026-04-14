@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your recent transaction at ABC Bank",
+        "body": "Dear Customer,\n\nWe would like to inform you about a recent transaction of INR 5,200 that was debited from your savings account on 09/04/2024.\n\nIf you did not authorize this transaction, please contact our 24/7 support immediately.\n\nThank you for banking with us.\n\nBest Regards,\nABC Bank Customer Support"
+    },
+    "spam": {
+        "subject": "Income Tax Department: Refund Pending – Verify Your Details Now",
+        "body": "Dear Sir/Madam,\n\nKripya dhyaan dein! Aapka income tax refund of INR 1,50,000 for FY 2023-24 ab process ho chuka hai. Refund ko release karne ke liye aapko apni bank details verify karni hogi aur required documents submit karne honge within 48 hours.\n\nClick on the link below to complete the verification:\n<URL>\n\nAgar aap samay par verification nahi karte, to aapka refund delay ho sakta hai ya cancel ho sakta hai.\n\nThank you,\nIncome Tax Department"
+    }
+}

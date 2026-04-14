@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved – Feature X Implementation Completed",
+        "body": "Hi Team,\n\nI wanted to let you know that ticket #1234 has been resolved. The feature X implementation has been merged into the main branch and deployed to staging. All unit tests pass and the regression tests have cleared.\n\nPlease review the changes on GitHub (commit ID: a1b2c3d) and let me know if you spot any issues. If everything looks good, we can close the ticket.\n\nThanks,\nAlex"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Crypto Wallet Has Been Suspended",
+        "body": "Dear Valued Customer,\n\nWe have detected suspicious activity on your crypto wallet account (Account ID: 8F3B-XYZ123). As a result, your wallet has been temporarily suspended to protect your assets.\n\nTo restore full access, please verify your identity by submitting a copy of your government‑issued ID and a recent utility bill via the secure portal. Failure to comply within 48 hours may result in permanent account lockout.\n\nClick here to verify: <URL>\n\nThank you for your prompt attention.\n\nSincerely,\nSecurity Operations Team\nCryptoSecure Inc."
+    }
+}

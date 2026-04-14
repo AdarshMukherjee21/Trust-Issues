@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Corporate VPN Maintenance – Scheduled Downtime on 15 May 2026",
+        "body": "Dear Team,\n\nI hope you are doing well.\n\nPlease be informed that the corporate VPN will undergo scheduled maintenance on **15 May 2026, 02:00 AM – 04:00 AM IST**. During this window, all VPN connections will be unavailable.\n\nKey points:\n- The maintenance will include firmware upgrades and security patching.\n- Users will not be able to access any remote resources during the downtime.\n- No action is required from your side; the IT team will handle the upgrade.\n\nIf you experience any issues after the maintenance window, please log a support ticket at <URL> or contact the helpdesk at extension 1234.\n\nThank you for your cooperation.\n\nBest regards,\n\nRajesh Kumar\nIT Operations\nCorporate IT Services"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Ticket #12345",
+        "body": "Dear User,\n\nThis is an automated notice from the IT Helpdesk. Our system has detected **suspicious activity** on your account and has automatically created a support ticket (Ticket ID: 12345). If the issue is not resolved within **24 hours**, your account will be **temporarily suspended** for security reasons.\n\nPlease verify your account details immediately:\n1. Open the <URL> and log in with your corporate credentials.\n2. Follow the on-screen instructions to confirm your identity.\n3. If you do not perform these steps, your access to all corporate resources will be revoked.\n\n**Why this matters:** Failure to resolve this ticket can lead to loss of data access and may affect your ability to work remotely.\n\nFor any questions, reply to this email or call the IT Helpdesk at extension 5678.\n\nThank you for your prompt attention.\n\nRegards,\n\nSanjay Mehra\nIT Helpdesk\nCorporate IT Services"
+    }
+}

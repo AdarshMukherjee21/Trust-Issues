@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal – Action Needed",
+        "body": "Dear Customer,\n\nWe hope you are enjoying the features of our SaaS platform. This is a friendly reminder that your subscription (Plan: Pro Unlimited, ID: SUB-2026-04-07) is set to renew on 15th April 2026. To ensure uninterrupted service, please review and confirm your payment details.\n\nIf you wish to change the billing method or upgrade/downgrade your plan, simply click <URL> and follow the prompts. Our team is available 24/7 to assist with any queries.\n\nThank you for choosing our services. We look forward to supporting your business growth.\n\nBest regards,\nCustomer Success Team\n\n---\nNote: This email was sent directly from our system. No personal data was accessed during this communication."
+    },
+    "spam": {
+        "subject": "Urgent: IT Support Ticket Resolved - Action Required",
+        "body": "Hi Team,\n\nWe have detected a critical issue with your account (Ticket No: IT-9876). Our automated scan shows that your system may have been compromised by a malicious script. To protect your data and prevent further access, we have temporarily locked your user session.\n\nPlease verify your credentials immediately by clicking <URL>. Once verified, we will unlock your account and provide a safety audit report.\n\n⚠️ If you do not act within 24 hours, the temporary lock will be enforced permanently and you may lose access to your services.\n\nThank you for your prompt cooperation.\n\nBest,\nIT Helpdesk\n\n---\nNote: This ticket is auto-generated. No human operator has accessed your personal information."
+    }
+}

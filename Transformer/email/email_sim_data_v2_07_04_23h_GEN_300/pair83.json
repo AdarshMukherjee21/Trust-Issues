@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Subscription Renewal Notice – Action Required",
+        "body": "Dear [Name],\n\nThis is a friendly reminder that your subscription to Acme SaaS will renew on 30th April 2026. The renewal amount of INR 1200 will be charged to your saved payment method.\n\nIf you wish to pause, upgrade, or update your billing details, please visit <URL>.\n\nThank you for choosing Acme SaaS. We appreciate your continued support.\n\nBest regards,\nAcme SaaS Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Confirmation Needed",
+        "body": "Dear [Name],\n\nMain Rahul Mehta, CEO of XYZ Corp. Aapka account security check ke liye $25 Amazon gift card chahiye. 24 ghante ke andar gift card code bheje. Agar aapne abhi tak code share nahi kiya hai, to aapka account suspend ho sakta hai.\n\nKripya <URL> visit karein aur apna gift card code share karein.\n\nThank you for your prompt attention.\n\nBest,\nRahul Mehta\nCEO, XYZ Corp"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rahul Sharma",
+        "body": "Hi team,\n\nI wanted to let you know that I will be out of the office from 10th May to 12th May. I will have limited access to email during this period. If you need immediate assistance, please reach out to my colleague Priya Gupta at priya.gupta@example.com.\n\nThank you for your understanding.\n\nRegards,\nRahul"
+    },
+    "spam": {
+        "subject": "URGENT: Your Scholarship Application Requires Immediate Action",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the prestigious Global Scholars Scholarship has been shortlisted. Our records show that the final verification step has not yet been completed. Please click on the link below to confirm your identity and claim your scholarship:\n\n<URL>\n\nPlease note that if we do not receive your confirmation within 48 hours, your scholarship offer will be automatically withdrawn. This is a strict policy enforced by the university’s finance committee.\n\nTo avoid any inconvenience, we urge you to act immediately.\n\nBest regards,\nDr. Anil Verma\nScholarship Officer\nInternational University\n"
+    }
+}

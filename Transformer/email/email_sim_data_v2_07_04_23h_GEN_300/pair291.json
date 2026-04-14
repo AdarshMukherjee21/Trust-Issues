@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Debited from Your Account",
+        "body": "Dear [Customer Name],\n\nAapke account (ending 1234) se ₹5,000 ka debit hua hai. Yadi aapne is transaction ko authorize nahi kiya, toh kirpya turant hamse sampark karein: <URL>\n\nThank you for banking with us.\n\nBest Regards,\nYour Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended",
+        "body": "Dear User,\n\nWe have detected suspicious activity in your crypto wallet and it has been temporarily suspended. To reactivate your wallet and avoid permanent loss of funds, verify your identity within the next 24 hours by clicking <URL>. If you do not verify, your wallet will be permanently deleted.\n\nRegards,\nSecurity Team"
+    }
+}

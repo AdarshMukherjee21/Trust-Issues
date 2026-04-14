@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Flight 1234 (Booking Ref: ABC123)",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Below are your flight details:\n\n- Flight: SH1234\n- Date: 2026-05-15\n- Departure: JFK Airport, 09:30 AM\n- Arrival: LHR Airport, 09:45 PM (local time)\n- Seat: 12A (Window)\n- Class: Business\n\nBaggage Allowance:\n- 1 carry‑on (23kg)\n- 1 checked bag (32kg)\n\nPlease arrive at the airport at least 3 hours before departure. For any changes to your itinerary, visit <URL> or contact our support.\n\nThank you for choosing SkyHigh. We wish you a pleasant journey.\n\nBest regards,\nSkyHigh Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Notification – Immediate Action Required",
+        "body": "Dear Applicant,\n\nCongratulations! We are pleased to inform you that you have been selected as a recipient of the prestigious XYZ University International Scholarship Fund.\n\nTo secure your scholarship award, please complete the following steps within the next 24 hours:\n\n1. Verify your personal details by clicking the secure link below.\n2. Upload the required documents (passport copy, academic transcripts, and a recent photograph).\n3. Pay the administrative fee of $75.00 via the verified payment portal.\n\nFailure to complete these steps promptly will result in forfeiture of the award.\n\nSecure Link: <URL>\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\nOffice of International Scholarships\nXYZ University\n\nNote: This email is sent from a monitored address. Please do not reply directly; instead, use the link provided."
+    }
+}

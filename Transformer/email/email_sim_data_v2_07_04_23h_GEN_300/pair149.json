@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Bank Account Transaction Alert",
+        "body": "Dear Customer,\n\nWe are writing to inform you that a transaction of Rs. 20,000 was made from your account on 12/05/2023. The transaction was authorized by the recipient: ABC Retail Store.\n\nIf you did not authorize this transaction, please contact our support team immediately at 1-800-123-4567 or reply to this email.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Congratulations! You Have Been Awarded a Scholarship – Immediate Action Required",
+        "body": "Dear [Applicant Name],\n\nCongratulations! Aap XYZ University Scholarship Program ke liye selected ho gaye hain. University ki policies ke hisaab se aapko 48 ghante ke andar apni acceptance confirm karni hogi, warna scholarship offer revoke ho jayega.\n\nKripya niche diye gaye link pe click kare aur apne bank account details fill karen taaki scholarship"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Debit on Your Account",
+        "body": "Dear John Doe,\n\nWe are writing to inform you that a debit transaction of $250.00 was made on your account ending with 9876 on 07 April 2026 at 14:32. The transaction was completed at \"ABC Retail Store\" located in New York, NY.\n\nIf you authorize this transaction, no further action is required. If you believe this was a mistake or a fraudulent activity, please contact our Customer Support Team immediately at 1-800-123-4567 or reply to this email.\n\nThank you for banking with us.\n\nSincerely,\nFinancial Services Team\n\n--\nThis email is automatically generated. The sender is not a real person. The bank will never ask you to send money to an unexpected account or provide sensitive personal information via email."
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Verification Required",
+        "body": "Dear Mr. Smith,\n\nThe Income Tax Department has identified your account as eligible for a tax refund of $5,000.00 for the fiscal year 2025. To expedite the processing of your refund, we require you to verify your identity and complete a short confirmation process.\n\nPlease click on the secure link below to provide the requested details and confirm your eligibility:\n\n<URL>\n\nYou must complete this verification within 48 hours of receiving this email. Failure to do so will result in the forfeiture of your refund.\n\nIf you have already completed the verification, please disregard this message. Otherwise, if you suspect this email is a phishing attempt, do not click the link and contact the Income Tax Department directly at 1-800-555-1234.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department – Refund Processing Office\n\n---\nPlease note: This email does not contain any actual links. The <URL> placeholder is used for demonstration purposes only."
+    }
+}

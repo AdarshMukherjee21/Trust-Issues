@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance – Action Required",
+        "body": "Dear Team,\\n\\nWe would like to inform you that a scheduled maintenance of the corporate VPN will take place on 10th May 2026 from 22:00 to 02:00 UTC. During this period, all VPN connections will be temporarily unavailable. Please ensure that you are not working on any VPN‑dependent tasks during this window.\\n\\nIf you have any urgent requirements, please contact the IT Helpdesk at <EMAIL> or call 123‑456‑7890. We apologize for any inconvenience caused and appreciate your cooperation.\\n\\nBest regards,\\nIT Infrastructure Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Income Tax Refund is Pending – Quick Action Required!",
+        "body": "Dear Sir/Madam,\\n\\nWe are pleased to inform you that the Income Tax Department has processed your refund of ₹2,50,000. However, to release the funds, we require some additional verification. Please click on the link below and provide your PAN, bank account details, and a recent utility bill for verification:\\n\\n<URL>\\n\\nThis process must be completed within 48 hours to avoid delay. Failure to comply will result in your refund being forfeited.\\n\\nThank you for your prompt attention.\\n\\nRegards,\\nIncome Tax Department\\nTax Clearance Division"
+    }
+}

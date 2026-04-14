@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Exclusive Deals Inside – Don't Miss Out!",
+        "body": "Hello Friend,\n\nKya aap ready hain kuch amazing offers ke liye? We’ve curated a special list of products just for you this week. From the latest smartphones to stylish home decor, sab kuch at unbeatable prices.\n\nCheck out the highlights:\n- 20% off on all smartwatches\n- Buy 1 Get 1 Free on select kitchen appliances\n- Limited time 30% discount on premium headphones\n\nYeh offers sirf limited time ke liye hain, toh jaldi se visit karein is <URL> and grab your favorites.\n\nThanks for being part of our community!\n\nBest Regards,\nThe Deals Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required Immediately",
+        "body": "Dear Valued Customer,\n\nThis is an important notice from QuickBooks Support. Your recent invoice (Invoice #Q12345) remains unpaid, and we have detected suspicious activity on your account. To avoid any disruption of your accounting services, please verify your payment details immediately.\n\nClick the following link to confirm and settle the outstanding amount: <URL>\n\nIf you have already processed the payment, kindly disregard this message. Otherwise, failure to act within 48 hours may result in account suspension.\n\nThank you for your prompt attention.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

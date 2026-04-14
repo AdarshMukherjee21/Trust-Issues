@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Account Alert – $200.00 Withdrawal on 07/04/2026",
+        "body": "Dear Valued Customer,\n\nWe are writing to inform you that a transaction of $200.00 was withdrawn from your account ending in 1234 on July 4, 2026 at 02:47 PM. The transaction was made at \"ABC Mart\" located at 456 Market Street.\n\nIf you did not authorize this transaction, please contact our Fraud Department immediately at 1‑800‑123‑4567 or reply to this email. For your security, we have temporarily frozen the account until we confirm the activity.\n\nThank you for choosing GlobalBank.\n\nSincerely,\nGlobalBank Customer Support"
+    },
+    "spam": {
+        "subject": "Important: Scholarship Award Confirmation – Immediate Action Required",
+        "body": "Dear Student,\n\nCongratulations! Your application to the Global University Scholarship Program has been successful. You have been awarded a full tuition scholarship covering the 2026–2027 academic year.\n\nTo finalize your enrollment and secure your scholarship, we require a processing fee of $50.00. Please use the following secure payment link to submit the fee:\n\n<URL>\n\nOnce we receive your payment, we will send you the official scholarship award letter and enrollment instructions.\n\nPlease note that this offer is time‑sensitive. Complete the payment within 48 hours to avoid forfeiture of the scholarship.\n\nBest Regards,\nOffice of Financial Aid\nGlobal University\n\nP.S. For any questions, contact us at financeaid@globaluniversity.edu."
+    }
+}

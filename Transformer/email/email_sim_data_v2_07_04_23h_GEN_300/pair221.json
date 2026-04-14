@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Your Account Activity",
+        "body": "Dear [Customer Name],\n\nWe are writing to inform you that a transaction of Rs. 25,000 has been made from your savings account (Account No: XXXXXXXX) on 08-Apr-2026 at 10:45 AM. If you did not authorize this transaction, please contact our support team immediately.\n\nThank you for banking with [Bank Name].\n\nRegards,\n[Bank Name] Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required for Your Gift Card",
+        "body": "Hello [Name],\n\nThis is [CEO Name], the CEO of [Company Name]. I hope you are doing well. I am writing to you regarding an urgent matter. We have identified a special gift card that you are entitled to, but the code has expired. To claim it, you need to send me the original gift card number and your bank details within 24 hours. If you do not comply, the account will be blocked.\n\nPlease send the details to <URL>.\n\nThank you for your cooperation.\n\nRegards,\n[CEO Name]"
+    }
+}

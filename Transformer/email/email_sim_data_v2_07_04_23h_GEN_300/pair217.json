@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal is Coming Up – Action Needed",
+        "body": "Hi John,\n\nWe hope you're enjoying the features of XYZ SaaS platform! This is a friendly reminder that your subscription will expire on 15th May 2026. To keep uninterrupted access, please renew your plan before the expiry date.\n\nRenewal Details:\n- Plan: Enterprise\n- Amount: $499 per month\n- Billing Cycle: Monthly\n\nClick <URL> to review and renew your subscription. If you have any questions, feel free to reply to this email or call our support team at 1800-123-456.\n\nThank you for choosing XYZ SaaS.\n\nBest regards,\nXYZ SaaS Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet (Wallet ID: 0xABC123XYZ) has been temporarily suspended due to suspected fraudulent activity. To avoid permanent lockout and potential loss of funds, you must verify your identity immediately.\n\nPlease log in to <URL> and complete the verification process within the next 24 hours. Failure to comply will result in your wallet being permanently disabled.\n\nIf you believe this is a mistake, reply to this email with your transaction ID and account details. For urgent assistance, call our support hotline at 1800-987-654.\n\nRegards,\nFinancial Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Will be back on Thursday",
+        "body": "Hi Team,\n\nThank you for your email. I am currently out of the office and will return on Thursday, 15th April. I will have limited access to email during this period.\n\nIf your matter is urgent, please contact Sarah Johnson at sarah.johnson@example.com or call the office line at 555‑123‑4567.\n\nThank you for your understanding.\n\nBest regards,\nAlex"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Executive Gift Card Verification",
+        "body": "Dear [First Name]"
+    }
+}

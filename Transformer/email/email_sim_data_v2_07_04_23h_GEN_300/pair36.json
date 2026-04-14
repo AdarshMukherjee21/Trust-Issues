@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Amazon Order Confirmation: Your order #123-4567890-1234567 has been shipped",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon.\n\nWe are pleased to inform you that your order #123-4567890-1234567 has been shipped and is on its way. Please find the details below:\n\nOrder Summary:\n• 1× Wireless Mouse (Black)\n• 2× USB-C Cable (3 meters)\n• 1× Laptop Sleeve (15.6\")\n\nTotal Charged: $89.99 (incl. tax)\n\nShipping Address:\nJohn Doe\n123 Maple Street\nSpringfield, IL 62704\nUnited States\n\nTrack your shipment: <URL>\n\nIf you have any questions or need assistance, please contact Amazon Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com\n\nCustomer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your crypto wallet and, in accordance with our security protocols, your wallet has been temporarily suspended pending verification.\n\nTo restore access to your funds, please complete the verification process within the next 24 hours by clicking the link below:\n\n<URL>\n\nFailure to verify will result in permanent suspension and potential loss of your cryptocurrency holdings.\n\nIf you have any questions or believe this is a mistake, contact our Crypto Security Team immediately.\n\nThank you for your prompt attention.\n\nSincerely,\nCrypto Security Team"
+    }
+}

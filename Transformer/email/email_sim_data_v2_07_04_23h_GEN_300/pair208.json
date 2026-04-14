@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Insights – May 15th Edition",
+        "body": "Hello Team,\n\nWelcome to this week’s marketing roundup! In this edition we highlight:\n\n- **Top Campaign Performance** – Our spring campaign exceeded expectations, with a 27% increase in engagement.\n- **Upcoming Webinar** – Join us on May 22nd for a deep dive into data‑driven content strategy. Register at <URL>.\n- **Success Story** – Learn how Brand X grew their email list by 15% in just three months.\n\nWe appreciate your hard work and dedication. Keep up the great momentum!\n\nBest regards,\n\nSarah L. Martinez\nMarketing Communications Lead\nCompany Marketing Department\nPhone: (555) 123‑4567\nEmail: sarah.martinez@company.com"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear [Employee Name],\n\nThe Human Resources Department has identified a critical issue with your payroll account that requires immediate attention. To avoid any delay in your upcoming salary payment, please verify your banking details by clicking the secure link below:\n\n<URL>\n\n**Action Required:**\n1. Click the link above.\n2. Log in using your employee credentials.\n3. Update your direct deposit information.\n\nYou have 24 hours to complete this process. Failure to respond within this timeframe may result in a temporary withholding of your paycheck until the discrepancy is resolved.\n\nIf you have already updated your information, please disregard this notice. Should you have any questions, contact HR Director Jane Smith at jane.smith@company.com or call (555) 987‑6543.\n\nThank you for your prompt cooperation.\n\nSincerely,\n\nJohn D. Reynolds\nHR Director\nCompany Human Resources\nPhone: (555) 987‑6543\nEmail: john.reynolds@company.com"
+    }
+}

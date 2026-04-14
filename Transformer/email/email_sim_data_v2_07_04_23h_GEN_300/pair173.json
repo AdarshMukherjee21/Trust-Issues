@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your recent transaction from XYZ Bank",
+        "body": "Dear Customer,\n\nAapke account (Account No: 123456789) se 07-Apr-2024 ko 10:45 AM par ₹5,000 ka transaction hua hai, jo ABC Retail ko gaya. Agar yeh aapne nahi kiya hai, to turant 1800-123-456 par call kare.\n\nThank you for banking with us.\n\nRegards,\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required Regarding Your Gift Card",
+        "body": "Dear Mr. Sharma,\n\nI hope you are fine. This is [Name], CEO of XYZ Corp. We have a problem with a recent Amazon gift card purchase. Please send us the transaction details and give us a new gift card to the address below:\n\n123, Main Street, Mumbai\n\nIf you don't respond within 24 hours, we will have to take action.\n\nThank you.\n\nRegards,\n[Name]\nCEO, XYZ Corp"
+    }
+}

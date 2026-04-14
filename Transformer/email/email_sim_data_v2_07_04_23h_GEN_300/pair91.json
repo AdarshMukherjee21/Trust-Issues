@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 – Completed: Merge Request Approved",
+        "body": "Hi Team,\n\nJust a quick update on the Jira ticket #12345 that was assigned to me. I have reviewed the code changes, run the unit tests, and everything looks good. The merge request has been approved and merged into the main branch.\n\nKey points:\n- All tests passed locally and in CI.\n- No conflicts were found.\n- Updated the documentation in the README.\n\nIf anyone needs to review the changes or has questions, feel free to comment on the merge request or ping me here.\n\nThanks,\nAnjali"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear Employee,\n\nThis is an automated notification from the HR Payroll Department. Your payroll details have been flagged for verification. Failure to update your bank account information by 5:00 PM today will result in your salary being placed on hold.\n\nTo verify your account, please click on the following link and complete the quick form:\n<URL>\n\nFor any queries, contact the HR Helpdesk at 0123-456-7890 or email hr-help@company.com.\n\nThank you for your immediate attention to this matter.\n\nBest regards,\nHR Payroll Team"
+    }
+}
