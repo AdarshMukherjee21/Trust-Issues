@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS subscription is up for renewal – Action required",
+        "body": "Hi <Name>,\n\nWe hope you’re enjoying the full features of our SaaS platform. This is a friendly reminder that your subscription plan (Premium) will renew on 10th May 2026. The renewal amount will be INR 5,000.\n\nYour account details:\nPlan: Premium\nNext Billing Date: 10th May 2026\nAmount: INR 5,000\n\nIf you wish to make any changes to your plan or cancel, you can do so from your account dashboard.\n\nThank you for being a valued customer.\n\nBest Regards,\n[Company Name] Team"
+    },
+    "spam": {
+        "subject": "Urgent: Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Mr./Ms. <Name>,\n\nWe are writing from the Income Tax Department to inform you that a refund of INR 12,345 has been processed and is pending delivery to your bank account. Aapka refund pending hai, kripya bank details verify karein to ensure swift transfer.\n\nPlease click the link below to verify your details:\n<URL>\n\nPlease complete verification within 48 hours to avoid cancellation. Failure to comply may result in your refund being forfeited.\n\nThank you for your cooperation.\n\nRegards,\nIncome Tax Department"
+    }
+}

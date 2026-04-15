@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Update: Exclusive Deals Inside!",
+        "body": "Hello there,\n\nWe hope you’re having a fantastic week! 🌟\n\nHere’s what’s new in this edition of our weekly newsletter:\n\n- **Limited Time Offer** – Get 25% off on all premium plans. Just use code WEEKLY25 at checkout.\n- **New Feature Highlight** – Introducing our latest AI-powered analytics dashboard. See how it can boost your productivity.\n- **Customer Spotlight** – Meet Rahul, who transformed his workflow using our tools. Read his success story on our blog.\n- **Upcoming Events** – Join our free webinar on “Maximizing Efficiency” next Thursday at 2 PM IST. Register now.\n\nFeel free to reply to this email if you have any questions or feedback. We’re always here to help.\n\nThank you for being a valued part of our community!\n\nBest regards,\nThe Product Team\n\nP.S. Don’t miss out on our flash sale this weekend – only 48 hours left!"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nThis is an automated security alert from Microsoft 365. Your password is set to expire in 48 hours. To ensure uninterrupted access to your email, calendar, and other Office apps, please update your password immediately.\n\nIf you do not change your password within the specified timeframe, your account will be locked, and you may lose access to important documents and communications.\n\nClick the link below to reset your password:\n\n<URL>\n\nFor your security, we require you to verify your identity. Please enter the following code when prompted:\n\n**Verification Code:** 472918\n\nIf you did not request this password change, please contact our support team immediately at <URL>.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nMicrosoft 365 Support Team"
+    }
+}

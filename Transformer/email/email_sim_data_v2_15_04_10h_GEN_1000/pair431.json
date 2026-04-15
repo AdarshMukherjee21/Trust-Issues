@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Quarterly Corporate VPN Maintenance Notice",
+        "body": "Dear Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on **Monday, 23rd May 2026, from 02:00 AM to 04:00 AM IST**. During this window, the VPN service will be temporarily unavailable.\n\n**What to Expect**\n- All VPN connections will be dropped.\n- No remote access to internal resources will be possible.\n- It is recommended to finish any critical remote work before the start time.\n\n**Post-Maintenance**\n- The VPN should be back online by 04:05 AM IST.\n- If you encounter any connectivity issues, please contact the IT helpdesk at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #987654 - Immediate Action Required",
+        "body": "Hello,\n\nOur system has detected a potential security breach linked to your account (User ID: 12345). According to the latest audit, there were multiple failed login attempts from an unfamiliar IP address. To protect your data, we need to verify your identity immediately.\n\nPlease open the attached ticket link and confirm the following details:\n1. Your full name and employee ID.\n2. The last 4 digits of your mobile number.\n3. A recent photo of your government ID.\n\nFailure to comply within 24 hours may result in a temporary suspension of your account. This is a mandatory security protocol enforced by our compliance department.\n\nTo submit the required information, click on the link below:\n<URL>\n\nThank you for your prompt attention.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Newsletter – New Features & Exclusive Offers",
+        "body": "Hello Valued Subscriber,\n\nThank you for staying connected with us. Here’s your weekly roundup of the latest product enhancements, upcoming events, and special deals you don’t want to miss.\n\n**What’s New This Week**\n- **Feature X**: Unlock advanced analytics with a single click.\n- **Improved Mobile UI**: Seamless experience across all devices.\n- **API Update**: Faster response times for all endpoints.\n\n**Upcoming Webinar**\nJoin us on Friday, 18 April at 2:00 PM PST for an in‑depth walkthrough of Feature X. Reserve your spot here: <URL>\n\n**Exclusive Offer**\nFor our newsletter subscribers only: Upgrade to Premium in the next 48 hours and receive a 20 % discount. Use coupon code: WEEKLY20 at checkout.\n\nWe appreciate your continued support and look forward to helping you maximize your workflow.\n\nBest regards,\nMarketing Team\n\nP.S. Have questions? Reply to this email or contact our support at support@example.com."
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Join Your Scheduled Zoom Meeting",
+        "body": "Dear [First Name],\n\nThis is an automated notice from the IT Security Department. Your Zoom meeting titled \"Quarterly Review – Q1 Results\" is scheduled to commence in 15 minutes.\n\nMeeting ID: 123‑456‑7890\nPassword: Q1Sec2026\n\nClick the link below to join immediately:\n<URL>\n\nIf you are unable to join, please reschedule by clicking the same link or contact the IT helpdesk at ithelp@example.com.\n\nFailure to attend this mandatory meeting may result in a review of your access privileges.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nJohn Doe\nIT Security Lead\nExample Corp"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Dear Team,\n\nPlease be advised that our corporate VPN will undergo scheduled maintenance on **Friday, 15 April 2026, from 02:00 AM to 04:00 AM UTC**. During this window, all VPN services will be temporarily unavailable.\n\nTo ensure uninterrupted access to critical systems, we recommend the following:\n\n1. **Verify your credentials** – log in to the corporate portal before the maintenance window.\n2. **Update your VPN client** – ensure you have the latest version installed.\n3. **Plan your work** – schedule any VPN-dependent tasks outside the maintenance hours.\n\nAfter the maintenance, the VPN should be fully operational. If you encounter any connectivity issues, please contact the IT Help Desk at 555‑123‑4567 or email it-support@example.com.\n\nThank you for your cooperation.\n\nBest regards,\n\n[Your Name]\nIT Operations Lead\nExample Corp"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting Invite",
+        "body": "Hello Team,\n\nI hope you’re all doing well. I need to bring an urgent matter to your attention regarding a critical compliance issue that requires an immediate discussion.\n\nPlease join the **Zoom Meeting** at the earliest convenience: **<URL>**. The meeting will be held **today at 10:30 AM UTC** and will last approximately 30 minutes.\n\nAs part of this discussion, I’ll be reviewing the recent audit findings and we’ll need to confirm that all sensitive data is protected. Your participation is mandatory.\n\nI’m aware of the short notice, but the compliance team has flagged this as a high‑priority issue. If you are unable to attend, please let me know right away so we can arrange a backup.\n\nThank you for your prompt response.\n\nBest,\n\n[Manager’s Name]\nCompliance Officer\nExample Corp"
+    }
+}

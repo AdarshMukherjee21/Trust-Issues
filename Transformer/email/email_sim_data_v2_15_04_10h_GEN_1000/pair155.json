@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Debit from Your Account",
+        "body": "Dear Mr. Sharma,\n\nWe would like to inform you that a transaction of ₹5,000 has been debited from your savings account (Account No: 1234567890) on 15th April 2026 at 10:45 AM IST. If you did not authorize this transaction, please contact us immediately at 1800-123-456 or log in to your online banking portal.\n\nThank you for banking with SBI.\n\nSincerely,\nCustomer Support Team\nSBI Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Project Sync Meeting – Please Join Immediately",
+        "body": "Hi Rohan,\n\nYour presence is requested in an urgent project sync. The meeting is scheduled for 4:00 PM IST on 20th April 2026. Please join the meeting using the link below:\n\n<URL>\n\nAll the best,\n\nRajesh Kumar\nProject Manager\nAcme Solutions"
+    }
+}

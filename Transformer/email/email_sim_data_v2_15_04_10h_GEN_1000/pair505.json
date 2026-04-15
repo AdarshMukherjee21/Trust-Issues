@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Exclusive Deals – 25% Off on Electronics!",
+        "body": "Hey [Name],\n\nHope you’re doing great! This week we’re bringing you the hottest deals on electronics. Grab up to 25% off on smartphones, laptops, and accessories. Offers valid till Sunday midnight – so act fast!\n\nUse code WEEKLY25 at checkout.\n\nShop now: <URL>\n\nThanks for choosing us. Stay tuned for more exciting offers.\n\nBest regards,\nThe XYZ Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Microsoft 365 Password Expiry Notice",
+        "body": "Dear Valued Microsoft 365 User,\n\nThis is an urgent security alert from Microsoft. Your Microsoft 365 password will expire in 24 hours. To avoid service disruption, please verify your account immediately by clicking the link below:\n\n<URL>\n\nIf you ignore this, your account may be suspended and you could lose access to important emails and documents. Please act now to keep your account safe.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS subscription renewal is coming up",
+        "body": "Hello,\n\nAapka subscription hamare SaaS platform par jaldi hi expire hone wala hai. Kripya usse renew karen takki aapke services me koi disruption na ho.\n\nYadi aapke paas koi prashn ho, to humein sampark karen.\n\nBest regards,\nSupport Team"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket Number One Two Three Four Five – Immediate Action Required",
+        "body": "Hi,\n\nHamne aapke account se ek ticket receive kiya hai. Hamare system ne ek issue detect kiya hai jise turant action ki zaroorat hai. Kripya apne credentials verify karen by clicking the link below to avoid potential lockout.\n\n<URL>\n\nThank you for your prompt cooperation.\n\nBest,\nIT Helpdesk"
+    }
+}

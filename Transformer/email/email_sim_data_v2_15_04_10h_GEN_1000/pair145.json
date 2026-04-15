@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Top Deals & Updates – Exclusive Offers Inside!",
+        "body": "Hi there,\n\nWe hope you’re having a great week! Here’s a quick rundown of the best deals and updates from our store this week:\n\n1. **New Arrivals** – Check out our latest collection of summer wear. Up to 30% off on all new items!\n2. **Bundle Bonus** – Buy any two items and get a 15% discount on the third.\n3. **Free Shipping** – Enjoy free shipping on orders over ₹999.\n4. **Loyalty Points** – Earn double points on all purchases made this week.\n\nClick <URL> to explore the full range of offers and start shopping now.\n\nThank you for being a valued customer! If you have any questions, feel free to reply to this email or contact our support team.\n\nBest regards,\nThe Deals Team\n\nP.S. These offers are only valid until Sunday, 5:00 PM. Don’t miss out!"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – FedEx Delivery Fee",
+        "body": "Dear Customer,\n\nOur records show that your recent FedEx shipment (Tracking # 123456789) was missed and a delivery fee of ₹1,200 has been applied.\n\nTo avoid additional charges and to ensure your package is delivered promptly, you must pay the missed delivery fee within the next 24 hours. Failure to do so will result in your package being returned to the sender.\n\nPlease confirm the payment by clicking <URL> and entering the following details:\n- Tracking Number: 123456789\n- Amount Due: ₹1,200\n\nIf you have already paid, please disregard this notice. Otherwise, act now to secure your delivery.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support Team"
+    }
+}

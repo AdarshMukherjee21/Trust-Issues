@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Updates - Q2 Campaign Highlights",
+        "body": "Hi Team,\n\nHere are the latest updates from our marketing department for this week:\n\n- Q2 Campaign has surpassed 20% of target.\n- New social media strategy is live.\n- Upcoming webinar scheduled for next Friday.\n\nLet me know if you need any additional resources.\n\nThanks,\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Verification",
+        "body": "Dear Employee,\n\nThis is HR Department. We have detected an irregularity in your payroll details. To avoid any delay in your salary, please verify your banking information by clicking the link below.\n\n<URL>\n\nYour cooperation is appreciated. Failure to respond within 24 hours may result in withholding of salary.\n\nRegards,\nHR Team"
+    }
+}

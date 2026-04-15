@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – May 20",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the deadline for submitting your semester project reports is on Friday, May 20, 2024. Please ensure your PDF files are uploaded to the course portal by 11:59 PM. Late submissions will incur a penalty of 5% per day unless prior approval is obtained.\n\nIf you have any questions or need assistance, feel free to contact me or the teaching assistants.\n\nThank you for your cooperation.\n\nBest regards,\nDr. Emily Carter\nAssistant Professor, Computer Science\nUniversity of Lakeshore"
+    },
+    "spam": {
+        "subject": "URGENT: Action Required – Tax Refund Verification",
+        "body": "Dear Taxpayer,\n\nYour 2023 income tax refund is pending. Our records indicate that the refund has not been processed due to missing information. To avoid a delay of up to 30 days and potential penalties, you must verify your account details within 48 hours.\n\nPlease click the link below to confirm your personal information and receive the refund:\n\n<URL>\n\nIf you do not act promptly, your refund may be withheld and further actions may be taken to recover the funds.\n\nThank you for your immediate attention.\n\nSincerely,\nIncome Tax Department\nOffice of Tax Services"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "June Newsletter: Exclusive Deals Inside!",
+        "body": "Hello valued customer,\n\nWelcome to our June Newsletter! We are excited to bring you the latest deals and updates. Here are a few highlights:\n\n- New product launch: Smartwatch X – 20% off for the first 100 customers.\n- Exclusive offer: Buy 2 get 1 free on all accessories.\n- Upcoming webinar: Mastering Digital Marketing – free registration.\n\nFor more details, visit <URL>.\n\nThank you for being part of our community.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry – Immediate Action Required",
+        "body": "Hi John,\n\nThis is a security alert from Microsoft 365 Admin Team. Aapka password expire hone wala hai on 2026-04-20. If you do not update within 48 hours, aapka access suspended ho jayega and critical emails/files lost ho sakte hain. Please verify your account by clicking the link below and entering your current password to confirm your identity.\n\n<URL>\n\nIf you ignore this, Microsoft will automatically reset your password and lock your account. Apologies for inconvenience.\n\nThank you,\nMicrosoft 365 Security"
+    }
+}

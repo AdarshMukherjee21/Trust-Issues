@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your recent transaction at ABC Mart – $45.00",
+        "body": "Hello Customer,\n\nWe have processed your recent purchase at ABC Mart on 15 April 2026. Amount: $45.00. Transaction ID: TXN987654321.\n\nIf you did not authorize this transaction, please contact us immediately at 1-800-123-4567 or reply to this email.\n\nThank you for banking with SecureBank.\n\nSincerely,\nSecureBank Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: IT Support Ticket #45789 – Immediate Action Required",
+        "body": "Dear Valued Employee,\n\nYour IT support ticket #45789 has been escalated to Level 3. Our records indicate that your account has not been updated in 72 hours. To secure your access, please reset your password by clicking the link below within 24 hours.\n\n<URL>\n\nFailure to comply may result in temporary suspension of your account.\n\nThank you,\nIT Support Team"
+    }
+}

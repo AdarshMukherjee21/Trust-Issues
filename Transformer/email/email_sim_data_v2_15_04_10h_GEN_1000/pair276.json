@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Hello Team,\n\nThis is a friendly reminder that the semester project submission deadline is on Friday, April 19th at 11:59 PM. Please make sure to upload your final report and presentation slides to the course portal before the deadline to avoid any late penalties.\n\nIf you have any questions or need assistance with the submission process, feel free to reach out to me or the TA.\n\nThank you for your hard work!\n\nBest regards,\nDr. Laura Kim\nProfessor of Computer Science\nUniversity of Somewhere"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear [Employee Name]"
+    }
+}

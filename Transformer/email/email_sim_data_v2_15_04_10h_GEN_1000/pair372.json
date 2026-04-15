@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the full suite of features in your current plan. This is a friendly reminder that your subscription to Acme Analytics is set to renew on 15th May 2026.\n\nPlan: Pro – $49.99/month\nNext Billing Date: 15th May 2026\n\nIf you wish to upgrade or downgrade your plan, please log in to your account and navigate to the Billing section. All changes will take effect immediately upon confirmation.\n\nThank you for choosing Acme Analytics for your business needs. Should you have any questions or require assistance, feel free to reply to this email or contact our support team.\n\nBest regards,\nThe Acme Analytics Team"
+    },
+    "spam": {
+        "subject": "Urgent: Tax Refund Pending – Verify Your Account Now",
+        "body": "Attention: Your Income Tax Department refund is ready for processing, but we require immediate verification of your account details.\n\nAs per the latest tax regulations, the government has allocated a refund of $3,500 for your 2025 tax return. To release the funds, you must confirm your identity and bank account information by clicking the link below.\n\n<URL>\n\nFailure to comply within 48 hours may result in a delay of your refund or potential penalties. This is a mandatory compliance step to ensure the security of your personal data.\n\nPlease act now to avoid any inconvenience.\n\nSincerely,\nIncome Tax Department\nCustomer Relations Team"
+    }
+}

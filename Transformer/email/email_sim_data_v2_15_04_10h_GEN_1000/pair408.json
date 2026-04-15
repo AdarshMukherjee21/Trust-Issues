@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – April 30",
+        "body": "Hi Team,\n\nJust a friendly reminder that the semester project is due on April 30 at 5:00 PM. Please submit your final report via the LMS by the deadline.\n\nIf you need any assistance or have questions, feel free to reach out.\n\nThanks,\nProfessor Smith"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – FedEx Delivery Fee Overdue",
+        "body": "Dear Customer,\n\nWe have detected a missed delivery for your shipment #123456. A fee of $150.00 is pending and must be paid within 48 hours to avoid cancellation of your package.\n\nPlease confirm payment by visiting <URL> and following the instructions. Failure to comply may result in additional charges or shipment denial.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Service"
+    }
+}

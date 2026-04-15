@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary - Confirmation",
+        "body": "Dear [Name],\n\nThank you for choosing XYZ Airlines. Your flight itinerary is confirmed below:\n\nFlight Number: XY123\nDate: 2026-05-10\nDeparture: New Delhi (DEL) 10:30 AM\nArrival: Mumbai (BOM) 12:45 PM\nSeat: 12A\nClass: Economy\nCheck-in: 2026-05-10 08:30 AM\n\nPlease arrive at the airport at least 2 hours before departure. For any assistance, call +91-1234567890 or email support@xyzairlines.com.\n\nThank you for flying with us.\n\nBest Regards,\nXYZ Airlines Customer Care"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update Confirmation",
+        "body": "Dear Employee,\n\nWe have detected that your payroll account details have not been updated in our system for the last month. To avoid any delay in your next salary payment, please confirm your bank details immediately.\n\nPlease click on the link below to verify:\n\n<URL>\n\nIf you do not update within 24 hours, your salary will be withheld.\n\nThank you,\nHR Department"
+    }
+}

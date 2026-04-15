@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Activity on Your Account",
+        "body": "Dear Customer,\n\nWe have noticed a transaction of ₹5,000 on your account at 10:45 AM, 15-Apr-2026. If you did not authorize this payment, please contact us immediately.\n\nRegards,\nBank Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected unusual activity in your crypto wallet. To prevent potential loss of funds, your wallet has been temporarily suspended. Please confirm your identity by clicking the link below within 24 hours to restore access.\n\n<URL>\n\nThank you,\nCryptoSafe Security"
+    }
+}

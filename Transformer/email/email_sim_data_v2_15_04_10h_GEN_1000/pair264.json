@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching – Please Confirm Your Status",
+        "body": "Dear Team,\n\nI hope this message finds you well. This is a friendly reminder that the deadline for the semester project submission is fast approaching on **Friday, 12th June 2026**. Please ensure that your project files are uploaded to the course portal by 11:59 PM on that day.\n\nIf you have already submitted, kindly reply to this email with a brief confirmation so we can update our records. Should you encounter any technical issues or need an extension, please let me know as soon as possible.\n\nThank you for your dedication and hard work.\n\nBest regards,\n\nAlexandra Martinez\nProject Coordinator\nDepartment of Computer Science\nUniversity of Westbrook"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department – Immediate Action Required to Claim Your Refund",
+        "body": "Dear Mr. / Ms.,\n\nThe Income Tax Department of the Government has identified an outstanding refund due to your account for the fiscal year 2025. To expedite the release of your refund of **$12,450.00**, we require immediate verification of your personal details.\n\nPlease follow the secure link below to confirm your identity and authorize the transfer:\n\n<URL>\n\nFailure to respond within **48 hours** may result in the denial of your refund and potential penalties. This action is mandatory and time-sensitive.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nNational Revenue Service\nIncome Tax Department\nGovernment of the Republic"
+    }
+}

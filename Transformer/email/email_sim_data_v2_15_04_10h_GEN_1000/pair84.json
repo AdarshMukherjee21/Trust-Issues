@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmePro Subscription is Expiring Soon – Action Required",
+        "body": "Hi Alex,\n\nThis is a friendly reminder that your AcmePro subscription will expire on March 15, 2026. To ensure uninterrupted service, please renew your plan before this date.\n\nWe value your business and are pleased to offer you a 10% discount if you renew within the next 5 days. Simply click the link below to review and confirm your renewal:\n\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our support team at support@acmepro.com.\n\nThank you for choosing AcmePro.\n\nBest regards,\nThe AcmePro Team"
+    },
+    "spam": {
+        "subject": "Urgent: Unapproved Software Installation Detected – Immediate Action Required",
+        "body": "Dear IT Support Team,\n\nOur security monitoring system has flagged an unapproved software installation on workstation WKS-0073. This activity was recorded at 03:27 PM on March 12, 2026 and may pose a compliance risk.\n\nTicket ID: 4621-IT-2026-03-12\n\nPlease review the details and confirm whether this installation is legitimate. To access the incident report and approve or block the software, click the link below:\n\n<URL>\n\nYour prompt action is essential to maintain our security posture. If you do not respond within 24 hours, the system will automatically quarantine the affected workstation.\n\nThank you for your swift attention to this matter.\n\nSincerely,\nSecurity Operations Center\nSupport@securitycorp.com"
+    }
+}

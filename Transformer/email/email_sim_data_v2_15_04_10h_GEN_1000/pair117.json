@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Deployment Completed",
+        "body": "Hi Team,\n\nTicket #12345 has been resolved. The associated GitHub PR #9876 has been merged and deployed to production.\n\nPlease verify the changes and let me know if any further action is needed.\n\nThanks,\nDevOps"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Overdue – Immediate Action Required",
+        "body": "Dear Customer,\n\nYour QuickBooks invoice #QB20260415 is overdue. Immediate action required to avoid service interruption.\n\nPlease login to QuickBooks at <URL> and verify your payment details.\n\nIf you do not pay within 48 hours, your account will be suspended.\n\nThank you,\nQuickBooks Support Team"
+    }
+}

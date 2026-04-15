@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Dear Team,\n\nPlease be advised that the corporate VPN will undergo maintenance during 02:00–04:00 UTC on Friday, April 20. During this window, you will be unable to connect to the corporate network.\n\nWe apologize for any inconvenience and thank you for your cooperation.\n\nIf you have any questions or require assistance, please contact IT Support via our internal portal: <URL>.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Join the Secure Meeting Now",
+        "body": "Dear [Recipient Name],\n\nWe have scheduled a critical Zoom/Teams meeting to discuss urgent company-wide financial updates. Your participation is mandatory. Please join the meeting by clicking the link below:\n\n<URL>\n\nIf you fail to join within 30 minutes, your account will be automatically suspended and you may lose access to company resources. This is a mandatory compliance requirement.\n\nPlease confirm your attendance by replying to this email.\n\nBest,\nCorporate Compliance Team"
+    }
+}

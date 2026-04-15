@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hello Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Friday, April 20, 2026 from 10:00 PM to 2:00 AM (UTC). During this window, all VPN connections will be unavailable. We recommend that you plan your remote work accordingly and re‑establish the connection after the maintenance window.\n\nIf you encounter any issues, please contact the IT Support team at <URL> or call the help desk line 555‑123‑4567.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Your Scholarship Application Requires Immediate Action",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the prestigious Global Scholars Program at the University of New Horizons has been shortlisted. To secure your scholarship of $15,000, we require confirmation of your banking details and a 50% enrollment fee.\n\nPlease submit your personal information and the fee to our secure portal at <URL> by 48 hours from the date of this email. Failure to comply will result in automatic disqualification and the forfeiture of your scholarship.\n\nWe appreciate your prompt response and look forward to welcoming you to our academic community.\n\nSincerely,\nDr. Emily Carter\nHead of International Scholarships\nUniversity of New Horizons"
+    }
+}

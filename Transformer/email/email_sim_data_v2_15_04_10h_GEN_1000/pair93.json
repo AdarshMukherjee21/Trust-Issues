@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Exclusive Deals – Grab Your Savings Now!",
+        "body": "Hello,\n\nThank you for subscribing to our weekly marketing newsletter! This week, we've curated some exclusive deals just for you. \n\n• 30% off on all summer apparel – use code SUMMER30 at checkout.\n• Buy 1 Get 1 free on select accessories – limited stock.\n• Free shipping on orders above ₹999.\n\nThese offers are valid until Sunday midnight, so hurry and make the most of them!\n\nStay tuned for more exciting updates next week.\n\nBest Regards,\nYour Brand Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that due to suspicious activity, your crypto wallet with ID 0xABC123 has been temporarily suspended. To restore access, Kripya verify your identity by clicking the link below:\n<URL>\n\nIf you do not verify within 24 hours, your wallet will be permanently disabled and the funds accessed will be frozen. This step is mandatory to comply with regulatory requirements.\n\nThank you for your immediate attention.\n\nRegards,\nSecurity Team"
+    }
+}

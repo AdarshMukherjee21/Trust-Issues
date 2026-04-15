@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Returning Thursday",
+        "body": "Hi Team,\n\nI will be out of the office from Friday, March 29th to Wednesday, April 4th. I will be back on Thursday, April 5th.\n\nFor any urgent matters, please contact Sarah Lee at sarah.lee@example.com or call 555-123-4567.\n\nThank you for your understanding.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "Urgent: Claim Your $10,000 Scholarship Now!",
+        "body": "Dear Applicant,\n\nCongratulations! Your application has been selected for a $10,000 tuition scholarship from the prestigious Global Scholars University.\n\nTo secure your scholarship, please verify your enrollment details by clicking the link below:\n<URL>\n\nPlease note that if you do not act within 48 hours, your scholarship offer will be revoked. We require a confirmation of your personal information and a copy of your student ID to process the award.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nAdmissions Office\nGlobal Scholars University"
+    }
+}

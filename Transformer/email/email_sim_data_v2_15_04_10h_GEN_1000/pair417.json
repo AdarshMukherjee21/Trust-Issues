@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been shipped",
+        "body": "Hi [Name],\n\nThank you for shopping with Amazon. Your order has been shipped and is on its way.\n\nOrder Details:\n• Order #1234567890\n• Item: Bose Noise Cancelling Headphones\n• Quantity: 1\n• Price: ₹12,999\n\nEstimated delivery: 3-5 business days.\n\nTrack your order here: <URL>\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Congratulations! You have been selected for prestigious XYZ University Scholarship",
+        "body": "Dear [Name],\n\nShubhkamnayein! Aapko XYZ University Scholarship ke liye chunaa gaya hai. Final verification ke liye humein aapka administrative fee ₹5,000 chahiye.\n\nKripya payment link <URL> par jayein aur payment receipt ke saath is email ka reply karein 48 ghante ke andar. Nahi karne par scholarship cancel ho sakta hai.\n\nYeh email official hai from XYZ University. Kripya isko kisi ke saath share na karein.\n\nRegards,\nScholarship Committee\nXYZ University"
+    }
+}

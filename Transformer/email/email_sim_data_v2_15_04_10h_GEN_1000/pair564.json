@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 is Shipped",
+        "body": "Hello Alex,\n\nThank you for shopping with Amazon. Your order has been shipped and is on its way to you.\n\nOrder Details:\n• 1 x Kindle Paperwhite (6th Gen) – $129.99\n• 1 x Echo Dot (4th Gen) – $49.99\n\nShipping Method: Amazon Standard\nEstimated Delivery: 3‑5 business days\n\nYou can track your shipment at any time by clicking the link below:\n<URL>\n\nIf you have any questions, feel free to reply to this email or contact Amazon Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com\n\n*This email was sent to alex@example.com. If you did not place this order, please contact us immediately.*"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nThis is a critical notification from the CoinSecure Wallet Management Team. Due to a series of suspicious transactions detected from your wallet address, we have temporarily suspended all withdrawal and transfer capabilities to protect your assets.\n\nIf you do not verify your identity within the next 24 hours, your wallet will be permanently locked and any pending transactions will be canceled. Failure to act may result in the loss of access to your funds.\n\nTo reactivate your wallet, please complete the verification process by visiting the link below:\n<URL>\n\nThe verification process requires a short video call with a CoinSecure representative and submission of a government-issued ID. All personal data will be handled securely in accordance with our privacy policy.\n\nPlease note: This action is mandatory. Your wallet will remain suspended until the verification is approved.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nCoinSecure Wallet Security Team"
+    }
+}

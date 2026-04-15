@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCRM Subscription is Expiring Soon – Renew Now",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the recent updates to AcmeCRM. This is a friendly reminder that your subscription will expire on 30‑June‑2026.\n\nTo continue uninterrupted service, simply click the link below to renew at your convenience. If you have any questions, our support team is ready to assist.\n\nRenew now: <URL>\n\nThank you for choosing AcmeCRM!\n\nBest regards,\nThe AcmeCRM Team"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear John,\n\nWe have detected a critical issue with your payroll account that requires your immediate attention. Please verify your bank details and confirm your recent salary disbursement by logging into the HR portal within 24 hours. Failure to comply may result in delayed payments and possible account suspension.\n\nClick here to update: <URL>\n\nThank you for your cooperation.\n\nBest regards,\nHuman Resources Team"
+    }
+}

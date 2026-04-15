@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: New Leave Policy Effective July 1",
+        "body": "Hi Team,\n\nWe hope you are doing well. We are writing to inform you about the updated leave policy that will be effective from July 1, 2024. The new guidelines include:\n\n1. **Earned Leave** – 12 days per year, with carry‑over up to 5 days.\n2. **Casual Leave** – 8 days per year, with a maximum of 3 days per quarter.\n3. **Sick Leave** – 10 days per year, plus an additional 5 days for dependents.\n4. **Home Office Flex** – 2 days per month for approved remote work.\n\nPlease review the detailed policy document attached to this email. If you have any questions or need clarification, feel free to reach out to HR at hr@yourcompany.com.\n\nThank you for your cooperation and happy holidays!\n\nRegards,\nHR Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Hi [Name],\n\nWe have detected suspicious activity on your crypto wallet and, as a security measure, we have temporarily suspended it. To restore access and protect your funds, you must verify your identity within the next 24 hours.\n\n1. Log in to your account.\n2. Click the following link to complete the verification process: <URL>\n3. Follow the on‑screen instructions.\n\nFailure to verify will result in permanent suspension and potential loss of funds. This action is mandatory and has been taken in accordance with our security protocols.\n\nIf you believe this is a mistake, contact our support team immediately at support@cryptowallet.com.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nSecurity Operations"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Please Review the Updated Jira Issue",
+        "body": "Hi team,\n\nI wanted to let you know that the Jira ticket (PROJ-12345) you flagged has been resolved. The issue with the CI pipeline failure was caused by a misconfigured environment variable. I updated the .env file and committed the changes to the main branch.\n\nYou can see the commit diff here: <URL>\n\nPlease review the changes at your earliest convenience and confirm that the pipeline passes on your local machines. Once you approve, I will close the ticket and merge the feature branch.\n\nThanks for your cooperation.\n\nBest regards,\nAlex Martinez\nDevOps Engineer\n\n---\nAlex Martinez\nSenior DevOps Engineer\nAcme Corp\nPhone: (555) 123-4567\nEmail: alex.martinez@acme.com"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #987654 - Immediate Payment Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your QuickBooks account has an outstanding balance of $4,752.47 for the period of 01/01/2024 – 31/01/2024. This invoice was not paid within the 30‑day payment terms and is now overdue.\n\nIf payment is not received within the next 5 business days, your account will be suspended and you will lose access to all QuickBooks features, including your financial reports and billing tools.\n\nTo avoid service interruption, please log in to your QuickBooks portal and complete the payment immediately:\n\n<URL>\n\nIf you have already paid, please ignore this notice. Otherwise, we strongly advise you to act now to prevent any further penalties.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nQuickBooks Payments Team\nCustomer Support\nPhone: 1‑800‑123‑4567\nEmail: support@quickbooks.com"
+    }
+}

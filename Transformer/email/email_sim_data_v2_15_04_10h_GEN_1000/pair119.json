@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flipkart Order #1234567890 Shipped! Check delivery status",
+        "body": "Hello Rohan,\n\nThank you for shopping with Flipkart. Your order #1234567890 has been shipped and is on its way.\n\nItem: 7\" 4K Smart TV\nQuantity: 1\nPrice: ₹35,999\n\nShipping Partner: DHL Express\nTracking Number: 123456789012\n\nYou can check the status of your delivery by clicking on the link below:\n<URL>\n\nIf you have any questions, feel free to reply to this email.\n\nThank you for choosing Flipkart.\n\nBest regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Your FedEx Package Delivery Fee is Pending!",
+        "body": "Dear Sir/Madam,\n\nWe regret to inform you that your FedEx shipment with reference number 987654321 has not been delivered due to an outstanding delivery fee of ₹1,200.\n\nTo avoid further delay, please settle the pending amount immediately. Failure to do so may result in the package being returned to the sender.\n\nClick the link below to make a payment:\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

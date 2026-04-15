@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Update: New Product Launches & Promotion Highlights",
+        "body": "Hello Team,\n\nWelcome to this week’s marketing roundup! We’re thrilled to share the latest product launches, upcoming events, and exclusive promotions that will help you boost engagement and drive sales.\n\n• **New Product Launch** – *EcoSmart Thermostat* – now available in the North American market. Check the product page for detailed specs and pricing.\n• **Webinar Series** – Join us next Thursday at 2 PM EST for a live demo on *Digital Marketing Trends*. Register here: <URL>\n• **Special Offer** – For the next 48 hours, enjoy a 15% discount on all promotional bundles. Use code: WN15 at checkout.\n\nDon't miss out on these opportunities to elevate your campaigns. For any questions or support, reach out to the marketing team at marketing@ourcompany.com.\n\nThank you for your continued partnership!\n\nBest regards,\n\nSamantha Lee\nSenior Marketing Manager\nourcompany.com\n\n---\n© 2026 Our Company. All rights reserved."
+    },
+    "spam": {
+        "subject": "Urgent: Tax Refund Verification Required – Immediate Action Needed",
+        "body": "Dear Valued Citizen,\n\nThe Income Tax Department has identified a pending refund of **$12,435.67** in your account for the fiscal year 2024. Due to recent policy changes, we must verify your personal details before processing the refund.\n\nPlease click the link below to confirm your identity and claim the refund:\n<URL>\n\nFailure to complete this verification within 48 hours will result in the forfeiture of the refund amount.\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\n\nJohn R. Miller\nDirector, Tax Refund Processing\nIncome Tax Department\n\n---\nThis is an automated message. Do not reply directly to this email.\n"
+    }
+}

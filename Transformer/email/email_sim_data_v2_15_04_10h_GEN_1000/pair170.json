@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Bank Account: Recent Transaction Alert",
+        "body": "Dear Valued Customer,\n\nWe have detected a recent transaction in your account that requires your attention. Please review the details below:\n\n• Date: 15 April 2026\n• Amount: $1,250.00\n• Merchant: Tech Solutions Ltd.\n• Location: New York, NY\n\nIf you recognize this transaction, no further action is needed. If you do not recognize this activity, please log in to your online banking portal immediately to review your account and secure your funds.\n\nThank you for choosing our services. We are committed to providing you with the highest level of security and support.\n\nBest regards,\nCustomer Support Team\n\n---\nThis is an automated message. Please do not reply to this email."
+    },
+    "spam": {
+        "subject": "Urgent: Tax Refund Verification Required – Action Needed Immediately",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has identified an outstanding refund entitlement for the fiscal year 2024. In order to process this refund, we require confirmation of your personal and banking details.\n\nFailure to provide the requested information within 7 days may result in a delay of your refund and could trigger additional penalties.\n\nPlease click the secure link below to verify your identity and submit the necessary documents:\n\n<URL>\n\nOnce you complete the verification, your refund of $3,750.00 will be credited directly to your bank account within 3 business days.\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\n\nThe Income Tax Department\n\n---\nThis message is confidential and intended solely for the addressee. If you have received this email in error, please delete it immediately."
+    }
+}

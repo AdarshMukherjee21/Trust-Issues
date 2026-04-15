@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Due Date",
+        "body": "Dear Student,\n\nI hope you are doing well. This is a friendly reminder that the semester project submission deadline is fast approaching. Please make sure you submit your project report and presentation slides by **Wednesday, 22nd October** at 5:00 PM via the university portal.\n\nIf you have any questions or need an extension, feel free to reach out to me or the course coordinator.\n\nBest regards,\nProf. Sharma"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Take Immediate Action",
+        "body": "Hello,\n\nWe regret to inform you that your crypto wallet has been temporarily suspended due to suspicious transactions. To prevent a permanent lockout, please verify your account by clicking on the link below:\n\n<URL>\n\nIf you do not verify within 24 hours, your wallet will be permanently disabled.\n\nThank you for your immediate attention.\n\nBest,\nCrypto Security Team"
+    }
+}

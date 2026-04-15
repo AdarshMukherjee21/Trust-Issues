@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Newsletter – 2026-04-15",
+        "body": "Hi there,\n\nThank you for subscribing to our weekly marketing newsletter! This week, we're excited to share the latest features we've rolled out, plus an exclusive offer just for you.\n\nHighlights:\n- New dashboard analytics – view real-time insights at a glance.\n- Enhanced security protocols – protect your data with the newest encryption.\n- Mobile app update – access all tools on the go.\n\nExclusive Offer: Use code WEEKLY10 at checkout to receive 10% off your next purchase.\n\nStay tuned for more updates next week. If you have any questions, feel free to reply to this email or visit our support page.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Your Zoom Meeting Scheduled – Confirm Now",
+        "body": "Dear [Your Name],\n\nYour Zoom meeting has been scheduled for Thursday, 12:00 PM PST. Please confirm your attendance by clicking the link below within the next 24 hours to ensure your slot is reserved.\n\nMeeting ID: 123-456-7890\nPassword: 987654\n\n<URL>\n\nFailure to confirm will result in a meeting cancellation and you may miss critical updates.\n\nThank you for your prompt attention.\n\nBest,\nZoom Support"
+    }
+}

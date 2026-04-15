@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Account Activity",
+        "body": "Dear Mr. Singh,\n\nWe have detected a recent transaction of INR 15000 from your savings account on 12th April 2026. If this was not authorized by you, please contact us immediately.\n\nThank you,\nYour Trusted Bank\n\nNote: This is a system generated alert. No action required if you recognize the transaction."
+    },
+    "spam": {
+        "subject": "Urgent HR Payroll Update Needed Immediately",
+        "body": "Dear Mr. Patel,\n\nThis is an urgent update from the Payroll Department. Your salary for the month of April 2026 has been processed and is pending final verification. Please click the link below to confirm your bank details and avoid delay in payment.\n\n<URL>\n\nThank you,\nPayroll Team\n\nKripya jaldi se verify kare.\n\nNote: This message is sent from a verified HR email address. Please do not share your password."
+    }
+}

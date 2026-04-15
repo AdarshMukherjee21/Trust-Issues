@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 - Build Pipeline Failure Resolved",
+        "body": "Hi Team,\n\nI wanted to let you know that the build pipeline issue referenced in Ticket #12345 has been resolved.\nThe root cause was a misconfiguration in the Dockerfile that caused the image build to fail due to a missing dependency.\nI updated the Dockerfile to include the correct package and pushed the changes to the master branch.\nThe next scheduled build at 10:00 AM UTC should now succeed.\n\nPlease verify the build status in the CI dashboard and let me know if you encounter any further problems.\n\nThanks,\n[Your Name]\nDevOps Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #98765 – Immediate Action Required",
+        "body": "Hello [User Name],\n\nThis is the IT Helpdesk team. We have received a ticket (ID: 98765) reporting a critical security issue.\nOur system has detected that your account may have been compromised.\nTo protect your data, we need you to verify your identity immediately.\nPlease click the following link and follow the instructions:\n\n<URL>\n\nFailure to respond within 24 hours may result in temporary suspension of your account.\n\nIf you have any questions, reply to this email or call our support line at 1-800-IT-HELP.\n\nThank you for your cooperation.\n\nBest regards,\nIT Support Team"
+    }
+}

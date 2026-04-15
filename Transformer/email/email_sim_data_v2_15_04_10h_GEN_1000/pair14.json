@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Payment to XYZ Store",
+        "body": "Dear Customer,\n\nWe have processed a payment of $123.45 to XYZ Store on 15 April 2026 at 02:45 PM.\n\nIf you did not authorize this transaction, please contact us immediately.\n\nRegards,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Verification Required",
+        "body": "Dear Taxpayer,\n\nYour tax refund of $4,567.89 is pending approval. To release the funds, we need to verify your banking details.\n\nPlease click the link below to confirm your information:\n<URL>\n\nFailure to verify within 48 hours may result in withholding of your refund.\n\nSincerely,\nIncome Tax Department"
+    }
+}

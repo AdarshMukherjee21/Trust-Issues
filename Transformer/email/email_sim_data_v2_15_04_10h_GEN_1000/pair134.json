@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – March 15, 2024",
+        "body": "Hi Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on March 15, 2024 from 02:00 AM to 04:00 AM PST. During this window, remote access to internal resources will be temporarily unavailable. We recommend saving your work and disconnecting any active VPN sessions before the maintenance window.\n\nIf you encounter any issues post‑maintenance, please contact the IT help desk at <URL>. Thank you for your cooperation.\n\nBest regards,\nAlexandra Lee\nIT Infrastructure Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended – Verify Now",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your crypto wallet has been temporarily suspended due to suspicious activity detected on your account. To restore full access and avoid permanent lockout, please verify your identity immediately.\n\nClick <URL> to log in to the verification portal. Failure to comply within 24 hours may result in permanent suspension of your wallet and loss of funds.\n\nThank you for your prompt attention.\n\nSincerely,\nCompliance Team\nCryptoSecure Inc."
+    }
+}

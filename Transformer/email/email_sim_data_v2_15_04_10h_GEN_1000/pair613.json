@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Feature X Implemented",
+        "body": "Hi Team,\n\nI wanted to let you know that the issue reported in ticket #12345 has been resolved. The new feature X has been successfully integrated and is now available in the staging environment.\n\nPlease check the following pull request for the changes:\n\n- PR #5678: Add Feature X to the product.\n\nLet me know if you need any further tweaks. Thanks for your patience!\n\nBest,\nRahul\nProject Lead"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: Your Crypto Wallet is Suspended",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet has been temporarily suspended due to suspicious activity detected in your recent transactions. To avoid permanent suspension and potential loss of funds, you must verify your account immediately.\n\nPlease click the link below and follow the instructions:\n<URL>\n\nIf you do not verify within 24 hours, your wallet will be permanently disabled. We strongly advise you to act now to protect your investments.\n\nThank you for your cooperation.\n\nBest regards,\nWallet Security Team"
+    }
+}

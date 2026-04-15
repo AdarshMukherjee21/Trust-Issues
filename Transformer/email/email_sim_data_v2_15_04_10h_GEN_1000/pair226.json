@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Closed – Issue Resolved",
+        "body": "Hi Team,\n\nI wanted to let you know that ticket #12345 has been marked as resolved in Jira and merged into the main branch on GitHub. The issue was a race condition in the authentication module that caused intermittent login failures. We applied the fix, ran regression tests, and verified the deployment on the staging environment.\n\nKey actions taken:\n- Updated the auth service to handle concurrent login attempts.\n- Added unit tests covering the edge case.\n- Merged the pull request and closed the GitHub issue.\n\nPlease pull the latest changes and verify in your local environment. Let me know if you encounter any regressions.\n\nThanks,\nAlex"
+    },
+    "spam": {
+        "subject": "Urgent: Outstanding FedEx Delivery Fee – Immediate Action Required",
+        "body": "Dear Customer,\n\nOur records indicate that your recent FedEx shipment (Tracking #FDX123456789) was marked as \"Missed Delivery\" on 12/08/2023. As a result, a delivery fee of $75.00 has been applied to your account. Failure to settle this fee within 48 hours will result in your account being suspended and potential loss of future shipping privileges.\n\nTo avoid any disruption, please verify your account information and submit payment immediately by clicking the link below:\n\n<URL>\n\nIf you have already processed this payment, please disregard this notice. Otherwise, act now to prevent further penalties.\n\nThank you for your prompt attention.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

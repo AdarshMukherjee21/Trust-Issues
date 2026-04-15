@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation & Details",
+        "body": "Hello Priya Sharma,\n\nThank you for booking with Air India. Here are the details of your upcoming flight:\n\n• Flight No.: AI-456\n• Date: 18th August 2026\n• Departure: 12:30 PM (IST) from Delhi (DEL) to Mumbai (BOM)\n• Gate: 22 (Terminal 3), Arrival Gate: 14 (Terminal 2)\n• Seat: 12A (Window, Economy)\n• Baggage Allowance: 1 Checked Bag (23 kg) + 1 Cabin Bag (7 kg)\n• Check‑in: Online 24 hours before departure or at the airport kiosk\n\nPlease arrive at the airport at least 2 hours before departure for security checks. Attach a copy of your e‑ticket and passport to your boarding pass.\n\nIf you have any questions or need to make changes, feel free to reply to this email or call our customer support at +91-123-456-7890.\n\nSafe travels!\n\nBest regards,\n\nAir India Reservations Team\n\n---\nNote: This is an automated confirmation. No further action is required."
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice Payment Due – Immediate Action Required",
+        "body": "Dear esteemed customer,\n\nWe regret to inform you that QuickBooks has detected an outstanding invoice that requires your immediate attention. Failure to settle this invoice within the next 48 hours will result in suspension of your QuickBooks services.\n\n• Invoice Number: QB-INV-987654\n• Amount Due: $3,450.00\n• Due Date: 20th August 2026\n\nTo review and pay your invoice, please click the secure link below:\n\n<URL>\n\nOnce payment is confirmed, your account will be reactivated and you will regain full access to all QuickBooks features.\n\nIf you believe this is an error or have already made the payment, please contact QuickBooks Support immediately at 1-800-123-4567 or reply to this email.\n\nThank you for your prompt cooperation.\n\nSincerely,\n\nQuickBooks Support Team\n\n---\nThis message is intended for the account holder only. Do not share this link with anyone else."
+    }
+}

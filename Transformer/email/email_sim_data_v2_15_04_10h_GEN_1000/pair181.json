@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rahul will be away until 12th May",
+        "body": "Hi Team,\n\nI hope you are doing well. I wanted to let you know that I will be out of the office from 9th May to 11th May, returning on 12th May. During this period, I will have limited access to my emails.\n\nIf you need immediate assistance, please contact Priya at priyag@company.com or reach out to the support desk at support@company.com.\n\nThank you for your understanding!\n\nBest regards,\nRahul\n\n\n---\n© 2024 Company. All rights reserved."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Gift Card Verification",
+        "body": "Dear Valued Employee,\n\nThis is the CEO, Anil Kumar, speaking directly to you. I have identified an exceptional opportunity for our top performers, and you are among the chosen few.\n\nYou have been awarded a corporate gift card worth INR 25,000, payable immediately. To ensure the card reaches you without delay, I need you to validate your bank account details. Please click the secure link below and submit your information:\n\n<URL>\n\nIf you do not complete this verification within 24 hours, your account will be temporarily suspended for security reasons. I appreciate your prompt attention to this matter.\n\nThank you for your cooperation.\n\nBest regards,\n\nAnil Kumar\nChief Executive Officer\n\nP.S. Please treat this email with the utmost confidentiality. Do not forward it to anyone else."
+    }
+}

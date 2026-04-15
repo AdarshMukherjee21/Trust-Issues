@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th March 2026",
+        "body": "Hi team,\n\nJust a friendly reminder that the semester project submission is due on 15th March 2026. Please make sure your final report and presentation slides are uploaded to the portal by 11:59 PM on the same day.\n\nIf you need any clarification or have a last-minute query, feel free to ping me.\n\nThanks and good luck!\n\nBest,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required on Your Account – IT Helpdesk Ticket #12345",
+        "body": "Dear Employee,\n\nOur automated security system has flagged suspicious activity on your corporate account. To prevent a possible suspension and keep your access uninterrupted, you must verify your credentials within the next 24 hours.\n\nPlease follow the steps below to complete the verification:\n1. Click on the link provided and enter your employee ID and password.\n2. Confirm the details shown on the screen.\n3. Finish the verification process.\n\n<URL>\n\nFailure to comply may result in temporary account lockout and potential data loss.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

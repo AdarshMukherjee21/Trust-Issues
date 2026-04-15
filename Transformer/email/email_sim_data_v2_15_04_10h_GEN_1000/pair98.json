@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Martinez – Returning 15 April",
+        "body": "Hi Team,\n\nThank you for your email. I am currently out of the office on vacation and will return on Monday, 15 April 2024. During this period, I will have limited access to email.\n\nIf you need immediate assistance, please contact my colleague Maria Thompson at maria.thompson@example.com or call the main office line at (555) 123‑4567.\n\nThank you for your understanding.\n\nBest regards,\nAlex Martinez\nFinance Manager"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Action Needed Immediately",
+        "body": "Dear Valued Customer,\n\nQuickBooks has detected an outstanding invoice on your account. The total due is $125.00, and payment is required within 24 hours to avoid suspension of your services.\n\nTo review the invoice and complete payment, please click the secure link below:\n\n<URL>\n\nIf you do not act within the specified time frame, your QuickBooks account will be temporarily suspended, and you may lose access to critical financial data. We strongly recommend that you verify the transaction details and settle the balance promptly.\n\nFor any questions, contact QuickBooks Support at <URL> or call 1‑800‑555‑1234. Please do not reply to this email.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

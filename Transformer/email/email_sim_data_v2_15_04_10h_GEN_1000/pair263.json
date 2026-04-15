@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order # 12345678 has been shipped",
+        "body": "Hello Ananya,\n\nThank you for shopping with Amazon. Your order #12345678 has been successfully processed and is now on its way.\n\nOrder Details:\n- Item: Wireless Mouse\n- Quantity: 1\n- Price: 799.00 INR\n- Shipping Address: 12 Oak Lane, Mumbai, Maharashtra\n\nShipment Tracking:\nYou can track your package using the following link: <URL>\n\nIf you have any questions, feel free to reply to this email or contact our support.\n\nHappy shopping!\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended - Immediate Action Required",
+        "body": "Dear user,\n\nWe regret to inform you that your crypto wallet (Wallet ID: 0xA1B2C3D4) has been temporarily suspended due to suspicious activity. To avoid permanent lockout and potential loss of funds, you must verify your account within the next 24 hours.\n\nPlease click the link below to confirm your identity:\n<URL>\n\nFailure to comply will result in permanent suspension of your wallet.\n\nThank you for your prompt attention.\n\nRegards,\nCryptoSecure Support Team"
+    }
+}

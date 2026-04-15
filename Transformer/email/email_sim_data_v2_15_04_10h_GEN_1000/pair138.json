@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – New Arrivals Inside!",
+        "body": "Hello Valued Customer,\n\nWe hope you’re enjoying the summer! It’s time for our weekly marketing newsletter—packed with fresh arrivals, exclusive deals, and behind‑the‑scenes stories from our brand ambassadors.\n\nFeatured Products This Week\n1. Eco‑Friendly Bamboo Toothbrush – 20% off (limited stock)\n2. Limited‑Edition Canvas Backpack – Free shipping for orders over $50\n3. Spring Collection Shoes – 15% off site‑wide\n\nHow to Redeem Your Discount\nSimply enter coupon code WELCOME15 at checkout, or use the “Apply Coupon” button in your cart. The offer is valid until Sunday, 11:59 PM.\n\nThank you for being part of our community. If you’d like to see more personalized recommendations, reply to this email with your preferences.\n\nWarm regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Verification Required",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has processed a refund for your account. To receive the refund, please verify your account details within 48 hours. Failure to do so may result in forfeiture of the refund.\n\nPlease click <URL> to confirm your information.\n\nThank you,\nIncome Tax Department"
+    }
+}

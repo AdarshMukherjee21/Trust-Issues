@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Highlights – Exclusive Deals Inside",
+        "body": "Hello there,\n\nWe hope you’re having a fantastic week! Here’s what’s new in our store:\n\n• 20% off on all summer collections – only till Sunday.\n• Free shipping on orders above ₹999.\n• New arrivals: Trendy wristwatches, stylish scarves, and more.\n\nAapko ye offers pasand aayenge. Click <URL> to shop now and enjoy these savings.\n\nThank you for being a part of our community!\n\nBest regards,\n\nThe Fashion Hub Team"
+    },
+    "spam": {
+        "subject": "URGENT: Action Required – Unpaid Delivery Fee for Your Order",
+        "body": "Dear Customer,\n\nYour FedEx shipment (Tracking No: 1234567890) was not delivered because the delivery fee of ₹150 remains unpaid. If we do not receive payment within the next 24 hours, the package will be returned to the sender and you may incur additional charges.\n\nTo avoid cancellation, please verify and pay the outstanding fee immediately. Click <URL> to complete the payment. This link will take you to our secure payment gateway.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nFedEx Customer Support"
+    }
+}

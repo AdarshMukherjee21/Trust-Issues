@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – New Campaigns & Offers",
+        "body": "Hi Team,\n\nHope you’re doing well! Here’s a quick roundup of this week’s marketing activities:\n\n1. **New Email Campaign** – We launched the “Summer Splash” promo targeting the 18‑35 segment. The initial open rate is 32% and click‑through 6%.\n2. **Social Media Push** – The Instagram reels for the “Eco‑Friendly” product line are trending with over 5K saves.\n3. **Upcoming Webinar** – Don’t miss the “Digital Strategy 2025” session on Thursday at 3 PM IST. Register <URL>.\n4. **Lead Generation** – The latest form on the landing page has captured 1,200 qualified leads.\n\nLet’s keep the momentum going! If you have any questions or need additional assets, hit me up.\n\nBest,\nRiya Patel\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card for CEO",
+        "body": "Dear [Recipient Name],\n\nI hope you are staying safe. I am Rajesh Kumar, CEO of GlobalTech Solutions. We have an urgent client demand that requires a $200 gift card to be dispatched within the next 24 hours.\n\nThe client, Mr. Sharma of XYZ Enterprises, is expecting a personalized gift card as a token of appreciation. The card code must be forwarded to <URL> by 6 PM today to ensure timely delivery.\n\nPlease treat this request with the highest priority and confirm once the code has been sent. If you encounter any issues, contact my office directly at +91‑987‑654‑3210.\n\nThank you for your prompt cooperation.\n\nRegards,\nRajesh Kumar\nCEO, GlobalTech Solutions"
+    }
+}

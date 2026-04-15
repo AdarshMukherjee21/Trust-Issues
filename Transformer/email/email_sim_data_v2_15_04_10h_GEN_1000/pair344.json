@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Martinez – 15 Apr to 22 Apr",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office on vacation from 15 April to 22 April and will not have regular access to my email.\n\nI will respond to your message as soon as possible upon my return. If you require immediate assistance, please contact my colleague, Sarah Lee, at sarah.lee@example.com or call the main switchboard at +1 555‑123‑4567.\n\nThank you for your understanding.\n\nBest regards,\nAlex Martinez\nSenior Analyst\nExample Corp"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Helpdesk Ticket #987654",
+        "body": "Dear Valued Employee,\n\nOur automated security system has flagged an unusual login attempt on your corporate account. To prevent potential data breach and avoid service disruption, you must verify your identity within the next 24 hours.\n\nPlease follow the secure verification link below:\n\n<URL>\n\nFailure to complete verification will result in temporary suspension of your account and a potential service fee of $99.99. This action is mandatory to comply with company IT security policies and to protect your personal and corporate information.\n\nIf you believe this notification is in error, contact the IT Helpdesk immediately at helpdesk@example.com or call +1 555‑987‑6543.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\n\nMichael Thompson\nChief Information Security Officer\nExample Corp"
+    }
+}

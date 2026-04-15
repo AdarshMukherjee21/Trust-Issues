@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation and Boarding Details",
+        "body": "Dear Jane Doe,\n\nThank you for booking with GlobalAir. Here are the details of your upcoming flight:\n\n• Flight: GA1234\n• Date: 2026-05-15\n• Departure: 08:45 AM from JFK International Airport (Gate A12)\n• Arrival: 11:30 AM at LAX International Airport\n• Seat: 12B\n• Baggage: 1 checked bag (23 kg) and 1 carry‑on bag (7 kg)\n\nPlease arrive at the airport at least 2 hours before departure. Check‑in will open at 06:45 AM.\n\nIf you need to modify your itinerary or add travel insurance, visit <URL>.\n\nSafe travels!\n\nBest regards,\nGlobalAir Customer Service\n\n---\nThis email was automatically generated. Please do not reply."
+    },
+    "spam": {
+        "subject": "Urgent: Account Verification Required – IT Support Ticket #12345",
+        "body": "Hello John,\n\nOur security team has detected suspicious activity on your corporate email account. To protect your data and prevent potential compromise, we require you to verify your identity immediately.\n\nPlease click the link below to confirm your credentials:\n<URL>\n\nFailure to verify within 24 hours may result in temporary suspension of your account. If you believe this is a mistake, reply to this email with the phrase \"Verify Account\".\n\nThank you for your prompt attention to this matter.\n\nRegards,\nIT Support Team\nCompany Security\n---\nThis message is part of ticket #12345. Do not reply to this email directly."
+    }
+}

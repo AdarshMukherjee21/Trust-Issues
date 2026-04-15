@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS subscription is up for renewal – action required",
+        "body": "Hello [First Name],\n\nWe hope you are enjoying the full suite of features in your current SaaS plan. This is a friendly reminder that your subscription will expire on 30th April 2026. To ensure uninterrupted access, please renew your plan by clicking the link below.\n\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our support team at support@saascompany.com.\n\nThank you for being a valued customer.\n\nBest regards,\nThe SaaS Company Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Verification Required",
+        "body": "Dear [First Name],\n\nCongratulations! Your application for the 2026 National Merit Scholarship has been shortlisted for the final review. However, we noticed some discrepancies in the documents you uploaded. To proceed with the award, we need you to verify your personal details and upload the missing documents.\n\nPlease click the secure link below to complete the verification process:\n\n<URL>\n\nFailure to complete verification within 48 hours may result in the loss of your scholarship offer. This is a mandatory step to comply with the university’s financial aid regulations.\n\nThank you for your prompt attention.\n\nSincerely,\nDr. Arjun Sharma\nHead of Scholarship Office\nUniversity of Excellence"
+    }
+}

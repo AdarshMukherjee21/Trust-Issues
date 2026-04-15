@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Debit from Your Account",
+        "body": "Dear Valued Customer,\n\nWe have noted a recent debit of $123.45 from your account on 15 April 2026. If you did not authorize this transaction, please contact our support team immediately.\n\nYou can review the details of this transaction by logging into your online banking portal at <URL>.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nDue to an upcoming payroll system update, all salary disbursements will be processed on Friday, 18 April 2026. To ensure your payment is not delayed, please verify your personal and banking details by accessing the HR portal immediately at <URL>.\n\nFailure to complete this verification within 24 hours may result in a temporary hold on your payroll. If you have already updated your information, please disregard this message.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nHR Operations"
+    }
+}

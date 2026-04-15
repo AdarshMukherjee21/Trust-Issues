@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon order #12345678 has been shipped – Track your delivery",
+        "body": "Hello,\n\nThank you for shopping with Amazon! We are excited to let you know that your order #12345678 has shipped and is on its way to you.\n\n• Order total: ₹ 5,679.00\n• Items: 2x \"Wireless Earbuds\", 1x \"Smartwatch\"\n• Shipping Method: Amazon Prime – 1‑Day Delivery\n• Estimated delivery: 05/10/2026\n\nYou can track your package here: <URL>\n\nIf you have any questions or need assistance, please reply to this email or visit the Help Center.\n\nThanks for choosing Amazon!\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx shipment delayed – Pay ₹2,500 to avoid cancellation",
+        "body": "Dear Customer,\n\nYour FedEx shipment with tracking number 9W1234567890 has been delayed due to unforeseen circumstances. According to FedEx policy, a non‑delivery fee of ₹2,500.00 will be charged unless you pay immediately.\n\nTo avoid cancellation and ensure your package reaches you, please verify your payment details and complete the transaction within the next 48 hours.\n\nClick here to securely pay: <URL>\n\nFailure to comply will result in the shipment being returned to sender. If you believe this is an error, contact FedEx support immediately.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Service"
+    }
+}

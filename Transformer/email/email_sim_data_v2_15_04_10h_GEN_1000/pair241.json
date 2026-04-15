@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 5th April",
+        "body": "Hello Team,\n\nThis is a gentle reminder that the submission deadline for our semester project – 'Advanced Data Analytics' – is on Friday, 5th April 2024, 11:59 PM. Please ensure that your project report and presentation slides are uploaded to the LMS by the deadline.\n\nIf you have any questions or require additional guidance, feel free to reach out.\n\nThank you for your cooperation.\n\nBest regards,\nProf. R. K. Gupta\nCourse Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Verification Required – Immediate Action Needed",
+        "body": "Dear [Name],\n\nI am Dr. Asha Sharma, the Scholarship Verification Officer at the prestigious National Institute of Technology (NIT). We have selected you for a merit-based scholarship of INR 50,000 for the upcoming academic year. However, our records indicate that your scholarship application is still pending verification. To secure your scholarship, you must submit the required documents within 48 hours.\n\nPlease click on the link below to upload your documents and confirm your eligibility:\n\n<URL>\n\nFailure to comply will result in the forfeiture of your scholarship award. This process is mandatory to comply with university regulations and financial aid policies.\n\nThank you for your prompt attention.\n\nSincerely,\nDr. Asha Sharma\nScholarship Verification Officer\nNational Institute of Technology"
+    }
+}

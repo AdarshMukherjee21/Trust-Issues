@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #1234567890 Confirmation – Amazon",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon! Your order has been placed successfully.\n\nOrder Number: 1234567890\nDate: 2026-04-15\nItems:\n• Wireless Mouse – Qty 1 – $25.99\n• USB-C Charger – Qty 2 – $39.98\nSubtotal: $105.97\nTax: $8.50\nTotal: $114.47\n\nShipping Address:\nJohn Doe\n123 Main Street\nSpringfield, IL 62704\nUnited States\n\nYour order will be shipped within 2-3 business days. You can track the shipment using the tracking number provided in the shipping confirmation email.\n\nIf you have any questions, please contact Amazon Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Pending – Verify Your Details",
+        "body": "Dear Mr. Smith,\n\nWe are pleased to inform you that you are eligible for a tax refund of INR 50,000 from the Income Tax Department. However, due to recent changes in the tax regulations, we need to verify your bank account details before processing the refund. Please click <URL> to submit your information within 24 hours"
+    }
+}

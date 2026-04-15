@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Debit from Your Account",
+        "body": "Dear Customer,\n\nWe have processed a debit of INR 5,000 from your savings account (Account No: 1234567890) on 15-04-2026. This transaction was made using the debit card ending in 4321.\n\nIf you recognize this transaction, no action is needed. If you suspect any fraudulent activity, please contact our 24/7 support immediately at 1800-123-456.\n\nThank you for banking with us.\n\nSincerely,\n\nCustomer Support Team\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Resolve Your FedEx Delivery Fee NOW",
+        "body": "Hi there,\n\nOur records show that your recent shipment with FedEx (Tracking # FD123456789) was not delivered. As per our policy, a delivery fee of $25 will be charged to your account if the package is not claimed within 7 days.\n\nPlease click the link below to confirm the fee and avoid any late charges:\n<URL>\n\nAct fast – this offer expires in 48 hours!\n\nRegards,\nFedEx Customer Service"
+    }
+}

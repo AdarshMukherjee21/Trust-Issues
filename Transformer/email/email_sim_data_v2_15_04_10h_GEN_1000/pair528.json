@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #1234567890 Confirmation – Amazon.in",
+        "body": "Hi John Doe,\n\nThank you for shopping with Amazon.in. Your order #1234567890 has been successfully placed on 15 Apr 2026 at 10:23 AM.\n\nOrder Summary:\n• Product: Bose QuietComfort 45 Wireless Headphones\n• Quantity: 1\n• Price: ₹10,999\n\nShipping Address:\nJohn Doe\n123, Oak Street\nHyderabad – 500001\nIndia\n\nWe will notify you once your items are dispatched.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Verify Your Zoom Account Before Scheduled Meeting",
+        "body": "Dear Client,\n\nAn urgent security update requires you to verify your Zoom account before the scheduled meeting on 15 Apr 2026 at 02:00 PM. Failure to complete this verification could result in the meeting being canceled and possible loss of access to critical documents.\n\nPlease confirm your identity by clicking the link below and entering the verification code:\n\n<URL>\n\nMeeting ID: 987654321\nPassword: 123456\n\nIf you do not take action within 30 minutes, the meeting will be automatically locked.\n\nRegards,\nZoom Security Team"
+    }
+}

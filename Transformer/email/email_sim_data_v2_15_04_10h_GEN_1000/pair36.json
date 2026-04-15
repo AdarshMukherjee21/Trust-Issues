@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Corporate VPN Maintenance – Scheduled Update on Aug 15",
+        "body": "Hello IT Team,\n\nPlease be advised that our corporate VPN service will undergo scheduled maintenance on August 15, 2024 from 02:00 AM to 04:00 AM UTC. During this window, VPN connectivity may be unavailable.\n\nTo minimize disruption, please ensure that all remote devices are updated with the latest VPN client before the maintenance window.\n\nIf you encounter any issues, contact the support desk at <URL>.\n\nThank you for your cooperation.\n\nBest,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Transfer Needed",
+        "body": "Dear Team,\n\nI hope this message finds you well. I am writing to you with an urgent matter that requires your immediate attention.\n\nDue to a recent audit requirement, I need to transfer a corporate gift card to a valued partner. Please process the following request within the next 24 hours:\n\n- Recipient: Global Partners Inc.\n- Gift Card Code: <URL>\n- Amount: $5,000\n\nPlease confirm once the transaction is completed. Failure to act promptly may result in a delay of our partnership agreement and potential penalties.\n\nThank you for your swift cooperation.\n\nBest regards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

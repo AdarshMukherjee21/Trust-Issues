@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy – Effective 1 June 2026",
+        "body": "Dear Team,\n\nI hope you are all doing well. As part of our ongoing commitment to support a healthy work‑life balance, we have updated the Company Leave Policy. The key changes are:\n\n1. **Accrued Paid Leave** – All full‑time employees now accrue 1.75 days of paid leave per month, up from 1.50 days.\n2. **Carry‑over** – Unused leave may be carried over for a maximum of 10 days into the next calendar year. Any balance above that will be forfeited.\n3. **Sick Leave** – Employees are entitled to 10 days of sick leave per year, with documentation required for absences over 3 consecutive days.\n4. **Bereavement Leave** – Up to 3 days of paid leave are available for the death of an immediate family member.\n5. **Procedure** – All leave requests must be submitted through the HR portal at least 2 weeks in advance, except for emergencies.\n\nPlease review the full policy in the attached PDF and let me know if you have any questions. The policy is effective 1 June 2026.\n\nThank you for your cooperation.\n\nBest regards,\n\nLaura Martinez\nHuman Resources Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice – Immediate Action Required",
+        "body": "Dear Microsoft 365 User,\n\nOur security systems have flagged an upcoming password expiration for your account. As part of Microsoft’s compliance requirements, all users must verify and reset their password before 31 May 2026. Failure to do so will result in an automatic lockout of your account, preventing access to company email, documents, and payroll services.\n\nPlease click the link below to confirm your credentials and complete the password reset process:\n\n<URL>\n\nIf you do not act within 48 hours, your account will be disabled and you may lose access to critical business information.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIT Security Team"
+    }
+}

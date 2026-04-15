@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – August 15, 2026 02:00–04:00 UTC",
+        "body": "Hello Team,\n\nPlease be advised that we will perform routine maintenance on the corporate VPN on August 15, 2026 from 02:00 to 04:00 UTC to upgrade encryption protocols. During this window, VPN access will be unavailable.\n\nIf you have urgent connectivity needs, please schedule via ServiceNow or contact IT at vpn-support@acmecorp.com.\n\nWe apologize for any inconvenience.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Processing",
+        "body": "Dear Team,\n\nI am Michael Thompson, CEO of AcmeCorp. As part of our annual employee appreciation program, I have approved the purchase of $1,000 vendor gift cards to be distributed to all staff. To process the purchase, I need your immediate authorization. Please click the following link <URL> to confirm your approval.\n\nFailure to comply within 24 hours may result in a delay of the distribution.\n\nThank you,\nMichael Thompson"
+    }
+}

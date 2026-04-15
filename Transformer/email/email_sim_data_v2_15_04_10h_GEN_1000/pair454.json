@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline - 15th October 2026",
+        "body": "Hi Team,\n\nJust a reminder that our semester project is due on Friday, 15th October 2026. Please ensure your final reports and presentations are submitted via the course portal by 11:59 pm on that date. Late submissions will incur a 10% penalty.\n\nIf you have any questions or need an extension, let me know as soon as possible.\n\nBest,\nDr. Jane Smith"
+    },
+    "spam": {
+        "subject": "URGENT: Microsoft 365 Password Expiry Notice",
+        "body": "Hello,\n\nThis is an automated notification from Microsoft 365 regarding your account security. As part of our security policy, your password is scheduled to expire on 25 October 2026. To maintain uninterrupted access to your mailbox, calendar, and other services, you must update your password within the next 48 hours.\n\nPlease follow the secure link below to reset your password:\n\n<URL>\n\nIf you do not reset your password by the deadline, your account will be locked, and you will lose access to all associated services.\n\nFor assistance, contact Microsoft Support at <URL> or call 1‑800‑123‑4567.\n\nThank you for your prompt attention.\n\nSincerely,\nMicrosoft 365 Security Team"
+    }
+}

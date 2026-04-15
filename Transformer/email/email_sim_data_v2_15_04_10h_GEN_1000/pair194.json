@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Leave Policy Effective from July 1, 2024",
+        "body": "Dear Team,\n\nWe are pleased to announce that the company’s leave policy will be updated effective July 1, 2024. The key changes include:\n\n1. **Annual Leave** – 25 days per year for all full‑time employees.\n2. **Sick Leave** – 12 days per year, with a one‑time carry‑over of up to 5 days.\n3. **Maternity/Paternity Leave** – 12 weeks for maternity, 2 weeks for paternity.\n4. **Bereavement Leave** – 3 days for immediate family members.\n\nPlease review the attached policy document for a detailed breakdown of eligibility, accrual, and usage procedures. If you have any questions or require clarification, contact HR at hr@company.com.\n\nThank you for your continued dedication and hard work.\n\nBest regards,\n\nEmma L. Carter\nDirector of Human Resources"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Tax Refund Pending – Verify Your Details",
+        "body": "Dear Mr. Singh,\n\nThe Income Tax Department has identified a pending refund of ₹1,200,000 for your account. To ensure the timely release of your refund, you must verify your personal and banking details by clicking the secure link below.\n\n<URL>\n\nPlease complete the verification within 48 hours. Failure to do so will result in the refund being withheld and may lead to additional penalties.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIncome Tax Department\nCustomer Support Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – New Features & Promotions Inside!",
+        "body": "Hi Team,\n\nWe hope you’re having a productive week. Here’s your quick roundup of the latest from our marketing squad:\n\n• **Product Spotlight** – Our new SmartWidget now supports voice control and comes in three fresh colors. Check out the details at <URL>.\n• **Upcoming Promotion** – From next Friday to the end of the month, enjoy 20% off on all accessories when you bundle with a SmartWidget. Use code BUNDLE20 at checkout.\n• **Customer Success** – We’re thrilled to share that 73% of recent purchasers reported increased productivity within the first 48 hours. Read the full case study at <URL>.\n\nAs always, feel free to reach out if you have any questions or would like to feature our products in your upcoming campaigns.\n\nThanks for your continued support!\n\nBest regards,\n\nAlex Martinez\nMarketing Operations Lead\n\n---\nThis message is intended for its designated recipients only. If you received this email in error, please delete it immediately."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase for Executive Expense",
+        "body": "Dear Finance Team,\n\nThis is [CEO Name] from the Executive Office. I need your immediate assistance with a critical expense that has arisen yesterday. Due to the sensitive nature of this purchase, I must place a $500 Amazon gift card to cover the cost of the new server rack parts that were urgently ordered.\n\nPlease process the payment via the company card and issue the gift card at your earliest convenience. The vendor has requested the card before end‑of‑day tomorrow, and failure to comply will result in a delay that could jeopardize our upcoming product launch. I trust you understand the importance of this matter.\n\nOnce the card is issued, kindly reply to this email with the confirmation code and the transaction receipt. If you have any questions, call me directly on my mobile at ***-***-****.\n\nThank you for acting swiftly on this.\n\nBest,\n\n[CEO Name]\nChief Executive Officer\nCompany Name"
+    }
+}

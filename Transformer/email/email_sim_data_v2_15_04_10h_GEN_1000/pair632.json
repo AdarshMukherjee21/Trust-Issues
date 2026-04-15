@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #9876: Fix for Authentication Bug Resolved",
+        "body": "Hi Team,\n\nI wanted to let you know that the authentication bug reported in Jira ticket #9876 has been fixed. I've pushed the changes to the develop branch on GitHub. Please pull the latest commit and run the integration tests.\n\nYou can view the diff here: <URL>\n\nOnce verified, feel free to merge into main.\n\nLet me know if anything else is needed.\n\nThanks,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Correction Required – Immediate Action Needed",
+        "body": "Dear [Employee Name]"
+    }
+}

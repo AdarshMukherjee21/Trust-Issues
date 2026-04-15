@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Dear [Name],\n\nWe hope you are enjoying the enhanced features of our SaaS platform. This email is to inform you that your subscription will automatically renew on 15th May 2026. Your current plan (Pro) will be billed at INR 3,500 per month.\n\nIf you wish to change your plan, upgrade, or cancel, please click <URL> within the next 48 hours to update your account details. Otherwise, the renewal will proceed as scheduled and your access will continue uninterrupted.\n\nThank you for choosing our services. If you have any questions, feel free to reach out.\n\nBest regards,\n[Company] Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Confirmation – Immediate Action Required",
+        "body": "Dear Student,\n\nWe are pleased to inform you that you have been selected for the prestigious XYZ University Merit Scholarship 2026. Congratulations! As per university regulations, we require the confirmation of your receipt by submitting a small processing fee of INR 2,000. Please click <URL> to submit your details and payment within 24 hours. Failure to comply will result in cancellation of your scholarship.\n\nThe scholarship is offered by the Dean of the Faculty of Sciences. Please provide your student ID, date of birth, and bank account details to complete the process.\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\nDr. A. Sharma\nDean, XYZ University"
+    }
+}

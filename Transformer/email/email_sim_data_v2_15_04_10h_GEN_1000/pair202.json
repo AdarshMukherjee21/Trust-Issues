@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Your account was credited with $1,234.56",
+        "body": "Dear Customer,\n\nWe wish to inform you that a transaction of $1,234.56 has been credited to your account ending in 5678 on March 15, 2026. Please review the details below:\n\n- Amount: $1,234.56\n- Date: 2026-03-15\n- Transaction ID: TXN123456789\n\nIf you did not initiate this transaction or notice any discrepancies, please contact our customer support immediately.\n\nThank you for banking with XYZ Bank.\n\nSincerely,\nXYZ Bank Customer Support"
+    },
+    "spam": {
+        "subject": "Your Income Tax Refund is Ready – Immediate Action Required",
+        "body": "Dear Mr./Ms. [Last Name],\n\nWe are pleased to inform you that the Income Tax Department has approved a refund of INR 12,34,567.00 to your account. Please verify your details and complete the necessary steps to receive your refund within 48 hours.\n\n1. Confirm the amount and account details.\n2. Upload the required documents through the secure portal.\n\n<URL>.\n\nFailure to comply may result in your refund being withheld. For any queries, contact us at 0123-456-7890 or reply to this email.\n\nRegards,\nIncome Tax Department"
+    }
+}

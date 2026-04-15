@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 2024",
+        "body": "Dear Team,\n\nI hope this message finds you well. As part of our ongoing commitment to support work‑life balance, we are pleased to announce several updates to our leave policy that will take effect on July 1, 2024.\n\nKey changes include:\n- An increase in paid vacation days from 15 to 18 days per year for all full‑time employees.\n- Introduction of a flexible sick leave carry‑over option, allowing employees to carry up to 5 days into the next calendar year.\n- Implementation of a new parental leave framework, providing up to 12 weeks of paid leave for both primary and secondary caregivers.\n\nPlease review the full policy document attached to this email and familiarize yourself with the new procedures. If you have any questions, feel free to reach out to HR at hr@company.com.\n\nThank you for your continued dedication and support.\n\nBest regards,\n\nSamantha Lee\nHuman Resources Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your Scholarship Award – Action Required",
+        "body": "Dear Applicant,\n\nCongratulations! You have been shortlisted for the prestigious Global Scholars Grant 2024. To secure your award, we urgently require you to verify your personal and academic details.\n\nPlease click the link below to complete the verification process before **June 15, 2024**. Failure to respond by this date will result in the forfeiture of your scholarship.\n\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nDr. Elena Martinez\nInternational Scholarship Office\nUniversity of Global Excellence"
+    }
+}

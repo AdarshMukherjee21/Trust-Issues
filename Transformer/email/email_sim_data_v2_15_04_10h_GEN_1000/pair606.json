@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Bank Alert: Recent Transaction Monitored",
+        "body": "Dear John Doe,\n\nWe are writing to confirm that a transaction of $1,234.56 was made on your account ending in 5678 on 2026-04-10 at 14:32:07.\n\nIf you did not authorize this transaction, please contact our fraud department immediately at 1-800-123-4567 or visit <URL> to review your account activity.\n\nThank you for banking with us.\n\nBest regards,\nYour Bank"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Delivery Issue – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking #123456789) was not delivered due to an outstanding missed delivery fee. As a result, the package has been held at our local facility.\n\nTo avoid further delay and potential additional charges, please complete the payment within the next 24 hours. Failure to do so will result in the cancellation of the shipment and the loss of the item.\n\nClick here to pay: <URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

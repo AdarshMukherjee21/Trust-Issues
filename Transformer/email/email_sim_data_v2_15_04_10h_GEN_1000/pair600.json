@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved – Build Pipeline Fixed",
+        "body": "Hello Team,\n\nI’m pleased to inform you that the build pipeline issue reported in Jira ticket #12345 has been resolved.\n\n**Issue Summary**\nThe pipeline failed on the `deploy` stage due to a missing environment variable.\n\n**Resolution**\n- Updated the `deploy` script to include the required variable.\n- Refactored the Docker build step to cache dependencies.\n- Ran the full CI cycle, and all jobs passed successfully.\n\nYou can view the detailed commit here: <URL>\n\nPlease test the changes in your local environment and let me know if you encounter any regressions.\n\nThanks for your patience.\n\nBest regards,\nAlex"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Refund Pending – Verify Your Details",
+        "body": "Dear Taxpayer,\n\nThe Internal Revenue Authority has identified an unclaimed tax refund of $12,345.67 that is due to you. To receive your refund, you must confirm your personal information and submit the required documents within 7 days.\n\nFailure to comply will result in the refund being withheld and potential penalties.\n\nPlease click the link below to verify your identity and complete the refund process:\n<URL>\n\nIf you do not act promptly, your refund will be forfeited.\n\nSincerely,\nInternal Revenue Authority\nTax Compliance Department"
+    }
+}

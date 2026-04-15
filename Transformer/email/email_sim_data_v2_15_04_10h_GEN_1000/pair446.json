@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Digest – March 12th",
+        "body": "Hello Valued Subscribers,\n\nWe’re excited to bring you this week’s marketing insights, exclusive offers, and the latest product releases that are shaping the industry. Below is a quick roundup of what’s new:\n\n- **Product Launch: SmartHub 2.0** – Experience the next generation of connected devices with cutting‑edge AI integration. Click <URL> for a demo.\n- **Case Study Spotlight** – Discover how Company X increased revenue by 35% using our advanced analytics platform. Download the full report at <URL>.\n- **Upcoming Webinar** – Join us on March 20th for a live session on “Digital Transformation Strategies.” Register here: <URL>.\n\nWe value your partnership and are here to support your growth. For any questions, feel free to reply to this email or contact our support team.\n\nThank you for being part of our community!\n\nBest Regards,\n\nMarketing Team\nAcme Corp.\n\nP.S. Don’t miss out on our limited‑time offer: 20% off on all Enterprise packages until March 31st. Use code: WEEKLY20 at checkout."
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Tax Refund Pending – Verify Your Details",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has identified an outstanding refund of $12,345.67 that is currently pending verification. Failure to confirm your details within 48 hours may result in a tax audit and potential penalties.\n\nTo verify your identity and receive your refund, please click the secure link below and provide the requested information:\n\n<URL>\n\nThe link will remain active for only 48 hours. After that, you will need to contact the Tax Department directly for further assistance.\n\nIf you have already submitted your documents, please disregard this notice. Otherwise, act immediately to avoid unnecessary complications.\n\nSincerely,\n\nTax Compliance Officer\nIncome Tax Department\n\n*This message is automatically generated. Please do not reply to this email.*"
+    }
+}

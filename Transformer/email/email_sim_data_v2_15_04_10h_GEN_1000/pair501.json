@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice",
+        "body": "Hi [Name],\n\nHope you are enjoying our SaaS platform. Ye ek friendly reminder hai ki aapka subscription 15th May 2026 ko renew hone wala hai. Renewal rate $99/month hai, jisme saare premium features aur 24/7 support shamil hai.\n\nAgar aap apna current plan maintain karna chahte hain, toh koi action required nahi. Agar upgrade ya plan adjust karna hai, please visit <URL> aur apne account me login karein.\n\nThank you for being a valued customer.\n\nBest regards,\nThe SaaS Team"
+    },
+    "spam": {
+        "subject": "URGENT: CEO – Immediate Gift Card Request",
+        "body": "Dear [Name],\n\nMain XYZ Corp ka CEO hoon. Mujhe abhi ek urgent request mili hai from financial department regarding a critical client transaction. Iss process ko fast karne ke liye, aapko $200 ka gift card purchase karke mujhe confirm karna hoga.\n\nPlease complete purchase within next 15 minutes to avoid penalty. Main personally verify karta hoon aur aapko immediately reimburse karunga.\n\nThank you for cooperation.\n\nRegards,\nJohn Doe\nCEO, XYZ Corp"
+    }
+}

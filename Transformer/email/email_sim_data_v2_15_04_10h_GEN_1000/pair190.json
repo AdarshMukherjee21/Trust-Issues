@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th May",
+        "body": "Dear Professor Smith,\n\nI hope this message finds you well. I am writing to remind you that the deadline for our semester project submission is fast approaching. All teams are expected to submit their final reports and corresponding presentation slides by 15th May, 11:59 PM.\n\nPlease ensure that your submission includes:\n- The final written report (PDF)\n- A brief summary slide deck (PowerPoint)\n- All supporting data files (ZIP)\n\nIf you anticipate any issues meeting this deadline, kindly let me know at your earliest convenience so we can discuss possible extensions.\n\nThank you for your cooperation.\n\nBest regards,\n\nJane Doe\n\nStudent, Computer Science Department"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Department – Refund Pending – Immediate Action Required",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has identified a pending refund in the amount of INR 1,25,000 for the tax year 2023-24. To expedite the processing of this refund, we require verification of your bank account details.\n\nPlease click the link below to securely provide the necessary information:\n<URL>\n\nFailure to complete this verification within 7 days will result in a delay of your refund. For your security, we do not store any personal data on external servers.\n\nIf you have already submitted this information, please disregard this notice.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIncome Tax Department\n\n[This email is generated automatically. Do not reply.]"
+    }
+}

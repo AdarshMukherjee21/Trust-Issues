@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 debited from your account",
+        "body": "Dear Mr. Sharma,\n\nAapke savings account (xxxx1234) se 15th Apr 2026 ko 10:45 AM par ₹5,000 debit kiya gaya hai. Agar aapne is transaction ko authorize nahi kiya hai, toh kripya hamari customer care se turant sampark karein.\n\nDhanyavaad,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended",
+        "body": "Hi Ravi,\n\nHamne aapke crypto wallet me suspicious activity payi hai. Isliye, aapka wallet temporarily suspend ho gaya hai. Apne assets ko bachane ke liye, kripya neeche diye gaye link par click karke apni identity verify karein. <URL>\n\nAgar aap 24 ghante ke andar action nahi lete, toh aapka wallet permanently disable ho sakta hai.\n\nRegards,\nSecurity Team"
+    }
+}

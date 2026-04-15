@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 5 AM – 2 AM (UTC)",
+        "body": "Hi Team,\n\nThis is a reminder that the corporate VPN infrastructure will undergo routine maintenance from 5 AM to 2 AM UTC on Friday, 12 May 2026. During this window the VPN service will be temporarily unavailable. Please plan accordingly and avoid any critical outbound connections that rely on the VPN during that time.\n\nIf you have any questions or encounter issues after the maintenance, contact the IT Help Desk at helpdesk@example.com or call 555‑123‑4567.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User"
+    }
+}

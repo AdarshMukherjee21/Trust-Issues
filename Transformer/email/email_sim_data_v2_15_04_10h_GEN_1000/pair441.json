@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been shipped",
+        "body": "Hello,\n\nThank you for shopping with Amazon! Your order #1234567890 has been shipped and is on its way.\n\nProduct Details:\n- 1x Wireless Mouse\n- 2x USB-C Cable\n- 1x Charging Pad\n\nExpected Delivery: 3-5 business days\n\nTrack your shipment here: <URL>\n\nIf you have any questions, feel free to contact our support at <URL>.\n\nShukriya for choosing Amazon!\n\nBest regards,\nAmazon Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required for Your Meeting Invite",
+        "body": "Dear User,\n\nYou have been invited to an important meeting scheduled for 15th May 2026 at 10:00 AM IST.\n\nMeeting ID: 123-456-7890\nPassword: 123456\n\nPlease confirm your attendance by clicking the link below:\n\nJoin Zoom Meeting: <URL>\n\nIf you do not respond within 24 hours, your account may be suspended for security reasons.\n\nThank you for your prompt attention.\n\nRegards,\nZoom Support Team"
+    }
+}

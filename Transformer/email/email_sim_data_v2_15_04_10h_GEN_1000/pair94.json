@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Deal Highlights – March Edition",
+        "body": "Dear Valued Subscriber,\n\nWelcome to this week’s edition of our exclusive deals! We’ve rounded up the best offers from our partners to help you save big on everything you love.\n\n• 25% off all home décor items – valid until April 10.\n• Buy one, get one free on select kitchen appliances.\n• Free shipping on orders over $50.\n\nDon’t miss out—visit our site to claim these promotions now: <URL>\n\nThank you for being part of our community.\n\nBest regards,\nThe Deals Team"
+    },
+    "spam": {
+        "subject": "Action Required: Income Tax Refund Verification Pending",
+        "body": "Dear Mr. / Ms.,\n\nThe Income Tax Department has identified a pending refund of $12,345.67 that is awaiting your verification. To release the funds within the next 48 hours, please confirm your personal details and bank account information.\n\nFailure to verify may result in the forfeiture of the refund and potential penalties.\n\nPlease log in securely and submit the required documents here: <URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department"
+    }
+}

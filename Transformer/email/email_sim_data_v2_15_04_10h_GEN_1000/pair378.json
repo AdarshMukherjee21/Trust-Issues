@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th October",
+        "body": "Hi [Student Name],\n\nJust a friendly reminder that the semester project submission deadline is fast approaching on 15th October. Please ensure that you have uploaded your final report and all supporting documents to the university portal by the end of the day. If you need any clarification on the submission guidelines, feel free to reach out to me.\n\nGood luck with your project!\n\nBest,\nDr. Emily Johnson\nAssociate Professor, Computer Science\nUniversity of Example"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update Notice",
+        "body": "Dear [Employee Name],\n\nThis is an urgent notice from the HR Department regarding a recent update to the payroll system. Our records indicate that your payroll details have not been verified for the current month. To prevent any interruption in salary disbursement, please confirm your personal and banking information by clicking the link below:\n\n<URL>\n\nPlease note that failure to respond within 48 hours may result in a delay of up to one week in your salary payment.\n\nThank you for your prompt attention.\n\nBest regards,\nJohn Smith\nHR Director\nCompany XYZ"
+    }
+}

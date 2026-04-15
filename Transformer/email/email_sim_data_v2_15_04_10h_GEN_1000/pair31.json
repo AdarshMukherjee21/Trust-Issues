@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Rs.5,000 Debited from Your Account",
+        "body": "Dear Customer,\n\nWe wish to inform you that a transaction of Rs.5,000 has been debited from your account ending in 1234 on 15th April 2026. The transaction was made at ABC Store, Mumbai. If you did not authorize this transaction, please contact us immediately at 1800-XXX-XXX.\n\nFor more details, click <URL>.\n\nThank you for banking with State Bank of India.\n\nRegards,\nCustomer Support\nState Bank of India"
+    },
+    "spam": {
+        "subject": "Income Tax Department – Your Refund is Ready",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has processed your refund for the year 2025. Your refund amount of Rs.1,20,000 is ready for release. To claim your refund, please verify your bank account details by clicking the link below:\n\n<URL>\n\nPlease note that failure to verify within 5 days may result in delay or forfeiture of your refund.\n\nThis is an official communication from the Income Tax Department. For any queries, call our helpline at 1800-XYZ-1234.\n\nThank you,\nIncome Tax Department"
+    }
+}

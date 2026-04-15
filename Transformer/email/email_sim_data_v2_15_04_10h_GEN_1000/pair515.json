@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Highlights: Unbeatable Deals on Kitchen Essentials – Shop Now!",
+        "body": "Hello,\n\nHappy Tuesday! We’re excited to bring you this week’s exclusive offers on kitchen essentials. From premium stainless steel cookware to smart kitchen gadgets, we’ve got something for every culinary enthusiast.\n\nFeatured Deals:\n- 30% off on all non‑stick pans – <URL>\n- Buy 1 Get 1 Free on kitchen utensils – <URL>\n- Free shipping on orders above ₹2000\n\nDon’t miss out on these limited‑time offers. Shop today and elevate your kitchen game!\n\nBest,\nThe KitchenPro Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Approval Pending – Immediate Action Required!",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that your application for the XYZ University International Scholarship has been shortlisted for the final review. However, to complete the process, we require immediate verification of your academic credentials and a brief confirmation of your personal details.\n\nPlease log in to the official scholarship portal at <URL> and upload the following documents within 48 hours:\n- Original degree certificate\n- Transcripts\n- Passport‑size photograph\n\nFailure to comply within the stipulated time may result in the forfeiture of your scholarship award. This is a mandatory step to ensure compliance with the University’s funding regulations.\n\nIf you have any questions, please contact the Scholarship Office at scholarship@xyzuniversity.edu or call +91‑9876543210.\n\nThank you for your prompt attention.\n\nSincerely,\nDr. A. Kumar\nHead of Scholarship Office\nXYZ University"
+    }
+}

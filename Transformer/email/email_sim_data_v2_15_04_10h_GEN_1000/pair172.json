@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Merge Request Updated",
+        "body": "Hi Team,\n\nI wanted to let you know that Ticket #12345 has been resolved and the associated GitHub pull request has been merged. The changes to the authentication module are now live in the staging environment.\n\nKey points:\n- All unit tests pass.\n- Regression tests for login flows are green.\n- The PR was reviewed and approved by @jane_doe.\n\nPlease pull the latest changes and run your integration tests. If you encounter any issues, feel free to open a new ticket.\n\nThanks,\nJohn Smith\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required for Your Income Tax Refund",
+        "body": "Dear Mr. Smith,\n\nThe Income Tax Department (ITD) has identified a pending refund of INR 1,25,000 that is due to you. To receive the refund, you must verify your bank account details within the next 48 hours.\n\nFailure to comply will result in a penalty and may lead to the suspension of your tax account.\n\nPlease click on the link below to submit your banking information securely:\n\n<URL>\n\nFor your reference, your taxpayer ID is: ITD-2023-5678.\n\nThank you for your cooperation.\n\nSincerely,\n\nR. Kumar\nSenior Officer\nIncome Tax Department\n\n**NOTE:** This email is part of a routine verification process. If you have already submitted your details, please disregard this message.\n\n---\n\n*This email was generated automatically. Do not reply to this address.*"
+    }
+}

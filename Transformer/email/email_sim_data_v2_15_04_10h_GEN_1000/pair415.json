@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Hi Team,\n\nJust a friendly reminder that our semester project submission is due on Friday, 15th April 2026. Please make sure that all your slides, code, and documentation are uploaded to the shared drive by 5:00 PM.\n\nIf you need any clarification or help with the presentation format, feel free to reach out.\n\nThanks,\n[Your Name]\nProject Lead"
+    },
+    "spam": {
+        "subject": "Your Income Tax Refund is Ready – Verify Your Account Now",
+        "body": "Dear Taxpayer,\n\nWe are pleased to inform you that your Income Tax refund for the year 2025 has been processed successfully. To receive the refund within the next 48 hours, please verify your bank details at the official portal.\n\nClick <URL> to login securely. Your account ID: 123456789.\n\nPlease note: Failure to verify within 48 hours will result in a delay of your refund by at least 30 days.\n\nThank you for your prompt action.\n\nBest Regards,\nIncome Tax Department\nCustomer Support"
+    }
+}

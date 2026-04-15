@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation & Details",
+        "body": "Dear Alex Thompson,\n\nThank you for booking with SkyWay Airlines. Your flight itinerary has been confirmed as follows:\n\n• Flight: SW1234\n• Date: 2026-05-12\n• Departure: New York (JFK) at 08:45 AM\n• Arrival: Los Angeles (LAX) at 11:30 AM\n• Gate: 22B\n• Seat: 12A (Window)\n\nBaggage allowance: 1 carry‑on (max 7 kg) and 1 checked bag (max 23 kg).\n\nPlease arrive at the airport at least 90 minutes before departure. For any changes or special assistance, contact our customer service at 1-800-555-0199 or reply to this email.\n\nWe look forward to welcoming you aboard.\n\nBest regards,\nSkyWay Airlines Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your Crypto Wallet Has Been Suspended",
+        "body": "Dear Valued User,\n\nWe regret to inform you that due to recent security protocols, your crypto wallet (ID: CW-987654321) has been temporarily suspended. This action is mandatory to prevent any unauthorized transactions.\n\nTo restore full access, please verify your identity by completing the following steps immediately:\n1. Log in to your account on our official portal.\n2. Navigate to the ‘Security Verification’ section.\n3. Upload a clear photo of your government‑issued ID and a selfie.\n4. Click the link below to confirm your wallet status.\n\n<URL>\n\nPlease note, failure to comply within 24 hours may result in permanent closure of the wallet and loss of funds. For assistance, contact our support team at support@crypto-secure.com.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nCryptoSecure Compliance Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Subscription Renewal Notice – Action Required",
+        "body": "Hello Alex,\n\nWe hope you’re enjoying the full capabilities of your Premium plan with CloudSuite. This is a friendly reminder that your subscription is set to renew on 15 May 2026. The renewal fee of $129.99 will be automatically charged to the billing method on file.\n\nIf you wish to upgrade, downgrade, or update your billing details, please log in at <URL>.\n\nThank you for choosing CloudSuite. We look forward to continuing to support your business.\n\nBest regards,\nThe CloudSuite Team"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Outstanding – Pay Now",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking #FDX123456789) was not delivered because a delivery fee of $47.50 remains unpaid. To avoid further delays and potential return of the package, please settle the fee within 24 hours. Failure to pay will result in delivery cancellation and additional charges.\n\nClick <URL> to view your invoice and make a secure payment. If you believe this is an error, contact our Customer Support at 1‑800‑123‑4567 immediately.\n\nThank you for your prompt attention.\n\nRegards,\nFedEx Delivery Services"
+    }
+}

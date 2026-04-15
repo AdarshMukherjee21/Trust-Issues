@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation",
+        "body": "Dear Alex Thompson,\n\nThank you for choosing SkyWay Airlines. Your flight has been successfully booked and confirmed. Below are your itinerary details:\n\n• Flight number: SW1234\n• Departure: JFK International Airport – 10:45 AM, 27 April 2026\n• Arrival: LAX International Airport – 1:30 PM, 27 April 2026\n• Cabin class: Business\n• Seat assignment: 12A\n• Baggage allowance: 2 checked bags, 1 carry‑on\n\nPlease review the information and let us know if any changes are required. You can also download your boarding pass by clicking <URL>.\n\nWe look forward to serving you.\n\nSincerely,\n\nSkyWay Airlines Customer Service\nsupport@skyway.com\n+1 800-555-0199"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required to Avoid Missed Delivery Fee",
+        "body": "Dear Valued Customer,\n\nThis is an official notification from FedEx/DHL Customer Support. Your shipment with Tracking ID: 9Z12345ABC6789012 was scheduled for delivery on 25 April 2026 but was not successfully delivered.\n\nTo prevent an additional missed delivery fee of $50.00, you must confirm or update your shipping address within the next 24 hours. Please click the link below to verify your details:\n\n<URL>\n\nFailure to respond will result in an automatic charge to your account and possible suspension of future shipments.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nFedEx/DHL Delivery Team\nsupport@fedex.com\n+1 800-345-6789"
+    }
+}

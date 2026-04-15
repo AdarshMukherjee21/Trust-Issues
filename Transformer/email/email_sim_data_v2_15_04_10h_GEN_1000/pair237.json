@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Update – New Deals & Features Inside!",
+        "body": "Hi Team,\n\nHope you are doing well! Here’s what’s new in this week’s update:\n\n1. New product launch – XYZ widget is now available.\n2. Discount offer – 20% off on all accessories until Friday.\n3. Upcoming webinar – Join us on Thursday at 3 PM for a live demo.\n\nThank you for your continued support.\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Verification Required – <URL>",
+        "body": "Dear Valued Customer,\n\nWe have detected a discrepancy with your QuickBooks account. To protect your financial data, we need you to verify your invoice details immediately. Please click on the secure link below to confirm your invoice and avoid any potential service interruption:\n\n<URL>\n\nIf you do not verify within 24 hours, your account will be suspended. For any questions, contact our support at <URL>.\n\nRegards,\nQuickBooks Security Team"
+    }
+}

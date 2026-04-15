@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCRM Subscription Renewal Notice",
+        "body": "Hello [First Name],\n\nWe hope you are enjoying the benefits of AcmeCRM. This is a friendly reminder that your subscription will expire on 15th June 2026. To keep uninterrupted access to all features, please renew your plan at your earliest convenience.\n\nYou can renew by visiting <URL> or by contacting our support team at support@acmecrm.com.\n\nThank you for choosing AcmeCRM.\n\nBest regards,\nAcmeCRM Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Microsoft 365 User,\n\nThis is an automated alert from the Microsoft 365 Security Team. Your account password is set to expire in 24 hours. Failure to renew will result in temporary lockout of your account.\n\nTo ensure continuous access, please click the link below and follow the instructions:\n\n<URL>\n\nIf you do not perform this action, your account may be permanently disabled. This is a mandatory security update.\n\nThank you for your prompt attention.\n\nSincerely,\nMicrosoft 365 Security"
+    }
+}

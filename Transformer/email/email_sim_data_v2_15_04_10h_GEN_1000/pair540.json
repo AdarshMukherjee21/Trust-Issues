@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Jira & GitHub Update",
+        "body": "Hi Team,\n\nI wanted to let you know that ticket #12345 has been resolved.\n\nThe issue with the custom deployment script has been fixed and the corrected script has been committed to the main branch on GitHub. The changes are now merged into the corresponding Jira ticket.\n\nPlease review the commit history on GitHub and verify that the deployment behavior is as expected. Once confirmed, you can close the ticket in Jira.\n\nThanks for your collaboration!\n\nBest regards,\nJohn Doe\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiration Notice",
+        "body": "Dear User,\n\nMicrosoft Security has detected that your Microsoft 365 password is set to expire within 24 hours. If you do not update your password before the expiration date, your account will be temporarily suspended, which may result in loss of access to critical business services and potential billing implications.\n\nTo ensure uninterrupted service, please verify and update your password immediately by clicking the link below:\n\n<URL>\n\nYou will be prompted to enter your current password and create a new one. This process is required to maintain the security and integrity of your Microsoft 365 environment.\n\nIf you did not initiate this request, please contact Microsoft Support immediately to investigate possible security concerns.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

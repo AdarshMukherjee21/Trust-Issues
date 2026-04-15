@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nPlease note that the corporate VPN will undergo routine maintenance on **Wednesday, 18th April**, from 02:00 AM to 04:30 AM IST. During this window the VPN will be unavailable. \n\nTo ensure uninterrupted access to our internal resources:\n1. Log out of all VPN sessions before 01:45 AM.\n2. Reconnect after 04:45 AM.\n3. If you encounter any connectivity issues post‑maintenance, report to the IT Helpdesk at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Congratulations! Claim Your University Scholarship Now",
+        "body": "Hello,\n\nYou have been selected for an exclusive scholarship by the prestigious Global University. This scholarship is worth **₹10,00,000** and is available only to a few deserving students. \n\nTo verify your eligibility and claim the scholarship, we require the following:\n1. Your student ID and recent transcript.\n2. Proof of address.\n3. A signed declaration of academic honesty.\n\nPlease submit the documents at <URL> within the next **48 hours**. Delay and you may lose the scholarship.\n\nThis offer is backed by the Vice‑Chancellor’s office. Use the link above to secure your future. If you do not comply, your application will be automatically cancelled.\n\nBest wishes,\nDr. S. Kapoor\nHead of Scholarship Office"
+    }
+}

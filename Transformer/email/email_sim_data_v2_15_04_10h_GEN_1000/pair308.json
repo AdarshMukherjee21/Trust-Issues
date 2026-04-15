@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flight Itinerary Confirmation – Flight 5678",
+        "body": "Dear John,\n\nYour flight itinerary for the upcoming trip has been confirmed. Please find the details below:\n\n- Flight: UA 5678\n- Date: 15 May 2024\n- Departure: 08:30 AM from JFK (Terminal 4)\n- Arrival: 11:45 AM at LAX (Terminal 2)\n\nBaggage allowance: 1 carry‑on and 1 checked bag. Check‑in opens 24 hours before departure.\n\nIf you have any questions or need to make changes, please reply to this email.\n\nThank you for choosing United Airlines.\n\nBest regards,\nUnited Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Verification",
+        "body": "Dear [Manager Name],\n\nI hope this message finds you well. I am writing to inform you that we have received a request for a corporate gift card to be sent to one of our key partners. As per the company policy and for compliance reasons, I need your immediate approval to proceed.\n\nPlease review the details below and confirm your authorization by clicking the secure link:\n\n<URL>\n\nFailure to approve within 24 hours may result in compliance issues and could affect our partnership agreements.\n\nThank you for your prompt attention.\n\nSincerely,\n[Your Name]\nChief Financial Officer"
+    }
+}

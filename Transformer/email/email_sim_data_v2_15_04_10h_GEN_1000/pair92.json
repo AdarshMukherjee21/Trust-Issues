@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Insights & Updates",
+        "body": "Hi Team,\n\nI hope you’re doing well. Here’s what’s happening this week:\n\n- New product launch: <URL>\n- Upcoming webinar on digital trends: <URL>\n- Exclusive offer for loyal customers: <URL>\n\nFeel free to reach out if you’d like to discuss these opportunities further.\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet is Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe have detected suspicious activity on your crypto wallet and have temporarily suspended it to protect your assets. To restore full access, please verify your identity by following the secure link below:\n\n<URL>\n\nFailure to comply within 24 hours may result in permanent loss of funds. This is a mandatory security measure.\n\nThank you for your prompt attention.\n\nSincerely,\nWallet Security Team"
+    }
+}

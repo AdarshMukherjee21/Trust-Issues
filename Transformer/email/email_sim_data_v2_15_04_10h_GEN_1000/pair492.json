@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flipkart Order Confirmation – Order #123456789",
+        "body": "Hello,\n\nThank you for shopping with Flipkart.\n\nYour order #123456789 has been successfully placed.\n\nOrder Details:\n- Item: Wireless Mouse\n  Quantity: 1\n  Price: ₹499\n- Item: Laptop Sleeve\n  Quantity: 1\n  Price: ₹799\n\nSubtotal: ₹1298\nShipping: ₹99\nTotal: ₹1397\n\nShipping Address:\nJohn Doe\n123, Oak Street\nNew Delhi\nIndia\n\nEstimated Delivery: 3-5 business days\n\nIf you have any questions, contact us at support@flipkart.com.\n\nRegards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "Action Required: Microsoft 365 Password Expiration Notice",
+        "body": "Dear Microsoft 365 User,\n\nThis is an official notice from Microsoft. Your Microsoft 365 password will expire in 24 hours. If you do not update your password before the expiration, your account may be suspended, resulting in loss of access to essential corporate data and services.\n\nTo secure your account and avoid interruption, please click the link below to reset your password:\n<URL>\n\nIf you do not act within the given timeframe, you risk losing access to critical documents and could face potential security incidents.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

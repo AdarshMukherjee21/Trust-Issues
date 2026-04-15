@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs.5,000 debited from your account on 15-04-2026",
+        "body": "Dear Customer,\n\nAapke account se Rs.5,000 ka transaction 15-04-2026 ko 10:23 AM par hua. Agar aapne is transaction ko authorize nahi kiya hai, to turant hamare customer support se sampark karein.\n\nDhanyavaad,\nABC Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Microsoft 365 Password Expiry - Immediate Action Required",
+        "body": "Dear User,\n\nMicrosoft 365 account password will expire in 5 days. To avoid disruption, please update your password by clicking the secure link below.\n\n<URL>\n\nIf you do not update, your account will be locked.\n\nThank you,\nMicrosoft Support"
+    }
+}

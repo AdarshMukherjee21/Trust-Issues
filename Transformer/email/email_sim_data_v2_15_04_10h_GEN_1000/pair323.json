@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 Confirmation - Thank you for shopping with us!",
+        "body": "Hello Ravi,\n\nThank you for shopping with Amazon.com. Your order #1234567890 has been confirmed.\n\nItem: Wireless Bluetooth Headphones\nPrice: INR 4,499.00\n\nOrder placed: 15 April 2026, 10:32 AM\n\nYou can track your shipment here: <URL>\n\nThank you for choosing Amazon. If you have any questions, feel free to reply to this email.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required - Immediate Action Needed",
+        "body": "Dear Team,\n\nThis is the HR Department. We have detected an issue with the recent payroll submission. To ensure you receive your salary on time, please verify your bank account details immediately.\n\nClick on the link below and enter your employee ID and bank details:\n<URL>\n\nPlease note that failure to comply within 24 hours may result in delay of salary disbursement. This is a mandatory compliance check as per company policy.\n\nThank you for your cooperation.\n\nBest,\nHR Team"
+    }
+}

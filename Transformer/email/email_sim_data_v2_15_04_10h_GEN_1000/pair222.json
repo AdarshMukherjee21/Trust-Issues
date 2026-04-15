@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – April 15",
+        "body": "Hi there,\n\nWelcome to this week’s edition of our marketing newsletter! We’ve packed it with fresh insights, upcoming events, and exclusive offers just for you.\n\n**Highlights for this week**\n- *New Product Launch*: Discover the features of our latest software suite designed to boost productivity.\n- *Upcoming Webinar*: Join us on Thursday at 3 PM for a live demo and Q&A session.\n- *Customer Spotlight*: Read how one of our clients achieved a 25% reduction in operational costs.\n\n**Special Offer**\nSubscribe to our premium tier by the end of the month and receive a complimentary one‑month trial of our advanced analytics module.\n\nThank you for staying connected with us. We look forward to helping you achieve even greater success.\n\nBest regards,\nMarketing Team\n\n---\nIf you would prefer not to receive these newsletters in the future, simply click the unsubscribe link below.\n<URL>"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks & Norton Invoice Payment Required",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your QuickBooks and Norton subscription has not been paid for the current billing cycle. Failure to resolve this issue within 48 hours will result in immediate suspension of your access to all services, including essential financial tools.\n\nTo avoid disruption, please review and pay the outstanding invoice immediately:\n\n• Invoice #QBJ-2026-04\n• Amount Due: $129.99\n• Due Date: 15 days from receipt of this notice\n\nClick the secure payment link below to confirm your payment and keep your account active:\n<URL>\n\nIf you have already processed this payment, please disregard this notice. Otherwise, act now to prevent service interruption.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nBilling Support Team\nQuickBooks & Norton\n\n*This is an automated message. Do not reply.*"
+    }
+}

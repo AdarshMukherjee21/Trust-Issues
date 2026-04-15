@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket JIRA-4567 Resolved – Updated as per your feedback",
+        "body": "Hi John,\n\nI hope you're doing well. I wanted to let you know that the Jira ticket (ID: JIRA-4567) you reported regarding the deployment issue has been resolved.\n\n*Issue Summary*: Deployment failed due to missing environment variable.\n*Fix Implemented*: Updated the CI/CD pipeline configuration and redeployed the application.\n*Verification*: Tested locally and on staging; all tests are passing.\n\nPlease pull the latest changes from the 'release' branch and verify on your end. If you encounter any further issues, let me know, and I'll address them promptly.\n\nThanks for your patience.\n\nBest regards,\nSarah Lee\nDevOps Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #987654 Due Today – Immediate Action Required",
+        "body": "Dear Valued QuickBooks Customer,\n\nWe regret to inform you that your QuickBooks account has an outstanding invoice (Invoice #987654) that is overdue. This invoice is also linked to your Norton antivirus subscription. Immediate payment is required to avoid service interruption.\n\nPayment Details:\nAmount Due: $1,234.56\nDue Date: Today\n\nPlease click the link below to review and pay your invoice securely:\n<URL>\n\nFailure to pay within 24 hours will result in suspension of both QuickBooks and Norton services, and your company data may be permanently inaccessible.\n\nIf you believe this is a mistake, contact our billing department immediately at billing@quickbooks.com (do not reply to this email).\n\nThank you for your prompt attention.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

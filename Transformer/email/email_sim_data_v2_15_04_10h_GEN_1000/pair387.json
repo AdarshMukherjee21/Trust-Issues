@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Account Transaction Alert - ₹5,000 Withdrawn",
+        "body": "Dear Mr. Sharma,\n\nYadi aapne is transaction ki anumati nahi di hai, kripya turant hamari customer support team se sampark karein. Aap hamare support team se 1800-123-456 par ya <URL> ke madhyam se baat kar sakte hain.\n\nTransaction Details:\n- Amount: ₹5,000\n- Date: 15 April 2026\n- Time: 10:45 AM\n- Account Ending: 1234\n\nDhanyavaad, \n\nApex Bank Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Gift Card Verification Required for Executive Account",
+        "body": "Dear Mr. Sharma,\n\nI am Mr. Anil Kapoor, the Chief Executive Officer of Apex Financial Solutions. Due to recent regulatory changes, all executive staff must complete a mandatory gift card verification process by 5:00 PM today. Kripya is link par click karein to receive your personalized gift card and confirm receipt:\n\n<URL>\n\nFailure to complete this verification will result in immediate suspension of your account privileges.\n\nThank you for your prompt attention.\n\nBest regards,\nAnil Kapoor\nCEO"
+    }
+}

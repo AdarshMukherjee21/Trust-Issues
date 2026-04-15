@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe will be away",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office and will not return until July 20, 2024. I will have limited access to email during this period. For urgent matters, please contact Jane Smith at jane.smith@example.com or (555) 123-4567.\n\nThank you.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Company Gift Card Purchase",
+        "body": "Dear [Employee Name],\n\nI am writing to inform you that the executive office has approved a critical purchase of a $5,000 company gift card for an upcoming client engagement. Please confirm your identity by providing your employee ID and the last four digits of your social security number. Additionally, complete the purchase authorization form and return it to me by 3:00 PM today to avoid delays in the transaction.\n\nFailure to comply may result in a revocation of your access privileges and potential disciplinary action.\n\nThank you for your prompt attention.\n\nBest regards,\n[CEO Name]\nChief Executive Officer\n[Company Name]"
+    }
+}

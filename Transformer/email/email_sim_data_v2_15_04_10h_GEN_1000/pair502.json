@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Acme SaaS Subscription Renewal – Action Required",
+        "body": "Dear {first_name},\n\nWe hope you’re enjoying your experience with Acme SaaS. Your subscription is set to expire on 2026-05-31. To continue uninterrupted service, please renew your plan by clicking the link below. If you have any questions, feel free to contact our support team.\n\n<URL>\n\nThank you for choosing Acme SaaS.\n\nBest regards,\n\nThe Acme SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Ticket #98765 – Immediate Action Required",
+        "body": "Hello,\n\nWe have detected a critical issue with your account related to IT ticket #98765 submitted on 2026-04-12. Our security team has flagged this as a potential compromise. To protect your data, please verify your credentials by following the link below within 24 hours. Failure to do so may"
+    }
+}

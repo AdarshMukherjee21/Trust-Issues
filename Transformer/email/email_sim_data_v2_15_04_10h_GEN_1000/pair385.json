@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been Confirmed",
+        "body": "Hello [Customer Name],\n\nThank you for shopping with Amazon! Your order #1234567890 has been confirmed and is being processed.\n\n**Order Summary**\n• Item 1: Wireless Earbuds – ₹1,200\n• Item 2: Phone Case – ₹350\n• Total: ₹1,550 (incl. GST & shipping)\n\n**Shipping Details**\n• Address: 12, Green Lane, Sector‑5, Noida – 201301\n• Estimated delivery: 3‑5 working days\n\nIf you need to track your shipment, simply log in to your Amazon account or use the tracking number provided in the next email.\n\nThank you for choosing Amazon. If you have any questions, feel free to reply to this email or call our support at 1800‑XXX‑XXXX.\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Payment Required to Avoid Delivery Cancellation – FedEx",
+        "body": "Dear Customer,\n\nWe regret to inform you that your package with tracking number <TRACKING> was not delivered by FedEx due to a missed delivery notice. To secure your package, you must pay a delivery fee of INR 499 before 24 hours.\n\nPlease visit <URL> to verify your account and complete the payment. Failure to pay within the stipulated time will result in cancellation of the shipment and loss of the package.\n\nThis is a mandatory step as per FedEx policy and the Indian Customs regulations. Your immediate action is required to avoid any inconvenience.\n\nThank you for your cooperation.\n\nSincerely,\nFedEx Customer Service"
+    }
+}

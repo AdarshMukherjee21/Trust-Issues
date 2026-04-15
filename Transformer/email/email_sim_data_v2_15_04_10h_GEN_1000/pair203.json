@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Deadline Approaching",
+        "body": "Dear Student,\n\nHope you are doing well. This is a gentle reminder that the semester project submissions are due on **30th April 2026**. According to the course guidelines, the final report and the presentation slides should be submitted via the university portal by 5:00 PM on that day.\n\nIf you have already uploaded your files, please let me know so I can confirm receipt. If you are still working on it, make sure to save your progress and keep the backup copies. You can find the submission instructions in the syllabus under \"Project Submission\".\n\nShould you encounter any issues or need clarification, feel free to reply to this email or drop by the department office before 5:00 PM on Thursday.\n\nBest regards,\n\nDr. Anjali Sharma\nAssistant Professor\nComputer Science & Engineering\nUniversity of Mumbai"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Account Has Been Suspended!",
+        "body": "Hello,\n\nWe have detected suspicious activity on your crypto wallet account. In accordance with our security protocols, we have temporarily suspended your wallet to protect your funds. If you do not verify your identity within the next 24 hours, your account and all associated assets will be permanently locked.\n\nTo reactivate your wallet, please visit <URL> and complete the verification process. This will confirm your identity and restore full access to your funds.\n\nIf you have any questions or believe this is a mistake, contact our support team immediately at <URL>. Failure to act may result in a loss of your crypto assets.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nSecurity Operations Team\nCryptoSecure Inc."
+    }
+}

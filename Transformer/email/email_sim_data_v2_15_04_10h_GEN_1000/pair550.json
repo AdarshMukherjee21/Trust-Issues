@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Update: Top Deals & New Arrivals – 2024-09-20",
+        "body": "Hi there,\n\nWelcome to our weekly newsletter! Here’s what’s new this week:\n\n1. New Product Launch: SmartHome Hub – now available in store and online.\n2. Exclusive Offer: 20% off on all accessories – use code WEEK20.\n3. Customer Spotlight: Sarah’s amazing DIY project with our tools.\n4. Upcoming Events: Join us for a live demo on Friday, September 22.\n\nDon’t miss out!\n\nThanks for being part of our community.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Team Meeting Invitation: Project Alignment – 5 PM, Thursday",
+        "body": "Hello Team,\n\nYou are invited to the Project Alignment meeting.\n\nDetails:\nDate: Thursday, September 20, 2024\nTime: 5:00 PM – 6:00 PM (UTC)\nLocation: <URL> (Zoom Meeting)\n\nPlease join the meeting using the link below:\n<URL>\n\nAgenda:\n- Project Updates\n- Timeline Review\n- Action Items\n\nIf you have any questions, let me know.\n\nBest,\nAlex"
+    }
+}

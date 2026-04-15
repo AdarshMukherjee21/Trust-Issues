@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Flipkart Order Confirmation – #1234567890",
+        "body": "Hello Priya,\n\nThank you for shopping with Flipkart! Your order #1234567890 has been confirmed. Here are the details:\n\n• Item: Apple iPhone 14 Pro Max – ₹1,20,000\n• Quantity: 1\n• Shipping Address: 12, MG Road, Bengaluru, Karnataka\n• Total Paid: ₹1,20,000 (incl. GST & delivery charges)\n\nYour order is now being processed by our warehouse. You will receive a shipping confirmation email with the tracking number as soon as the package is dispatched.\n\nIf you have any questions or need to cancel your order, please reply to this email or contact our customer support at support@flipkart.com.\n\nThank you for choosing Flipkart! Happy shopping.\n\nBest regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Microsoft 365 Password Expiry",
+        "body": "Hello John,\n\nThis is an important notification from Microsoft Security. Your Microsoft 365 account password is set to expire in 3 days. To avoid any disruption to your services, please update your password immediately.\n\n1. Click on the link below to verify your account:\n   <URL>\n2. Follow the on-screen instructions to set a new password.\n\nIf you do not update your password by the expiry date, your access to Microsoft 365 services (Outlook, Teams, SharePoint, etc.) will be suspended. For security reasons, we cannot provide the new password via email.\n\nPlease complete this action as soon as possible to keep your account safe.\n\nThank you for your prompt attention.\n\nBest,\nMicrosoft Security Team"
+    }
+}

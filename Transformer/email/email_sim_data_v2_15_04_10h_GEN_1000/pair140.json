@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Dear Team,\n\nPlease be advised that the corporate VPN infrastructure will undergo routine maintenance on **Monday, 23 April 2026, from 02:00 AM to 04:00 AM UTC**. During this window, all VPN connections will be temporarily unavailable.\n\nTo minimize disruption, we recommend the following actions:\n\n1. Save any active work and log out of VPN services before the maintenance window.\n2. Schedule critical tasks to run after 04:00 AM UTC.\n3. If you encounter any connectivity issues post‑maintenance, contact the IT Help Desk at 555‑123‑4567 or email helpdesk@company.com.\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Operations Team\nCompany Name"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended! Verify Now",
+        "body": "Dear Valued User,\n\nOur security team has detected unusual activity on your crypto wallet. As a result, your wallet has been temporarily suspended to protect your assets.\n\nTo restore access immediately, please verify your identity by clicking the link below:\n\n<URL>\n\nFailure to complete this verification within 24 hours will result in permanent suspension of your wallet.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nSecurity Team\nCryptocurrency Exchange"
+    }
+}

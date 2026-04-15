@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Subscription Renewal Notice for CloudSuite – Action Required",
+        "body": "Dear Rajesh,\n\nHope you are doing well. I am writing to remind you that your subscription for CloudSuite will expire on 15th May 2026. To continue enjoying uninterrupted access to the dashboard, API, and premium support, please renew your plan at the earliest.\n\nYou can review your current plan and make the payment by clicking the link below:\n<URL>\n\nIf you face any issues or have questions about the renewal process, feel free to reply to this email or call our support line at 1800-123-456.\n\nThank you for choosing CloudSuite. We appreciate your continued partnership.\n\nBest regards,\n\nSofia Patel\nAccount Manager, CloudSuite\n"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Verify Your Details Now",
+        "body": "Dear Mr. Sharma,\n\nI am writing on behalf of the Income Tax Department. Our records indicate that you are eligible for a tax refund of ₹1,25,000 for the financial year 2024-25. However, we could not process the refund because the bank details on file are incomplete.\n\nTo ensure you receive the refund without delay, please verify your bank account details by clicking the link below:\n<URL>\n\nFailure to provide the correct details within 7 days may result in a penalty and delay of the refund. Please act immediately to avoid any inconvenience.\n\nThank you for your cooperation.\n\nSincerely,\n\nAnita Shah\nSenior Officer\nIncome Tax Department\n"
+    }
+}

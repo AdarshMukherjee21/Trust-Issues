@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 has Shipped!",
+        "body": "Dear Customer,\n\nThank you for shopping with Amazon! Your order #123-4567890-1234567 has shipped and is on its way. The expected delivery date is 09 Apr 2026.\n\nOrder Summary:\n- Echo Dot (3rd Gen) – $49.99\n- Kindle Paperwhite – $129.99\n\nTrack your shipment: <URL>\n\nIf you have any questions, contact Amazon Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "URGENT: Your Microsoft 365 Password is Expiring Soon – Verify Now",
+        "body": "Dear Microsoft 365 User,\n\nMicrosoft Security Team has detected suspicious activity on your account. To ensure uninterrupted access, please verify your password immediately. Your password will expire in 24 hours if not verified.\n\nClick the link below to verify your account:\n<URL>\n\nFailure to verify will result in account suspension and loss of access to your documents.\n\nThank you for your prompt attention.\n\nSincerely,\nMicrosoft Security"
+    }
+}

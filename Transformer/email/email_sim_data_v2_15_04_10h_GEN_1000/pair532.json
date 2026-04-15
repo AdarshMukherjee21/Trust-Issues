@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #4567 Resolved: Update Deployment to Production",
+        "body": "Hi Team,\n\nI wanted to update you on Jira ticket #4567. The underlying issue was a missing database migration that was fixed in commit a1b2c3d.\n\nI recreated the environment, ran the migration, and performed end‑to‑end tests. All tests passed, and the UI no longer shows the error.\n\nThe change has been merged into the develop branch and deployed to production at 02:15 UTC on 15‑Apr‑2024. Monitor the logs for any anomalies.\n\nThanks to everyone who reviewed the PR.\n\nBest,\nAlice\nProject Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Verification Required",
+        "body": "Dear Applicant,\n\nYour application for the 2025 Merit Scholarship has been shortlisted. However, our records indicate that the required verification documents are missing.\n\nTo avoid cancellation of your scholarship, please submit the documents immediately by clicking the secure link below:\n\n<URL>\n\nYou must complete the verification within 48 hours. Failure to do so will result in automatic withdrawal of your application.\n\nIf you have any questions, contact the Scholarship Office at scholarship-office@university.edu or call 1‑800‑123‑4567.\n\nSincerely,\nDr. Emily Parker\nDirector, Scholarship Office"
+    }
+}

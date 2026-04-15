@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Top Deals – Exclusive Offers Inside",
+        "body": "Hello Valued Customer,\n\nWe hope you’re enjoying a fantastic week! Here’s your weekly dose of the best deals, new arrivals, and exclusive offers from our top brands.\n\nFeatured Highlights:\n\n• Trendy Summer Collection – Up to 40% off\n• New Electronics Release – Early bird discount of 15%\n• Limited Edition Jewelry – Free gift with purchase\n\nClick <URL> to shop now and take advantage of these savings before they’re gone!\n\nSpecial Bonus: Use promo code WEEKLY10 at checkout to receive an additional 10% off your entire order.\n\nThank you for being a loyal member of our community. We look forward to serving you again soon.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Microsoft 365 Account Password Expiry",
+        "body": "Dear [Employee Name],\n\nThis is an urgent notification from the Microsoft 365 Security Team. Your account password is scheduled to expire within the next 48 hours. Failure to update your password may result in temporary lockout and loss of access to critical business resources.\n\nPlease follow the instructions below to reset your password immediately:\n\n1. Log in to the Microsoft 365 portal via <URL>.\n2. Navigate to the Password Reset page.\n3. Enter your current password and create a new password that meets the complexity requirements.\n\nIf you do not complete this action by XX/XX/XXXX, your account will be suspended, and you will not be able to access email, OneDrive, Teams, or other Microsoft 365 services until the password is updated.\n\nFor additional assistance, contact the IT Help Desk at 1‑800‑XXX‑XXXX or reply to this email.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nMicrosoft 365 Security Operations"
+    }
+}

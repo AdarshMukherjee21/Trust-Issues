@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th March",
+        "body": "Dear Students,\n\nI hope you are all doing well. This is a friendly reminder that the deadline for your semester project submissions is fast approaching. Please ensure that your final reports and accompanying code are uploaded to the course portal by **15th March, 11:59 PM**.\n\n**Submission Guidelines**\n- Format: PDF for the report, ZIP for the code.\n- Include a brief README explaining your project's purpose, key algorithms, and any external libraries used.\n- All files should be named using the convention: *[YourName]_[ProjectTitle].ext*.\n\nIf you anticipate any issues meeting the deadline, please email me no later than **10th March** so we can discuss possible extensions.\n\nThank you for your hard work and dedication. Looking forward to reviewing your projects!\n\nBest regards,\nProfessor Emily Carter\nDepartment of Computer Science\nUniversity of Example\n"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Verification Required",
+        "body": "Dear Sir/Madam,\n\nWe are pleased to inform you that you have been selected for an $8,000 Income Tax Department refund. Your refund will be processed within 48 hours once we receive the required verification documents.\n\nTo proceed, please click on the button below and submit your bank account details and a copy of your latest tax return:\n\n<URL>\n\n**Important Notice**: Failure to provide the required information by **24th March** will result in forfeiture of the refund. If you do not comply, your account will be flagged for further investigation.\n\nFor any queries, contact the Income Tax Department at 1-800-123-4567 or reply to this email.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required for Network Access",
+        "body": "Hello Team,\n\nThis is a reminder that the company VPN will undergo scheduled maintenance on **Friday, April 19th, 2026, from 01:00 AM to 04:00 AM (UTC)**. During this window, all remote connections will be unavailable.\n\nTo ensure uninterrupted access post‑maintenance, please perform the following steps before the cut‑off time:\n\n1. Log out of the VPN client and close any open sessions.\n2. Verify that your credentials are up to date in the corporate directory.\n3. After the maintenance window, reconnect using the standard VPN URL (<URL>) and test connectivity to the internal resource portal.\n\nIf you encounter any issues or believe the maintenance window is affecting your critical projects, contact the IT Support Desk at 555‑123‑4567 or email itsupport@company.com immediately.\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Scholarship Application Status – Immediate Action Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the **Global Scholars Fellowship 2026** has been shortlisted by the Admissions Committee. We are thrilled to inform you that you are a potential recipient of a full‑tuition scholarship worth **$30,000**.\n\nTo finalize the award process, we require immediate confirmation of your personal details and agreement to the scholarship terms. Please click the link below to complete the verification and secure your award:\n\n<URL>\n\nThis action must be completed **within 48 hours** of receiving this email. Failure to do so may result in the forfeiture of your scholarship offer.\n\nThank you for your prompt attention to this matter. We look forward to welcoming you to the Global Scholars community.\n\nSincerely,\n\nDr. Elena Rivera\nChief of Admissions\nGlobal Scholars Fellowship Office"
+    }
+}

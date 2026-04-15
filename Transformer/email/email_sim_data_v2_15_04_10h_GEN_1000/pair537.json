@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹3,500 Debit from your Account",
+        "body": "Dear Customer,\n\nKripya dhyan dein ki aapke savings account (Account No: 1234567890) se 15/04/2026 ko 10:32 AM par ₹3,500 ka debit hua hai.\n\nTransaction ki jankari online banking portal par check karein ya agar koi discrepancy ho to hamari support team se sampark karein.\n\nBanking ke liye dhanyavaad.\n\nShubhkamnaye,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Payroll Update",
+        "body": "Namaste Employee,\n\nAapko suchit kiya jaata hai ki recent tax regulations ki wajah se aapka payroll April 2026 ke liye update ho chuka hai. Salary ko bina kisi delay ke credit"
+    }
+}

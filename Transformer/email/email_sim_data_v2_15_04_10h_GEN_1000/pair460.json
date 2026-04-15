@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Hi John,\n\nThank you for shopping with Amazon. Your order has been received and is currently being processed.\n\nOrder Details:\n  • Order #123-4567890-1234567\n  • Items: 1× \"Bluetooth Wireless Headphones\",\n  • Total: $89.99 (incl. tax and shipping)\n\nExpected Delivery:\n  • Date: 29‑Apr‑2026\n  • Time Window: 10:00 am – 4:00 pm\n\nIf you need to update your shipping address or change the delivery window, please visit your Amazon account.\n\nThank you for choosing Amazon.\n\n— Amazon.com"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Overdue – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your FedEx shipment (Tracking # 9876543210) was scheduled for delivery on 28‑Apr‑2026 but was unable to be released due to an outstanding delivery fee of $15.00.\n\nTo avoid having the package returned to sender, please verify your shipping details and remit the fee within the next 48 hours. Failure to do so may result in additional handling charges or loss of the shipment.\n\nClick here: <URL> to securely process payment and confirm your identity.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

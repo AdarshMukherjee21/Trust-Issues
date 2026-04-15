@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1872: Resolve merge conflict in Customer-Portal – Update",
+        "body": "Hi Team,\n\nI wanted to give you an update on ticket #1872 regarding the merge conflict in the Customer-Portal repository. I have identified the conflicting lines in the feature/login component and have created a new branch 'resolve-conflict-1872' with the changes.\n\nAfter running the CI pipeline, the build passed and the tests are green. I have also added a comment in the Jira issue to explain the steps taken.\n\nPlease review the changes at your earliest convenience. Agar sab thik hai, merge karke ticket close kar dena. Let me know if you need any further info.\n\nThanks,\nRahul"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 Password is Expiring – Immediate Action Required",
+        "body": "Dear User,\n\nThis is an official notice from the Microsoft 365 Security Team. Your account password is set to expire in 48 hours. If you do not renew it within the next 24 hours, your access to important services like Outlook, OneDrive, and SharePoint will be suspended.\n\nTo reset your password"
+    }
+}

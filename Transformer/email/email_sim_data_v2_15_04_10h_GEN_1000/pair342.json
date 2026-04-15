@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 10:00 AM – 11:30 AM",
+        "body": "Hello Team,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance from 10:00 AM to 11:30 AM tomorrow (March 15, 2026). During this window, VPN connectivity will be unavailable.\n\nIf you rely on remote access, please plan accordingly and log off before 10:00 AM. Should you encounter any issues post‑maintenance, contact the IT help desk at 1‑800‑555‑0199.\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Operations"
+    },
+    "spam": {
+        "subject": "Action Required: Microsoft 365 Password Expiration Notice",
+        "body": "Dear User,\n\nWe have detected that your Microsoft 365 password is set to expire in 24 hours. To avoid service interruption, you must reset your password immediately.\n\nPlease click the link below to reset your password: <URL>\n\nIf you do not reset your password in time, your account will be disabled automatically. Failure to comply may result in loss of access to critical business applications.\n\nThank you for your prompt attention.\n\nSincerely,\n\nMicrosoft Security Team"
+    }
+}

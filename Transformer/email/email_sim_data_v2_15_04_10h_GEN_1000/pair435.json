@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 2023-07-15",
+        "body": "Dear Alex,\n\nThank you for booking with SmartFlights. Here are your flight details:\n\n• Airline: Air India\n• Flight No: AI 123\n• Date: 15 July 2023\n• Departure: New Delhi (DEL) 10:30 AM\n• Arrival: Mumbai (BOM) 12:20 PM\n• Seat: 12C (Aisle)\n• Gate: 22\n\nCheck-in opens 24 hours before departure. You can check in online by clicking the link below:\n<URL>\n\nBoarding time is 5:45 AM. Please arrive at the airport 2 hours before departure.\n\nIf you have any questions or need to make changes to your booking, reply to this email or call our support line 1800-123-456.\n\nThank you for choosing SmartFlights. Safe travels!\n\nBest regards,\nSmartFlights Team"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Delivery Fee Overdue – Immediate Action Required",
+        "body": "Dear Customer"
+    }
+}

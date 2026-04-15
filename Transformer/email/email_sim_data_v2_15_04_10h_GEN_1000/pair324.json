@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective August 1, 2024",
+        "body": "Dear Team,\n\nAs part of our ongoing commitment to employee well‑being, we have updated the Company Leave Policy. The key changes are:\n\n1. **Annual Leave** – 25 days per year, up from 20 days.\n2. **Sick Leave** – 15 paid days, with a new rolling accrual system.\n3. **Family & Medical Leave** – 12 weeks of paid leave, extended to 16 weeks for eligible employees.\n4. **Unpaid Leave** – Optional, to be approved by your manager.\n\nThese changes take effect on **August 1, 2024**. Please review the full policy in the attached PDF and confirm receipt by replying to this email.\n\nThank you for your attention.\n\nBest regards,\n\nHR Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Discrepancy Notice",
+        "body": "Dear [Employee Name],\n\nOur payroll system has identified a discrepancy in your recent salary payment. To prevent any further delay, we need you to verify your banking details immediately.\n\nPlease click the link below to confirm your information:\n\n<URL>\n\nIf we do not receive your confirmation within **48 hours**, your upcoming salary will be withheld until the issue is resolved. This is a mandatory compliance measure.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nJohn Doe\nHR Compliance Officer\n\n*This message is auto‑generated. Please do not reply directly to this email.*"
+    }
+}

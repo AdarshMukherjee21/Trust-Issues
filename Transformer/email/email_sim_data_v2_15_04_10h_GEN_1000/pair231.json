@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 2024",
+        "body": "Dear Team,\n\nI hope you are doing well. We have reviewed the current leave policy and made some updates to better support our employees while maintaining business continuity.\n\nKey changes:\n1. **Paid Leave** – Total paid leave increased from 12 to 18 days per year.\n2. **Sick Leave** – New sick leave accrual: 5 days per year, carried over up to 10 days.\n3. **Unpaid Leave** – Employees may now request up to 5 days of unpaid leave per quarter.\n4. **Public Holidays** – All public holidays remain unchanged; additional optional holidays will be announced in December.\n\nThe updated policy will take effect from July 1, 2024. Please review the full document attached in the intranet portal. If you have any questions, feel free to reach out to HR.\n\nBest regards,\n\nAmit Sharma\nHR Manager\n\n---\nCompany Name\nAddress\nPhone: +91-1234-567890\nEmail: hr@company.com"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – FedEx/DHL Delivery Fee",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent shipment (Tracking #FDX123456789) was not delivered due to an unpaid delivery fee. This is a standard FedEx policy that must be settled immediately to avoid further delay.\n\n**Action Required:**\nPlease verify your payment details and complete the payment within the next 48 hours to avoid cancellation of the shipment. Failure to do so will result in the package being returned to the sender.\n\nTo confirm the fee and make payment, click on the link below:\n<URL>\n\nIf you believe this is an error, reply to this email with your order number and a copy of the original invoice. Our team will investigate and resolve the issue.\n\nThank you for your prompt attention.\n\nSincerely,\n\nFedEx Customer Support\n\n---\nThis message was sent on behalf of FedEx. If you wish to opt‑out of future notifications, please visit <URL> or contact us at +91-9876543210.\n"
+    }
+}

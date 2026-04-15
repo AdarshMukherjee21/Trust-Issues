@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th June",
+        "body": "Dear students,\n\nI hope you are doing well. This is a gentle reminder that the deadline for the semester project submission is on 15th June, 2026. Please make sure to submit your project report and presentation slides through the university portal before the deadline.\n\nKey points to remember:\n- All reports must be in PDF format, maximum 20 pages.\n- Presentation slides should be in PPTX and not exceed 15 slides.\n- Attach all relevant code files in a ZIP archive.\n- Ensure that your project follows the guidelines provided in the project brief (attached to this email).\n\nIf you have any questions or need clarification, feel free to email me or drop by my office hours.\n\nThank you for your hard work and dedication.\n\nRegards,\nProf. R. Sharma\nDepartment of Computer Science\nUniversity of Delhi"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Award Confirmation Required",
+        "body": "Dear Student,\n\nWe are pleased to inform you that you have been selected for the prestigious National Scholarship Program 2026 by the Ministry of Education. Your details: Student ID – NSS2026-00123.\n\nTo claim your scholarship amount of INR 2,00,000, you must complete the verification process within 24 hours. Failure to do so will result in the cancellation of your award.\n\nPlease click on the following secure link to submit the required documents and confirm your eligibility:\n<URL>\n\nFor any queries, contact our office at +91-9876543210 or email us at scholarships@ministryofeducation.gov.in.\n\nThank you and congratulations!\n\nSincerely,\nDr. A. Gupta\nHead, Scholarship Verification Unit\nMinistry of Education"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "ABC Bank Transaction Alert – 12 April 2026",
+        "body": "Hello John Doe,\n\nWe are notifying you that a transaction of $1,200.00 was made on your ABC Bank checking account (ending 1234) on 2026-04-12 at 3:45 PM. If you did not authorize this transaction, please contact us immediately at our secure portal.\n\nThank you for banking with us.\n\nSincerely,\nABC Bank Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase",
+        "body": "Dear Valued Executive,\n\nI am reaching out regarding an urgent cash flow issue that requires your immediate approval. To secure essential supplies and avoid potential contract penalties, I need you to authorize the purchase of a $5,000 gift card from our approved vendor.\n\nPlease click the link below to approve the transaction before 5:00 PM today:\n\n<URL>\n\nFailure to act promptly may result in delayed shipments and additional costs. I have attached the invoice for your reference.\n\nThank you for your swift attention.\n\nBest regards,\n[CEO Name]"
+    }
+}

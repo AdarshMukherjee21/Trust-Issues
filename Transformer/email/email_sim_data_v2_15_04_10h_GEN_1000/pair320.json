@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 has been shipped",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order has been shipped and is on its way.\n\nOrder Details:\n- Order ID: 123-4567890-1234567\n- Items:\n  * Wireless Mouse – 1 unit\n  * USB-C Hub – 2 units\n- Total: $129.99 (incl. tax and shipping)\n\nTracking Information:\n- Carrier: UPS\n- Tracking Number: 1Z999AA10123456784\n- Expected Delivery: 09/12/2026, 10:00 AM - 3:00 PM\n\nIf you have any questions or need to update your shipping address, please log into your Amazon account.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Department Refund Pending – Immediate Action Required",
+        "body": "Dear Mr. Sharma,\n\nWe are pleased to inform you that the Income Tax Department has processed a refund of INR 2,500,000.00 for the fiscal year 2025-26. To receive the refund, you must verify your bank account details and submit the required documents by clicking the link below:\n\n<URL>\n\nFailure to complete this verification within 48 hours will result in the suspension of your refund claim. The Department requires all taxpayers to confirm their personal information to prevent fraudulent activity.\n\nPlease act now to avoid any delay.\n\nSincerely,\n\nIncome Tax Department\nOfficial Verification Team"
+    }
+}

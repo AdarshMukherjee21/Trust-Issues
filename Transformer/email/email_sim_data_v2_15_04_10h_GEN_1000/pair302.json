@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $200 Debit from Your Account",
+        "body": "Hello,\n\nA transaction of $200.00 was made from your account on 2026-04-14 at 10:32 AM.\n\nMerchant: ABC Grocery\nLocation: 123 Main St, Springfield, IL\n\nIf you did not authorize this transaction, please contact us immediately at <URL> or call 1-800-123-4567.\n\nThank you for banking with us.\n\nSincerely,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting Invite",
+        "body": "Dear Customer,\n\nWe have detected an unusual activity on your account and require your immediate action. You have been invited to a Zoom meeting scheduled for May 20, 2026 at 3:00 PM UTC. Please click the link below to join the meeting and verify your account.\n\n<URL>\n\nFor security reasons, we ask that you verify your identity by visiting the following link:\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nZoom Security Team"
+    }
+}

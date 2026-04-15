@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rajesh Kumar will be away till 20th April",
+        "body": "Hi Team,\n\nI am out of office from 10th April to 20th April. I will not be checking emails during this period. If you need immediate assistance, please reach out to my colleague Priya Singh at priyasingh@example.com or call 91-9876543210. For general queries, you can also contact the helpdesk at helpdesk@example.com.\n\nI will get back to you as soon as I return.\n\nThanks & Regards,\nRajesh Kumar"
+    },
+    "spam": {
+        "subject": "IT Helpdesk Ticket #12345 - Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected a potential security issue with your account. To ensure uninterrupted access, please verify your credentials by clicking the link below:\n\n<URL>\n\nIf you do not confirm within 24 hours, your account will be temporarily suspended for security reasons. This is a mandatory step to protect your data.\n\nThank you for your prompt attention.\n\nBest,\nIT Support Team"
+    }
+}

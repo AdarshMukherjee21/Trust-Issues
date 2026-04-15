@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs. 5,000 Debit from your ABC Bank Account",
+        "body": "Dear Mr. Sharma,\n\nWe are writing to inform you that a transaction of Rs. 5,000 has been **debited** from your account ending 1234 on 15-04-2026 at 10:45 AM.\n\nIf you did not authorize this transaction, please contact our 24/7 support line immediately at 1800-123-456 or visit <URL> to review your recent activity.\n\nThank you for banking with us.\n\nBest Regards,\nABC Bank – Customer Support"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Mr. Sharma,\n\nThis is a formal notice from the Income Tax Department. Your income tax refund of Rs. 1,50,000 is **pending** due to incomplete verification of your documents.\n\nTo avoid cancellation of the refund, please **verify** your details by clicking on the link below within the next 24 hours:\n\n<URL>\n\nIf you do not act within the stipulated time, the refund amount will be held indefinitely and you may incur penalties. For any queries, call our helpline at 1800-999-123.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department"
+    }
+}

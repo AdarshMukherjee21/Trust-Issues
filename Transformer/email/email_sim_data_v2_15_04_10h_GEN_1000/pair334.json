@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy – Effective Immediately",
+        "body": "Dear Team,\n\nWe are pleased to announce that the Company Leave Policy has been updated to better support work‑life balance and compliance with local labor regulations. The key changes are:\n\n• **Annual Leave** – All full‑time employees now receive 25 days of paid leave per year.\n• **Sick Leave** – A maximum of 12 paid sick days per calendar year.\n• **Maternity/Paternity Leave** – 12 weeks of paid leave for new parents.\n• **Remote Work** – Up to 3 remote days per month are now officially sanctioned.\n\nThese changes take effect on **October 1, 2026**. Please review the full policy on the intranet and update your personal leave records accordingly.\n\nIf you have any questions or need clarification, feel free to contact the HR Help Desk.\n\nThank you for your continued dedication.\n\nBest regards,\n\nAlexandra Lee\nDirector of Human Resources\n"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear [Employee],\n\nThis is an automated notification from the IT Security Team. Your Microsoft 365 password is scheduled to expire on **October 15, 2026**. To avoid any disruption to your access, you must reset your password within the next 5 days.\n\nPlease click the link below to reset your password:\n<URL>\n\nIf you do not reset your password in time, your account will be locked and you will lose access to all Microsoft 365 services, including email, OneDrive, and Teams. This action is mandatory and part of our ongoing security compliance.\n\nFor assistance, contact the IT Support Center at 555‑123‑4567.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIT Security Team\n"
+    }
+}

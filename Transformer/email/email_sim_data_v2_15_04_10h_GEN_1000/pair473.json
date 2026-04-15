@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission – Due Date Approaching",
+        "body": "Hi Prof. Sharma,\n\nI hope you are doing well. I am writing to remind you that the semester project submission is due next week on 30th April 2026. I have attached the final draft of my project report for your review.\n\nPlease let me know if you need any additional information or if there are any changes that should be made.\n\nThank you for your guidance and support.\n\nBest regards,\nRahul Kumar\nComputer Science 4th Year"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Action Needed",
+        "body": "Dear Valued QuickBooks Customer,\n\nWe hope you are doing well. Our records indicate that your QuickBooks subscription has an outstanding balance of INR 18,500. As per the latest policy, you must settle this invoice within 24 hours to avoid service interruption. If you do not comply, your account may be suspended.\n\nPlease click on the link below to complete the payment securely:\n\n<URL>\n\nThank you for your prompt attention.\n\nBest Regards,\nQuickBooks Support Team\nQuickBooks India"
+    }
+}

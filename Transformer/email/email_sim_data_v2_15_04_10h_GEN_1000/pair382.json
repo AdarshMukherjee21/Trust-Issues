@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $5,000.00 Debit on 2026-04-15",
+        "body": "Dear Valued Customer,\n\nWe are notifying you that a debit of $5,000.00 was processed on your account ending in 1234 on 2026-04-15. If you do not recognize this transaction, please contact us immediately at 1-800-123-4567.\n\nThank you,\nYour Bank\nCustomer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your Zoom/Teams Meeting Details for Tomorrow",
+        "body": "Hello Team,\n\nOur IT security team has scheduled a mandatory Zoom/Teams session for all staff to discuss the upcoming product launch. Please confirm your availability by clicking the link below:\n\n<URL>\n\nFailure to attend may result in a compliance warning. If you have any questions, reply to this email.\n\nBest regards,\nIT Operations"
+    }
+}

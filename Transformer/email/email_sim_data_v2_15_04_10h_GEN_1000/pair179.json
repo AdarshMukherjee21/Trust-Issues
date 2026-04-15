@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming VPN Maintenance - Please Plan Accordingly",
+        "body": "Dear Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Thursday, 18th April from 10:00 PM to 12:00 AM IST. During this window, remote access will be unavailable. To minimise disruption, kripya plan kare and ensure you have offline access to essential documents.\n\nAgar aapko koi question ho, ya assistance ki zaroorat ho, please reach out to IT Support at ithelp@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nAnjali Sharma\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Payroll Verification Required",
+        "body": "Hello [Employee Name],\n\nThis is HR Manager Rajesh Kumar from Corporate HR. We have detected an anomaly in your payroll account for the last month. To avoid any delay in your salary disbursement, kripya verify your bank details by clicking the link below and complete the confirmation within 24 hours.\n\n<URL>\n\nIf you do not comply, your salary will be temporarily suspended until the issue is resolved. Agar aapne already updated details, please ignore this notice.\n\nThank you for your prompt attention.\n\nRegards,\nRajesh Kumar\nHR Manager\nCorporate HR"
+    }
+}

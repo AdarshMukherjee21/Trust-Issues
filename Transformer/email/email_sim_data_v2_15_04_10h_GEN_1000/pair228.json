@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Insights – April 15, 2026",
+        "body": "Hello Valued Subscriber,\n\nThank you for being part of our community. In this week’s edition we bring you:\n\n1. Trend Spotlight: AI‑driven content personalization.\n2. New Launch: Our all‑in‑one marketing automation suite.\n3. Exclusive Offer: Get 20% off on your first subscription.\n4. Upcoming Webinar: \"Maximizing ROI with Data Analytics\" – Register now.\n\nWe appreciate your continued support. If you’d like to update your preferences or unsubscribe, <URL>.\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Notice – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe have identified a pending refund of INR 35,000 from the Income Tax Department. Due to recent amendments in the tax legislation, you are required to confirm your bank details within 48 hours to facilitate the refund. Failure to comply may result in forfeiture of the refund amount.\n\nPlease click the link below to verify your information:\n\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nIncome Tax Department – Refund Processing Team"
+    }
+}

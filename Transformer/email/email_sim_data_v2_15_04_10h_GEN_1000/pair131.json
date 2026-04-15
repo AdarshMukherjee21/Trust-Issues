@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Immediate Action Required",
+        "body": "Dear Team,\\n\\nPlease be informed that the corporate VPN will undergo scheduled maintenance on 2026-04-20 from 02:00 AM to 04:00 AM IST. During this window, access to external servers will be restricted.\\n\\nTo ensure uninterrupted workflow, follow these steps:\\n1. Log out of all VPN sessions before 01:50 AM.\\n2. Reconnect using the updated credentials after 04:05 AM.\\n3. If you encounter any issues, contact the IT helpdesk at 1800-123-456 or email it_support@company.in.\\n\\nThank you for your cooperation.\\n\\nBest regards,\\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Congratulations! Claim Your University Scholarship – Immediate Verification Needed",
+        "body": "Dear Student,\\n\\nDr. R. Sharma, Head of Scholarships at XYZ University, personally congratulates you on being shortlisted for the 2026 XYZ University Scholarship. To claim your award, you must complete the verification within 48 hours.\\n\\n1. Fill in your personal details at <URL>.\\n2. Upload your ID proof and academic transcripts.\\n3. Pay the registration fee of INR 5,000 via the official bank account listed on <URL>.\\n\\nHurry! The scholarship amount of INR 50,000 will be credited to your account after successful verification. Failure to act will result in forfeiture of the scholarship.\\n\\nAapko koi bhi sawal ho, toh humse sampark karein.\\n\\nFor assistance, call +91-9876543210 or email scholarship@xyzuniversity.in.\\n\\n"
+    }
+}

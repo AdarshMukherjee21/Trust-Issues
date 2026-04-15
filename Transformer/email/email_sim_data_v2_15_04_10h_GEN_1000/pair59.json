@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved - Review the Merge Request",
+        "body": "Hi Team,\n\nI hope you are doing well. I am writing to inform you that the issue in the latest merge request has been fixed. The Jira ticket #12345 is now closed and the changes are ready for review.\n\nPlease take a moment to look at the PR and, if everything looks good, merge it into the main branch. If you encounter any problems or have suggestions, feel free to comment.\n\nThanks for your cooperation.\n\nRegards,\nAlice"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Pending - Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent FedEx shipment was not delivered due to an outstanding delivery fee. According to our records, the amount of INR 2,500 remains unpaid.\n\nTo avoid cancellation of your shipment and possible account suspension, please verify your account details and pay the fee within the next 24 hours. Failure to do so will result in the package being returned to the sender.\n\nClick <URL> now to confirm your payment and secure your delivery.\n\nThank you for your prompt attention to this matter.\n\nBest Regards,\nFedEx Customer Support"
+    }
+}

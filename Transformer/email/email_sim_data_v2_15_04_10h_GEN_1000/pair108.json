@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #12345678 has Shipped – Order Confirmation – Amazon",
+        "body": "Hello [Customer Name],\n\nThank you for shopping with Amazon! Your order #12345678 has been shipped and is on its way.\n\nOrder Details:\n• Item: 4K Ultra HD Smart TV\n• Quantity: 1\n• Price: $999.99\n• Shipping Method: Standard Delivery\n\nEstimated Delivery: 3–5 business days.\n\nYou can track your shipment using the link below:\n<URL>\n\nIf you have any questions, feel free to reply to this email or visit your account.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nThis is a security alert from Microsoft. Your Microsoft 365 account password is set to expire in 48 hours. Failure to update it may result in temporary access restrictions.\n\nTo confirm your account and change your password, please click the link below:\n<URL>\n\nIf you do not take action, your account will be locked and you may lose access to emails, documents, and other services.\n\nIf you believe this email is a mistake, please contact your IT administrator immediately.\n\nThank you for your prompt attention.\n\nSincerely,\nMicrosoft Support Team"
+    }
+}

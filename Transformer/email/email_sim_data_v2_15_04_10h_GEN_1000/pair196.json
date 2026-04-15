@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Merge Completed on Branch 'feature/optimize-logging'",
+        "body": "Hi Team,\n\nI wanted to let you know that the merge for ticket #12345 has been completed successfully on the 'feature/optimize-logging' branch. The build is passing tests and the deployment pipeline is ready for review.\n\nKey points:\n- All unit tests passed (45/45).\n- Integration tests ran on staging with no failures.\n- The code review was approved by @alice and @bob.\n\nPlease pull the latest changes and verify the logs in your local environment. If you encounter any issues, let me know.\n\nThanks,\nJohn Doe\nLead Engineer"
+    },
+    "spam": {
+        "subject": "Congratulations! Your Scholarship Application Has Been Approved – Immediate Action Required",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that your application for the Global Scholars Program 2026 has been approved! You have been selected as a recipient of a $10,000 scholarship to cover tuition and living expenses.\n\nTo finalize the award, please provide the following documents:\n- A copy of your passport\n- Your bank account details for direct deposit\n- A signed statement confirming your acceptance\n\nClick the secure link below to submit your information:\n<URL>\n\nPlease complete the submission within 48 hours to secure your scholarship. Failure to comply may result in forfeiture of the award.\n\nSincerely,\nDr. Emily Carter\nDirector, Scholarship Office\nUniversity of Example"
+    }
+}

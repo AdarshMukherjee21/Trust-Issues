@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective from 1 June 2026",
+        "body": "Dear Team,\n\nWe are pleased to announce that the company leave policy has been updated effective from 1 June 2026. The main changes include:\n\n1. Annual leave entitlement increased to 20 days from 15 days.\n2. Optional 5-day personal leave per year.\n3. Introduction of a flexible work-from-home (WFH) leave.\n\nPlease review the detailed policy attached in the internal portal. For any questions, feel free to reach out to HR.\n\nThank you for your continued dedication.\n\nBest regards,\nHR Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Verification",
+        "body": "Dear [Employee Name],\n\nI hope you are doing well. I am writing from the Corporate Finance team regarding an urgent matter. During a recent audit, we identified a discrepancy in the gift card transactions credited to the company account.\n\nTo resolve this, I need you to confirm the details of the gift cards issued in the last month. Please send me the following information at your earliest convenience:\n\n- Gift card number\n- Amount credited\n- Recipient name\n\nYou can submit the details by replying to this email or by sending a screenshot to <URL>. Please treat this request as confidential and do not forward it.\n\nThank you for your swift cooperation.\n\nBest regards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

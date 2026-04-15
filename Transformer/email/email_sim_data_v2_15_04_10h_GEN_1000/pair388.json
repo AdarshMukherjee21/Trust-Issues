@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Immediate Attention Required",
+        "body": "Dear Customer,\n\nWe are writing to inform you of a recent transaction on your account at Acme Bank:\n\nTransaction ID: 987654321\nDate & Time: 2026-04-15 14:32:07 UTC\nAmount: $1,234.56\nMerchant: Acme Electronics\n\nIf you recognize this transaction, no further action is required.\n\nIf you do NOT recognize this transaction, please click the secure link below to verify or dispute the charge:\n\n<URL>\n\nFor your safety, do not reply to this email. If you need assistance, contact our 24‑hour support line at 1‑800‑123‑4567.\n\nThank you for banking with Acme Bank.\n\nSincerely,\nAcme Bank Security Team"
+    },
+    "spam": {
+        "subject": "Action Required: IT Helpdesk Ticket #123456 Pending",
+        "body": "Hi Team,\n\nThis is an automated notification from the IT Helpdesk. Your support ticket #123456 is currently in the \"Awaiting User Input\" stage. To progress the ticket, please verify your account details by clicking the link below:\n\n<URL>\n\nPlease confirm your username and password by the end of this week or the ticket will be escalated and potentially closed. Failure to comply may result in service disruption.\n\nIf you have already completed this step, please ignore this message. Otherwise, act immediately to avoid any inconvenience.\n\nThank you for your cooperation.\n\nRegards,\nIT Helpdesk Automation"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Re: Out of Office - Trip to Goa",
+        "body": "Hi Team,\n\nJust a quick note to let you know that I will be out of the office from 15th to 20th August, returning on 21st. During this period, I will have limited access to emails.\n\nIf you need immediate assistance, please contact Priya Sharma (psharma@company.com) or the support desk.\n\nThanks for your understanding.\n\nBest,\nArjun\n\nP.S. Will be checking my mail only on the 18th if needed.\n"
+    },
+    "spam": {
+        "subject": "⚠️ Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThis is an important notification from the Human Resources Department regarding your payroll for the month of August. Due to a system upgrade, all employees must verify their bank account details by 5 PM today to ensure timely salary disbursement.\n\nPlease click on the link below to confirm your information:\n<URL>\n\nFailure to comply will result in a delay of your salary by up to 7 days, and may trigger a review of your employment records. This action is mandatory and has been approved by the Chief HR Officer.\n\nFor security, do not share this email with anyone. If you have any concerns, contact the HR Helpdesk immediately.\n\nRegards,\n\nRamesh Patel\nHead of HR\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account: Transaction Alert - INR 5,000 Debited",
+        "body": "Dear Customer,\n\nWe hope you are doing well. This is a notification from your bank regarding a recent transaction on your account.\n\nDate: 15-Apr-2026\nAmount: INR 5,000\nMerchant: XYZ Retail\nReference No.: 9876543210\n\nIf you recognize this transaction, no further action is required. If you do not recognize this debit or suspect any unauthorized activity, please contact our customer support immediately at 1800-123-456 or visit your nearest branch.\n\nThank you for banking with us.\n\nBest Regards,\nCustomer Support Team\n\n---\nThis message was sent automatically. Please do not reply to this email."
+    },
+    "spam": {
+        "subject": "Immediate Action Required: HR Payroll Update",
+        "body": "Dear Employee,\n\nAapke payroll system me ek urgent update aaya hai. Due to recent changes in our payroll processing platform, we need you to verify and update your bank account details as soon as possible.\n\nPlease click the link below to complete the verification process within the next 24 hours:\n<URL>\n\nYadi aap 24 ghante ke andar update nahi karte, to aapke salary payment delay ho sakti hai. Isliye, please take immediate action.\n\nThank you for your cooperation.\n\nBest Regards,\nHR Payroll Team\n\n---\nPlease do not reply to this email. For any queries, contact hr@company.com."
+    }
+}

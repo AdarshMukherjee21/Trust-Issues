@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #1234",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Your flight details are as follows:\n\n- Flight Number: SH1234\n- Departure: New York (JFK) – 08:45 AM, 15 Oct 2026\n- Arrival: London Heathrow (LHR) – 06:15 PM, 15 Oct 2026\n- Seat: 12A\n- Baggage: 1 checked bag (23kg) + 1 carry‑on\n\nPlease review the itinerary attached and let us know if you have any changes. For any assistance, reply to this email or call our customer support at 1‑800‑SKYHIGH.\n\nSafe travels!\n\nBest regards,\nSkyHigh Airlines Team\n\n© 2026 SkyHigh Airlines. All rights reserved."
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Action Required",
+        "body": "Dear Mr. Smith"
+    }
+}

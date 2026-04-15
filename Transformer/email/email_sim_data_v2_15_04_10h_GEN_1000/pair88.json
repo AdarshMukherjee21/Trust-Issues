@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Debit from Your Account",
+        "body": "Dear Valued Customer,\n\nThis is an automated notification from your bank regarding a recent debit transaction on your account.\n\n- Date: 2026-04-12\n- Amount: $1,234.56\n- Merchant: XYZ Retailers\n\nIf you recognize this transaction, no further action is required. If you do not recognize this activity, please review your account and contact our support team immediately by clicking the secure link below:\n\n<URL>\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Scholarship Award Requires Immediate Action",
+        "body": "Dear Student,\n\nCongratulations! The University Scholarship Committee has awarded you a scholarship of $10,000 for the upcoming academic year. To finalize the award, we require your confirmation and a nominal processing fee of $50.\n\nPlease click the link below to securely submit your banking details and complete the transaction:\n\n<URL>\n\nYou must complete this process within 48 hours to secure your scholarship. Failure to do so may result in the award being revoked.\n\nAct now to avoid losing this opportunity.\n\nBest regards,\nScholarship Office\nUniversity of Excellence"
+    }
+}

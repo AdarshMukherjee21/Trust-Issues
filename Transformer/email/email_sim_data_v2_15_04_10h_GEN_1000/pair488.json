@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #12345",
+        "body": "Dear Alex,\n\nThank you for booking with SkyHigh Airlines. Please find below the details of your upcoming trip:\n\n- **Flight Number**: SH12345\n- **Departure**: 12:30 PM, 25 April 2026 from JFK International Airport (New York)\n- **Arrival**: 3:45 PM, 25 April 2026 at LAX (Los Angeles)\n- **Date**: 25 April 2026\n- **Class**: Economy\n- **Seat**: 12A (Aisle)\n- **Baggage Allowance**: 1 checked bag (23 kg) + 1 personal item\n- **Check‑in**: 24:00 UTC 25 April 2026 – Online check‑in opens 24 hours before departure.\n- **Gate**: 22B (check the airport display when you arrive at the terminal)\n\n**Important**: Please arrive at the airport at least 2 hours before departure to allow time for security and boarding.\n\nIf you have any questions or need to make changes to your itinerary, feel free to contact our reservations team at reservations@skyhigh.com.\n\nWe look forward to serving you.\n\nBest regards,\n\nSkyHigh Airlines\nCustomer Service Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Gift Card Request",
+        "body": "Dear Team,\n\nI am writing to you with a matter that requires your immediate attention. As part of our annual employee incentive program, I have identified a potential opportunity that could benefit the company and our employees if acted upon swiftly.\n\nI will need a corporate gift card worth $2,500 to be issued to our employee reward account by the end of the day. This card will be used to purchase essential supplies for the upcoming project. The vendor is prepared to process the transaction within 30 minutes upon receipt of the card.\n\nPlease confirm that the card has been issued and forward the confirmation email to me as soon as possible. If I do not receive the confirmation by 5:00 PM today, we risk losing the opportunity and incurring additional costs.\n\nThank you for your prompt cooperation.\n\nKind regards,\n\nJordan Smith\nChief Executive Officer\n <URL>"
+    }
+}

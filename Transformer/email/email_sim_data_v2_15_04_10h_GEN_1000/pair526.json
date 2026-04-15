@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Your account was debited",
+        "body": "Dear [Name],\n\nWe would like to inform you that a transaction has been processed on your account ending in 1234. The details are as follows:\n\n- Date: 15 April 2026\n- Time: 10:45 AM\n- Merchant: ABC Retail\n- Amount: $250.00\n\nIf you recognize this transaction, no further action is required. If you did not authorize this transaction, please contact our customer service immediately.\n\nThank you for banking with us.\n\nRegards,\n\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Verification Needed",
+        "body": "Dear [Name],\n\nThe Income Tax Department has processed a refund of INR 1,50,000 to your account. However, due to recent regulatory changes, we need to verify your bank account details to ensure the refund is credited correctly. Please log in to the secure portal and confirm your details within 48 hours to avoid a delay in receiving your refund. Failure to comply may result in your refund being withheld or redirected.\n\nTo verify, click here: <URL>\n\nThank you for your cooperation.\n\nSincerely,\n\nIncome Tax Department, India"
+    }
+}

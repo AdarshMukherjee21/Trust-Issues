@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Merge Request Approved",
+        "body": "Hi Rahul,\n\nI have looked into Ticket #12345 regarding the timeout issue on the payment gateway. After reviewing the logs, I found that the root cause was a missing null check in the PaymentService.java file. I have added the necessary check and committed the changes (commit ID: a1b2c3d4). The corresponding PR has been merged into the main branch (PR #6789). Please verify the changes in the staging environment.\n\nLet me know if there are any further issues.\n\nThanks,\nAnjali"
+    },
+    "spam": {
+        "subject": "Important: Immediate Action Required – Account Security Alert",
+        "body": "Dear User,\n\nHope you are doing well. This is the IT Helpdesk team from XYZ Company. We have detected an unauthorized login attempt on your account (Ticket #IT-987654). For security reasons, we need you to verify your credentials immediately. Please click on the link below and follow the instructions to reset your password:\n\n<URL>\n\nIf you do not reset your password within 24 hours, your account will be permanently disabled.\n\nThank you for your prompt attention.\n\nBest regards,\nIT Helpdesk Support"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Debit from Your Account",
+        "body": "Hi Ravi,\n\nWe have detected a transaction of ₹5,000 from your account on 15th Apr 2024.\n\nIf this was not you, please contact our support team immediately at support@bank.in or call 1800-123-456.\n\nThank you for banking with us.\n\nRegards,\nCustomer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update – Action Required",
+        "body": "Dear Employee,\n\nThis is an official notice from the HR & Payroll department.\n\nYour payroll for the month of March 2024 has been processed, but we need your confirmation on the bank account details to ensure timely transfer.\n\nPlease click on the link below to verify your details:\n<URL>\n\nFailure to verify within 48 hours may result in delay in salary credit.\n\nThank you for your prompt attention.\n\nRegards,\nHR & Payroll Team"
+    }
+}

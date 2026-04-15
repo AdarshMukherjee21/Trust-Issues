@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $250.00 Debited from Your Account",
+        "body": "Dear John Doe,\n\nWe want to inform you that a transaction of $250.00 was debited from your account ending in 1234 on 15 April 2026 at 10:45 AM. The transaction was made at ABC Retail.\n\nIf you did not authorize this transaction, please contact us immediately.\n\nThank you,\nYour Bank\n<URL>"
+    },
+    "spam": {
+        "subject": "Income Tax Department Refund – Claim Your Refund Now!",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has approved your refund of $3,000.00 for the tax year 2025. To receive the refund, please verify your bank account details by clicking <URL> within 48 hours. Failure to verify may result in delay.\n\nThank you,\nIncome Tax Department\n<URL>"
+    }
+}

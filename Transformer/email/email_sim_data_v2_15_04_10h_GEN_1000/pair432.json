@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 1",
+        "body": "Hello Team,\n\nWe are pleased to announce updates to our Company Leave Policy, effective July 1, 2026. The key changes include:\n\n- Increase in paid vacation days from 15 to 20 days per calendar year.\n- Introduction of a flexible leave option for employees with 2+ years of service.\n- Updated procedure for applying for emergency leave.\n- Clarification on carry‑over limits for unused leave.\n\nFor a detailed summary, please review the attached policy document. For any questions, contact HR at hr@company.com.\n\nThank you for your continued dedication.\n\nBest,\nHuman Resources"
+    },
+    "spam": {
+        "subject": "Urgent: Missed Delivery Fee Notice – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe have detected a missed delivery for your recent FedEx shipment (Tracking #123456789). According to our policy, a missed delivery incurs a fee of $29.99. Please confirm your shipping address or pay the fee within 48 hours to avoid further action. Failure to do so will result in your account being suspended.\n\nTo resolve this issue, click <URL> and follow the instructions. If you have already paid, please disregard this email.\n\nThank you for your prompt attention.\n\nBest regards,\nFedEx Customer Support"
+    }
+}

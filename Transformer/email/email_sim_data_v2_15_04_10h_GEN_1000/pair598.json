@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 12:00 – 02:00 UTC",
+        "body": "Dear Team,\n\nPlease be advised that our corporate VPN will undergo scheduled maintenance from 12:00 UTC on Friday to 02:00 UTC Saturday. During this window, access to the VPN will be unavailable.\n\nIf you need to connect to our internal resources, please use the alternative secure portal at <URL>.\n\nWe apologize for any inconvenience and appreciate your cooperation.\n\nThank you,\nIT Support"
+    },
+    "spam": {
+        "subject": "URGENT: Zoom Meeting Requires Your Immediate Action",
+        "body": "Hello,\n\nYou have been invited to a critical Zoom meeting titled “Quarterly Review – Confidential”. Please join immediately to review the agenda and confirm your attendance. Failure to join may result in missing important updates.\n\nClick the link below to join the meeting:\n\n<URL>\n\nMeeting ID: 123‑456‑7890\nPassword: Secure123\n\nIf you did not request this meeting, please ignore this message.\n\nThank you,\nZoom Support"
+    }
+}

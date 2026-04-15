@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Company Leave Policy Effective May 1st",
+        "body": "Dear Team,\n\nI hope you are doing well. I am writing to inform you that the Company Leave Policy has been updated and will take effect from May 1, 2024. The key changes are:\n\n1. **Annual Leave** – Increase from 15 to 20 working days.\n2. **Sick Leave** – Unlimited sick leave for up to 30 days with a medical certificate.\n3. **Remote Work** – Option to work from home for up to 3 days per month, subject to manager approval.\n4. **Leave Accumulation** – Unused leave can now be carried over for a maximum of 5 days per year.\n\nPlease review the full policy attached to this email and acknowledge receipt by replying to this message. If you have any questions, feel free to reach out to HR.\n\nThank you for your attention.\n\nBest regards,\n\nRavi Patil\nHead of HR"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Due – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the benefits of QuickBooks. This is a reminder that an invoice for your current subscription is due for payment. The invoice amount is ₹15,000 and is due within the next 48 hours. Failure to pay on time may result in suspension of your QuickBooks services.\n\nTo view and pay the invoice, please click the link below:\n<URL>\n\nIf you have already made the payment, please disregard this notice. Otherwise, we urge you to complete the transaction immediately to avoid any disruption.\n\nThank you for your prompt attention.\n\nSincerely,\n\nQuickBooks Support Team"
+    }
+}

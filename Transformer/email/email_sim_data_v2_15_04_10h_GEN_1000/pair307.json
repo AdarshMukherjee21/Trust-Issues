@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS Subscription Renewal Notice – 15 May 2026",
+        "body": "Hi Rahul,\n\nHope you are doing well. This is a friendly reminder that your subscription to XYZ SaaS will automatically renew on 15th May 2026. The renewal amount will be ₹12,500.00.\n\nIf you wish to review or modify your plan, simply click the link below:\n\n<URL>\n\nThank you for choosing XYZ SaaS. If you have any questions, feel free to reply to this email or contact our support team.\n\nBest regards,\nXYZ SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: Join the Zoom Meeting for Project X – 3:00 PM IST",
+        "body": "Dear Team,\n\nYou have been invited to a critical Zoom/Teams meeting to discuss Project X. The meeting is scheduled for 3:00 PM IST today, and your presence is mandatory.\n\nPlease click on the link below to join the meeting on time:\n\n<URL>\n\nKindly confirm your attendance by replying to this email before 2:45 PM IST. Delay in joining may cause project delays.\n\nThanks & Regards,\nProject Management Office"
+    }
+}

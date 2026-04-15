@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Reminder – Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the full benefits of our SaaS platform. This is a friendly reminder that your current subscription plan is set to renew on July 15, 2026.\n\nPlan: Premium Enterprise\nMonthly Fee: $1,200\nRenewal Date: July 15, 2026\n\nIf you wish to continue with the same plan, simply click the link below to confirm your renewal and keep uninterrupted service:\n<URL>\n\nShould you want to upgrade or downgrade your plan, or if you have any questions regarding billing, please let us know by replying to this email or contacting our support team at support@example.com.\n\nThank you for choosing our services.\n\nBest regards,\nThe Product Team\nExample SaaS Inc."
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Hello,\n\nThis is a notification from the Global Crypto Exchange Security Team. Our records indicate that your wallet (ID: 0xABCD1234) has been temporarily suspended due to recent suspicious activity that violates our compliance policies.\n\nTo restore access, you must complete a full identity verification within the next 24 hours. Failure to comply will result in permanent suspension of your wallet and all associated funds.\n\nPlease verify your identity by following the secure verification process here:\n<URL>\n\nIf you believe this is a mistake, contact our support hotline immediately at 1-800-123-4567.\n\nThank you for your prompt attention.\n\nSincerely,\nCompliance Team\nGlobal Crypto Exchange"
+    }
+}

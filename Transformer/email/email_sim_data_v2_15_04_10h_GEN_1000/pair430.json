@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight A123",
+        "body": "Dear Ms. Jane Smith,\n\nThank you for booking with SkyTravel Airlines. We are pleased to confirm your flight details below:\n\n• Flight Number: A123\n• Date: 15 June 2026\n• Departure: 08:45 AM from JFK International Airport (New York)\n• Arrival: 11:30 AM at LAX International Airport (Los Angeles)\n• Gate: 27\n• Seat: 12B (Aisle)\n• Check-in: 2 hours before departure, online check-in opens 24 hours prior.\n\nPlease bring a valid government‑issued photo ID and your boarding pass. If you need to make any changes or request special assistance, contact us at <URL> or call +1‑800‑SKYTRAVEL.\n\nWe look forward to serving you.\n\nSincerely,\nSkyTravel Customer Service"
+    },
+    "spam": {
+        "subject": "Important: Your Income Tax Refund Pending Verification",
+        "body": "Dear Mr. John Doe,\n\nThe Internal Revenue Service (IRS) has processed your 2025 income tax refund. Your refund amount of $4,532.75 is pending final approval. To release the funds within the next 48 hours, please verify your personal information and acknowledge receipt of this email.\n\nClick <URL> to securely submit your Social Security Number, date of birth, and bank account details. Failure to provide the required information may result in a delay of your refund or a potential audit.\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\nIRS Tax Compliance Team\n\nIf you did not receive this email or suspect it is not from the IRS, please contact the IRS immediately at <URL> or call 1‑800‑123‑4567."
+    }
+}

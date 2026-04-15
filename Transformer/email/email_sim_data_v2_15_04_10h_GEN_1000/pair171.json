@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123456 has been shipped",
+        "body": "Dear Customer,\n\nThank you for shopping with Amazon. Your order #123456 has been placed on 15 April 2024 at 10:23 AM. Shipping address: 123, Main Street, Mumbai, India.\n\nItems:\n- 1x Bluetooth Speaker\n- 2x USB-C Charger\n\nYour order is now on the way. You will receive a delivery confirmation once the package is out for delivery.\n\nIf you have any questions, feel free to contact our support.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet has been temporarily suspended due to suspicious activity. To restore access, please verify your identity by clicking <URL> and following the on-screen instructions.\n\nKripya 24 gh"
+    }
+}

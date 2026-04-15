@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Semester Project Submission Reminder – Due Date Approaching",
+        "body": "Hello Everyone,\n\nThis is a reminder that the semester project for the Advanced Algorithms course is due on Friday, 12 June 2026. Please submit your final report via the course portal by 5:00 PM. Late submissions will incur a 10% penalty.\n\nIf you have any questions, feel free to reach out.\n\nBest regards,\nDr. Emily Carter"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that your crypto wallet (ID: 12345678) has been suspended due to suspicious activity. To restore access, please verify your account within 24 hours. Failure to comply may result in permanent lockout and potential loss of funds.\n\nClick <URL> to verify your account now.\n\nThank you,\nSecurity Team"
+    }
+}

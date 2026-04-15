@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order has Shipped - Order #123-4567890-1234567",
+        "body": "Hello,\n\nThank you for shopping with Amazon.com.\n\nYour order #123-4567890-1234567 has shipped via Amazon Logistics.\n\nEstimated delivery: 5-7 business days.\n\nItems:\n- 1x Echo Dot (4th Gen) – 12000 INR\n- 1x Kindle Paperwhite – 4800 INR\n\nTracking number: <URL>\n\nIf you have any questions, reply to this email or visit your order details page.\n\nBest regards,\nAmazon Customer Service Team"
+    },
+    "spam": {
+        "subject": "Urgent: Salary Payment Pending - Immediate Action Required",
+        "body": "Dear Employee,\n\nThis is a formal notice from the HR Department.\n\nYour salary for the month of March is pending due to an incomplete verification process. Please submit the required documents at the earliest to avoid a delay in your payment.\n\nSteps to complete:\n1. Verify your bank account details: <URL>\n2. Upload the latest bank statement: <URL>\n\nPlease note: Failure to comply within 48 hours may result in a deduction from your next payroll.\n\nHR Manager - [Name]\nHR Department, XYZ Pvt Ltd.\n\nThank you for your immediate attention.\n\nBest regards,\nHR Team"
+    }
+}

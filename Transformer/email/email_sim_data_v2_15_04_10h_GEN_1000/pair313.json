@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your XYZ SaaS subscription renewal - action required",
+        "body": "Dear John,\n\nWe hope you are enjoying the benefits of XYZ SaaS. This is a friendly reminder that your subscription is set to renew on 15th May 2026. Your current plan is the Premium tier at INR 9999 per month.\n\nTo continue uninterrupted service, simply click the link below to review and confirm your renewal details.\n\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our support team.\n\nThank you for choosing XYZ SaaS.\n\nBest regards,\nXYZ SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #98765 - Immediate Action Required",
+        "body": "Hello,\n\nThis is an automated notification from the IT Helpdesk. Your ticket #98765 has been flagged for urgent review. The issue reported: \"Unable to access corporate VPN\".\n\nPlease confirm the following details at the earliest:\n1. Your employee ID\n2. The device model you are using\n3. The last error message you received\n\nReply to this email with the requested information or click the link below to update your ticket status.\n\n<URL>\n\nFailure to respond within 24 hours may result in temporary suspension of VPN access. If you believe this is a mistake, please verify your credentials and proceed accordingly.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved – Next Steps",
+        "body": "Hi Team,\n\nI am writing to inform you that the Jira ticket #12345 has been successfully resolved. The related GitHub pull request (PR #6789) has been merged into the main branch.\n\nKey points:\n- The bug causing the validation error on the user profile page has been fixed.\n- All unit tests now pass (total 124 tests).\n- Regression tests run on CI have shown no new failures.\n\nNext steps:\n1. Please review the PR and provide any additional feedback.\n2. If no issues, the ticket can be closed.\n3. Mark the feature as ready for release in the next sprint.\n\nThanks for your cooperation.\n\nRegards,\nShivam Patel\nQA Lead\nABC Pvt Ltd"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update – Please Verify Your Details",
+        "body": "Dear Employee,\n\nThis is an urgent notification from the HR Department of ABC Pvt Ltd. Our payroll system has detected an anomaly in your salary details. To ensure you receive your full salary without delay, you must verify your banking and personal information by clicking the link below:\n\n<URL>\n\nPlease complete the verification within 24 hours. Failure to do so may result in a temporary hold on your salary disbursement.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nHR Manager\nABC Pvt Ltd"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – CI Pipeline Update",
+        "body": "Hi team,\n\nI wanted to let you know that the issue with the CI pipeline for the new feature branch has been fixed. After reviewing the logs, I identified that the wrong environment variables were being used during the deployment step. I updated the .github/workflows/ci.yml file to use the correct secrets and added a retry mechanism for the Docker build step.\n\nThe pipeline now passes all tests and the build artifact is uploaded to the correct registry. You can view the latest run here: <URL>\n\nThanks for your patience.\n\n- DevOps Engineer"
+    },
+    "spam": {
+        "subject": "URGENT: Wallet Suspended – Verify Your Account Now",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your crypto wallet account. As a result, your wallet has been temporarily suspended to protect your assets. To restore access, you must verify your identity immediately.\n\nClick on the link below to verify your account:\n<URL>\n\nIf you do not verify within 24 hours, your wallet will be permanently disabled and you may lose your funds.\n\nThank you,\nSecurity Team"
+    }
+}

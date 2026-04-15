@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 12th June",
+        "body": "Dear Team,\n\nThis is a friendly reminder that the semester project is due on Monday, 12th June at 11:59 pm. Please ensure that your final report, code repository, and presentation slides are submitted to the course portal no later than the deadline.\n\nIf you have any questions or need clarification on the submission format, feel free to reach out to me or the teaching assistants. Let’s finish the semester strong!\n\nBest regards,\n[Professor’s Name]\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #12345 Payment Overdue – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nOur records show that Invoice #12345 issued on 01/10/2024 is still outstanding. QuickBooks requires immediate settlement to avoid interruption of your software services.\n\nPlease review the invoice details below and provide the required payment information:\n\n• Amount Due: $1,245.60\n• Due Date: 05/10/2024\n• Payment Link: <URL>\n\nFailure to comply within 48 hours will result in suspension of your account, and your data may be permanently deleted. This action is necessary to protect your financial interests and maintain system security.\n\nIf you believe this is an error, contact our billing department at billing@quickbooks.com immediately.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team\nCustomer Support"
+    }
+}

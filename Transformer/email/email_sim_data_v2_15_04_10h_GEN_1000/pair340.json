@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal – Action Required",
+        "body": "Hello Valued Customer,\n\nWe hope you’re enjoying your experience with Acme CRM. This is a reminder that your subscription for the Pro Plan will renew on 30th September 2024. Your current plan includes:\n\n- Unlimited contacts\n- Advanced reporting\n- 24/7 support\n\nTo review your renewal details or make changes, please visit:\n\n<URL>\n\nThank you for choosing Acme CRM. We look forward to serving you in the coming year.\n\nBest regards,\nAcme CRM Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #12345 – Immediate Payment Required",
+        "body": "Dear Valued Customer,\n\nQuickBooks Online alerts you that invoice #12345 has not been paid. The total remains outstanding at $1,234.56. QuickBooks automatically applies a late fee of $99.99 if payment is not received within 7 days.\n\nPlease click the secure payment link below to resolve this issue immediately:\n\n<URL>\n\nFailure to pay by 15th September 2024 will result in automatic suspension of your QuickBooks Online services.\n\nThank you for your prompt attention.\n\nSincerely,\nQuickBooks Billing Department"
+    }
+}

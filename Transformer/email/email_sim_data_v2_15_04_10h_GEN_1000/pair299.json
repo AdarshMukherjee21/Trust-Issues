@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved – Next Steps",
+        "body": "Hello Team,\n\nI am pleased to inform you that the issue regarding the authentication failure in the production environment has been fixed. The changes have been merged into the main branch and a new build has been deployed.\n\nNext Steps:\n- Deploy the new build to your staging environment.\n- Run the regression tests.\n- If everything passes, proceed with the production rollout.\n\nPlease let me know if you encounter any further issues.\n\nThanks,\nRahul Sharma\nBackend Engineer"
+    },
+    "spam": {
+        "subject": "Important: Your Income Tax Refund Pending – Take Immediate Action",
+        "body": "Dear Sir/Madam,\n\nWe regret to inform you that your Income Tax Return for the year 2023 has not yet been processed. As per the latest regulations, the pending refund amount of ₹2,50,000 is due to be credited to your bank account. However, due to incomplete details, the refund has been delayed.\n\nTo expedite the process, please verify your account details at <URL> and submit the required documents within the next 48 hours. Failure to do so may result in a penalty of ₹5,000 and disallowance of the refund.\n\nFor any queries, contact the Income Tax Department at 1800-123-456.\n\nBest Regards,\nIncome Tax Department\n\nNote: This is an official communication from the Income Tax Department. Do not ignore this message."
+    }
+}

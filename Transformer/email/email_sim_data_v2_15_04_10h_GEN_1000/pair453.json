@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 9876 to Delhi",
+        "body": "Dear Mr. Sharma,\n\nThank you for booking with SkyWays Airlines. Below are the details of your upcoming flight:\n\n• Flight No: SW9876\n• From: Mumbai (BOM) – 12:45 PM\n• To: Delhi (DEL) – 3:30 PM\n• Gate: 12\n• Seat: 12B\n• Baggage: 20 kg checked + 7 kg carry‑on\n\nCheck‑in opens 2 hours before departure. Please arrive at the airport at least 3 hours early. If you need to change your itinerary or have any questions, visit <URL>.\n\nWe wish you a pleasant journey!\n\nBest regards,\nSkyWays Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: HR Payroll Update Required – Immediate Action Needed",
+        "body": "Dear Mr. Sharma,\n\nWe hope you are doing well. This is an automated message from the HR department regarding your recent payroll update. As part of the new compliance policy, all employees must verify their bank account details by 30th September 2024.\n\nPlease click on the link below and enter your employee ID and bank details to ensure your salary is credited on time. Failure to update will result in a temporary suspension of your salary for the upcoming month.\n\n<URL>\n\nIf you have already updated your information, please ignore this message. For any queries, you can contact HR at hr@company.com.\n\nThank you for your prompt attention.\n\nRegards,\nHR Compliance Team"
+    }
+}

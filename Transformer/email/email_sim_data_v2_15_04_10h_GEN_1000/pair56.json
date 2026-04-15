@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Activity on Your Account",
+        "body": "Dear Customer,\n\nWe have detected a recent transaction on your account:\n\n• Date: 2026-04-10\n• Amount: $1,250.00\n• Merchant: Acme Electronics\n• Transaction ID: 842-5691-23\n\nIf you recognize this transaction, no further action is required. If you do not recognize this transaction, please contact our support team immediately.\n\nThank you for banking with us.\n\nSincerely,\nYour Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required to Avoid Late Delivery Fees",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your shipment with FedEx (Tracking # 1234567890) was not delivered due to an outstanding delivery fee. If this issue is not resolved within 24 hours, additional fees will be automatically applied, and your package may be returned to the sender.\n\nTo verify the delivery status and pay the pending fee, please click the link below:\n\n<URL>\n\nPlease note that failure to complete the payment will result in a $75 delivery fee, plus a $50 late shipment penalty.\n\nWe urge you to complete the transaction immediately.\n\nThank you for your prompt attention.\n\nBest Regards,\nFedEx Customer Support"
+    }
+}

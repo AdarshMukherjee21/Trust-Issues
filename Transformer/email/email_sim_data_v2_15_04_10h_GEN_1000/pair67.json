@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hi [Name],\n\nWe hope you’re enjoying our services. This is a friendly reminder that your subscription to XYZ SaaS will automatically renew on 15th May 2026.\n\nIf you wish to make any changes or cancel, log in to your account at <URL>.\n\nThank you,\nXYZ Team"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice Payment Pending – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your QuickBooks invoice #12345 remains unpaid. Aapke account ko permanently disable kar diya jayega agar 24 ghante ke andar payment nahi hua.\n\nPlease verify your account details and complete the payment at <URL> to avoid service interruption.\n\nThank you,\nQuickBooks Support Team"
+    }
+}

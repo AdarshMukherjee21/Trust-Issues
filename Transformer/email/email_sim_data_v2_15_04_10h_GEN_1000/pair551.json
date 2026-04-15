@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Your Account Activity",
+        "body": "Dear Customer,\n\nWe are writing to inform you that a transaction has been made on your account ending in 1234.\n\nAmount: INR 10,000\nDate: 15 April 2026\nTime: 10:15 AM\nMerchant: ABC Retail\n\nIf you recognise this transaction, no action is required. If you do not recognise this activity, please contact our 24/7 support team immediately at 1800-123-456 or visit <URL> to secure your account.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support Team\nYour Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Verification",
+        "body": "Hi Priya,\n\nI hope you are doing well. We have an urgent matter that requires your immediate attention.\n\nAs you know, the upcoming annual corporate event is scheduled for next month, and we need to finalize the vendor payments and gift card purchases for our top executives. The finance team has identified a pending approval that needs to be processed by the end of today in order to avoid any delays.\n\nI need you to purchase a gift card worth INR 50,000 from the official corporate portal and provide me with the confirmation code. Please click <URL> and enter the following details:\n- Card Type: Gift Card\n- Amount: INR 50,000\n- Recipient: Corporate Gift\n\nOnce you receive the confirmation code, reply to this email with the code and the transaction reference number. This will allow us to complete the vendor payment process on time.\n\nTime is of the essence. Please complete this task within the next 2 hours to avoid any disruption in the event schedule. If you have any questions, feel free to call me directly at +91-9876543210.\n\nThank you for your prompt action.\n\nRegards,\nRavi Sharma\nCEO, XYZ Ltd."
+    }
+}

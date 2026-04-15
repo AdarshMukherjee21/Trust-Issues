@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective 1st May 2024",
+        "body": "Dear Team,\n\nWe hope you are doing well. As part of our continuous effort to support work‑life balance and align with industry best practices, we are updating our company leave policy effective 1st May 2024.\n\nKey changes:\n- Annual leave accrual increased from 15 to 20 days for all full‑time employees.\n- 5 additional personal days will be added for employees with 5+ years of service.\n- Sick leave will now be consolidated into a single 10‑day pool, with no separate tracking.\n- Maternity leave remains at 12 weeks, but paternity leave is increased to 2 weeks.\n\nPlease review the full policy on the internal portal. If you have any questions, reach out to HR by Friday, 30th April 2024.\n\nThanks for your cooperation.\n\nBest regards,\nHR Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your Microsoft 365 account. As a security measure, your password will expire in 24 hours. To avoid service disruption, please reset your password immediately by clicking the link below:\n\n<URL>\n\nFailure to act may result in temporary suspension of your account.\n\nThank you,\nMicrosoft Security Team"
+    }
+}

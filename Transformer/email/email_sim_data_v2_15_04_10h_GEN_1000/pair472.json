@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Dear Customer,\n\nThank you for shopping with Amazon! Your order has been successfully placed and is now being processed.\n\nOrder Details:\n• Order Number: 123-4567890-1234567\n• Order Date: 15 April 2026\n• Shipping Address: 12 Oak Street, Springfield, IL 62704\n• Items:\n  – Kindle Paperwhite – Qty: 1 – $129.99\n  – USB-C Charger – Qty: 2 – $19.99 each\n\nTotal Amount (incl. tax & shipping): $189.96\n\nYour order will be shipped within 1–2 business days. You will receive a separate email with a tracking number once your package has left the fulfillment center.\n\nIf you have any questions about your order, please reply to this email or visit your Order History page.\n\nThank you for choosing Amazon. Happy reading!\n\nBest regards,\nAmazon.com Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Action Needed",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that QuickBooks has detected an outstanding invoice on your account that has not been paid within the agreed terms. Failure to settle this invoice by the due date will result in a suspension of your QuickBooks services and may affect your business operations.\n\nInvoice Details:\n• Invoice Number: QB-INV-2026-000987\n• Amount Due: $4,250.00\n• Due Date: 20 April 2026\n\nPlease review the invoice and process the payment immediately to avoid any disruption. For your convenience, you can view and pay the invoice by clicking the link below:\n\n<URL>\n\nIf you believe this is a mistake or have already paid, please contact our billing department immediately at <URL> or call us at 1-800-555-0199.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

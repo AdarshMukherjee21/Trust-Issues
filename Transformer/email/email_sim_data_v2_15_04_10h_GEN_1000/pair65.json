@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 5th April 2026",
+        "body": "Hi team,\n\nJust a friendly reminder that the semester project is due on 5th April 2026. Please submit your final report, presentation slides, and code repository through the university portal by 11:59 PM on the deadline day.\n\nIf you encounter any issues or need clarification on the submission format, feel free to drop me an email or stop by my office hours tomorrow.\n\nThanks and good luck with the final touches!\n\nBest,\nProf. Rajiv Sharma\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Overdue – Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent FedEx shipment with tracking number 1234567890 was not delivered due to an outstanding delivery fee. To avoid further delays and potential shipment cancellation, please pay the missed delivery fee of INR 450 within the next 48 hours.\n\nFailure to settle this payment will result in your package being held in customs and possible additional charges. This is a mandatory compliance requirement by FedEx.\n\nPlease visit <URL> to complete the payment securely. Once paid, we will release your package for delivery.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

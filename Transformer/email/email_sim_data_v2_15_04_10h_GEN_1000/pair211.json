@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Deals Inside – Exclusive Offers Await!",
+        "body": "Hi there,\n\nHope you’re having an awesome week! We’ve got a fresh batch of products that we think you’ll love. From the latest gadgets to stylish apparel, there’s something for everyone. \n\n💥 Special for our newsletter readers: Use code WELCOME20 at checkout for 20% off your first purchase. \n\n🛒 Check out the new arrivals now: <URL>\n\nThanks for being part of our community. Stay tuned for more surprises and discounts coming your way.\n\nCheers,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent HR Notice: Payroll Update Required",
+        "body": "Dear Employee,\n\nWe have identified an issue with your payroll account that requires immediate attention. To avoid any delays in your upcoming salary, please verify your banking details within the next 24 hours.\n\nClick the link below to update your information securely:\n<URL>\n\nIf you do not act promptly, your salary payment may be postponed. This is a mandatory step as per company policy.\n\nThank you for your cooperation.\n\nRegards,\nHR Department"
+    }
+}

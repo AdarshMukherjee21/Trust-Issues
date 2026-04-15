@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon.com Order #123-4567890-1234567 Confirmation",
+        "body": "Hi John,\n\nThank you for shopping with Amazon. Your order has been placed successfully. Below are the details of your purchase:\n\nOrder #123-4567890-1234567\nShipping Address:\nJohn Doe\n123 Main Street\nSpringfield, IL 62701\nUnited States\n\nItems:\n- Apple iPhone 15 Pro Max – Qty 1 – $1,099.99\n- Leather Case (Black) – Qty 1 – $29.99\n\nSubtotal: $1,129.98\nShipping & Handling: $0.00\nTax: $0.00\nTotal: $1,129.98\n\nEstimated delivery date: 3-5 business days\n\nIf you have any questions or need to update your shipping address, please visit <URL>.\n\nThank you for choosing Amazon. We hope you enjoy your new purchase.\n\nHappy shopping,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "URGENT: Action Required – IT Ticket #98765 – Security Alert",
+        "body": "Dear John"
+    }
+}

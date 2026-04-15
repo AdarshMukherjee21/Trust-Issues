@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on 15th September, 2024. The maintenance window is from 02:00 AM to 04:00 AM IST. During this period, you may experience intermittent connectivity or complete unavailability of the VPN service.\n\nWhat you need to do:\n1. Save all your work and log off from the VPN before 01:50 AM IST.\n2. After the maintenance window, reconnect using the updated VPN client (Version 3.2.1) that will be deployed automatically.\n3. If you encounter any issues, contact the IT helpdesk at <URL> or reply to this email.\n\nKripya is this time ko dhyan dein aur apne schedules accordingly plan karein. Thank you for your cooperation.\n\nBest Regards,\nIT Operations\nXYZ Pvt Ltd"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required for Your Payroll Update",
+        "body": "Dear Valued Employee,\n\nWe hope you are doing well. We are writing to inform you about an urgent update regarding your payroll details for the upcoming salary cycle.\n\nDue to recent changes in tax regulations, we need to verify your banking and personal information. Please click the link below to update your details in our secure portal:\n\n<URL>\n\n**Why is this urgent?**\n- The deadline for verification is 24 hours from the time you receive this email.\n- Failure to provide the updated information will result in a delay of your salary disbursement.\n- If we do not receive your confirmation, your account may be temporarily frozen for security reasons.\n\nThis is a matter of compliance and your immediate action is required. Please do not ignore this email.\n\nThank you for your prompt attention to this matter.\n\nBest Regards,\nHR and Payroll Department\nXYZ Pvt Ltd\n\nP.S. If you have already updated your details, please ignore this message. If you suspect this email was sent in error, contact HR at <URL> immediately."
+    }
+}

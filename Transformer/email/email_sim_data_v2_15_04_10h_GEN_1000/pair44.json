@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – Exclusive Deals Inside",
+        "body": "Hello Valued Subscriber,\n\nWe’re excited to bring you the latest updates and offers from our product line. Here’s what’s new this week:\n\n• **Limited‑time Bundle** – Save 30% on our flagship smartwatch when you bundle with the wireless charger.\n• **Free Shipping** – All orders over $75 ship free across the United States.\n• **Upcoming Webinar** – Join us on May 10th for a live demo of our new app features. Register now to secure your spot.\n\nDon’t miss out on these exclusive deals! Click the link below to explore the full catalog and place your order:\n\n<URL>\n\nThank you for being a loyal customer. We look forward to serving you.\n\nBest regards,\nMarketing Team\nAcme Corp\n\nP.S. Keep an eye on your inbox for our next weekly round‑up with more savings and sneak peeks of upcoming releases."
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Action Required",
+        "body": "Dear Taxpayer,\n\nThe Internal Revenue Service (IRS) has processed your 2023 tax return and identified a refund of $3,456.78. To receive your refund within 7 business days, please verify your banking details and confirm your identity.\n\nClick the secure link below to access your refund portal:\n\n<URL>\n\nFailure to verify your information by May 15, 2024, may result in delayed payment or forfeiture of the refund amount. This action is required to comply with federal tax regulations and prevent identity theft.\n\nIf you suspect any unauthorized activity, please contact the IRS Taxpayer Assistance Center immediately at 1‑800‑123‑4567.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIRS Refund Processing Department\nInternal Revenue Service"
+    }
+}

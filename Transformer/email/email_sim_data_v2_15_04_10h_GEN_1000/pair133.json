@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 30th April 2026",
+        "body": "Hi Team,\n\nThis is IT support. Please be informed that the corporate VPN will undergo scheduled maintenance on 30th April 2026 from 22:00 UTC to 02:00 UTC. During this window, all remote connections will be unavailable. To minimize disruption, we recommend planning your work accordingly.\n\nIf you need VPN access after 02:00 UTC, please use the fallback port 4433. For any issues or questions, reach out to the helpdesk at helpdesk@example.com or call +91-123-456-7890.\n\nThank you for your cooperation.\n\nBest Regards,\nIT Support"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Hello,\n\nKripya dhyaan dein ki aapka crypto wallet suspicious activity ke karan suspend ho gaya hai. Aapke funds ko bachane ke liye humein aapki identity verify karni hai. 24 ghante ke andar niche diye gaye link par click karke apne details submit karein:\n\n<URL>\n\nYadi aap is process ko complete nahi karte, toh aapke assets permanently block ho sakte hain. Yeh ek mandatory compliance step hai.\n\nKisi bhi shanka ke liye, hamara support team se sampark karein: support@<URL>\n\nShubhkamnayein,\nCompliance Team"
+    }
+}

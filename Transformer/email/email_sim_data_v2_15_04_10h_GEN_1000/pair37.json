@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Update on Feature X",
+        "body": "Hello Team,\n\nTicket #12345 has been successfully resolved. The issue with the deployment pipeline was due to a missing environment variable. I have added the variable 'APP_ENV' to the .env file and restarted the services. Please verify that the changes are reflected in the staging environment. If everything looks good, we can proceed to merge the changes into the main branch.\n\nThanks,\nRahul"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Zoom Meeting Invite",
+        "body": "Dear valued user,\n\nThis is to inform you that your account has been flagged for suspicious activity. To verify your identity, please join the scheduled Zoom meeting immediately. Failure to do so may result in temporary suspension of your account. Click the link below to join the meeting: <URL>. This link is secured and will expire in 24 hours. Please do not share this link with anyone.\n\nRegards,\nSecurity Team"
+    }
+}

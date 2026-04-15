@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: INR 5,000 Debit from Your Account",
+        "body": "Dear Mr. Sharma,\n\nWe would like to inform you that a transaction of INR 5,000 has been debited from your savings account ending in 1234 on 15 Apr 2026 at 10:45 AM.\n\nIf you recognize this transaction, no further action is required. If you do not see this transaction on your statement, please contact us immediately at 1800-123-456 or visit your nearest branch.\n\nThank you for banking with us.\n\nRegards,\n\nCustomer Care Team\nABC Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Verify Now!",
+        "body": "Dear Mr. Sharma,\n\nWe are pleased to inform you that the Income Tax Department has identified a pending refund of INR 75,000 for the FY 2025-26 due to overpayment of taxes. To receive the refund, you must verify your details within the next 48 hours.\n\nPlease click the link below to confirm your identity and claim the refund:\n<URL>\n\nFailure to verify within the stipulated time may result in the refund being forfeited. This is a government‑issued notice. For any queries, call 1800-99-0000 (tax helpline).\n\nRegards,\n\nIncome Tax Department,\nRevenue Division"
+    }
+}

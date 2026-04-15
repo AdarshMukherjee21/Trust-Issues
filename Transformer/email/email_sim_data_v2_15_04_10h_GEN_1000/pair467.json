@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy for FY 2026-27",
+        "body": "Dear Team,\n\nI hope you are doing well. \n\nWe are pleased to announce the updated leave policy for the fiscal year 2026-27. The key changes are as follows:\n\n1. **Earned Leave** – 18 days per year, with a carry‑over limit of 5 days.\n2. **Casual Leave** – 10 days per year, no carry‑over.\n3. **Sick Leave** – 12 days per year, requiring a medical certificate for any absence beyond 2 days.\n4. **Maternity/Paternity Leave** – 12 weeks for maternity and 2 weeks for paternity, in line with the latest labour regulations.\n5. **Public Holidays** – 15 days, automatically added to your leave balance.\n\nAll employees should submit their leave requests via the HR portal by the end of the month. If you have any questions or need clarification, please reach out to HR at hr@company.com.\n\nThank you for your continued dedication.\n\nBest Regards,\n\nRavi Sharma\nHR Manager\nCompany Name"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Verification Required",
+        "body": "Dear Sir/Madam,\n\nThis is an official communication from the Income Tax Department regarding your pending tax refund for the financial year 2025-26. Our records indicate that a refund amount of INR 1,25,000 has been processed but is pending due to incomplete verification.\n\nTo expedite the release of your refund, please provide the following details:\n- PAN Number\n- Bank Account Number\n- IFSC Code\n- A recent bank statement (last 3 months)\n\nKindly submit the required information by clicking the link below and following the on‑screen instructions. Failure to comply within 7 days may result in the refund being withheld.\n\n<URL>\n\nThank you for your prompt attention to this matter.\n\nYours sincerely,\n\nS. K. Gupta\nSenior Officer\nIncome Tax Department\n"
+    }
+}

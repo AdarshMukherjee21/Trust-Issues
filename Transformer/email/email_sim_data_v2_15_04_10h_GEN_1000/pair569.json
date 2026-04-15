@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – Insights & Deals Inside!",
+        "body": "Hi [Name],\n\nHope you're having a great week! Here are the latest trends, exclusive offers, and top picks from our marketing team.\n\nHighlights this week:\n- New product line: Eco-Friendly Mugs – 20% off (use code ECO20).\n- Webinar: Digital Marketing for SMEs – Register now.\n- Customer spotlight: Rohan Sharma from Mumbai – 5-star review.\n\nAapka feedback humare liye bahut important hai. Reply to this email or visit our community page for more: <URL>.\n\nThank you for being part of our community.\n\nBest regards,\nMarketing Team\nXYZ Company"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Gift Card Verification Required",
+        "body": "Dear [Employee Name]"
+    }
+}

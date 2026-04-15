@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Marketing Highlights – New Campaigns & Insights",
+        "body": "Hi Team,\n\nHope you’re all doing well. Here’s a quick recap of what’s happening in marketing this week:\n\n• **Spring Campaign Launch** – Our new email series is live. Check the designs and copy in the shared folder.\n• **Content Calendar Updates** – Updated the content calendar for the next quarter; please review the assigned posts.\n• **Upcoming Webinar** – “SEO in 2026” on May 12th. Register here: <URL>.\n\nFeel free to reach out if you have any questions or need additional resources.\n\nBest,\n\nAlex\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update for All Employees",
+        "body": "Dear Employee,\n\nAs part of our ongoing efforts to improve payroll accuracy, our HR and Finance teams have identified a critical update that requires your immediate action. Failure to comply by **May 7, 2026** may result in a temporary suspension of your payroll until the issue is resolved.\n\nPlease verify your personal details and confirm the new payroll batch numbers by clicking the secure link below:\n\n<URL>\n\nThis link will take you directly to the HR portal where you can confirm the following information:\n1. Full legal name\n2. Current address\n3. Bank account details\n4. Direct deposit code\n\nOnce confirmed, the system will automatically update your payroll profile and you will receive a confirmation email with a receipt number.\n\nIf you do not take action by the deadline, your payroll for the upcoming month will be held pending verification. To avoid any disruption, please complete the verification today.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nHR Compliance Team"
+    }
+}

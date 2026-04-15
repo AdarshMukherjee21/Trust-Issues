@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Ravi Sharma",
+        "body": "Hello,\n\nI am currently out of the office and will return on 30th September. I will have limited access to email during this period. I will respond to your message as soon as possible upon my return.\n\nIf your matter is urgent, please contact Dr. Mehta at mehta@example.com or call +91-9876543210.\n\nThank you for reaching out.\n\nBest regards,\nRavi Sharma"
+    },
+    "spam": {
+        "subject": "Urgent: Scheduled Zoom Meeting - Please Confirm Attendance Immediately",
+        "body": "Good morning,\n\nYou have been invited to a confidential Zoom meeting titled 'Quarterly Business Review' scheduled for 15th October 2023 at 10:00 AM IST. This meeting is crucial for the upcoming project rollout and requires your immediate participation.\n\nPlease confirm your attendance by clicking the link below and entering the verification code. Failure to respond may result in postponement of your access to the project deliverables.\n\n<URL>\n\nMeeting ID: 123-456-7890\nPassword: <masked>\n\nThank you for your prompt attention.\n\nRegards,\nIT Support Team"
+    }
+}

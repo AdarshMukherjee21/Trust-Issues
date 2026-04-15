@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy – Effective May 1, 2024",
+        "body": "Dear Team,\n\nI hope you are all doing well.\n\nPlease be advised that the Company’s Leave Policy has been updated and will take effect on May 1, 2024. The key changes include:\n\n1. **Annual Leave Accrual** – Employees will accrue 2.5 days per month, with a maximum accrual of 30 days.\n2. **Sick Leave** – A new sick leave allowance of 10 days per calendar year has been added, in addition to the existing 5 days.\n3. **Remote Work** – Employees may now request up to 3 remote work days per month, subject to manager approval.\n4. **Policy Access** – The updated policy document is attached to this email and has also been uploaded to the HR portal under \"Company Policies\".\n\nPlease review the attached document and forward any questions or concerns to HR by the end of this week. Your cooperation is appreciated as we work to ensure a smooth transition.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nJordan Lee\nHR Manager\n\n---\nAttachment: Company_Leave_Policy_2024.pdf"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Crypto Wallet Suspended",
+        "body": "Dear CryptoUser,\n\nWe regret to inform you that your crypto wallet (ID: 0xAB12CD34EF56) has been temporarily suspended due to suspected unauthorized activity. In order to protect your funds and restore full access, you must verify your identity immediately.\n\n**Steps to verify:**\n\n1. Click on the secure link below and log into your account.\n   <URL>\n2. Follow the on-screen instructions to submit a government‑issued ID and a selfie for verification.\n3. Once verified, your wallet will be re‑activated within 48 hours.\n\nFailure to complete this verification within 24 hours will result in permanent suspension of your wallet and potential loss of access to your assets.\n\nIf you believe this suspension is a mistake, please contact our support team immediately at <URL>.\n\nThank you for your prompt attention to this urgent matter.\n\nSincerely,\n\nCryptoSecure Support Team"
+    }
+}

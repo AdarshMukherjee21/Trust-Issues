@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 30th April 2026, 02:00–04:00 IST",
+        "body": "Hello Team,\n\nPlease be advised that the corporate VPN infrastructure will undergo routine maintenance on 30th April 2026 from 02:00 to 04:00 IST. During this window, all VPN connections will be temporarily unavailable. This maintenance is part of our quarterly security audit and will not affect any other network services.\n\nKey points:\n- Expected downtime: 2 hours\n- No data loss or changes to user accounts\n- No action required from users\n- If you experience any connectivity issues outside this window, please contact IT support.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Package Missed Delivery – Pay Now to Avoid Extra Fees",
+        "body": "Dear Customer,\n\nWe regret to inform you that your FedEx shipment (Tracking No: 1Z9X4B1234567890) was marked as \"Missed Delivery\" on 24th April 2026. To prevent your package from being returned and to avoid additional handling charges, you need to pay the missed delivery fee of INR 1,200 within the next 48 hours.\n\nPlease visit <URL> and enter the required details. Once the payment is confirmed, your package will be rescheduled for delivery.\n\nIf you do not pay the fee by 26th April 2026, the package will be returned to the sender and you will be billed for the return shipping costs.\n\nThank you for choosing FedEx. If you have any questions, call our customer support at 1800-123-456.\n\nBest regards,\nFedEx Delivery Team"
+    }
+}

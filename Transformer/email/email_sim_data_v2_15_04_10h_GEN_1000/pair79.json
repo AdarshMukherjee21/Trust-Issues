@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your subscription renewal reminder – Action required",
+        "body": "Dear Priya,\n\nWe hope you are enjoying our services. Your subscription to XYZ SaaS is set to renew on 15th May 2026. Please review the renewal details and confirm the payment to avoid interruption.\n\n• Plan: Pro Annual\n• Amount: INR 12,000\n• Renewal Date: 15th May 2026\n\nTo renew, simply click the button below:\n\n[Renew Now] <URL>\n\nIf you have any questions, feel free to reply to this email or contact our support team.\n\nThank you for choosing XYZ SaaS!\n\nBest regards,\nXYZ SaaS Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Meeting Confirmation",
+        "body": "Hi Amit,\n\nThis is a reminder from the HR department. We have scheduled a mandatory team meeting on 13th May 2026 at 10:00 AM (IST). Your presence is essential to discuss the upcoming project rollout.\n\nMeeting Details:\n• Platform: Zoom/Teams (Choose your preference)\n• Time: 10:00 AM – 11:00 AM IST\n• Link: <URL>\n\nPlease confirm your attendance by replying \"YES\" to this email. If you do not confirm, you may face a temporary suspension of your account access.\n\nThank you for your prompt attention.\n\nRegards,\nHR Team"
+    }
+}

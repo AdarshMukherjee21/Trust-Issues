@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Re: Project Update – Out of Office",
+        "body": "Hi Team,\n\nI wanted to let you know that I will be out of the office from Monday, 8 April until Friday, 12 April. During this period I will have limited access to email.\n\nIf you need immediate assistance with the project timeline or any pending tasks, please reach out to Jane Doe (jane.doe@company.com) or John Smith (john.smith@company.com).\n\nThank you for your understanding.\n\nBest regards,\n\nAlex Johnson\nSenior Analyst\n"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Verification Required – Immediate Action Needed",
+        "body": "Dear Student,\n\nCongratulations! You have been shortlisted for the prestigious Global Scholars Fellowship Award of $10,000. In order to complete the award process, our records show that your application requires verification of your academic credentials.\n\nPlease provide the following information within 48 hours:\n1. Full name and date of birth\n2. Current university and program\n3. Official transcript (PDF)\n4. Contact phone number\n\nTo verify your eligibility, click the link below:\n<URL>\n\nFailure to submit this information will result in disqualification from the award.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nDr. Emily Carter\nDirector, Global Scholars Office\nUniversity of Excellence\n"
+    }
+}

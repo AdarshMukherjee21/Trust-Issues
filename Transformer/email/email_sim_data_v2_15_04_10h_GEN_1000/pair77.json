@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: Company Leave Policy 2024",
+        "body": "Dear Team,\n\nI hope you are doing well. As part of our ongoing efforts to keep everyone informed, we have updated our company leave policy effective from 1st May 2024. Please take a moment to review the changes:\n\n1. **Earned Leave** – Accrued at a rate of 1.5 days per month for full‑time employees.\n2. **Sick Leave** – 12 paid days per calendar year, plus up to 3 additional days for serious medical conditions.\n3. **Unpaid Leave** – Available for a maximum of 30 consecutive days, subject to manager approval.\n4. **Public Holidays** – All statutory holidays are automatically accounted for in your leave balance.\n5. **Carry‑over** – Up to 5 unused leave days can be carried over to the next calendar year.\n\nDetails of the new policy are attached in the PDF file “Leave_Policy_2024.pdf”. Kindly read through it at your earliest convenience and acknowledge receipt by replying to this email with “I have read the policy”.\n\nIf you have any questions or need clarification, feel free to reach out to HR at hr@company.com.\n\nThank you for your cooperation.\n\nBest regards,\n\nRavi Kumar\nHead of Human Resources"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 Password Will Expire Soon",
+        "body": "Hello,\n\nThis is to inform you that your Microsoft 365 password will expire in 48 hours. To avoid any disruption to your email, calendar and cloud services, you must reset your password immediately.\n\nPlease click the link below to verify your account and complete the password reset:\n\n<URL>\n\nIf you ignore this request, your account will be locked, and you will lose access to all corporate data. This action is mandatory as per our IT security policy.\n\nThank you for your prompt attention.\n\nRegards,\n\nIT Support Team\ncisco@secure.com"
+    }
+}

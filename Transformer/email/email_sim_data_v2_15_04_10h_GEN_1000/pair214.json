@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 4567",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Here are the details of your upcoming trip:\n\nFlight: SH1234\nDeparture: Los Angeles (LAX) – 2026-05-12 08:45 AM\nArrival: New York (JFK) – 2026-05-12 04:15 PM\nSeat: 12A (Aisle)\nClass: Economy\nBaggage: 1 checked bag (23 kg) + 1 carry‑on\n\nCheck‑in: Online check‑in opens 24 hours before departure. Please arrive at the airport at least 2 hours before departure for security.\n\nIf you need to make changes to your itinerary, please do so through our website or contact our customer service.\n\nThank you for choosing SkyHigh. We wish you a pleasant flight.\n\nBest regards,\nSkyHigh Airlines"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Verification Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the prestigious Global Scholars Program at Greenfield University has been shortlisted. To complete the award process, we require verification of your personal information and submission of a signed acknowledgment of the scholarship terms.\n\nPlease click the link below to confirm your details and accept the scholarship offer:\n<URL>\n\nNote: Failure to complete this verification within 48 hours will result in the forfeiture of the scholarship, and your application will be withdrawn.\n\nIf you believe you have received this email in error, please contact the Graduate Studies Office immediately at <URL>.\n\nSincerely,\nDr. Amelia K. Chen\nDirector, Graduate Studies\nGreenfield University"
+    }
+}

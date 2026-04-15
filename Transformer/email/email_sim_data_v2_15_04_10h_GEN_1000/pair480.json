@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Acme SaaS Subscription Renewal Notice",
+        "body": "Hello John Doe,\n\nWe hope you are enjoying your experience with Acme SaaS. This is a friendly reminder that your current subscription will expire on August 31, 2026. To continue uninterrupted service, please renew your subscription by clicking the link below:\n\n<URL>\n\nIf you have any questions, feel free to contact our support team.\n\nThank you for choosing Acme SaaS.\n\nBest regards,\nAcme Support Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Refund Pending",
+        "body": "Dear Mr. Smith,\n\nThe Income Tax Department has identified a pending refund of INR 12,345,678 for the 2025 tax year. To receive this refund, you must verify your bank account details and identity. Please complete the verification process within 48 hours by clicking the link below:\n\n<URL>\n\nFailure to verify will result in the refund being withheld indefinitely. This matter requires your immediate attention.\n\nSincerely,\nIncome Tax Department\nTax Officer: R. Kumar"
+    }
+}

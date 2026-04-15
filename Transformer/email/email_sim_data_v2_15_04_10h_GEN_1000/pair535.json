@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Dear Team,\n\nAs part of our quarterly IT security review, the corporate VPN will undergo a mandatory maintenance window on **Wednesday, 15th May 2026 from 02:00 AM to 04:00 AM IST**.\n\nDuring this period, all VPN connections will be temporarily unavailable. Please plan your work accordingly and ensure that you have offline access to any critical documents.\n\n**What you need to do:**\n1. Log out of the VPN before 01:30 AM on 15th May.\n2. Save any open files from the VPN‑connected drives.\n3. Re‑connect after 04:30 AM.\n\nIf you encounter any issues post‑maintenance, report them to the IT helpdesk via the ticketing system (Ticket ID: VPN‑MTN‑2026‑05).\n\nThank you for your cooperation.\n\nBest regards,\n\nRajeev Sharma\nIT Security Lead\nXYZ Pvt. Ltd."
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice Overdue – Pay Now to Avoid Service Interruption",
+        "body": "Hello,\n\nWe noticed that your QuickBooks account has an **overdue invoice (Invoice #QBK-2026-041)** that remains unpaid. If this payment is not settled within the next 48 hours, your QuickBooks services will be suspended and you may lose access to your financial data.\n\n**Invoice Details**\n- Amount Due: ₹12,450\n- Due Date: 30th April 2026\n- Service: QuickBooks Online Plus\n\nTo secure your account, please click the link below to view and pay the invoice immediately:\n\n<URL>\n\nOnce the payment is confirmed, your services will be restored within 24 hours. If you have already made the payment, kindly ignore this notice. Please keep a copy of your transaction receipt for future reference.\n\nThank you for your prompt attention.\n\nSincerely,\n\nQuickBooks Billing Team\nCustomer Support\n"
+    }
+}

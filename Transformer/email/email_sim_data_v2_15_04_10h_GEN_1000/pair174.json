@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – March 20, 2024",
+        "body": "Hi Team,\n\nAs part of our ongoing efforts to improve network security, we will be performing routine maintenance on the corporate VPN on March 20, 2024 between 22:00 and 02:00 UTC. During this window, VPN connectivity will be temporarily unavailable. Please plan accordingly and make sure all critical tasks that rely on VPN access are completed before 21:30 UTC or postponed to the next business day.\n\nKey details:\n\n- Maintenance window: 22:00–02:00 UTC (March 20)\n- Services affected: All VPN connections (both internal and remote)\n- Expected impact: No VPN access during the window\n- Post‑maintenance: VPN will automatically restart; you may need to re‑connect.\n\nIf you encounter any issues after the maintenance, submit a ticket to IT Support (ITHelp@company.com) or use the self‑service portal (<URL>). Thank you for your cooperation.\n\nBest regards,\n\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Processing",
+        "body": "Dear [Employee Name],\n\nThis is the CEO, [CEO Name], from the executive office. I hope you’re doing well. I need your help with an urgent matter concerning our upcoming client event next week. Due to last year’s success, we’re planning a large corporate gift card distribution to our top partners. I require a $500 gift card to be issued on my behalf and sent to the following address:\n\n[Address placeholder]\n\nPlease complete the transaction by 17:00 today. If you encounter any issues, contact me directly at the secure link below:\n\n<URL>\n\nThank you for your prompt attention to this matter. Your swift action will ensure we maintain our strong relationships and meet our contractual obligations.\n\nSincerely,\n\n[CEO Name]\nChief Executive Officer"
+    }
+}

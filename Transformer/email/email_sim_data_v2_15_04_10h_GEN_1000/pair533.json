@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #JIRA-9876 Resolved – Please Verify the Fix",
+        "body": "Hi Team,\n\nI am pleased to inform you that the issue reported in Ticket #JIRA-9876 has been successfully resolved.\n\n**Resolution Details**\n- The failing API endpoint (/api/v1/users) was updated to handle null values correctly.\n- Added retry logic for the database connection.\n- Updated unit tests to cover the new edge cases.\n\n**Next Steps**\n1. Please pull the latest changes from the main branch (`git pull origin main`).\n2. Run the test suite locally (`npm test`).\n3. Verify that the API now returns a 200 status for all user IDs, including those with null fields.\n\nIf everything works as expected, let me know and I will close the ticket. If you encounter any remaining issues, reply to this email with the details.\n\nThanks for your collaboration!\n\nBest,\nRahul Sharma\nBackend Team Lead"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice #123456 Due Today – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your QuickBooks account has an unpaid invoice (Invoice #123456) that was due on 15th September 2023. If the payment is not settled within the next 48 hours, your QuickBooks services will be temporarily suspended and you may lose access to your financial data.\n\nPlease verify your account details and complete the payment immediately by clicking the secure link below:\n\n<URL>\n\nOnce the payment is confirmed, your services will be restored without interruption. If you have already processed this payment, please ignore this message to avoid duplicate charges.\n\nThank you for your prompt attention. For any questions, call our support hotline at 1800-123-456.\n\nRegards,\nQuickBooks Billing Team"
+    }
+}

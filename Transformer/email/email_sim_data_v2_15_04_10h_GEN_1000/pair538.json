@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Renewal: Your AcmeCloud Subscription Expires in 7 Days",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the full capabilities of AcmeCloud. This is a friendly reminder that your subscription will expire on 2026-04-22. To avoid any interruption in service, please review and renew your plan at your earliest convenience.\n\nYou can manage your subscription through the portal here: <URL>.\n\nIf you have any questions, feel free to reply to this email or contact our support team.\n\nThank you for choosing AcmeCloud.\n\nBest Regards,\nAcmeCloud Billing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Payroll Update Required – Action Needed by 12:00 PM Today",
+        "body": "Dear Employee,\n\nThis is a system-generated message from the HR Department. Due to a recent audit, we have identified an issue with your payroll account that requires immediate attention. If the issue is not resolved, your upcoming salary payment may be delayed or withheld.\n\nPlease verify your bank account details and confirm the correct routing numbers by clicking the link below: <URL>.\n\nFailure to complete this verification by 12:00 PM today will result in a deduction from your final pay.\n\nThank you for your prompt cooperation.\n\nSincerely,\nHR Compliance Officer\nCompany Name"
+    }
+}

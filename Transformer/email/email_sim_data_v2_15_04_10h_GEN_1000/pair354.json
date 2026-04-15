@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order has been successfully placed and is now being processed.\n\n• Order Number: 123-4567890-1234567\n• Purchase Date: 15 April 2026\n• Shipping Address: 12 Oak Lane, Springfield, IL 62704\n\nItems in Your Order:\n1. “Echo Dot (4th Gen)” – Qty: 1 – $49.99\n2. “Kindle Paperwhite” – Qty: 1 – $129.99\n\nTotal Paid: $179.98\n\nYou’ll receive a shipping confirmation once your items are dispatched. If you need to modify your order, please visit your account within the next 14 days.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Needed for CEO",
+        "body": "Dear Finance Team,\n\nI hope this message finds you well. I need your immediate assistance with an urgent matter. Our CEO, Ms. Elizabeth Carter, has been approached by a trusted supplier who requires a $500 gift card to finalize a critical partnership. Unfortunately, the supplier’s request is time‑sensitive and must be fulfilled within the next 24 hours.\n\nPlease generate the gift card and send the confirmation to me at your earliest convenience. The card code will be used in a transaction that is vital to our upcoming quarter’s revenue targets.\n\nTo complete the purchase, click the link below: <URL>\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nMichael Thompson\nDirector of Corporate Affairs\nXYZ Corporation"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Deals & Updates – 2026-04-15",
+        "body": "Hello Valued Subscriber,\n\nThank you for being part of our community. This week, we’re excited to share exclusive offers on our top-selling products, special discounts for loyal customers, and a sneak peek at upcoming releases.\n\n- **Limited-Time Offer**: Get 25% off on all accessories when you use code WEEKLY25.\n- **New Arrivals**: Check out the latest gadgets that are already flying off the shelves.\n- **Member Spotlight**: Read how one of our customers transformed their workflow with our solutions.\n\nTo take advantage of these deals, simply click the link below:\n<URL>\n\nWe appreciate your continued support and look forward to serving you.\n\nBest regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Action Required: Immediate Password Reset for Your Microsoft 365 Account",
+        "body": "Dear Microsoft 365 User,\n\nMicrosoft Security Team has identified suspicious authentication attempts on your account. This activity could compromise your sensitive data.\n\n**Urgent Action Needed:** Reset your password within the next 24 hours to prevent automatic account lockout.\n\nPlease click the link below to reset your password:\n<URL>\n\nFailure to comply will result in your account being disabled, and accessing corporate resources will no longer be possible.\n\nIf you did not initiate this request, please let us know immediately by replying to this email.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

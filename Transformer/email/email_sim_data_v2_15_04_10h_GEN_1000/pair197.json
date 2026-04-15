@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight No. XYZ123",
+        "body": "Dear Traveler,\n\nThank you for choosing SkyHigh Airways. Your flight itinerary has been confirmed as follows:\n\n• Flight No.: XYZ123\n• Departure: 12:45 PM, 28th September 2024\n• Arrival: 3:30 PM, 28th September 2024\n• Departure Airport: Indira Gandhi International Airport, Delhi\n• Arrival Airport: Chhatrapati Shivaji Maharaj International Airport, Mumbai\n• Seat: 12A (Aisle)\n• Check‑in Window: 1:00 PM – 2:30 PM (online check‑in available 24 hours before departure)\n• Baggage Allowance: 23 kg checked + 7 kg carry‑on\n\nPlease keep this confirmation handy for boarding. For any changes or additional assistance, visit <URL> or call our customer support at 1800‑123‑456.\n\nWe wish you a pleasant journey.\n\nSafe Travels,\n\nSkyHigh Airways Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – HR Payroll Update",
+        "body": "Dear Employee,\n\nWe have received an alert from the Payroll System that your salary account has not been verified for the current month. To avoid any delay in your salary disbursement, please confirm your payroll details by logging into the official HR portal.\n\n1. Click the link below to verify your bank account and tax information.\n2. Follow the on-screen instructions to complete the verification process.\n\n<URL>\n\nPlease note that failure to complete this verification within 48 hours may result in a temporary hold on your salary until the issue is resolved. This is a mandatory compliance requirement set by the Ministry of Labor.\n\nIf you have already completed the verification, kindly ignore this message.\n\nThank you for your prompt attention to this matter.\n\nBest Regards,\n\nHR Department\n"
+    }
+}

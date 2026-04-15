@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy Effective 1 July 2026",
+        "body": "Dear Team,\n\nWe hope you are doing well. As part of our ongoing efforts to support a healthy work‑life balance, we are excited to announce an updated leave policy effective from 1 July 2026.\n\nKey highlights of the new policy:\n• Annual paid leave increases from 15 to 18 days.\n• Additional 5 days of sick leave per year.\n• Flexible PTO days that can be used for personal or family commitments.\n• New leave application process: log into the HR portal (link: <URL>) and submit your request.\n\nPlease review the detailed policy document in the HR portal and feel free to reach out to the HR team if you have any questions.\n\nThank you for your continued dedication.\n\nBest regards,\nHuman Resources"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – FedEx Delivery Fee Notice",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent shipment with FedEx (Tracking # 123456789) was not delivered on the scheduled date. As per FedEx policy, a missed delivery fee of $75 will be applied to your account.\n\nTo avoid this charge and ensure timely delivery, please confirm your delivery address and accept the package by clicking the secure link below:\n\n<URL>\n\nIf you do not act within 48 hours, the package will be returned to the sender and the fee will be applied automatically. For any concerns, please contact our dedicated support line at 1-800-123-4567.\n\nThank you for choosing FedEx.\n\nSincerely,\nFedEx Delivery Services"
+    }
+}

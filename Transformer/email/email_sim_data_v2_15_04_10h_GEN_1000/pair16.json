@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – New Deals Inside!",
+        "body": "Hello Valued Customer,\n\nWe hope you enjoyed last week’s promotions. This week, we’re excited to share exclusive offers on our top‑selling products, plus a sneak peek at upcoming releases.\n\n• 20% off on all electronics – limited time only.\n• Free shipping on orders over $75.\n• Early access to our Summer Collection – arrive before anyone else.\n\nTo take advantage of these deals, simply click the link below (or visit our website) and use code WEEKLY20 at checkout.\n\nThank you for being a loyal member of our community.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Request",
+        "body": "Dear Alex,\n\nThis is CEO John Smith. I need your help with an urgent matter. I was approached by a vendor who requires a $500 gift card to cover an unexpected expense. I am unable to access the corporate credit line at the moment, so I am asking you to process the purchase on my behalf.\n\nPlease send the gift card to the following email address: <URL> and confirm once the transaction is complete. I will reimburse the amount from my personal account.\n\nTime is of the essence – I need this done before the end of the day. Thank you for your immediate attention.\n\nBest,\nJohn"
+    }
+}

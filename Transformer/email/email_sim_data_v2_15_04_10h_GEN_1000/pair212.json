@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #1234567890 has been Confirmed – Amazon",
+        "body": "Hi [Customer Name],\n\nThank you for shopping with Amazon! Your order #1234567890 has been confirmed and is now being processed.\n\nOrder Details:\n• 1 × Echo Dot (3rd Gen) – $49.99\n• 2 × USB-C Charging Cable – $19.98\n\nSubtotal: $69.97\nShipping: $5.99 (Prime)\nTotal: $75.96\n\nEstimated delivery: 3–5 business days\n\nTrack your order: <URL>\n\nIf you have any questions, reply to this email or visit your account. Thank you for choosing Amazon.\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: QuickBooks Invoice #987654321 – Payment Overdue",
+        "body": "Dear Valued Customer"
+    }
+}

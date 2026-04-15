@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #AB1234",
+        "body": "Dear John Doe,\n\nThank you for choosing SkyHigh Airlines. Your booking has been confirmed and your flight details are as follows:\n\n• Passenger: John Doe\n• Flight: SkyHigh 1234 from New York (JFK) to Los Angeles (LAX)\n• Date: September 15, 2026\n• Time: Departure 08:30 AM (JFK) – Arrival 11:30 AM (LAX)\n• Seat: 12A (Window)\n• Class: Economy\n• Baggage: 1 checked bag (max 23 kg) + 1 carry‑on (max 7 kg)\n• Flight number: SH1234\n• Gate: B22\n• Terminal: 3\n\nPlease arrive at the airport at least 3 hours before departure. If you need to make any changes to your itinerary, you can do so by logging into your account or contacting our support team at 1‑800‑SKYHIGH.\n\nYour official itinerary is attached. You can also view or download it online by visiting <URL>.\n\nThank you for flying with us. We look forward to serving you on your journey.\n\nBest regards,\n\nSkyHigh Airlines\nCustomer Service Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiration",
+        "body": "Dear John,\n\nWe have detected unusual activity on your Microsoft 365 account. According to our security policy, your password is set to expire in 24 hours. To avoid service disruption, please verify your account by resetting your password immediately.\n\nClick on the link below to reset your password. This link is secure and monitored by Microsoft Security.\n\n<URL>\n\nFailure to reset your password within the stipulated time will result in temporary suspension of your account and potential loss of access to critical corporate data.\n\nIf you did not request this action, please contact the IT Help Desk immediately at 1-800-MICROIT or reply to this email.\n\nThank you for your prompt attention.\n\nRegards,\n\nMicrosoft Security Team"
+    }
+}

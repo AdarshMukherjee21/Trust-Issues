@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice",
+        "body": "Hello [Customer Name],\n\nWe hope you’re enjoying the benefits of our SaaS platform. This is a friendly reminder that your subscription will automatically renew on 15th August 2026. Your account will be charged ₹5,999.00 for the next billing cycle.\n\nTo review or change your plan, log in to your dashboard here: <URL>. If you wish to upgrade, downgrade, or cancel, you can do so anytime before the renewal date.\n\nThank you for choosing us. If you have any questions, feel free to reply to this email or contact our support team at support@example.com.\n\nBest regards,\n[Company Name] Team"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Pending – Immediate Action Required",
+        "body": "Dear Customer,\n\nThis is an urgent notice from FedEx. Your recent shipment (Tracking # 12345678) was not delivered due to a missed pickup. As a result, a delivery fee of ₹1,200.00 has been applied. To avoid additional charges, please confirm payment within 24 hours.\n\nClick here to pay: <URL>.\n\nIf you believe this is a mistake, contact our customer service immediately.\n\nRegards,\nFedEx Delivery Team"
+    }
+}

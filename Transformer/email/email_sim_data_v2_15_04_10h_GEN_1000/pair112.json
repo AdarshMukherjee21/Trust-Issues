@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 Confirmation",
+        "body": "Hello Jane Doe,\n\nThank you for your purchase from Amazon. Your order has been received and is now being processed.\n\nOrder ID: 1234567890\n\nItems:\n- Kindle Paperwhite – $129.99\n- Echo Dot (3rd Gen) – $49.99\n\nShipping Address:\nJane Doe\n123 Maple Street\nSpringfield, IL 62704\n\nEstimated Delivery: 3–5 business days\n\nIf you have any questions, please contact us at <URL>.\n\nThank you for shopping with Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice Payment Required",
+        "body": "Dear John Smith,\n\nWe have detected that your QuickBooks subscription invoice #QB-987654 is overdue. Immediate action is required to avoid service disruption.\n\nPlease verify your account information and make a payment within 24 hours by clicking the link below:\n\n<URL>\n\nIf you do not take action, your QuickBooks account will be suspended and any upcoming payroll processing will be halted.\n\nThank you,\n\nQuickBooks Support Team\nSupport@quickbooks.com"
+    }
+}

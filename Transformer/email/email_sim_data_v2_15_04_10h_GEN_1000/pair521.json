@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Hi Rajesh,\n\nThank you for shopping with Amazon! Your order has been successfully placed and is now being processed.\n\nOrder Details:\n• Order ID: 123-4567890-1234567\n• Items:\n   1. Sony 55\" 4K Ultra HD Smart LED TV – ₹59,999\n   2. Wireless Bluetooth Speaker – ₹3,499\n   3. Amazon Echo Dot (3rd Gen) – ₹2,499\n• Total (incl. tax & delivery): ₹66,997\n\nShipping Address:\nRajesh Kumar\n123, Main Street\nSector 5, Gurugram\nHaryana 122001\n\nDelivery Date: 10‑15 Oct 2026\n\nIf you have any questions or need to change your shipping address, please reply to this email or visit your order page: <URL>\n\nThank you for choosing Amazon. Happy shopping!\n\nRegards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "QuickBooks Invoice #2023-00123: Immediate Payment Required",
+        "body": "Dear Rajesh,\n\nWe hope you are doing well. Our records show that the following invoice has not been settled and is now overdue:\n\n• Invoice Number: 2023-00123\n• Vendor: Norton Security Solutions\n• Amount Due: ₹15,250\n• Due Date: 30‑Sep‑2026\n\nIf this invoice has already been paid, please disregard this notice. Otherwise, please complete the payment within 48 hours to avoid service interruption. Failure to pay may result in suspension of your QuickBooks account.\n\nTo verify and settle the invoice, click the link below:\n\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Team\n\n*This is an automated message. Please do not reply to this email.*"
+    }
+}

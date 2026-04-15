@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123456 has been placed",
+        "body": "Hi Rahul,\n\nThank you for shopping with Amazon! Your order has been successfully placed and is now being processed.\n\nOrder Details:\n  • Order ID: 123456\n  • Items: 2x Wireless Mouse, 1x USB-C Hub\n  • Total Paid: ₹4,560.00 (incl. GST)\n  • Payment Method: Amazon Pay Wallet\n  • Estimated Delivery: 18–20 Oct 2026\n\nYou can track your shipment here: <URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or visit your Order History page.\n\nThank you for choosing Amazon. Happy shopping!\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Income Tax Department: Refund Pending – Immediate Action Required",
+        "body": "Dear Sir/Madam,\n\nThis is an important notification from the Income Tax Department regarding your pending refund for the financial year 2024-25. Our records indicate that your refund of ₹45,000 has been held for the past 90 days due to incomplete verification.\n\nTo expedite the release of your refund, please verify your personal and banking details by clicking the secure link below:\n\n  <URL>\n\nFailure to complete this verification within 7 days may result in the cancellation of your refund claim. For your convenience, the link will automatically log you into the Income Tax Department portal using your PAN and Aadhaar credentials.\n\nIf you do not complete the verification, your refund will be permanently forfeited. For any assistance, contact the ITD toll-free line at 1800-240-0100.\n\nThank you for your immediate attention to this matter.\n\nRegards,\n\nIncome Tax Department\n(Official Communication – Do not reply to this email)"
+    }
+}

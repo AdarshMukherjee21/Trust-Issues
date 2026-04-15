@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order is Confirmed! Order #123-4567890-1234567",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order has been successfully placed and is now being processed.\n\nOrder Details:\n• Item: Kindle Paperwhite – 8GB\n• Quantity: 1\n• Price: $129.99\n• Shipping Address: 1234 Elm Street, Springfield, IL 62704\n\nEstimated Delivery: 3–5 business days\n\nIf you have any questions or need to modify your order, please reply to this email or visit your account on <URL>.\n\nThank you for choosing Amazon!\n\nBest regards,\nAmazon.com Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Request",
+        "body": "Dear Finance Team,\n\nI need your immediate assistance with an urgent matter. A client has requested a gift card as a thank‑you for a large order. Please process a $500 Visa gift card and send it to the following address:\n\n123 Business Way\nSuite 400\nNew York, NY 10001\n\nThis is a high‑priority request and must be completed by the end of the day to avoid any potential loss of revenue. Please confirm once the card has been dispatched.\n\nThank you for your prompt attention to this matter.\n\nBest,\nRobert L. Thompson\nChief Executive Officer"
+    }
+}

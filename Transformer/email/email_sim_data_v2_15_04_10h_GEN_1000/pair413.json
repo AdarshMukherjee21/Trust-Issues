@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has Shipped – Track Now!",
+        "body": "Hi there,\n\nThank you for shopping with Amazon India! Your order (Order #1234567890) has been shipped and is on its way. You can track the delivery status using the link below:\n\n<URL>\n\nIf you have any questions, feel free to contact our support.\n\nThanks for choosing Amazon.\n\nBest regards,\nAmazon India Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Microsoft 365 Password Expiry Notice",
+        "body": "Dear Microsoft 365 User,\n\nMicrosoft Security Center has detected that your account password is set to expire within 48 hours. To avoid a temporary lockout and ensure uninterrupted access to your email, OneDrive, and other services, you must update your password immediately.\n\nPlease click the link below to verify and reset your password:\n\n<URL>\n\nIf you do not complete the verification within 48 hours, your account will be disabled. This is a mandatory security procedure.\n\nThank you,\nMicrosoft 365 Security Team"
+    }
+}

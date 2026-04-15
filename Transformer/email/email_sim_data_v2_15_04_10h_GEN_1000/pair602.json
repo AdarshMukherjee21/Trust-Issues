@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 3 Days Remaining",
+        "body": "Dear Alex,\n\nThis is a friendly reminder that the semester project submission deadline is fast approaching. Please submit your final project to the university portal by Friday, 5th November 2024, 11:59 PM. The submission should be in PDF format, with the project report and source code zipped in a single archive named 'Project_<StudentID>.zip'.\n\nIf you have any questions or need an extension, please contact the course coordinator, Prof. Dr. Emily Carter, at emily.carter@university.edu before the deadline.\n\nThank you for your cooperation.\n\nBest regards,\nAcademic Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #987654 – Immediate Payment Required",
+        "body": "Hello [Name],\n\nWe have detected an outstanding invoice for the QuickBooks/Norton software package with the following details:\n\nInvoice Number: 987654\nAmount Due: $1,250.00\nDue Date: 08/09/2024\n\nIf the payment is not completed by the due date, your account will be suspended and you may lose access to your financial data. To pay now, log into the secure portal at <URL> and submit the payment.\n\nPlease note that this invoice has been flagged as a potential phishing attempt. Verify the invoice details with your accountant before proceeding.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Support Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission – Due Friday, 25 April",
+        "body": "Dear students,\n\nI hope you are all doing well. This is a friendly reminder that the semester project submissions are due on Friday, April 25th at 11:59 PM.\n\nPlease ensure that you have uploaded your final report and any supporting materials to the course portal by the deadline. Late submissions will be penalized as per the course policy.\n\nIf you have any questions or need clarification on the submission format, feel free to reply to this email or visit the course wiki.\n\nBest regards,\nProfessor Jane Doe\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required – IT Ticket #987654 – Password Reset",
+        "body": "Hello,\n\nOur security system has identified unusual login activity on your account and has automatically opened IT Ticket #987654.\n\nTo prevent potential compromise, we require you to reset your password immediately. Please click <URL> to proceed with the reset process.\n\nNote: If you do not reset your password within 24 hours, your account will be temporarily locked for security reasons.\n\nThank you for your prompt attention to this matter.\n\nBest,\nIT Support Team"
+    }
+}

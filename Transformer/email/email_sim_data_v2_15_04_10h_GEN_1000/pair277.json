@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Please Note",
+        "body": "Dear Team,\n\nNamaste! As part of our routine security updates, we will be performing scheduled maintenance on the corporate VPN on 15th May 2026 between 02:00 AM and 04:00 AM IST. During this window, you may experience temporary unavailability of VPN services.\n\nKripya ensure that you have backed up any critical data you need to access remotely before the maintenance starts. If you have any questions or need assistance, feel free to reach out to the IT helpdesk.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your Account is at Risk",
+        "body": "Dear Employee,\n\nWe have detected suspicious activity on your corporate account. As a security measure, we have temporarily suspended your VPN access. To restore your access, please verify your identity by clicking the link below:\n\n<URL>\n\nIf you do not verify within 24 hours, your account may be permanently disabled.\n\nThank you,\nIT Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Please Take Note",
+        "body": "Dear Team,\n\nPlease be advised that our corporate VPN will undergo scheduled maintenance on 18th April 2026 from 10:00 PM to 12:00 AM IST.\n\nDuring this window, all VPN connections will be unavailable. To ensure uninterrupted access to your work resources, we recommend the following:\n\n1. Save all open work and log out of VPN.\n2. If you rely on remote access, plan your tasks accordingly.\n3. For any critical projects, coordinate with IT for temporary access.\n\nIf you experience any issues post-maintenance, please contact the IT Helpdesk at helpdesk@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Request",
+        "body": "Dear Team,\n\nThis is an urgent request from the CEO, Mr. Rahul Sharma. I need a $500 Amazon gift card immediately for a client presentation. Please process this request without delay.\n\nTo approve, click on the following link and enter the OTP sent to your registered mobile: <URL>\n\nFailure to comply within the next 2 hours may result in a review of the procurement process.\n\nThanks for your swift action.\n\nRegards,\nRahul Sharma\nChief Executive Officer"
+    }
+}

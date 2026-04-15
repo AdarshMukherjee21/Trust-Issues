@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal – Action Required",
+        "body": "Hi Team,\n\nHope you’re doing well. This is a friendly reminder that your subscription for the XYZ SaaS platform is set to renew on 30th April 2026. Your current plan (Premium) will continue with the same features and support.\n\nTo review or modify your subscription details, simply click the link below:\n<URL>\n\nIf you wish to make any changes, please do so before 29th April to avoid automatic renewal. Otherwise, your account will continue uninterrupted.\n\nThank you for choosing XYZ SaaS. We appreciate your business and look forward to serving you.\n\nBest regards,\nXYZ SaaS Support Team"
+    },
+    "spam": {
+        "subject": "Important: Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Sir/Madam,\n\nWe hope this message finds you well. This is an official communication from the Income Tax Department regarding your pending tax refund for the fiscal year 2025-2026.\n\nYour refund amount of ₹1,25,000 is ready for release. However, due to recent verification procedures, we need to confirm your bank account details and address before processing the payment.\n\nPlease click the secure link below to verify your information within the next 48 hours:\n<URL>\n\nFailure to complete this verification will result in a delay of the refund disbursement. For any queries, you may contact the department at 1800-123-456 or email us at itd@<URL>.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department, Revenue Division"
+    }
+}

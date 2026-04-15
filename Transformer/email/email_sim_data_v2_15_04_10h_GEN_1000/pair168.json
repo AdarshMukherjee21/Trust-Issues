@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation and Details",
+        "body": "Dear [Name],\n\nThank you for choosing XYZ Airlines for your travel needs. Below is the confirmation of your upcoming flight:\n\nFlight Number: XYZ 1234\nDeparture: Los Angeles International Airport (LAX) – 12:05 PM, March 15, 2026\nArrival: John F. Kennedy International Airport (JFK) – 8:45 PM, March 15, 2026\nSeat Assignment: 12A, Window\nBaggage Allowance: 1 checked bag (up to 23 kg) + 1 carry‑on\n\nCheck‑in: Please arrive at the airport at least 2 hours before departure. Online check‑in is available up to 24 hours before your flight.\n\nShould you need any assistance or wish to make changes to your booking, feel free to contact our customer service team at 1-800-XYZ-1234 or email support@xyzairlines.com.\n\nWe look forward to welcoming you aboard and wish you a pleasant journey.\n\nSincerely,\n\nXYZ Airlines Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your FedEx/DHL Shipment",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent shipment with FedEx/DHL (Tracking # 123456789) was not delivered due to an outstanding balance. To release the package and avoid additional penalties, you must settle the fee within the next 48 hours.\n\nFailure to act will result in the shipment being returned to the sender and an additional fee of $75.00 being added to your account. Your access to future shipments may also be suspended pending payment.\n\nTo verify your account and submit payment securely, please click the link below:\n\n<URL>\n\nWe appreciate your prompt attention to this matter and thank you for choosing FedEx/DHL.\n\nSincerely,\n\nFedEx Customer Service"
+    }
+}

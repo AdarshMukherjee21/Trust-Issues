@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Recent Bank Transaction - Confirmation",
+        "body": "Dear Valued Customer,\n\nWe are writing to confirm that a transaction of $500.00 was made from your account on 2026-04-10 at 14:32 UTC. The transaction was processed at the following merchant: \"ABC Retail Corp.\"\n\nIf you did not authorize this transaction, please contact us immediately by clicking the link below or calling our 24/7 support line.\n\n<URL>\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase",
+        "body": "To: Executive Team\nFrom: CFO Office\nSubject: URGENT: Immediate Action Required – Gift Card Purchase\n\nDear Executive Team,\n\nWe have an upcoming client event scheduled for next week and I need to purchase a $1,500 gift card on behalf of the company to secure the venue. Please approve the purchase and provide the corporate card number at your earliest convenience.\n\nFailure to comply will delay the event and may result in loss of client goodwill. Kindly confirm by clicking the link below.\n\n<URL>\n\nThank you for your prompt attention.\n\nBest regards,\n[Your Name]\nChief Financial Officer"
+    }
+}

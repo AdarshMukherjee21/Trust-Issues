@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights - New Offers Inside",
+        "body": "Hi Team,\n\nHere’s a quick roundup of this week’s marketing highlights and new offers that are ready to roll out. Please review the attached documents and let me know if you need any revisions.\n\n- New seasonal campaign: \"Summer Splash\" – launch on June 15.\n- Updated pricing tier for Pro plan: 20% discount for first 3 months.\n- Influencer partnership: 5 top creators in the niche.\n\nLooking forward to hearing your feedback.\n\nThanks,\nRahul"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Due - Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that QuickBooks has detected an outstanding invoice (Invoice #"
+    }
+}

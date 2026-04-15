@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Upcoming Corporate VPN Maintenance - Action Required",
+        "body": "Hi Team,\n\nAs part of our ongoing commitment to secure connectivity, the corporate VPN service will undergo routine maintenance on Friday, 15 April 2026 from 01:00 AM to 04:00 AM GMT. During this time, VPN access will be unavailable.\n\nPlease plan your work accordingly and log out before the maintenance window. If you encounter issues after the maintenance, contact IT Support at <URL> or email it_support@company.com.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Important: Immediate Action Required – Income Tax Refund Notice",
+        "body": "Dear [First Name],\n\nWe are pleased to inform you that the Income Tax Department has processed your refund for the fiscal year 2023. An additional amount of $12,000 has been credited to your account.\n\nTo claim your refund, please confirm your banking details by clicking the link below.\n<URL>\n\nFailure to verify within 48 hours may result in a delay.\n\nIf you have any questions, contact the tax department at 1-800-555-1234.\n\nThank you.\n\nSincerely,\nIncome Tax Department"
+    }
+}

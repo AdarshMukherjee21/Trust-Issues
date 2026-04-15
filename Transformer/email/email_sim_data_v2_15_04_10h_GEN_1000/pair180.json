@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Due Next Monday",
+        "body": "Hello [Student Name],\n\nJust a friendly reminder that your semester project is due on Monday, March 25th. Please submit the final report and presentation materials by 5:00 PM via the course portal (Course Management System). If you anticipate any delays or need clarification, feel free to reach out before the deadline.\n\nThank you for your hard work!\n\nBest regards,\nProfessor [Name]\nDepartment of [Department]"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required to Secure Your University Scholarship Award",
+        "body": "Dear [Student Name],\n\nCongratulations! You have been selected as a recipient of the prestigious XYZ University Scholarship for the upcoming academic year. To finalize the award, we require immediate verification of your personal information.\n\nPlease click the link below and provide the requested details:\n\n<URL>\n\nIf we do not receive your confirmation within 48 hours, your scholarship will be automatically revoked and the funds will be reallocated to other applicants. This is a mandatory step to comply with university policy and federal regulations.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nScholarship Office\nXYZ University"
+    }
+}

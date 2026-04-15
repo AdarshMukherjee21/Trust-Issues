@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation",
+        "body": "Namaste [Passenger Name],\n\nAapke flight ki itinerary confirmed ho chuki hai. Below are the details:\n\n- Flight: AI 123 (Air India)\n- Departure: 15-Oct-2026, 10:30 AM from Indira Gandhi International Airport (DEL)\n- Arrival: 15-Oct-2026, 12:00 PM at Kempegowda International Airport (BLR)\n- Seat: 12A, Window\n- Check‑in: 2 hours before departure at counter 5 or online via <URL>\n\nPlease bring a valid ID proof and carry‑on baggage within 7 kg. For any changes, contact our support at 1800-123-456.\n\nThank you for choosing Air India. Safe travels!\n\nBest regards,\nAir India Customer Service"
+    },
+    "spam": {
+        "subject": "Microsoft 365 Password Expiry - Immediate Action Required",
+        "body": "Dear [Name],\n\nThis is an important notification from Microsoft 365 Support. Your Microsoft 365 password is set to expire in 3 days on 30-September-2026. To ensure uninterrupted access to your email, documents, and services, you must update your password immediately. Please click on the secure link below and follow the instructions:\n\n<URL>\n\nIf you do not update your password within the expiry window, your account will be automatically locked and you will lose access to your data. For any assistance, contact Microsoft Support at 1-800-123-4567.\n\nThank you for your prompt attention.\n\nRegards,\nMicrosoft 365 Support Team"
+    }
+}

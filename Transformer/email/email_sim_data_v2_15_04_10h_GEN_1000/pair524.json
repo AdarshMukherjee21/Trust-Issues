@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – Don't Miss Out!",
+        "body": "Hello valued customer,\n\nWe hope you’re having a great week! As part of our commitment to keeping you informed about the latest trends and exclusive offers, we’re excited to share this week’s highlights:\n\n• **New Arrival – SmartFit Pro Smartwatch** – Get 20% off when you order before Friday.\n• **Customer Success Story** – Discover how Jane Doe transformed her fitness routine with our app.\n• **Upcoming Webinar** – Join us next Thursday at 3 PM for a live demo of our new AI-powered analytics tool.\n\nWe’ve also added a fresh blog post on “10 Ways to Boost Your Productivity at Work” – check it out at <URL>.\n\nThank you for being part of our community. Feel free to reply to this email if you have any questions or would like personalized recommendations.\n\nWarm regards,\n\nThe Marketing Team\n\nP.S. Keep an eye on your inbox next week for a special surprise. Happy reading!"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Attention All Employees,\n\nThis is an urgent notice from the Human Resources Department regarding your upcoming payroll. Due to recent system upgrades, we need you to confirm your direct deposit details to ensure a smooth processing of your salary on the 30th of this month.\n\nPlease log in to the HR portal and verify your banking information by the end of today (Friday, 5:00 PM EST). Failure to do so may result in a delay or incorrect disbursement of your wages. For security reasons, the portal link is only available through the company intranet. Do not share this message or the link with anyone outside the HR team.\n\nIf you have already updated your details, kindly ignore this notification. If you encounter any issues, reply to this email or contact the payroll hotline at <URL>.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nHR Department\n\n---\n\nNote: This message is intended for authorized employees only. If you are not a company employee, please disregard and delete this email immediately."
+    }
+}

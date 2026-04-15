@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe",
+        "body": "Hello,\n\nThank you for reaching out. I am currently out of the office and will return on Monday, December 10. During this period, I will have limited access to my email.\n\nFor urgent matters, please contact Sarah at sarah@example.com.\n\nThank you for your understanding.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Shipment Missed Delivery – Fee Required",
+        "body": "Dear Customer,\n\nOur records indicate that your FedEx shipment with tracking number 123456789 was not delivered on the scheduled date. To avoid the shipment being returned to sender, a delivery fee of $25.00 must be paid immediately.\n\nPlease click the link below to complete payment:\n<URL>\n\nFailure to pay the fee within 48 hours will result in the cancellation of your shipment. If you believe this notice is in error, contact our support team at support@example.com.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Service"
+    }
+}

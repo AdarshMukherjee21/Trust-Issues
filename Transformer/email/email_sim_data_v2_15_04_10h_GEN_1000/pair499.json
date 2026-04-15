@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Corporate VPN Maintenance Notice – Scheduled Downtime on 15th April",
+        "body": "Dear Team,\n\nPlease be advised that the Corporate VPN will undergo scheduled maintenance on Thursday, 15th April from 10:00 PM to 2:00 AM IST. During this window, all VPN connections will be unavailable.\n\nTo minimise disruption:\n1. Plan your remote work accordingly.\n2. If you need to access critical resources, plan to use the on‑premise network or set up a temporary access point.\n3. For any assistance or to report issues, contact IT Support at it.support@company.com.\n\nThank you for your cooperation.\n\nRegards,\nIT Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended! Verify Now!",
+        "body": "Hello,\n\nWe regret to inform you that your Crypto Wallet account (ID: 987654321) has been temporarily suspended due to suspicious activity. To restore access immediately, please verify your account details by clicking the link below:\n\n<URL>\n\nPlease note: If you do not verify within 48 hours, your wallet will be permanently blocked and all funds may be forfeited.\n\nThank you for your prompt attention.\n\nSincerely,\nCryptoSecure Support Team"
+    }
+}

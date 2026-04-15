@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Standard Bank: Transaction Alert – $250.00 Debit from ABC Store",
+        "body": "Hello John Doe,\n\nThis is a notification from Standard Bank regarding a recent transaction on your account ending in 1234.\n\n• Date: 2026-04-14\n• Amount: $250.00\n• Merchant: ABC Store\n• Location: New York, NY\n\nIf you recognize this transaction, no further action is required. If you do not recognize this transaction, please contact Standard Bank immediately at 1-800-555-1234 or visit your nearest branch.\n\nThank you for banking with Standard Bank.\n\nSincerely,\n\nStandard Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Package Delivery Failed – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking #123456789) could not be delivered due to missing recipient. To avoid additional missed delivery fees, please verify your delivery address within 48 hours. Failure to do so will result in a $50 missed delivery fee and potential account suspension.\n\nClick <URL> to resolve this issue immediately.\n\nThank you for your prompt attention.\n\nBest regards,\n\nFedEx Customer Support"
+    }
+}

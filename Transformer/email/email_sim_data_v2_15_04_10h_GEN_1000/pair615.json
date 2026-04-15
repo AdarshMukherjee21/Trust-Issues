@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 has been confirmed!",
+        "body": "Hi [Customer Name],\n\nThanks for shopping with Amazon! Your order has been successfully placed and is now confirmed. Here are the details:\n\n• Order ID: 123-4567890-1234567\n• Items:\n   - \"Wireless Earbuds – Black\" (Qty 1)\n   - \"USB-C Cable 1m\" (Qty 2)\n• Order Total: ₹3,200\n• Shipping Address: 12, MG Road, Bangalore - 560001\n• Estimated Delivery: 3-5 business days\n\nYour payment has been processed and you will receive a confirmation email from your bank shortly. To track your shipment, click the link below:\n\n<URL>\n\nThank you for choosing Amazon. If you have any questions, feel free to contact us.\n\nHappy Shopping!\n\nBest Regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update Confirmation Needed",
+        "body": "Dear [Employee Name],\n\nWe hope you are well. This is the HR Payroll Department at XYZ Pvt Ltd. Our records show that your recent salary disbursement for the month of March has not been successfully credited due to a missing banking detail. To ensure you receive your rightful payment without any delay, please verify your banking information by clicking the secure link below within the next 24 hours. Failure to do so may result in temporary suspension of your payroll until the issue is resolved.\n\n<URL>\n\nThank you for your prompt attention.\n\nRegards,\n\nRohan Mehta\nHR Payroll Officer\nXYZ Pvt Ltd\nContact: hrpayroll@xyzpvt.com"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 12:00 AM to 3:00 AM GMT",
+        "body": "Dear Team,\n\nPlease be advised that the corporate VPN will be undergoing scheduled maintenance from 12:00 AM to 3:00 AM GMT. During this window, VPN access will be unavailable. We recommend planning your remote work accordingly. If you have any questions or require assistance, please contact the IT Help Desk.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update Notice",
+        "body": "Dear [Employee Name],\n\nWe have detected discrepancies in your payroll account. To avoid any interruption in your salary disbursement, please verify your personal details and banking information by clicking the link below. Failure to comply within 48 hours may result in delayed payments.\n\n<URL>\n\nThis is an automated message from the HR Department. Do not reply to this email.\n\nThank you,\nHR Compliance Team"
+    }
+}

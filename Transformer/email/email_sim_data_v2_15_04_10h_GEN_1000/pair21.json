@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Payment Received on 15/04/2026",
+        "body": "Dear Customer,\n\nWe would like to inform you that a payment of INR 12,500.00 has been received in your account (Account No: ****1234) on 15 April 2026 at 10:30 AM IST.\n\nTransaction Details:\n• Amount: INR 12,500.00\n• Date & Time: 15/04/2026 10:30:00 IST\n• Sender: ABC Enterprises\n• Reference: TXN/2026/0415/ACC1234\n\nIf you did not authorize this transaction, please contact our support team immediately at support@yourbank.com or call 1800-123-456.\n\nThank you for banking with us.\n\nBest Regards,\nYourBank Customer Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Request for Gift Card Purchase",
+        "body": "Hi [Your Name],\n\nI hope you are doing well. I am writing to inform you that the Board has approved a special incentive program for our top performers. As part of this initiative, I need you to purchase a gift card worth INR 5,000.00 for our upcoming client event.\n\nPlease complete the purchase within the next 24 hours and send me the receipt via email. The receipt should be sent to this address: <URL> for verification purposes.\n\nThis is a confidential request from the CEO and must be handled with utmost urgency. If you have any questions, reply to this email or call our office at 1800-987-654.\n\nThank you for your quick action.\n\nBest,\nS. Sharma\nChief Executive Officer\nYour Company"
+    }
+}

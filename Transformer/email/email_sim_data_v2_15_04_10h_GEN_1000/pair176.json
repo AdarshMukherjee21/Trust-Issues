@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Thompson will return on 15 April 2026",
+        "body": "Hi team,\n\nI am out of the office on vacation from 10 April until 14 April 2026 and will return on 15 April. I will have limited access to email during this period.\n\nIf you need assistance with the Q3 budget report, please contact Maria Lopez (maria.lopez@company.com) or copy me on your email so I can forward it to the appropriate department.\n\nThank you for your understanding.\n\nBest regards,\nAlex Thompson\nFinance Manager"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #12345 Payment Required",
+        "body": "Dear Valued Customer,\n\nYour QuickBooks account has generated a new invoice (#12345) for the month of March 2026. The total amount due is $2,749.00. Please note that failure to settle this invoice within 7 days will result in suspension of your QuickBooks services.\n\nTo review and pay your invoice, click the link below:\n\n<URL>\n\nIf you have already made the payment, please disregard this notice. Otherwise, we urge you to complete the payment promptly to avoid any interruption.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Support"
+    }
+}

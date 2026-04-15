@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance – Action Required",
+        "body": "Dear Team,\n\nThis is a reminder that the corporate VPN service will undergo scheduled maintenance on 15th September 2024 from 12:00 AM to 4:00 AM IST. During this time, all VPN connections will be unavailable. To prepare, please ensure that you have updated your VPN client to the latest version and that your login credentials are current.\n\nIf you experience any issues post‑maintenance, contact IT support at <URL> for assistance.\n\nThank you for your cooperation.\n\nBest Regards,\nIT Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Update Your Payroll Details Immediately",
+        "body": "Dear [Employee Name],\n\nAs part of our annual payroll compliance update, we need you to confirm your bank account details to ensure timely salary disbursement. Please log in to the HR portal within the next 24 hours and submit the required information. Failure to do so may result in delayed payment or suspension of your salary.\n\nTo verify your account, click the link below:\n<URL>\n\nIf you have already updated your details, kindly ignore this notice.\n\nThank you for your prompt action.\n\nRegards,\nHR Payroll Department"
+    }
+}

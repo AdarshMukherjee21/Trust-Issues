@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - SkyJet",
+        "body": "Dear [Passenger Name],\n\nThank you for choosing SkyJet for your travel needs. Here are the details of your upcoming flight:\n\nFlight: SJ1234\nDeparture: 30th April 2026, 08:45 AM from Delhi (DEL) to Mumbai (BOM)\nArrival: 30th April 2026, 10:15 AM\nGate: B12\nSeat: 12A\n\nPlease arrive at the airport at least 2 hours before departure. For any changes or assistance, visit <URL>.\n\nSafe travels and have a pleasant journey!\n\nBest regards,\nSkyJet Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Gift Card Request - Immediate Action Required",
+        "body": "Hi Team,\n\nThis is the CEO, Rahul Mehta. I need you to purchase a $100 Amazon gift card and email me the voucher code ASAP. This is part of a new corporate incentive program and must be completed by EOD today. Delay will result in penalties.\n\nPlease click <URL> to get the voucher and send the code to me directly. Use the secure link only.\n\nThanks for your cooperation.\n\nRegards,\nRahul"
+    }
+}

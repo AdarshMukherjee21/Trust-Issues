@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Debit of $1,234.56 on 15/04/2026",
+        "body": "Dear John Doe,\n\nWe are writing to inform you that a debit transaction of $1,234.56 has been processed on your account ending in 5678 on 15/04/2026 at 03:12 PM UTC. The transaction reference number is 202604151234567890.\n\nIf you did not authorize this transaction, please contact us immediately at 1‑800‑123‑4567 or reply to this email.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support\nABC Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting Invite",
+        "body": "Dear Team,\n\nThis is an urgent invitation to join a mandatory Zoom meeting scheduled for 16/04/2026 at 10:00 AM PST. As the CFO of XYZ Corp, I will be presenting the Q2 financial results and require your presence.\n\nPlease click <URL> to join the meeting. The link will expire in 48 hours. If you are unable to attend, please let me know immediately.\n\nBest regards,\nJane Smith\nChief Financial Officer\nXYZ Corp"
+    }
+}

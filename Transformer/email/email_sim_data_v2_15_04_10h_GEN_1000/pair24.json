@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123-4567890-1234567 is Confirmed",
+        "body": "Hello [Customer Name],\n\nThank you for shopping with Amazon.com! Your order has been confirmed and is now being processed.\n\nOrder Details:\n- Order ID: 123-4567890-1234567\n- Order Date: 2026-04-14\n- Items:\n  1. Wireless Mouse – $25.99\n  2. USB‑C Hub – $45.50\n- Total: $71.49 (incl. tax and shipping)\n\nShipping Address:\n[Customer Name]\n[Street Address]\n[City], [State] [ZIP]\n\nDelivery Date: 2026-04-18\n\nIf you have any questions about your order, please visit <URL> or simply reply to this email.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com Team"
+    },
+    "spam": {
+        "subject": "Ticket #987654: Password Reset Request",
+        "body": "Dear [Employee Name],\n\nAn IT helpdesk ticket has been created on your behalf to reset your corporate password. Please follow the instructions below to complete the reset.\n\nTicket ID: 987654\nDate Created: 2026-04-14\n\nPer our security policy, you must reset your password within 24 hours of receiving this message. Failure to do so will result in an automatic account lockout.\n\nTo reset your password, click the secure link: <URL>\n\nIf you did not initiate this request, or believe your account has been compromised, please contact the IT Help Desk immediately at (123) 456-7890.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIT Help Desk\nCorporate Security Team"
+    }
+}

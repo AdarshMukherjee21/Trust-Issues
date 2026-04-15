@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "VPN Maintenance Notice – 15 June 2026",
+        "body": "Dear Colleagues,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance on 15th June 2026 from 02:00 to 04:00 UTC. During this window, VPN connectivity will be unavailable.\n\nAll employees will be able to access the VPN again after 04:00 UTC. Please plan accordingly and, if needed, use the internal proxy service during the downtime.\n\nIf you experience any issues post-maintenance, please contact the IT Help Desk at helpdesk@company.com.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent Payroll Verification Required",
+        "body": "Dear Employee,\n\nWe have detected an issue with your payroll account. To ensure uninterrupted processing of your salary, please verify your banking details immediately. Failure to comply within 24 hours may result in a temporary hold on your next paycheck.\n\nPlease log in to the secure"
+    }
+}

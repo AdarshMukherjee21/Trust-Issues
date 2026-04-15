@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Exclusive Deals – Grab Yours Now!",
+        "body": "Hi there,\n\nWe’re excited to bring you this week’s top picks! From 30% off on premium fitness gear to exclusive access to our new home décor line, there’s something for everyone.\n\nDon’t miss out – shop now!\n\nBest,\nYour Favorite Store"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Package Delivery Fee Pending – Action Required",
+        "body": "Hello,\n\nYour FedEx shipment with reference number 123456789 was marked as \"missed delivery\". To avoid further delays, please pay the delivery fee of Rs. 250 at the earliest.\n\nClick here to pay: <URL>\n\nThank you,\nFedEx India"
+    }
+}

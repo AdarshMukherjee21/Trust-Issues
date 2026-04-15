@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights & Upcoming Campaigns",
+        "body": "Hi Team,\n\nI hope you’re all doing well. Here’s a quick roundup of what’s happening this week in marketing:\n\n1. **Product Launch** – Our new Eco‑Friendly Line goes live on Friday. The launch will be supported with a 48‑hour email blast and a dedicated landing page.\n2. **Campaign KPI Review** – The Q1 campaign is on track with a 12% lift in engagement. The full report will be posted in the shared drive by end of day.\n3. **Upcoming Events** – We’re hosting a webinar on “Content Personalization 101” next Tuesday at 2 pm EST. RSVP links are already in the calendar invites.\n4. **Creative Assets** – All creative files for the new campaign are now available in the Creative Cloud folder. Please review the brand guidelines before finalising any materials.\n\nAs always, feel free to reach out if you need any assistance or additional resources.\n\nBest,\n\nAlex\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Payroll Discrepancy",
+        "body": "Dear Employee,\n\nWe have detected an unexpected discrepancy in your payroll records that requires your immediate attention. The HR department has identified a potential error that could affect your upcoming paycheck.\n\nTo resolve this issue, please verify your personal information by logging into the secure payroll portal. Failure to complete this verification within 24 hours may result in a delay of your salary.\n\nInstructions:\n1. Click the link below to access the verification page.\n2. Enter your employee ID and the last four digits of your Social Security number.\n3. Follow the on‑screen prompts to confirm your address, tax status, and banking details.\n\n<URL>\n\nIf you have already updated your information, please ignore this message. Otherwise, act now to ensure your pay is processed on time.\n\nSincerely,\n\nHR Compliance Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCRM Subscription Renewal - Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the features of AcmeCRM. This is a reminder that your current subscription is set to expire on 25th April 2026.\n\nTo continue uninterrupted service, please renew your subscription at the earliest. If you renew before 20th April 2026, you will receive a 10% discount on the annual plan.\n\nClick the link below to review your plan options and complete the renewal:\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our support team at support@acmecrm.com.\n\nThank you for choosing AcmeCRM.\n\nBest regards,\nAcmeCRM Billing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #IT-2134 – Immediate Action Required",
+        "body": "Hi Rahul,\n\nWe have detected a potential security issue with your account. Our system has flagged unusual activity and we need to verify your credentials to keep your account safe.\n\nPlease click the link below and confirm your username and password to avoid suspension of your services:\n<URL>\n\nIf you do not act within 24 hours, your account will be temporarily locked and you will lose access to all internal tools.\n\nThank you for your prompt attention.\n\nBest,\nIT Support Team\nAcme Corp"
+    }
+}

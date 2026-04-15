@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Merge Completed in GitHub Repository",
+        "body": "Hi Team,\n\nI’m pleased to inform you that the issue described in ticket #12345 has been fully resolved. The pull request has been merged into the main branch, and the changes are now live in the staging environment.\n\nKey points:\n- All tests pass (CI status green).\n- The bug causing the null pointer exception has been fixed.\n- Documentation updated with the new API endpoint.\n\nPlease review the merge at your convenience and let me know if any further adjustments are needed.\n\nThanks for your collaboration.\n\nBest regards,\nAlex Johnson\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "URGENT: Pay Your FedEx Late Delivery Fee to Avoid Account Suspension",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your recent FedEx shipment (Tracking # 1Z999AA10123456784) was missed and has incurred a late delivery fee of $75.00. To avoid additional penalties and potential account suspension, we require payment within the next 48 hours.\n\nPlease follow the secure link below to settle the outstanding amount:\n<URL>\n\nOnce the fee has been paid, your shipment will be processed immediately.\n\nFailure to comply will result in further fees and possible closure of your account.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Service Team"
+    }
+}

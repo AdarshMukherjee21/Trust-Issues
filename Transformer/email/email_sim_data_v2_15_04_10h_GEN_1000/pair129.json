@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective May 1",
+        "body": "Dear Team,\n\nWe hope you are doing well. This is to inform you that the company has updated its leave policy, effective from 1st May 2024. The key changes include:\n\n1. **Annual Leave** – 18 days a year, up from 15.\n2. **Sick Leave** – 10 days a year, with documentation required for 3+ days.\n3. **Unpaid Leave** – up to 30 days, subject to manager approval.\n4. **Public Holidays** – 12 national holidays with no additional leave.\n\nPlease review the full policy document attached and feel free to reach out to HR if you have any questions. Thank you for your continued dedication.\n\nBest regards,\n\nHR Team\n\n---\n© 2024 Company Inc. All rights reserved."
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet has been Suspended – Verify Now!",
+        "body": "Hello,\n\nWe regret to inform you that your wallet with CryptoX has been temporarily suspended due to suspicious activity. If you do not verify your identity within the next 24 hours, your funds may be permanently lost.\n\nPlease click the link below to verify your information and restore access:\n\n<URL>\n\nWe apologize for any inconvenience and appreciate your prompt action.\n\nBest regards,\n\nCryptoX Support Team\n\n---\nNote: This is an automated message. Do not reply."
+    }
+}

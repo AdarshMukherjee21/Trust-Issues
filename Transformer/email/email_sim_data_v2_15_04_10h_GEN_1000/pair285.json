@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight ABC123",
+        "body": "Dear Rahul,\n\nThank you for booking with Skyways. Your flight itinerary is confirmed. Please find the details below:\n\nFlight: ABC123\nDate: 25 April 2026\nDeparture: New Delhi (DEL) – 10:00 AM\nArrival: Mumbai (BOM) – 12:30 PM\nSeat: 12A (Aisle)\nCheck‑in: 8:00 AM (online) or 9:00 AM at the airport\nBaggage: 1 free checked bag (23 kg) + 1 carry‑on\n\nPlease keep a copy of this email for reference. If you have any questions, contact us at 1800-987-654.\n\nSafe travels and enjoy your trip! Shubh Yatra.\n\nBest Regards,\nSkyways Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required – Your FedEx Package Missed Delivery",
+        "body": "Dear Customer,\n\nWe regret to inform you that your FedEx shipment with Tracking No. 1234567890 was not delivered on the scheduled date due to an issue with the recipient address. To avoid return to sender and additional charge, please pay the missed delivery fee of INR 500 within 24 hours.\n\nClick <URL> to settle the fee or call our toll‑free number 1800-123-456. Failure to pay will result in the shipment being returned and additional charges.\n\nThank you for choosing FedEx. Prompt action is required.\n\nRegards,\nFedEx Customer Service"
+    }
+}

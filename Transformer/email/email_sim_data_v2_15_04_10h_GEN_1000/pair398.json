@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe – Returning 15 Sep",
+        "body": "Hi Team,\n\nI wanted to let you know that I will be out of the office from 12 September to 14 September 2024. I will have limited access to email during this period. If you need immediate assistance, please contact John Smith at john.smith@example.com or call the office line at (555) 123-4567.\n\nThank you,\nJane"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Notice",
+        "body": "Dear [Your Name],\n\nWe are writing to inform you that you have been selected for a tax refund from the Income Tax Department. Your refund of $15,000 is pending, but we require verification of your account details. Failure to comply within 48 hours may result in the forfeiture of your refund and potential legal action.\n\nPlease click the link below to confirm your details:\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nIncome Tax Department"
+    }
+}

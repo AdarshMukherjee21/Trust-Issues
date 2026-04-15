@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – March 30",
+        "body": "Hello [Student Name],\n\nJust a friendly reminder that the semester project for CS101 is due on March 30, 11:59 PM. Please submit your final report through the LMS before the deadline.\n\nIf you have any questions or need clarification on the rubric, feel free to reach out.\n\nThank you for your hard work!\n\nBest regards,\nProf. John Doe\nProfessor, Computer Science Department"
+    },
+    "spam": {
+        "subject": "Urgent: Claim Your $5,000 Scholarship Now – Limited Time Offer",
+        "body": "Dear Student,\n\nI am Dr. Emily Carter, Associate Dean of the College of Arts and Sciences, and I am pleased to inform you that you have been selected for the 2026 Merit Scholarship Award. Congratulations!\n\nTo confirm your eligibility and secure your $5,000 scholarship, please complete the verification process within the next 48 hours. Failure to do so will result in the forfeiture of this opportunity.\n\nClick the link below to submit your required documents:\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nDr. Emily Carter\nAssociate Dean\nCollege of Arts and Sciences"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation #123456",
+        "body": "Dear Jane Doe,\n\nThank you for booking with SkyHigh Airlines. Your flight details are confirmed below:\n\n• Flight: SH123\n• Departure: New York (JFK) – 07:45 AM, 10 Oct 2024\n• Arrival: Los Angeles (LAX) – 10:20 AM, 10 Oct 2024\n• Seat: 12A (Aisle)\n• Baggage: 1 checked bag (up to 23 kg) and 1 carry‑on\n• Gate: B12 (Boarding begins 30 minutes before departure)\n• Boarding Group: 2\n\nPlease arrive at the airport at least 2 hours before departure. Bring a valid ID and your printed boarding pass or use the SkyHigh mobile app to check in and view your boarding pass.\n\nIf you need to make any changes to your booking, visit your account on the SkyHigh website or contact our 24/7 customer support.\n\nWe look forward to welcoming you aboard.\n\nSafe travels,\n\nSkyHigh Airlines Team\n\n---\nCustomer Support: 1-800-555-1234\nEmail: support@skyhigh.com\nWebsite: <URL>"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Requires Immediate Action",
+        "body": "Dear Applicant"
+    }
+}

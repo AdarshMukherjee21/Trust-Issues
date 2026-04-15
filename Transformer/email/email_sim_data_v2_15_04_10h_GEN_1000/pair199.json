@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Namaste! Your Premium Analytics Subscription Renewal Reminder",
+        "body": "Namaste [Customer Name],\n\nWe hope you are enjoying the benefits of your SaaS subscription. This is a friendly reminder that your subscription for the Premium Analytics plan will renew on 30 Apr 2024. To continue uninterrupted service, please review your renewal settings or update your payment information.\n\nIf you wish to upgrade or change your plan, you can do so by visiting the portal:\n\n<URL>\n\nDhanyavaad for choosing our services. If you have any questions, our support team is ready to help.\n\nBest regards,\nSaaS Support"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: QuickBooks Invoice Overdue – Pay Now",
+        "body": "Dear Valued QuickBooks Customer,\n\nWe have detected an outstanding invoice for your QuickBooks Online account (Account #12345678). Your payment has not been received for the period of 01 Apr 2024 – 31 Mar 2024, and your account is now overdue.\n\nIf the balance of INR 75,000 is not cleared within 48 hours, QuickBooks Finance will automatically suspend your account and you may lose access to all financial reports, payroll processing and tax filing support. This action is irreversible and may result in additional late fees.\n\nTo avoid service interruption, log in to your QuickBooks portal immediately and complete the payment. Click the secure link below:\n\n<URL>\n\nIf you have already paid, please ignore this email. Otherwise, act now to avoid penalties.\n\nRegards,\nQuickBooks Finance Team"
+    }
+}

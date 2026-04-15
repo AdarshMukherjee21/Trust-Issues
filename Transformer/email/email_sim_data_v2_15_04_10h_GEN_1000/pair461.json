@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Booked with Air India – Confirmation",
+        "body": "Dear Mr. Sharma,\n\nThank you for choosing Air India for your upcoming travel. This email contains your flight itinerary details for your journey from Delhi to Mumbai.\n\nBooking Reference: AI123456789\n\nFlight: AI-102\nDeparture: 15th April 2026, 10:30 AM (DEL) – Arrive: 15th April 2026, 12:00 PM (BOM)\n\nSeat Allocation: 12A (Window)\n\nPlease review the itinerary and let us know if you need any changes. You can also manage your booking by logging into your Air India account at <URL>.\n\nSafe travels,\nAir India Customer Care"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Microsoft 365 Password Is About to Expire",
+        "body": "Hello,\n\nWe have detected suspicious activity on your Microsoft 365 account. As part of our security policy, your password will expire in 48 hours. Please verify your credentials immediately to avoid losing access to your email, documents, and OneDrive.\n\nClick the link below to reset your password and secure your account:\n<URL>\n\nIf you do not act within the next 48 hours, your account will be automatically disabled. This is a mandatory compliance measure to protect your personal and corporate data.\n\nThank you for your prompt attention.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

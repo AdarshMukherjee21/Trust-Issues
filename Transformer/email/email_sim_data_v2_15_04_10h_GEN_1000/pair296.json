@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – Order #123-4567890-1234567",
+        "body": "Hi Alex,\n\nThank you for shopping with Amazon! Your order has been placed successfully.\n\nOrder #123-4567890-1234567\nPurchase Date: 15‑Apr‑2026\n\nItems:\n• Echo Dot (4th Gen) – $49.99\n• Kindle Paperwhite – $129.99\n• USB-C Charger – $19.99\n\nSubtotal: $199.97\nShipping & Handling: $0.00 (Prime)\nTax: $0.00\n\nTotal: $199.97\n\nYour items will ship within 1–2 business days. We’ll send you another email when your package is on its way.\n\nIf you have any questions, visit your order history or contact Amazon Customer Service.\n\nThank you for choosing Amazon!\n\n— Amazon.com"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Notification – Immediate Action Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application has been selected for the prestigious Global Scholars Fellowship at the University of Aurora. As a recipient, you will receive a full-ride scholarship covering tuition, living expenses, and a stipend of $30,000 per academic year.\n\nTo confirm your award and secure your place, please complete the following steps within 48 hours:\n1. Verify your personal details by clicking the link below.\n2. Pay the mandatory administrative fee of $250 via secure payment portal.\n3. Submit a copy of your passport and recent transcript.\n\n<URL>\n\nFailure to act within the deadline may result in forfeiture of the scholarship offer. For any questions, contact the Scholarship Office at scholarship@aurora.edu.\n\nSincerely,\n\nDr. Elena Martinez\nDirector, Global Scholars Fellowship\nUniversity of Aurora"
+    }
+}

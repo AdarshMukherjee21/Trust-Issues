@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Bank Alert: Recent Transaction on Your Account",
+        "body": "Dear Customer,\n\nWe have detected a recent transaction of INR 5,000 on your account ending with 1234, dated 15-Apr-2026. If you did not authorize this transaction, please contact our support immediately.\n\nThank you,\nYour Bank Team"
+    },
+    "spam": {
+        "subject": "URGENT: Claim Your University Scholarship Now!",
+        "body": "Dear Student,\n\nCongratulations! You have been selected for a full scholarship of INR 1,50,000 from the National Institute of Higher Education. To finalize your scholarship, we need you to verify your personal details and submit the required documents.\n\nPlease click <URL> to access the verification portal. The deadline to complete this process is 30 days from today. Failure to act may result in forfeiture of the scholarship.\n\nBest regards,\nScholarship Office\nNational Institute of Higher Education"
+    }
+}

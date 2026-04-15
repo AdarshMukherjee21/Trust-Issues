@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCloud Subscription Renewal Notice – Action Required",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the 12‑month experience with AcmeCloud. This is a friendly reminder that your current subscription plan (Premium‑Pro) is set to renew on **June 30, 2026**.\n\nTo ensure uninterrupted service, please review the renewal details below:\n\n• **Plan**: Premium‑Pro\n• **Billing Amount**: $299.99/month\n• **Next Billing Date**: June 30, 2026\n\nIf you wish to make any changes—such as upgrading to Enterprise, adjusting the billing cycle, or updating your payment method—log in to your account at <URL> or simply reply to this email and we’ll be happy to assist.\n\nThank you for choosing AcmeCloud. We value your business and look forward to serving you in the coming year.\n\nBest regards,\n\nAcmeCloud Support Team\nsupport@acmecloud.com\n+1‑800‑555‑1234"
+    },
+    "spam": {
+        "subject": "Congratulations! You've Been Awarded a $10,000 University Scholarship – Claim Now",
+        "body": "Dear Student,\n\nOn behalf of the International Student Foundation, we are delighted to inform you that you have been selected as a recipient of the prestigious **Global Scholars Grant**. Your academic achievements have impressed our selection committee, and you are now eligible for a **$10,000 scholarship** to support your studies at any accredited university worldwide.\n\nTo secure your award, please complete the verification process within the next 48 hours. Failure to do so may result in forfeiture of the scholarship.\n\n**Action Required:**\n1. Click the link below to access the secure scholarship portal.\n2. Submit your personal details, academic transcripts, and proof of enrollment.\n3. Confirm your acceptance of the scholarship.\n\n<URL>\n\nWe appreciate your prompt attention to this matter. Should you have any questions, please contact our scholarship office at scholarship@internationalfoundation.org.\n\nWarm regards,\n\nDr. Eleanor Finch\nDirector, International Student Foundation\nfinch@internationalfoundation.org\n+1‑212‑555‑9876"
+    }
+}

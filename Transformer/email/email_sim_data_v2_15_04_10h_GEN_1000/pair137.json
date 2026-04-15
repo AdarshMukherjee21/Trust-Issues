@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline - 30th Sep",
+        "body": "Dear Team,\n\nI hope you are doing well. This is a gentle reminder that the Semester Project submission portal will close on 30th September, 2023. Please ensure that your project report, code repository link, and the final presentation slides are uploaded by 11:59 PM on the due date.\n\nIf you have any questions or need assistance with the submission process, feel free to reach out to the course coordinator, Ms. Anita Sharma, at anita.sharma@university.edu.\n\nThank you for your cooperation.\n\nBest regards,\nRajesh Kumar\nTeaching Assistant"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Gift Card Confirmation",
+        "body": "Respected Sir,\n\nI am writing to you on behalf of the Executive Management. We have noticed an issue with the recent bonus allocation for the Q3 2023 performance. To expedite the process and avoid any delay in your gift card distribution, we require you to confirm your account details and provide the <URL> to process the transaction.\n\nPlease note that if the confirmation is not received within 24 hours, your gift card allocation will be revoked, and you may be subjected to an INR 50,000 penalty for non-compliance.\n\nKindly respond to this email with the following details at the earliest:\n\n1. Full name\n2. Employee ID\n3. Bank account number\n4. IFSC code\n\nYour prompt action is critical to ensure the successful completion of the bonus program.\n\nThank you for your immediate attention.\n\nSincerely,\nAnjali Verma\nChief Compliance Officer"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 2026-04-20 02:00–04:00 UTC",
+        "body": "Hi team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Thursday, April 20th from 02:00 to 04:00 UTC. During this window, VPN connectivity may be unavailable. We recommend adjusting your work schedule accordingly.\n\nIf you have any questions or need assistance, contact the IT Help Desk.\n\nThanks,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase",
+        "body": "Dear <Your Name>,\n\nI hope you’re doing well. I’m reaching out from the Finance Department because we need a $500 gift card purchased for a client meeting scheduled tomorrow.\n\nPlease use our corporate credit line and send me the confirmation receipt by 12:00 PM today. This is time‑sensitive and must be completed before the client arrives.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

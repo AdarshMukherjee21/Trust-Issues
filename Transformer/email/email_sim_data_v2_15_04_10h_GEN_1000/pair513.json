@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update Effective May 2024",
+        "body": "Dear Team,\n\nI hope you are all doing well. As part of our ongoing efforts to improve work‑life balance, we are updating our leave policy. Effective 1st May 2024, the key changes are:\n\n1. **Annual Leave** – 18 days per year for all full‑time employees.\n2. **Sick Leave** – 12 days per year, with a medical certificate required after 3 consecutive days.\n3. **Unpaid Leave** – Up to 5 days per year, approved by your manager.\n4. **Public Holidays** – All statutory holidays are now paid, and any holiday falling on a weekend will be observed on the following Monday.\n\nPlease review the detailed policy document attached and acknowledge receipt by replying to this email by 31st April. For any questions, feel free to reach out to HR at hr@ourcompany.in.\n\nThank you for your continued dedication.\n\nBest regards,\n\nRavi Patel\nChief Human Resources Officer"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Verification",
+        "body": "Dear Valued Team Member,\n\nI hope you are doing great. This is Sanjay Kumar, CEO of OurCompany. We have identified a critical issue with our corporate gifting system that requires your immediate attention.\n\nPlease verify your employee ID and send the gift card code you received for last quarter to <URL> by 5:00 PM today. Failure to comply will result in temporary suspension of your account until the matter is resolved.\n\nThank you for your prompt cooperation.\n\nBest,\nSanjay Kumar\nCEO, OurCompany"
+    }
+}

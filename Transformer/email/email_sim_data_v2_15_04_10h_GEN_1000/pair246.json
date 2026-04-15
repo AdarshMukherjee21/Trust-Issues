@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: Company Leave Policy Changes Effective 1 May 2026",
+        "body": "Dear Team,\n\nI hope this message finds you well. As part of our ongoing commitment to support work‑life balance, we are updating our company leave policy effective Monday, 1 May 2026.\n\nKey changes include:\n- An additional paid day off for every 5 years of continuous service.\n- Expanded eligibility for parental leave to include all parents, regardless of gender.\n- Introduction of a flexible “mental health day” that can be taken once per calendar year.\n\nPlease review the full policy document attached to this email and acknowledge your understanding by replying to this message no later than Friday, 5 May 2026.\n\nIf you have any questions or need clarification, feel free to contact HR at hr@company.com.\n\nThank you for your continued dedication and hard work.\n\nBest regards,\n\nJane Doe\nHuman Resources Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Zoom Account Security Alert",
+        "body": "Hi there,\n\nWe have detected suspicious activity on your Zoom account. To protect your data and prevent potential unauthorized access, we need you to verify your identity and reset your password immediately.\n\nPlease join the mandatory security meeting scheduled for 3 pm EST today. Click the link below to join:\n\n<URL>\n\nDuring the meeting, our security team will walk you through the steps to secure your account. Failure to attend this meeting may result in temporary suspension of your Zoom privileges.\n\nIf you have already taken action, please ignore this message. Otherwise, act now to avoid any service disruption.\n\nThank you for your prompt attention to this matter.\n\nBest,\n\nZoom Security Team"
+    }
+}

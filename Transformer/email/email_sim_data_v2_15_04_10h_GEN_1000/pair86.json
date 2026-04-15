@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCRM Subscription Renewal Reminder – Action Required",
+        "body": "Hello John,\n\nThis is a reminder that your AcmeCRM subscription is set to renew on 15 April 2026. The renewal amount will be $199.99, billed to the payment method on file. If you would like to change the billing information, adjust the plan, or pause the renewal, please visit <URL> before the renewal date.\n\nThank you for choosing AcmeCRM. If you have questions, contact support@acmecrm.com.\n\nBest regards,\nAcmeCRM Billing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your IT Ticket #56789",
+        "body": "Hi Jane,\n\nWe have received an IT helpdesk ticket regarding a potential security issue with your account. In order to protect your data, we need you to verify your identity and confirm the recent login activity. Please click the link below to complete the verification process:\n\n<URL>\n\nIf you do not take action within 24 hours, your account may be suspended.\n\nThank you for your cooperation.\n\nBest,\nIT Support Team"
+    }
+}

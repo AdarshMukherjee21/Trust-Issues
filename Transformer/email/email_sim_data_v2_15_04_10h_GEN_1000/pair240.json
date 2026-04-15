@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th April",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the deadline for the semester project submission is fast approaching. Please make sure to submit your final reports and code repositories to the course portal by **15th April, 2026** at 11:59 PM. Late submissions will incur a penalty unless you have an approved extension.\n\n**Submission Checklist**\n- Project report (PDF, 10‑15 pages)\n- Source code (zip or repository link)\n- README file with build/run instructions\n- Test results and documentation\n\nIf you have any questions or need clarification on the requirements, feel free to reach out to me via email or during office hours. Good luck, and I look forward to reviewing your work!\n\nBest regards,\n\nProf. Eleanor Smith\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry – Immediate Action Required",
+        "body": "Dear Valued Employee,\n\nOur security audit has identified that your Microsoft 365 password will expire on **17th April, 2026**. To prevent any interruption to your email, calendar, and other corporate services, you must reset your password by clicking the link below:\n\n<URL>\n\nPlease note that failure to do so will result in a temporary lockout of your account. This is a mandatory compliance measure to protect company data and ensure uninterrupted access to our shared resources.\n\nFor assistance, contact the IT Help Desk at 1‑800‑555‑1234 or reply to this email.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nMicrosoft Azure Security Team"
+    }
+}

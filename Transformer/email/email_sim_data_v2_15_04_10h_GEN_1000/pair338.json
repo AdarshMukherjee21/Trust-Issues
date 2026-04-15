@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe – June 15 to June 22",
+        "body": "Hi Team,\n\nI will be out of the office from June 15 to June 22, returning on June 23. During this period, I will have limited access to email and will not be able to respond promptly.\n\nFor urgent matters, please contact my colleague John Smith at john.smith@example.com or call the office line at (555) 123-4567.\n\nThank you for your understanding.\n\nBest regards,\nJane Doe"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Zoom Meeting Invitation",
+        "body": "Dear Valued Partner,\n\nWe have detected unusual activity on your account that requires immediate attention. To protect your financial interests and comply with our updated security protocols, you must confirm your account details and join a mandatory Zoom briefing.\n\nPlease click the link below to join the secure session:\n<URL>\n\nDuring the call, you will receive instructions on how to secure your account and avoid potential financial penalties. Failure to attend may result in temporary suspension of your account and loss of access to critical services.\n\nAct now – the deadline to complete verification is 24 hours from receipt of this email.\n\nThank you for your cooperation.\n\nSincerely,\nSecurity Operations Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal is Due – Action Required",
+        "body": "Hi Alex,\n\nI hope you’re doing well. I’m writing to remind you that your subscription to CloudSync Pro is set to renew on March 15, 2026. Your current plan includes premium analytics and priority support, and renewing on time will ensure uninterrupted service.\n\nTo proceed, simply click the link below and confirm your billing details:\n\n<URL>\n\nIf you wish to pause or upgrade your plan, please let me know by replying to this email. Otherwise, the renewal will automatically process using the last payment method on file.\n\nThank you for choosing CloudSync Pro. We look forward to serving you in the coming year.\n\nBest regards,\n\nMaya Patel\nAccount Manager\nCloudSync Pro\nsupport@cloudsync.com"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Overdue – Immediate Action Required",
+        "body": "Dear Valued Vendor,\n\nOur records indicate that Invoice #QB-8421, dated January 12, 2026, remains unpaid and has surpassed the 30‑day payment window. Failure to settle this balance may result in service interruption and a potential penalty of 3% per month.\n\nPlease review the invoice details and complete the payment at your earliest convenience by clicking the link below:\n\n<URL>\n\nIf you have already processed this payment, kindly disregard this notice. Otherwise, we urge you to act swiftly to avoid any disruption to your QuickBooks account.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nFinance Department\nQuickBooks Enterprise\nsupport@quickbooks.com"
+    }
+}

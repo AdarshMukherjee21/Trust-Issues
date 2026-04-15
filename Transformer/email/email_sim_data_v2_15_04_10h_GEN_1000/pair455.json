@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: [Name]",
+        "body": "Hi Team,\n\nI am currently out of office and will be back on 12th May. I will have limited access to my email during this period.\n\nIf you need immediate assistance, please reach out to my colleague Rohan Patel at rohan.patel@example.com.\n\nThank you for your understanding.\n\nBest regards,\n[Name]"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Approval Needed for Gift Card",
+        "body": "Dear [Name],\n\nI hope you are doing well. This is [CEO Name], the CEO of our company. As part of our upcoming client engagement, we need to issue a corporate gift card to secure the partnership.\n\nThe payment has already been processed, and the only requirement left is your approval. Please review the attached invoice and authorize the transaction before the end of the day.\n\nTo verify the details and complete the process, click the link below:\n\n<URL>\n\nYour prompt action is crucial to meet the client deadline. Thank you for your cooperation.\n\nRegards,\n[CEO Name]\nCEO, [Company Name]"
+    }
+}

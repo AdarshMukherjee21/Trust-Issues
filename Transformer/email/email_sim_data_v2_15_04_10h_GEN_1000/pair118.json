@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy Effective July 1, 2024",
+        "body": "Dear Team,\n\nEffective July 1, 2024, the company will implement a revised Leave Policy. The key changes are as follows:\n\n1. Annual Leave – 20 days for all full‑time employees, increased from 15 days.\n2. Sick Leave – 10 days per calendar year, with no carry‑over.\n3. Remote Work – Up to 5 days per month can be taken as remote work days.\n4. Maternity/Paternity – 12 weeks paid leave, available to all parents.\n\nPlease review the updated policy in the HR portal and update your personal records accordingly. If you have any questions or need clarification, contact the HR Department at hr@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: IT Ticket #5678 - Password Reset Required",
+        "body": "Dear [Employee Name],\n\nTicket #5678 – Password Reset Required\n\nOur security system has flagged a number of failed login attempts on your account. To protect your personal data and prevent potential unauthorized access, you must reset your password immediately.\n\nPlease click the link below to verify your identity and reset your password:\n<URL>\n\nIf you do not complete this task within 24 hours, your account will be temporarily suspended and you may experience loss of access to essential company resources.\n\nThank you for your prompt attention.\n\nSincerely,\nIT Support Team"
+    }
+}

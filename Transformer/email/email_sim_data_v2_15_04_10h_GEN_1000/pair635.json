@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: INR 5000 debited from your account",
+        "body": "Hello [Name],\n\nThis is a notification that an amount of INR 5000 has been debited from your account (XXXXXXXX) on 20-04-2026.\n\nYadi aapne is transaction ko authorize nahin kiya, to kripya turant apni bank se sampark kare.\n\nThank you,\nXYZ Bank\nCustomer Care"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending - Immediate Action Required",
+        "body": "Dear [Name],\n\nWe are pleased to inform you that your Income Tax refund of INR [amount] is pending for release. Our records indicate that the refund has not yet been credited to your bank account due to incomplete verification.\n\nTo expedite the process, kripya verify your PAN and bank details by clicking the link below:\n\n<URL>\n\nKripya note: Failure to complete verification within 48 hours will result in the refund being held for 30 days.\n\nShukriya for your cooperation.\n\nRegards,\nIncome Tax Department\nCustomer Support\nTel: +91-XXX-XXX-XXXX"
+    }
+}

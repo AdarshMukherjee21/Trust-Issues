@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Backend API Update",
+        "body": "Hi Team,\n\nI wanted to let you know that the issue reported in ticket #12345 has been resolved. The backend API now correctly returns the updated user profile data after the recent deployment. I ran a regression test yesterday and everything passed.\n\nKey points:\n- Fixed null pointer exception when fetching user data.\n- Updated unit tests.\n- Deployed to staging; ready for production.\n\nPlease pull the latest changes and verify. Let me know if any further issues.\n\nBest,\nAlex"
+    },
+    "spam": {
+        "subject": "URGENT: Confirm Your Scholarship Award to Receive Funds",
+        "body": "Dear Student,\n\nCongratulations! You have been selected as a recipient of the prestigious Global Scholars Program for the 2025-2026 academic year. To finalize your award, we require you to verify your personal information and complete a brief confirmation process.\n\nPlease click on the link below to submit your details and receive the scholarship funds directly into your university account:\n\n<URL>\n\nFailure to complete this process within 48 hours will result in your award being revoked. Your immediate attention is required.\n\nThank you for your prompt cooperation.\n\nSincerely,\nOffice of Scholarships\nUniversity of Excellence"
+    }
+}

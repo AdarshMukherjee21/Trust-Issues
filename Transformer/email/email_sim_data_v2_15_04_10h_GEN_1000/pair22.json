@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: [Your Name] - Returning 15th June",
+        "body": "Hello,\n\nI am currently out of the office on vacation and will not return until June 15th. I will have limited access to email during this period.\n\nIf you require immediate assistance, please contact my colleague [Colleague Name] at colleague@example.com or call our main line at 555-1234.\n\nThank you for your understanding.\n\nBest regards,\n[Your Name]\n[Your Position]\n[Company Name]\n"
+    },
+    "spam": {
+        "subject": "URGENT: Your University Scholarship Application Requires Immediate Action",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that you have been shortlisted for the prestigious Global Excellence Scholarship offered by XYZ University. In order to finalize your award, we need you to provide the following documents within the next 48 hours:\n\n- Official Transcript\n- Proof of Residency\n- Signed Scholarship Agreement\n\nFailure to submit these documents promptly may result in the forfeiture of your scholarship opportunity.\n\nPlease click the link below to upload your files securely:\n<URL>\n\nSincerely,\nDr. Emily Carter\nDirector of Student Affairs\nXYZ University\n"
+    }
+}

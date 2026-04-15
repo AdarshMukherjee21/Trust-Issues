@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Dr. Jane Smith – 15 May 2026",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office and will return on 15 May 2026. I will have limited access to my email during this period. For urgent matters, please contact my colleague Dr. Alan Brown at abrown@example.com.\n\nThank you.\n\nBest regards,\nJane Smith"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Application Pending – Immediate Action Required",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that you have been shortlisted for the International Scholarship Program at the University of Zenith. Your application has been reviewed and you are one of the few finalists. To secure your place, we need you to confirm your acceptance and submit the processing fee of $50.\n\nPlease click <URL> to complete the payment and confirm your acceptance. Failure to do so within 48 hours will result in your application being withdrawn.\n\nThank you for your interest in the University of Zenith. We look forward to welcoming you.\n\nSincerely,\nOffice of Graduate Studies\nUniversity of Zenith"
+    }
+}

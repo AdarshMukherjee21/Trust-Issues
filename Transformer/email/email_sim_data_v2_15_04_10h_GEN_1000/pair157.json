@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Corporate VPN Maintenance – Schedule & Instructions",
+        "body": "Dear Team,\n\nKripya dhyaan dein ki hamara corporate VPN 12 May 2024, Wednesday, 22:00 se 02:00 UTC tak maintain kiya jayega. Is dauran aapko limited connectivity ka samna karna pad sakta hai. 21:30 UTC tak VPN se log out kar lein aur kaam ka backup le lein. Maintenance ke baad updated credentials ka use kar ke reconnect karein. Agar koi samasya ho to IT Support se sampark karein.\n\nDhanyavaad,\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Overdue – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nHumne notice kiya hai ki aapka QuickBooks invoice (Invoice #12345) April 2024 ka abhi tak payment nahi hua. Record ke mutabik ₹15,000 ka payment overdue hai. Agar 48 ghante ke andar is amount ko settle nahi kiya gaya, toh aapka account temporarily suspend ho jayega aur service interruptions ho sakte hain.\n\nKripya neeche diye gaye link par click karke invoice ko dekhein aur payment karein:\n<URL>\n\nThank you for your prompt attention.\n\nRegards,\nQuickBooks Billing Team"
+    }
+}

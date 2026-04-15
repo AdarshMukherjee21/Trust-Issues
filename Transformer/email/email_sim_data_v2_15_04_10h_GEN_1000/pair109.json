@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Effective 1st May 2026",
+        "body": "Dear Team,\n\nWe hope you are doing well. We would like to inform you about the updated Company Leave Policy that will take effect from 1st May 2026. Please review the key changes below:\n\n1. Annual Leave – 20 days for all full‑time employees, increased by 2 days from the previous policy.\n2. Sick Leave – 12 paid days per year. Unused sick leave can be carried over up to a maximum of 5 days.\n3. Special Leave – 5 days for maternity, paternity, and bereavement.\n4. Public Holidays – 12 fixed public holidays; additional floating holidays will be announced in the next meeting.\n\nFor detailed information, please refer to the attached leave policy document. If you have any questions or need assistance, feel free to reach out to the HR team at hr@company.com.\n\nThank you for your cooperation.\n\nBest regards,\n\nHR Department"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear [Employee Name],\n\nNamaste! This is an urgent notice from the Payroll Department regarding your salary disbursement for the last month. It has come to our attention that there have been recent changes in the banking regulations that require us to re‑verify your bank account details to ensure the correct deposit of your salary.\n\nAction Required: Please click on the link below and provide the following information at the earliest:\n\n- Account Number\n- IFSC Code\n- Full Name as per bank records\n\n<URL>\n\nFailure to verify these details by 15th April 2026 will result in a delay of your salary payment and may affect your tax deductions. For any assistance, contact the Payroll Helpdesk at payroll.help@company.com.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nPayroll Officer\nHR & Finance Division"
+    }
+}

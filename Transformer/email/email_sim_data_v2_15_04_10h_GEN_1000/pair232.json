@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe",
+        "body": "Hello Team,\n\nThank you for your email. I am currently out of the office on vacation from 15th to 20th July. I will return on 21st July and will respond to your message then. If you need immediate assistance, please contact my colleague Sarah at sarah@example.com.\n\nBest regards,\nJohn"
+    },
+    "spam": {
+        "subject": "[Action Required] Zoom Meeting Invite – Please Confirm",
+        "body": "Hello,\n\nYou have been invited to a confidential Zoom meeting titled \"Quarterly Strategy Review\" scheduled for 3:00 PM GMT on 28th September. Please confirm your attendance by clicking the link below to accept the invitation and add the event to your calendar.\n\n<URL>\n\nIf you do not confirm within 24 hours, the meeting will be automatically rescheduled.\n\nThank you for your prompt attention.\n\nRegards,\nZoom Support Team"
+    }
+}

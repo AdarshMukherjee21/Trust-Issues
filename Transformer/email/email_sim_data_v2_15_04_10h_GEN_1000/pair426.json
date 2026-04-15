@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation #987654",
+        "body": "Dear Mr. Smith,\n\nThank you for choosing SkyHigh Airlines. This email confirms your upcoming flight. Please find the itinerary details below:\n\nBooking Reference: 987654\nPassenger Name: Mr. John Smith\nFlight Number: SH 123\nDeparture: New York JFK – 08:30 AM, 15 Sept 2026\nArrival: Los Angeles LAX – 11:45 AM, 15 Sept 2026\nGate: 22\nSeat: 12A\n\nCheck‑in is available online up to 24 hours before departure. Please bring a valid ID and your boarding pass.\n\nIf you have any questions or need to modify your reservation, contact our customer service at 1-800-555-1234 or email support@skyhigh.com.\n\nThank you for flying with us.\n\nBest regards,\nSkyHigh Airlines"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Shipment Delivery Fee Required – Immediate Action Needed",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your recent FedEx shipment (Tracking #FD123456789) was not successfully delivered due to a missed delivery attempt. To avoid further delay, we must collect a missed delivery fee of $75.00.\n\nPlease verify your account details and complete payment within 48 hours. Failure to do so will result in shipment cancellation and potential additional charges.\n\nClick the link below to confirm your"
+    }
+}

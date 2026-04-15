@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Your account was debited",
+        "body": "Dear Valued Customer,\n\nWe are writing to inform you that a transaction has been made from your account.\n\nAccount: ****1234\nDate: 08-May-2024\nTime: 14:32\nMerchant: ABC Grocery\nAmount: $58.72\nNew Balance: $1,234.56\n\nIf you did not authorize this transaction, please contact our fraud department immediately at 1-800-123-4567.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your Zoom Meeting Details",
+        "body": "Dear [First Name],\n\nThis is a reminder of your scheduled Zoom meeting with our Customer Success team. Please verify the meeting details below and take immediate action to confirm your attendance.\n\nMeeting ID: 123 4567 8901\nPassword: abc123\nDate & Time: Monday, 10th May 2024, 2:00 PM – 3:00 PM (UTC)\n\nTo join the meeting, click the link below.\n<URL>\n\nIf you cannot join, please contact our support team immediately at <URL>.\n\nThank you for your prompt attention.\n\nBest regards,\nJessica Lee\nCustomer Success Manager\nXYZ Corp"
+    }
+}

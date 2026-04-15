@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Issue with Authentication Flow",
+        "body": "Hi Team,\n\nI wanted to let you know that the authentication bug reported in ticket #12345 has been fixed and merged into the main branch.\n\n- Updated the login API to handle token refresh correctly.\n- Added unit tests for edge cases.\n- Deployed to staging; please test the changes.\n\nIf you encounter any further issues, let me know.\n\nThanks,\nMaria Lopez\nDevOps Engineer"
+    },
+    "spam": {
+        "subject": "URGENT: Scheduled Team Meeting – Immediate Action Required",
+        "body": "Hi Team,\n\nThis is an official reminder that a mandatory Zoom meeting has been scheduled for 3:00 PM EST tomorrow. Please join using the link below. Failure to attend will result in a review of your project status.\n\nLink: <URL>\n\nIf you cannot attend, contact me immediately.\n\nBest,\nAlex Johnson\nSenior Manager, Operations"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th April",
+        "body": "Hi Team,\n\nJust a friendly reminder that the semester project submissions are due by 15th April 2026. Kripya ensure that you upload your final project report to the portal by the deadline.\n\nIf you have any questions, feel free to reach out.\n\nBest regards,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nMicrosoft Security Team has detected that your Microsoft 365 account password is set to expire on 20th April 2026. To avoid any interruption to your services, please update your password immediately by clicking the link below:\n\n<URL>\n\nPlease note that failure to do so may result in temporary lockout of your account. Aapko turant action lena hoga. Your account has been flagged for potential compromise, and we need to verify your account details.\n\nThank you for your prompt attention.\n\nMicrosoft Security Team"
+    }
+}

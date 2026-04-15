@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rahul is on leave",
+        "body": "Hi team,\n\nThanks for reaching out. I will be out of the office from 10th July to 20th July. During this period, I will have limited access to email.\n\nFor any urgent matters, please contact our project lead, Priya Sharma, at priyasharma@company.com or call 9876543210.\n\nBest regards,\nRahul\n\nP.S. Kripya dhyan dein – any sensitive information should not be shared over email."
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Verification Required",
+        "body": "Dear valued customer,\n\nWe regret to inform you that your QuickBooks account has an outstanding invoice that requires immediate attention. Failure to verify and pay within 48 hours may result in suspension of your QuickBooks services and additional fees.\n\nInvoice Details:\n- Invoice No.: 2026-07-TRX-001\n- Amount Due: INR 75,000\n- Due Date: 15th July 2026\n\nTo verify your payment details and complete the transaction, please click the link below:\n\n<URL>\n\nFor security purposes, QuickBooks Billing System has implemented additional verification steps. If you do not complete the verification process, your account may be locked.\n\nThank you for your prompt action.\n\nRegards,\nQuickBooks Billing Support\n\nP.S. This is an automated message. Please do not reply to this email. For assistance, visit <URL> or call 1800-123-456."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe (Auto-Reply)",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office and will return on Monday, 25 April 2026. I will have limited access to email during this period.\n\nIf you need immediate assistance, please contact my colleague, Mark Thompson, at mark.thompson@example.com.\n\nThank you for your understanding.\n\nBest regards,\n\nJane Doe\nSenior Analyst\nGlobal Insights Division\nExample Corp"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Notification – Immediate Action Required",
+        "body": "Dear Applicant,\n\nWe are delighted to inform you that you have been selected as a recipient of the prestigious Global Scholars Award from the University of Excellence. This award is granted to a limited number of candidates and is contingent upon the completion of the verification process.\n\nTo secure your scholarship, please submit the following documentation within 48 hours:\n\n1. Proof of enrollment (transcript or enrollment letter).\n2. Identification copy (passport or driver’s licence).\n3. Confirmation of contact details.\n\nComplete the verification by clicking the secure link below:\n\n<URL>\n\nFailure to submit the required documents within the stipulated time will result in automatic forfeiture of the scholarship. Additionally, please note that a nominal processing fee of $150 must be paid to the University’s Scholarship Office to cover administrative costs. The payment can be made via the secure link provided above.\n\nFor any questions or concerns, you may contact the Scholarship Office directly at scholarship.office@university.edu.\n\nWe look forward to welcoming you to the University of Excellence and celebrating your academic achievements.\n\nSincerely,\n\nDr. Emily Carter\nAssociate Dean, Office of Undergraduate Scholarships\nUniversity of Excellence\n\nP.S. This offer is time‑sensitive. Prompt action is essential to guarantee your scholarship award."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: Company Leave Policy Enhancements Effective 1st June",
+        "body": "Hi Team,\n\nI hope you sabhi theek ho. As part of our continuous effort to improve employee welfare, we are pleased to announce updates to the Company Leave Policy effective from 1st June 2024.\n\nKey changes:\n- Annual paid leave barha ke 15 din.\n- Flexible casual leave for personal emergencies.\n- Updated procedure for applying via internal portal.\n\nKripya attached policy document ko dekhein aur agar koi sawal ho toh HR se sampark karein.\n\nThank you for your cooperation.\n\nBest regards,\nHuman Resources\nXYZ Ltd."
+    },
+    "spam": {
+        "subject": "Urgent: Final Confirmation Needed for Your Merit Scholarship – 24 Hours Deadline",
+        "body": "Dear [Student Name],\n\nWe hope you are doing well. This is a formal notice from the Office of the Registrar at ABC University regarding the Merit Scholarship you have been awarded for the upcoming academic year.\n\nDue to recent security updates, we need to verify your personal details to confirm the scholarship disbursement. Please provide your student"
+    }
+}

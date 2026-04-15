@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Recent Bank Transaction - Account Alert",
+        "body": "Dear Customer,\n\nWe would like to inform you that a transaction of $1,250.00 was successfully processed on your account ending in 4321 on 15 April 2026. If you did not authorize this transaction, please contact our support immediately.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support Team\nBanco Trust"
+    },
+    "spam": {
+        "subject": "URGENT: Cryptocurrency Wallet Suspension Notice",
+        "body": "Dear valued user,\n\nWe have detected suspicious activity on your crypto wallet associated with the address <URL>. As a result, your wallet has been temporarily suspended to prevent potential unauthorized access. To restore your wallet, please verify your identity by replying to this email with the following information:\n\n- Full name\n- Date of birth\n- Last 4 digits of your social security number\n\nFailure to verify within 24 hours will result in permanent deletion of your wallet and funds. Please act immediately.\n\nRegards,\nSecurity Team\nCryptoGuard Inc."
+    }
+}

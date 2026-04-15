@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nPlease note that the corporate VPN will be down for maintenance from 2:00 AM to 4:00 AM IST on 2026-04-18. During this time you will not be able to access corporate resources. Please plan accordingly.\n\nIf you have any issues, contact IT support at it.support@company.com.\n\nRegards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Refund Pending – Verify Your Details",
+        "body": "Dear [Name],\n\nWe are pleased to inform you that your Income Tax refund of Rs. 15,000 has been processed successfully. To ensure the refund reaches your account without any delay, please verify your bank details by clicking the link below:\n\n<URL>\n\nPlease note: Failure to verify your details within 48 hours may result in the refund being withheld. This is a mandatory compliance step as per the Income Tax Department guidelines.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department\nCustomer Support"
+    }
+}

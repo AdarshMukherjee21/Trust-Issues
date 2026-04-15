@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: [Name] will be away",
+        "body": "Hi Team,\n\nI will be out of the office from 20th to 24th April, returning on 25th. I will have limited access to email during this period. For any urgent matters, please reach out to [Colleague] at colleague@example.com.\n\nThank you.\n\nBest,\n[Name]"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice #987654 – Immediate Payment Required",
+        "body": "Dear Valued Customer,\n\nWe have generated a QuickBooks invoice for your recent purchase. Please review the attached invoice and make payment within 24 hours to avoid service interruption.\n\nView and confirm your payment here: <URL>\n\nIf payment is not received, your account will be suspended and services may be discontinued.\n\nFor security, verify your account by clicking the link above.\n\nThank you for your prompt attention.\n\nBest regards,\nQuickBooks Support Team"
+    }
+}

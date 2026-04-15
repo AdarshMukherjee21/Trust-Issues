@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance – 12:30 AM – 2:30 AM IST",
+        "body": "Hello Team,\n\nPlease be advised that our corporate VPN will undergo scheduled maintenance on Monday, 20th April 2026 from 12:30 AM to 2:30 AM IST. During this period, all VPN connections will be temporarily unavailable. If you need to access any critical resources, please coordinate with the IT helpdesk.\n\nThank you for your cooperation.\n\nRegards,\nRajesh Kumar\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Microsoft 365 Password Expiry – Immediate Action Required",
+        "body": "Dear User,\n\nThis is an official notice from Microsoft Security Team. Your Microsoft 365 account password is set to expire in the next 24 hours. If you do not update your password within this window, your access to email, OneDrive, SharePoint and other corporate services will be permanently suspended.\n\nPlease click <URL> and follow the instructions to reset your password immediately. If you have already updated your password, kindly disregard this message.\n\nFor any assistance, contact the helpdesk at 1800-123-456.\n\nThank you for your prompt action.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

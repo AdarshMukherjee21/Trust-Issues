@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Purchase at Acme Corp",
+        "body": "Dear Valued Customer,\n\nWe want to inform you that a transaction of $129.99 was processed on your account (Account ending in 8421) at 3:15 PM (ET) on 12‑August‑2024. The purchase was made at Acme Corp via our online portal.\n\nIf you recognize this transaction, no further action is required. If you do not recognize this charge, please contact our support team immediately at <URL> or call 1‑800‑555‑0199.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Service Team\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks/Norton Invoice Payment Required",
+        "body": "Dear Valued Customer,\n\nOur records indicate that an invoice for QuickBooks and Norton licensing fees totaling $5,499.00 has not been paid. Failure to remit payment by 20‑August‑2024 may result in suspension of your software licenses and potential legal action.\n\nPlease log into your QuickBooks portal and complete the payment at the following link: <URL>. If you have already paid, please disregard this notice.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\nAccounts Receivable\nQuickBooks Support Team"
+    }
+}

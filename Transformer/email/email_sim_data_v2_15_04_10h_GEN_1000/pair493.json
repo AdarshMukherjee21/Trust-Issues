@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Hi Rahul,\n\nJust a quick reminder that the deadline for the semester project submission is coming up on 15th October. Please make sure you have finalized your report, collected all required data, and uploaded it to the university portal before 11:59 PM.\n\nIf you need any clarification or assistance, feel free to reach out to the project coordinator, Ms. Anjali Mehta, at anjali.mehta@university.edu.\n\nBest regards,\n\nSanjay\nCourse Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: Apply Now for Your Exclusive University Scholarship",
+        "body": "Dear Student,\n\nCongratulations! You have been shortlisted for an exclusive scholarship program offered by the prestigious University Scholarship Office. To secure your spot, you must complete the verification process immediately.\n\nPlease provide the following documents and confirm your personal details by visiting our secure portal: <URL>.\n\nFailure to act within 48 hours may result in your scholarship offer being revoked. This is a time‑sensitive matter; act now to avoid missing this opportunity.\n\nBest regards,\n\nDr. Kavita R. Singh\nHead, University Scholarship Office\n"
+    }
+}

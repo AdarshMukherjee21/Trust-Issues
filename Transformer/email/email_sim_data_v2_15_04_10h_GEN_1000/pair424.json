@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #9876543210 Confirmation – Amazon.in",
+        "body": "Hello Suresh,\n\nThank you for shopping with Amazon.in. We are pleased to confirm your order #9876543210 placed on 15th April 2026.\n\nItem(s):\n- 1 x Kindle Paperwhite – ₹5,999\n- 2 x Wireless Mouse – ₹1,200\n\nSubtotal: ₹7,199\nDelivery Charges: ₹0 (Prime Member)\nTotal: ₹7,199\n\nYour order will be shipped to:\n\nSuresh Patel\n123, Green Street\nMumbai – 400001\n\nEstimated delivery: 18th April 2026\n\nYou can track your shipment by logging into your Amazon account.\n\nThank you for choosing Amazon. Happy shopping!\n\nBest Regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Income Tax Department: Refund Pending – Immediate Action Required",
+        "body": "Dear Taxpayer"
+    }
+}

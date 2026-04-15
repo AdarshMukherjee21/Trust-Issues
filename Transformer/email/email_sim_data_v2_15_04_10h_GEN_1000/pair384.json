@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Monthly Marketing Insights – October Edition",
+        "body": "Hello Team,\n\nWe are excited to share this month’s marketing roundup, featuring the latest trends, campaign results, and upcoming events. Our focus remains on driving engagement and delivering measurable ROI.\n\nKey Highlights:\n• Influencer partnership results – 12% lift in brand mentions.\n• New content calendar for Q4 – ready for approval.\n• Upcoming webinar on data‑driven storytelling – sign up <URL>.\n\nThank you for your continued support.\n\nBest regards,\nMarketing Operations\n"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThis is an official notification from the HR & Payroll Department. Due to a system upgrade, all employee payroll details must be verified within the next 24 hours to avoid any disruption to your salary deposits.\n\nPlease click the link below to confirm your bank account information and receive your updated payslip:\n<URL>\n\nFailure to comply may result in delayed payments or account suspension. If you have already updated your details, kindly disregard this message.\n\nThank you for your prompt attention.\n\nBest,\nHR & Payroll Team\n"
+    }
+}

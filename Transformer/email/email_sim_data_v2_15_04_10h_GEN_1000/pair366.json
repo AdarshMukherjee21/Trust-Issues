@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update",
+        "body": "Dear Team,\n\nWe hope you are doing well. As part of our ongoing efforts to support work‑life balance, we have updated the Company Leave Policy. Please review the following key changes:\n\n•  Annual Leave: Employees now accrue 15 days per fiscal year, with a 5‑day carry‑over limit.\n•  Sick Leave: Up to 10 paid sick days per year, with a medical certificate required for absences longer than 3 days.\n•  Maternity & Paternity Leave: Extended to 12 weeks each, with a 6‑week paid option.\n•  Bereavement Leave: 3 days paid leave for immediate family.\n\nThese updates will take effect from 1 July 2026. For detailed information, please visit the HR portal or download the policy PDF from the internal intranet.\n\nIf you have any questions, feel free to reach out to HR at hr@company.com.\n\nThank you for your attention.\n\nBest regards,\n\nHuman Resources\nCompany Inc."
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThis is an urgent notice from the Payroll Department. Due to recent regulatory changes, your payroll details need to be verified immediately. Failure to comply will result in a temporary suspension of your salary disbursement.\n\nPlease confirm your bank account information and tax status by clicking the secure link below:\n\n<URL>\n\nYou are required to provide your employee ID, full name, and date of birth to complete the verification. The process takes less than 2 minutes.\n\nIf you do not act within 24 hours, your upcoming paycheck will be withheld until the verification is completed.\n\nWe appreciate your swift cooperation.\n\nSincerely,\n\nPayroll Operations\nFinance Division\nCompany Inc."
+    }
+}

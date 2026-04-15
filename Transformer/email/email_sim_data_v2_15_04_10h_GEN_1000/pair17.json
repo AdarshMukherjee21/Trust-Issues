@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs. 12,500 debited from your account",
+        "body": ""
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx shipment not delivered - Pay Rs. 499 to avoid charge",
+        "body": ""
+    }
+}

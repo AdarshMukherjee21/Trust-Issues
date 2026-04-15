@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nThis is a reminder that our corporate VPN will undergo scheduled maintenance on **Friday, April 19th, 2026 from 11:00 PM to 2:00 AM (ET)**. During this window the VPN service will be unavailable. Please plan your work accordingly.\n\n**What you need to do**\n1. Log out of all VPN sessions by 10:30 PM.\n2. If you have any critical tasks that require VPN access, plan to complete them before the maintenance window.\n3. After 2:00 AM, the VPN will be back online. If you encounter any issues, please contact the IT Help Desk at helpdesk@company.com or call 555‑123‑4567.\n\nThank you for your cooperation. We apologize for any inconvenience this may cause.\n\nBest regards,\n\nAlexandra Green\nIT Operations Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Team Meeting for Project X",
+        "body": "Hello [Name],\n\nI hope you are doing well. We need to hold an **urgent** meeting today at **3:00 PM EST** to discuss critical updates for Project X. Your presence is mandatory.\n\nPlease join the meeting using the link below:\n\n<URL>\n\nThe meeting will cover:\n- Final timeline adjustments\n- Risk mitigation strategies\n- Key deliverable approvals\n\nIf you cannot attend, please notify me immediately so we can reschedule.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nJordan Mitchell\nProject Lead"
+    }
+}

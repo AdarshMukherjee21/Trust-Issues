@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs 5200 debited from your account",
+        "body": "Dear Mr. Sharma,\n\nWe are writing to inform you that a transaction of Rs 5200 was debited from your account on 12 Apr 2024 at 10:45 AM. If you did not authorize this transaction, please log in to your online banking portal immediately and verify your account details.\n\nFor your security, click <URL> to review your recent transactions.\n\nThank you for banking with ABC Bank.\n\nBest regards,\nABC Bank Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: HR Payroll Update – Immediate Action Required",
+        "body": "Dear Mr. Sharma,\n\nThis is an urgent notice from the HR Department. Your payroll has been updated for the month of April 2024, but we have detected that the bank account details on file are incomplete. To ensure your payment is processed on time, please verify your bank account information within the next 24 hours"
+    }
+}

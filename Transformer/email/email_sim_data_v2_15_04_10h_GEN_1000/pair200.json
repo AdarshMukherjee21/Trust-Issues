@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nWe will be performing scheduled maintenance on the corporate VPN on 2026-04-20 from 02:00 AM to 04:00 AM UTC. Please ensure that all remote sessions are logged out before the start time to avoid any disruptions.\n\nDuring this window, the VPN will be unavailable. If you need to connect during this period, please contact IT Support at <URL> for alternative solutions.\n\nThank you for your cooperation.\n\nBest regards,\nIT Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Overdue – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nThis is an automated notice from QuickBooks regarding an overdue invoice. Your account (Customer ID: 123456) has an outstanding balance of $1,234.56, due since 2026-03-15.\n\nIf payment is not received within 5 days, your QuickBooks account will be suspended and access to all financial reports will be terminated. To avoid service disruption, please verify your payment information and submit the payment immediately.\n\nFor security reasons, do not use the link below to confirm your payment details. Instead, log in directly to your QuickBooks account at <URL> and process the payment.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Department"
+    }
+}

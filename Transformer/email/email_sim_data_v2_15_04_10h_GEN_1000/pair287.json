@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Bank Account Transaction Alert – ₹5,000 Debit",
+        "body": "Dear Mr. Sharma,\n\nA transaction of ₹5,000 has been debited from your savings account ending in 1234 on 15 April 2026 at 10:32 AM. If you did not authorize this transaction, please contact us immediately at 1800 123 456 or visit our nearest branch.\n\nFor more details, click <URL>.\n\nThank you for banking with [Bank Name]."
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Pending – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your FedEx parcel with tracking number XYZ123 was not successfully delivered on the scheduled date. As per FedEx policy, a missed delivery fee of ₹200 will be charged.\n\nAapka package deliver nahi hua, aapko ₹200 ka fee dena hoga. Please pay the fee within 48 hours to avoid further delay. For payment, click on the link below.\n<URL>\n\nIf you have already made the payment, please disregard this notice. Thank you for choosing FedEx."
+    }
+}

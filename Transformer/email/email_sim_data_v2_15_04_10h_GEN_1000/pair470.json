@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation",
+        "body": "Dear John Smith,\n\nThank you for booking with SkyHigh Airlines. Your flight itinerary is confirmed as follows:\n\n• Booking Reference: SH123456\n• Flight: SH789\n• Date: 2026-05-15\n• Departure: 08:30 AM from JFK Airport (New York, USA)\n• Arrival: 11:45 AM at LHR Airport (London, UK)\n\nPlease check‑in online 24 hours before departure via <URL> or use the SkyHigh app. If you have any changes or need assistance, contact our customer service at +1‑800‑123‑4567.\n\nWe look forward to welcoming you aboard.\n\nBest regards,\nSkyHigh Airlines Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Confirmation – Immediate Action Required",
+        "body": "Dear Dr. Emily Carter,\n\nWe are pleased to inform you that you have been selected as a recipient of the prestigious Global Scholars Fund 2026. Your application has been reviewed and approved. To finalize the award and receive your scholarship funds, please complete the verification process immediately.\n\nYou must provide the following information:\n• Full legal name\n• Date of birth\n• Nationality\n• Bank account details (IBAN, SWIFT)\n• Current university transcript\n\nPlease submit the required documents by clicking on the link below and logging into the secure portal:\n<URL>\n\nFailure to comply within 48 hours will result in the forfeiture of your scholarship. We understand the urgency and appreciate your prompt attention.\n\nSincerely,\nScholarship Administration Office\nGlobal Scholars Fund\ncontact@scholarships.org"
+    }
+}

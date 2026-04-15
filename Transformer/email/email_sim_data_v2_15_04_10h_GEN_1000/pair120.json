@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: [Your Name]",
+        "body": "Hello,\n\nI am currently out of the office on vacation from March 20th to March 27th and will have limited access to email.\n\nFor urgent matters, please contact my colleague Jane Doe at jane.doe@example.com.\n\nI will respond to your email upon my return. Thank you for your understanding.\n\nBest regards,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Join the Executive Briefing via Zoom",
+        "body": "Dear [Recipient],\n\nThe Board has scheduled a mandatory executive briefing on March 15th, 2024 at 10:00 AM UTC. This meeting is critical for compliance and strategic alignment.\n\nPlease join the meeting via the secure link below:\n<URL>\n\nFailure to attend may result in disciplinary action. Confirm your attendance by replying to this email with \"CONFIRMED\".\n\nThank you for your prompt attention.\n\nSincerely,\nBoard Compliance Team"
+    }
+}

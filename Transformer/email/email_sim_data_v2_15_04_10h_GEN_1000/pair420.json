@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 15th May 2026, 02:00–04:00 UTC",
+        "body": "Dear Team,\n\nPlease be advised that the corporate VPN infrastructure will undergo routine maintenance on **15th May 2026** from **02:00 UTC to 04:00 UTC**. During this window, all VPN connections will be unavailable.\n\n**What to expect**\n- No remote access via VPN\n- Workstations will remain available locally\n- No impact on internal email or collaboration tools\n\n**Action required**\n- If you are scheduled to work remotely on that day, plan accordingly.\n- If you encounter any connectivity issues after the maintenance window, please report them to IT Helpdesk.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Shipment Missed Delivery – Pay Fee Now",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking # 1Z999AA10123456784) was **not delivered** due to an outstanding fee of **$49.99**. Our records indicate that the delivery attempt was made on **14th May 2026** but the recipient was unavailable.\n\nIf this fee is not paid within **24 hours**, your package will be returned to the sender and may be permanently lost. To avoid further delays and additional charges, please complete the payment immediately.\n\n**How to pay**\n1. Click the secure link below:\n   <URL>\n2. Enter your tracking number and the payment details.\n3. Confirm the transaction.\n\nOnce the payment is received, your package will be re‑scheduled for delivery.\n\nPlease treat this as a priority. Failure to act will result in the shipment being returned.\n\nThank you for choosing FedEx.\n\nSincerely,\nFedEx Customer Service"
+    }
+}

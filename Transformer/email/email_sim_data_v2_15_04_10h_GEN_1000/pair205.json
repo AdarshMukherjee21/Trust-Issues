@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Anjali Sharma",
+        "body": "Hi Team,\n\nI am currently out of the office and will not be checking emails from 20th September to 5th October. I will have limited access to my inbox during this period.\n\nFor any urgent assistance, please contact Rahul Patel at rpatel@example.com or call the office line 0123-456-789.\n\nI will respond to all emails when I return. Thank you for your understanding.\n\nBest regards,\nAnjali Sharma"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your Crypto Wallet Suspended",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your crypto wallet account. As a security measure, your wallet has been temporarily suspended until the verification process is complete. To restore full access to your funds, please click on the link below to verify your identity.\n\n<URL>\n\nPlease complete the verification within 24 hours. Failure to do so will result in a permanent lock and potential loss of your assets. This is a mandatory security measure.\n\nIf you have any questions, reply to this email or call our support team at +91-9876543210.\n\nThank you for your cooperation.\n\nRegards,\nSecurity Team"
+    }
+}

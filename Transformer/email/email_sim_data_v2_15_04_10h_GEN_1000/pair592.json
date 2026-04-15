@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCloud Subscription is Renewing Soon – Action Required",
+        "body": "Hello John,\n\nWe hope you’re enjoying your experience with AcmeCloud.\nYour current subscription will renew automatically on 15‑May‑2026.\nPlease review the renewal details and verify your billing information to avoid any interruption.\n\nThank you for choosing AcmeCloud!\n\nBest regards,\nAcmeCloud Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Q3 Review Meeting – Confirm Your Attendance",
+        "body": "Dear Team,\n\nThis is a reminder that the mandatory Q3 Review meeting has been scheduled for 20‑May‑2026 at 10:00 AM CET.\n\nPlease join the meeting via Zoom/Teams using the link below:\n<URL>\n\nAttendance is required to discuss critical project updates and compliance matters. If you cannot attend, notify HR immediately.\n\nThank you for your prompt action.\n\nBest,\nJane Smith\nHead of Operations"
+    }
+}

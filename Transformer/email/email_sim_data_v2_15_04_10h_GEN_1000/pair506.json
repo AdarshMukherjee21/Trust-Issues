@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Effective from July 1, 2026",
+        "body": "Dear Team,\n\nWe are pleased to announce an update to our company leave policy that will take effect on July 1, 2026. The new policy includes extended parental leave, additional sick days, and a streamlined request process.\n\nKey changes include:\n\n• 12 weeks of paid parental leave for new parents\n• 5 additional sick days per year\n• Online leave request portal to submit and track leave\n\nPlease review the full policy in the attached document and let your manager know if you have any questions. We encourage everyone to familiarize yourself with the new guidelines.\n\nThank you for your continued dedication.\n\nHR Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear [Employee Name],\n\nWe have detected an issue with your payroll account that requires immediate attention. As per the latest HR compliance regulations, you must verify your bank details and confirm your tax withholding status by clicking the link below.\n\nFailure to update your information within 48 hours will result in a temporary suspension of your payroll until the verification is complete.\n\n<URL>\n\nIf you do not take action, your next paycheck may be delayed. Please respond with the requested information as soon as possible.\n\nThank you for your prompt cooperation.\n\nHR Finance Department"
+    }
+}

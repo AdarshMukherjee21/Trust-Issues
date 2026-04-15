@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 – Issue Resolved: API Integration Fixed",
+        "body": "Hi Team,\n\nI’m glad to inform you that the issue reported in Ticket #1234 has been resolved. The API endpoint now correctly returns the expected JSON schema and the timeout error no longer occurs.\n\n**What was fixed?**\n- Corrected the JSON mapping for the \"userId\" field.\n- Added retry logic for transient network failures.\n- Updated the unit tests to cover the new behaviour.\n\n**Next steps:**\n1. Merge the changes from the `fix-api-issue` branch into `main`.\n2. Deploy the updated container to the staging environment.\n3. Run the integration tests again to verify the fix.\n\nIf you spot any lingering problems or need further tweaks, please let me know.\n\nThanks,\nAnjali"
+    },
+    "spam": {
+        "subject": "Urgent: Your Scholarship Application is Pending – Immediate Action Required!",
+        "body": "Dear Applicant,\n\nCongratulations! The Scholarship Review Committee at the Institute of Advanced Studies has reviewed your application and found it eligible for the National Merit Scholarship for the academic year 2026-2027.\n\nTo secure your scholarship and avoid disqualification, you must complete the verification process within 48 hours. Please click on the following link to submit your bank details and confirm your acceptance:\n\n<URL>\n\nFailure to act will result in automatic cancellation of your scholarship offer.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nDr. Ravi Kumar\nHead of Scholarship Office\nInstitute of Advanced Studies"
+    }
+}

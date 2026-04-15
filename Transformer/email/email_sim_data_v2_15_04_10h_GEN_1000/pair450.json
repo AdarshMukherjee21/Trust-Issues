@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hello Alex,\n\nWe hope you’re enjoying the benefits of our SaaS platform. Our records show that your subscription for the Advanced Analytics module is set to expire on 15 May 2026. To ensure uninterrupted access to all features, please review and renew your subscription at your earliest convenience.\n\nIf you need to update your billing information or change the plan level, simply log in to your account and navigate to the Billing section. For any questions or assistance, feel free to reply to this email or contact our support team.\n\nThank you for choosing our services.\n\nBest regards,\n\nJordan Lee\nCustomer Success Manager\nAcme SaaS Solutions\n<URL>"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: HR Payroll System Update Needed",
+        "body": "Dear Team,\n\nThis is an urgent notice from the HR & Payroll Department regarding a critical update to our payroll processing system. Failure to complete the update by 30 April 2026 will result in delayed salary disbursements and potential compliance violations.\n\nPlease verify your employee details and upload the required documentation by logging into the HR portal using the link below:\n\n<URL>\n\nIf you do not comply within the specified deadline, your payroll will be automatically suspended and you may be subject to additional penalties.\n\nFor any questions, contact the Payroll Support Desk immediately.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nMarianne Smith\nHR & Payroll Director\nAcme Company"
+    }
+}

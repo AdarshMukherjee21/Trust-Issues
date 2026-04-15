@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Your Account Was Debited",
+        "body": "Dear Customer,\n\nThis is a notification from ABC Bank regarding a recent transaction on your account. \n\nDate: 15-04-2026\nTime: 10:30 AM\nAmount: INR 5,000\nAccount Ending: 1234\n\nIf you did not authorize this transaction, please contact our 24/7 helpline immediately at 1800-123-456.\n\nThank you for banking with us.\n\nBest Regards,\nABC Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Verify Your Scholarship Eligibility NOW",
+        "body": "Dear Applicant,\n\nCongratulations! You have been shortlisted for the prestigious XYZ University Merit Scholarship. To secure this award, you must complete a quick verification of your personal details.\n\nPlease click the link below to access our secure portal and confirm your information. Respond within 48 hours to avoid forfeiture of the scholarship.\n\n<URL>\n\nWe appreciate your prompt attention to this matter.\n\nSincerely,\nScholarship Office\nXYZ University"
+    }
+}

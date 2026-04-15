@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important Update: New Leave Policy Effective from 1st June",
+        "body": "Dear Team,\n\nWe hope you are doing well. Please be informed that the company's leave policy has been updated effective from 1st June 2026. The key changes are:\n\n1. Annual leave entitlement increased from 12 days to 15 days.\n2. Flexi-leave for medical emergencies: up to 5 days per year.\n3. Paid leave for remote workers: 5 days per year.\n4. Procedure for applying: Submit a leave request via the HR portal by 24 hours before the intended leave date.\n\nFor detailed information, please visit the HR portal on your intranet. If you have any questions, contact the HR team.\n\nThank you for your cooperation.\n\nRegards,\nHR Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet has been Suspended",
+        "body": "Dear User"
+    }
+}

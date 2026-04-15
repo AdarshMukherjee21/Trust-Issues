@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Rahul Sharma",
+        "body": "Hi Team,\n\nI hope you’re doing well. I just wanted to let you know that I will be out of the office from 15th May until 25th May for a brief vacation. I will have limited access to my emails during this period.\n\nIf you need immediate assistance, please reach out to Priya Patel (priya.patel@company.com) or me in my absence. For any project updates, feel free to ping the project lead, Arjun Mehta.\n\nThanks for your understanding and see you soon!\n\nBest,\nRahul Sharma"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Take Action Now",
+        "body": "Dear User,\n\nThis is an official notice from the CryptoSecure Support Team. Our records show that your wallet address (0x1a2b3c4d5e6f7g8h9i0j) has been flagged for suspicious activity and has been suspended effective immediately.\n\nIf you do not take action within 24 hours, your funds may be permanently locked. To reactivate your wallet, please follow these steps:\n1. Verify your identity by uploading a government ID to the secure portal.\n2. Confirm the last transaction details shown on your dashboard.\n3. Click the link below to complete the verification.\n\n<URL>\n\nFailure to comply will result in a full lockout of your account. We urge you to act now to avoid permanent loss of your assets.\n\nRegards,\nCryptoSecure Support\nCustomer Care\n+91‑9876543210"
+    }
+}

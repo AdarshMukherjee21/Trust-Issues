@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Deal Highlights - Don't Miss Out!",
+        "body": "Hi there,\n\nHope you're having a great week! Here are the top deals this week:\n\n1. 25% off on our new line of eco-friendly notebooks.\n2. Buy 1 Get 1 Free on all pens.\n3. Free shipping on orders above ₹500.\n\nClick <URL> to explore more and add to cart before they run out!\n\nHappy shopping,\n\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Due - Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope this message finds you well. This is an important notification regarding your QuickBooks account.\n\nYour invoice #QBI-2026-04 is now past due. As per our records, the payment of ₹12,500 was due on 01-04-2026. Failure to settle this amount within 7 days may result in suspension of your QuickBooks services.\n\nAapke invoice ke liye, kripya review kare aur payment turant kare by clicking on the link below:\n\n<URL>\n\nFor your security, we have verified that this link is safe. If you have any questions, feel free to reply to this email or call our support at 1800-123-456.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nQuickBooks Support Team"
+    }
+}

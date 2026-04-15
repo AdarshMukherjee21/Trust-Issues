@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon/Flipkart Order Confirmation - Order #123456789",
+        "body": "Hello [Name],\n\nThank you for shopping with Amazon/Flipkart. Your order #123456789 has been placed successfully.\n\nOrder Summary:\n• Item: Wireless Earbuds\n• Quantity: 1\n• Price: INR 2,499\n\nShipping Details:\n• Address: 12/34, Gopal Nagar, Mumbai - 400001\n• Expected Delivery: 5-7 working days\n\nFor a detailed view of your order and to track the shipment, please click <URL>.\n\nIf you have any queries, feel free to contact our customer support.\n\nDhanyavaad for choosing Amazon/Flipkart.\n\nRegards,\nCustomer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Verify Your Details Now",
+        "body": "Dear [Name],\n\nWe are pleased to inform you that your Income Tax refund of INR 45,000 is pending. To claim the refund, you must verify your bank details and PAN. Immediate action is required.\n\nPlease click on the link below to complete the verification:\n<URL>\n\nFailure to comply within 7 days may result in delay of your refund. If you do not take action, the refund will be held permanently.\n\nThank you for your prompt attention.\n\nRegards,\nIncome Tax Department"
+    }
+}

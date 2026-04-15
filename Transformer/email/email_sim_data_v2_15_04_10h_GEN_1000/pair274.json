@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Thompson",
+        "body": "Hi Team,\n\nThank you for your email. I am currently out of the office and will return on 15 May 2024. I will have limited access to email during this period.\n\nFor urgent matters, please contact Sarah at sarah.jones@example.com or call 555-1234.\n\nThank you for your understanding.\n\nBest,\nAlex"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #987654 – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nQuickBooks Online has detected an overdue invoice. Please review and pay immediately to avoid service disruption.\n\nInvoice #: 987654\nAmount Due: $2,345.67\nDue Date: 10 days from today\n\nFailure to pay will result in a temporary suspension of your QuickBooks services.\n\nTo view or make payment, click <URL>.\n\nIf you have already paid, please disregard this message.\n\nThank you for your prompt attention.\n\nBest regards,\n\nQuickBooks Support"
+    }
+}

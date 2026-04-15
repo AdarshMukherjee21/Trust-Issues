@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation and Details",
+        "body": "Dear Mr. John Doe,\n\nThank you for booking your flight with us. Below are the details of your upcoming trip:\n\n• Flight: DL 678\n• Departure: New York (JFK) – 08:45 AM, 15 June 2026\n• Arrival: London (LHR) – 08:15 PM, 15 June 2026\n• Gate: 24B\n• Seat: 12A (Aisle)\n• Baggage: 1 checked bag (up to 23 kg) and 1 carry‑on\n\nPlease arrive at the airport at least 3 hours before departure.\n\nIf you have any questions or need to make changes, reply to this email or call our customer support.\n\nSafe travels!\n\nSincerely,\n\nTravel Services Team\nCustomer Support\n+1-800-555-1234"
+    },
+    "spam": {
+        "subject": "Urgent: Outstanding Delivery Fee – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your recent shipment with FedEx (Tracking # 999999999999) was not delivered due to an outstanding delivery fee. To avoid further delays and potential account suspension, please complete the payment within the next 48 hours.\n\nYou can securely pay the fee by clicking the link below:\n\n<URL>\n\nFailure to settle the fee will result in your account being temporarily suspended and future shipments being delayed.\n\nIf you believe this is an error, please contact our support team immediately.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nFedEx Customer Support\n+1-800-555-9876"
+    }
+}

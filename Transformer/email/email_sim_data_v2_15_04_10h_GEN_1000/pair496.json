@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Recent Payment to PayPal",
+        "body": "Hi John,\n\nYour account ending in 1234 was used to send a $50.00 payment to PayPal on March 20, 2026 at 3:15 PM.\n\nIf this was not authorized by you, please log in to your online banking and review your recent activity. For your security, we have temporarily frozen the account until we verify the transaction.\n\nIf you recognize this transaction, no action is required. If you do not, contact our support team immediately.\n\nThank you for banking with us.\n\nBest,\nBanking Services Team\nYour Bank"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: HR Payroll System Maintenance",
+        "body": "Dear Employee,\n\nI am writing from the Human Resources Department regarding an urgent payroll update that affects all staff. Our payroll system will undergo a scheduled maintenance on Thursday, 12 April 2026, and we have detected an issue that requires your immediate attention.\n\nPlease verify your personal details by accessing the HR portal and confirming the following information: employee number, bank account number, and tax identification number. Failure to do so will result in a delay in your upcoming salary disbursement.\n\nTo complete the verification, log in to the portal at <URL> and follow the on-screen instructions. The deadline is 9:00 AM on Friday, 13 April 2026. If you do not comply, your salary will be withheld until the issue is resolved.\n\nThank you for your prompt cooperation.\n\nBest regards,\n[Manager Name]\nHR Compliance Officer\n[Company Name]\nPhone: +1 800‑555‑1234"
+    }
+}

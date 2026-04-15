@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Marketing Update – Boost Your Sales this September",
+        "body": "Hello Team,\n\nIt’s time for our weekly marketing update! This week we have some exciting offers that you can share with your clients to boost sales.\n\n• **New Discount Pack** – 20% off on all premium products.\n• **Referral Bonus** – Earn ₹500 for every successful referral.\n• **Flash Sale** – 48-hour exclusive deal on best-sellers.\n\nAapko yeh offers apne customers ko batana hoga, aur unke liye special coupons generate karne hain. Just follow the steps in the attached guide.\n\nIf you have any questions, feel free to reply to this email or call our support desk.\n\nThanks for your continuous effort. Let’s make this month a record breaker!\n\nBest regards,\n\nMarketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Schedule Your Zoom Meeting Today – Limited Slots Available",
+        "body": "Dear {Name},\n\nHum aapko ek important Zoom meeting ke liye invite kar rahe hain jo tomorrow 10:00 AM IST ko scheduled hai. Yeh meeting aapke project ke liye bahut crucial hai.\n\n**Meeting Details:**\nDate: 2026-04-16\nTime: 10:00 AM IST\nPlatform: Zoom\n\nPlease join the meeting by clicking the link below:\n<URL>\n\nKrupya 9:00 AM IST tak is email ka reply karke apni attendance confirm karein.\n\nThank you for your prompt attention.\n\nBest regards,\n\nABC Corp\nCustomer Support Team"
+    }
+}

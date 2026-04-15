@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Subscription Renewal Reminder – Your SaaS Plan Expires Soon",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the features of your current SaaS plan. This email is a friendly reminder that your subscription will expire on **July 31, 2026**.\n\n**Renewal Options**\n- **Automatic Renewal**: Your account will be charged automatically on the renewal date.\n- **Manual Renewal**: Click the button below to renew manually and keep uninterrupted service.\n\n[Renew Now] <URL>\n\nIf you have any questions or need assistance, please reply to this email or contact our support team at support@example.com.\n\nThank you for being a valued customer!\n\nBest regards,\nThe SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #123456 Due – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nOur records indicate that Invoice **#123456** for QuickBooks Services is now **overdue**. The total amount due is **$1,245.75**, and the payment deadline was **June 15, 2026**.\n\nIf this payment has not been processed, your account will be suspended, and additional late fees may apply. To avoid disruption of your services, please verify and complete the payment immediately:\n\n[Click here to secure your payment] <URL>\n\nFor security purposes, we require you to confirm your identity by providing the last four digits of your business tax ID. This is a standard QuickBooks procedure to protect your account.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nQuickBooks Billing Department"
+    }
+}

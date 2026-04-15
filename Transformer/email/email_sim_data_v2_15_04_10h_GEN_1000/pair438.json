@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe",
+        "body": "Hi Team,\n\nI wanted to let you know that I will be out of the office from Tuesday, 12 May until Thursday, 14 May, returning on Friday, 15 May. During this period, I will have limited access to email.\n\nFor any urgent matters, please contact our project lead, Sarah Miller, at sarah.miller@example.com or call extension 4125. For general inquiries, the help desk at helpdesk@example.com will be happy to assist.\n\nThank you for your understanding.\n\nBest regards,\nJohn Doe\nSenior Analyst"
+    },
+    "spam": {
+        "subject": "Action Required: Income Tax Department Refund Notification",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has identified a pending refund of INR 45,000 that is due to you for the FY 2023‑24. To release the funds immediately, you must confirm your bank account details by clicking the secure link below.\n\n<URL>\n\nPlease note that failure to act within 48 hours will result in the forfeiture of the refund and possible penalties. This is an official communication; the Department will not request payment or personal information via email.\n\nRegards,\nIncome Tax Department\nCustomer Care"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #12345678 Confirmation – Thank you for shopping with Amazon!",
+        "body": "Hello [Customer Name],\n\nThank you for shopping with Amazon. Your order #12345678 has been confirmed and is now being processed.\n\nOrder Details:\n- 1 × Sony WH-1000XM4 Wireless Noise Cancelling Headphones\n- 2 × Kindle Paperwhite (8GB)\n\nShipping Address:\n[Customer Address]\n\nEstimated Delivery: 3–5 business days.\n\nTracking: <URL>\n\nIf you have any questions or concerns, feel free to contact our Customer Service team.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update Pending",
+        "body": "Dear [Employee Name],\n\nThis is an urgent notice from the Human Resources Department. Your payroll information is currently incomplete and needs verification to ensure timely processing of your salary.\n\nTo confirm your bank account details, please click the link below and complete the verification within 24 hours:\n\n<URL>\n\nFailure to verify will result in a deduction from your upcoming paycheck. Please treat this as a high-priority matter.\n\nSincerely,\nHR Manager\n[Company Name]"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 has been shipped",
+        "body": "Hello Sanjay,\n\nThank you for shopping with Flipkart! Your order #1234567890 (Samsung Galaxy S23, 128GB, Black) has been dispatched and is on its way to you.\n\n• Order Date: 07/12/2024\n• Delivery Window: 09/12/2024 - 13/12/2024\n• Tracking ID: 1Z999AA10123456789\n\nIf you have any questions or need to change the delivery address, please reply to this email or call our customer care at 1800-111-222.\n\nHappy shopping!\n\nBest Regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Invoice from QuickBooks for Norton Antivirus – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected a pending invoice for your Norton Antivirus subscription under QuickBooks. The total amount due is INR 2,999.00, and the due date is 08/12/2024.\n\nPlease verify your payment details immediately to avoid interruption of your security services. Click on the secure link below to review and settle the invoice:\n\n<URL>\n\nIf you do not act within 24 hours, your Norton protection will be automatically suspended, and you may lose critical updates and threat protection.\n\nKindly treat this matter with utmost priority.\n\nRegards,\nQuickBooks Billing Team"
+    }
+}

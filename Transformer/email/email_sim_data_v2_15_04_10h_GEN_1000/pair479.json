@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: On Leave Until 15th July",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office on leave and will not return until 15th July. During this period I will have limited access to my email.\n\nIf you need immediate assistance, please contact my colleague Rahul Mehta at rahul.mehta@university.edu or call the department line at +91-22-5555-1234.\n\nI will respond to your message as soon as possible upon my return.\n\nBest regards,\nAnanya Sharma\nAssistant Professor, Department of Physics\nUniversity of Delhi"
+    },
+    "spam": {
+        "subject": "URGENT: Your Scholarship Offer Pending Verification Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the prestigious Global Scholars Fellowship has been approved by the University Finance Office.\n\nTo receive the full scholarship amount of INR 3,00,000, you must verify your account details within the next 48 hours. Failure to do so will result in automatic cancellation of your award.\n\nPlease click on the following link to confirm your personal information and complete the payment process:\n\n<URL>\n\nOnce verified, the scholarship funds will be credited to your account within 5 business days. This step is mandatory – the University will not release the funds without your confirmation.\n\nThank you for choosing our institution. We look forward to welcoming you as a scholarship recipient.\n\nBest regards,\n\nS. K. Patil\nHead, Scholarship & Financial Aid\nUniversity Finance Office"
+    }
+}

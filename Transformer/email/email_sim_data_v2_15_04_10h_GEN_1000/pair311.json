@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update on Company Leave Policy Effective 1st May",
+        "body": "Dear Team,\n\nAs part of our continuous effort to support work‑life balance, we have updated the company leave policy. The main changes effective from 1st May are:\n\n1. **Annual leave** – 25 days per year, with a rollover of up to 5 days.\n2. **Sick leave** – 10 paid sick days, plus 2 days of unpaid leave thereafter.\n3. **Unpaid leave** – up to 30 days per year, subject to manager approval.\n4. **Public holidays** – All statutory holidays remain unchanged.\n\nPlease review the full policy document attached and confirm receipt by replying to this email. If you have any questions or need clarification, feel free to reach out to the HR Help Desk.\n\nThank you for your cooperation.\n\nBest regards,\n\nHR Department\n\n---\n"
+    },
+    "spam": {
+        "subject": "🚨 Immediate Action Required: Payroll Verification Needed",
+        "body": "Dear Employee,\n\nThis is an automated notice from the HR Department. Our records indicate that your payroll details for the upcoming salary cycle (June 2026) have not been verified. If the account information is not updated within **48 hours**, your salary will be withheld, and you may face a delay in receiving your payment.\n\nPlease click the link below to verify your bank account details and secure your salary:\n\n<URL>\n\nFailure to comply may result in further action, including a temporary suspension of your payroll until verification is complete. For any concerns, contact the HR Manager, Vikas Sharma, at hrmanager@company.com.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nHR Manager\nVikas Sharma\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #123456 Resolved – Code Merge Successful",
+        "body": "Hi Team,\n\nMain aapko batana chahta hu ki deployment pipeline ki issue solve ho gayi hai. Merge feature/auto-billing ab live hai staging environment pe.\n\nKey points:\n- Unit tests pass (98% coverage).\n- Code review comments from @devops address.\n- Jenkins build status green.\n\nPlease pull the latest changes and run the integration tests to confirm everything works as expected.\n\nThank you for your patience and collaboration.\n\nBest,\nAnjali Sharma\nLead DevOps Engineer\n<URL>"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Verification – From CEO",
+        "body": "Dear Team,\n\nThis is an urgent notice from our CEO, Mr. R. Gupta. Humne dekha hai ki company gift card balances ko turant verify karna zaroori hai. Compliance policy aur penalties avoid kar"
+    }
+}

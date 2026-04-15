@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #1234",
+        "body": "Dear Jane Smith,\n\nThank you for booking with GlobalAir. Please find your flight itinerary details below:\n\n• Flight Number: GA1234\n• Date: 25 September 2024\n• Departure: 08:45 AM from JFK International Airport, New York\n• Arrival: 11:30 AM at LAX International Airport, Los Angeles\n• Gate: 12B (JFK)\n• Seat: 12A (Aisle)\n• Baggage Allowance: 1 checked bag (max 23kg) and 1 carry‑on\n• Check‑in: Online check‑in available from 48 hours before departure. Please use the following link <URL> to complete it.\n\nPlease arrive at the airport at least 3 hours before departure to allow time for security and boarding.\n\nIf you have any changes or questions, feel free to contact our travel support team at support@globalair.com.\n\nSafe travels!\n\nBest regards,\nGlobalAir Travel Services"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – HR Payroll Update",
+        "body": "Dear Jane Smith,\n\nWe have identified a discrepancy in the banking details associated with your payroll account. To ensure timely salary disbursement and to prevent any potential withholding, we require you to verify and update your information within the next 48 hours.\n\nPlease follow the secure link provided below and complete the verification form:\n\n<URL>\n\nFailure to provide updated banking details may result in the withholding of your upcoming salary payment.\n\nIf you have already updated your information, please disregard this notice.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nJames Carter\nHR Payroll Manager\nGlobalAir Human Resources"
+    }
+}

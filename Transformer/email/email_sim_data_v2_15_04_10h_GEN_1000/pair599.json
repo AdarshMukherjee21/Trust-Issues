@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance - 12:30 AM to 2:30 AM IST",
+        "body": "Dear Team,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance from 12:30 AM to 2:30 AM IST on 15th May 2026. During this window, VPN services will be unavailable. Please plan accordingly and ensure any critical connections are paused.\n\nAfter the maintenance, you should be able to reconnect normally. If you experience any issues, contact the network operations center at 9876543210.\n\nRegards,\nNetwork Operations"
+    },
+    "spam": {
+        "subject": "URGENT: IT Ticket #23745 - Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected unusual activity on your corporate account. Ticket #23745 has been opened by our IT helpdesk. To secure your access, please confirm your employee ID and the last four digits of your PAN card.\n\nClick on the following link to verify: <URL>\n\nIf you do not act within 24 hours, your account will be temporarily locked.\n\nThank you,\nIT Helpdesk Team"
+    }
+}

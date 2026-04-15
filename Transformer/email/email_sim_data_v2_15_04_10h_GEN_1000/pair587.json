@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Acme Analytics Subscription Renewal – Action Required",
+        "body": "Hi Rahul,\n\nWe hope you are enjoying the new dashboard features in your Acme Analytics account. This is a friendly reminder that your current subscription plan is set to renew on 30th April 2026.\n\nTo avoid any interruption in services, please review the renewal details and confirm your payment method by clicking the link below:\n<URL>\n\nIf you wish to upgrade your plan or make changes to your billing address, simply log into your account and select the desired options.\n\nThank you for choosing Acme Analytics.\n\nBest Regards,\nAcme Analytics Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Income Tax Refund Pending – Action Required",
+        "body": "Dear Mr. Sharma,\n\nThis is to inform you that the Income Tax Department records a pending refund of ₹1,25,000 for the tax year 2023-24. To expedite the release, we require verification of your account details.\n\nPlease provide the following information at the earliest:\n- Bank Account Number\n- IFSC Code\n- Account Holder Name\n\nSubmit the details securely via the official portal:\n<URL>\n\nFailure to confirm within 48 hours may result in the refund being delayed or forfeited. For any queries, contact the Income Tax Department at the number listed on the official website.\n\nYours sincerely,\nIncome Tax Officer\nCentral Office"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Action Required?",
+        "body": "Hi Team,\n\nI hope you are doing well. I am writing to inform you that Jira ticket #12345 \"Update User Permissions\" has been resolved in the latest sprint. The changes have been deployed to the staging environment and are now ready for final review.\n\nPlease review the changes at your earliest convenience:\n- Verify that the new permission settings are applied correctly.\n- Test the user flow for the affected roles.\n- Provide any feedback or approval so we can merge into production.\n\nIf you encounter any issues, feel free to open a new sub‑ticket or ping me directly on Slack. Your prompt review will help us keep the release schedule on track.\n\nThanks for your cooperation!\n\nBest regards,\nArun Patel\nSoftware Engineer\nAcme Corp"
+    },
+    "spam": {
+        "subject": "Important: Immediate Action Required – Microsoft 365 Password Expiry",
+        "body": "Dear User,\n\nThis is a security alert from Microsoft Office 365. Your account password is set to expire in 72 hours. To avoid any disruption in your services, you must reset your password immediately.\n\nPlease click the link below to verify your account and reset your password:\n<URL>\n\nFailure to comply may result in temporary suspension of your account until the password is updated. This action is required to comply with our updated security policies.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

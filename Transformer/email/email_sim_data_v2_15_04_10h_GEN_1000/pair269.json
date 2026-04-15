@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Weekly Exclusive: Deals & Discounts Just For You!",
+        "body": "Hello Valued Customer,\n\nIt’s that time of the month again! We’re excited to bring you the latest deals from XYZ that will make your shopping experience even better.\n\nHighlights for this week:\n- 25% off on all electronics\n- Buy 1 Get 1 Free on selected fashion items\n- Free shipping on orders above ₹999\n\nHurry, offers valid till Sunday 11:59 PM. Click the link below to explore:\n\n<URL>\n\nThank you for choosing XYZ. Happy Shopping!\n\nBest regards,\nXYZ Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required for Your IT Ticket #987654",
+        "body": "Dear User,\n\nWe have detected an issue with your system that requires immediate attention. According to our IT ticketing system, ticket #987654 has been flagged for a critical security update. If this issue is not resolved within 24 hours, your access to the company network may be restricted.\n\nPlease log in to the internal portal and submit the required verification details by clicking the link below:\n\n<URL>\n\nThank you for your prompt cooperation.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

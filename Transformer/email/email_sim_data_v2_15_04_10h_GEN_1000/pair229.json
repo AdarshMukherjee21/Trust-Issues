@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Due 31st March",
+        "body": "Hi Team,\n\nThis is a gentle reminder that the semester project submissions are due on 31st March 2026. Please ensure that your project report and presentation slides are uploaded to the course portal by 5:00 PM on that day. Late submissions will incur a penalty of 5% per day.\n\nIf you have any questions or need assistance, feel free to reach out.\n\nBest,\nProf. Anil Sharma\nComputer Science Department"
+    },
+    "spam": {
+        "subject": "Congratulations! You Have Been Awarded the 2026 Merit Scholarship – Verify Your Details",
+        "body": "Dear Student,\n\nI am pleased to inform you that you have been selected for the prestigious 2026 Merit Scholarship by the National Institute of Technology. Shabash! To secure your scholarship, please verify your personal information and submit the required documents within 48 hours.\n\nClick the link below to complete the verification process:\n\n<URL>\n\nPlease note that failure to complete this process will result in automatic withdrawal of your scholarship offer.\n\nDhanyavaad,\n\nDr. Rahul Mehta\nScholarship Officer\nNational Institute of Technology"
+    }
+}

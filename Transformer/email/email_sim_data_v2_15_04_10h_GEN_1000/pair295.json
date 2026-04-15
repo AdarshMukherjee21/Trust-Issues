@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation #FL12345",
+        "body": "Dear Mr. Sharma,\n\nThank you for booking with Air Bharat. Please find the details of your upcoming flight below:\n\n• Flight Number: AB123\n• Date: 15 September 2026\n• Departure: 10:30 AM from MUM (Mumbai Chhatrapati Shivaji Maharaj International Airport)\n• Arrival: 12:45 PM at DEL (Indira Gandhi International Airport, Delhi)\n• Seat: 12A (Aisle)\n• Check-in Window: 2:00 PM – 1:00 PM (24 hours before departure)\n\nPlease bring a valid passport or government-issued ID and the e-ticket number (FL12345) on the day of travel. For any changes or cancellations, visit <URL>.\n\nWe wish you a comfortable journey. If you have any questions, feel free to reply to this email.\n\nSafe travels,\n\nAir Bharat Customer Care\nsupport@airbharat.com"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – IT Ticket #IT-987654",
+        "body": "Dear Mr. Sharma,\n\nAn IT support ticket has been opened on your behalf (Ticket ID: IT-987654) regarding a detected anomaly in your corporate account. The ticket is currently in the pending state and requires your immediate attention to prevent access disruption.\n\nPlease verify your account details by clicking <URL> and following the steps provided. You will be asked to confirm your user ID, password, and the corporate email address associated with the account.\n\nFailure to act within 24 hours may result in a temporary suspension of your access to corporate resources. If you have already resolved this issue, kindly disregard this notice.\n\nThank you for your prompt cooperation.\n\nBest Regards,\n\nIT Helpdesk\nhelpdesk@company.com"
+    }
+}

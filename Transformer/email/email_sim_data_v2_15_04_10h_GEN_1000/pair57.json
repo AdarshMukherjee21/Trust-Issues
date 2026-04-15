@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 has been shipped",
+        "body": "Hi there,\n\nThank you for shopping with Flipkart! Your order #1234567890 has been processed and is now on its way.\n\nOrder Details:\n• Order ID: 1234567890\n• Items: 1x \"Xiaomi Redmi Note 11\" (₹12,999), 2x \"Samsung 32\" TV Remote\" (₹799 each)\n• Total: ₹15,797\n• Shipping Address: 12, Green Avenue, Sector 15, Noida, UP\n• Delivery Date: 23 Apr 2026\n• Tracking Number: FLK1234567890\n\nYou can track your shipment using the link below:\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email.\n\nHappy Shopping!\n\nBest regards,\nFlipkart Customer Support Team"
+    },
+    "spam": {
+        "subject": "Ticket #56789 - Immediate Action Required",
+        "body": "Dear User,\n\nOur system has detected unusual activity on your account and an IT support ticket (Ticket #56789) has been opened for immediate attention.\n\nTo verify your identity and prevent your account from being suspended, please click the link below and enter your login details:\n<URL>\n\nYou have only 5 minutes to complete this verification. Failure to do so may result in temporary suspension of your account.\n\nThank you for your prompt action.\n\nRegards,\nIT Helpdesk Support Team"
+    }
+}

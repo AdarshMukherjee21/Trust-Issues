@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the full benefits of our services. This is a friendly reminder that your subscription to XYZ SaaS is set to renew on 15th May 2026. Please review the updated terms and confirm your payment method to avoid any interruption.\n\nAgar aapko koi samasya ho, to humein batayein. Our support team is ready to help.\n\nThank you for choosing XYZ.\n\nBest regards,\nXYZ Customer Success Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Alert – Immediate Action Required",
+        "body": "Dear User,\n\nMicrosoft Security Team has detected that your Microsoft 365 password is set to expire in 24 hours. To protect your account and prevent data loss, please verify your credentials immediately.\n\nClick <URL> to update your password. Failure to act may result in account lockout.\n\nAapki security ke liye is step ko zaroori samjhein.\n\nThank you for your prompt attention.\n\nBest,\nMicrosoft Security"
+    }
+}

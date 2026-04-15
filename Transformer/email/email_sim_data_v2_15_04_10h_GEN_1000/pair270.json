@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Effective June 1, 2026",
+        "body": "Hello Team,\n\nI hope you are all doing well. Please be advised that the Company Leave Policy has been revised and will take effect from June 1, 2026. The key updates are:\n\n1. **Annual Leave** – All employees will receive 20 days of paid annual leave, increased from 15 days.\n2. **Sick Leave** – 12 paid sick days per calendar year, with a cap of 6 consecutive days.\n3. **Parental Leave** – Expanded to 12 weeks for both primary and secondary caregivers.\n4. **Remote Work** – Employees may work remotely up to 3 days per week, subject to manager approval.\n\nPlease review the full policy document attached to this email. If you have any questions or need clarification, contact HR at hr@company.com or call the HR helpdesk at 555‑123‑4567.\n\nThank you for your attention to these changes.\n\nBest regards,\n\nEmily Johnson\nHuman Resources"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Department Refund – Verify Your Account",
+        "body": "Dear Taxpayer,\n\nWe are contacting you regarding your Income Tax return filed for the fiscal year 2025. Our records indicate that a refund of $3,842.50 is pending. To expedite the processing of your refund, we require immediate verification of your account information.\n\nPlease click the link below to confirm your details:\n\n<URL>\n\nFailure to verify within 48 hours may result in delays or disallowance of your refund. Additionally, non‑compliance could trigger a review of your tax records, potentially impacting future assessments.\n\nFor your security, we recommend saving this email in a secure location and verifying the sender’s address before proceeding.\n\nSincerely,\n\nIncome Tax Department\nCustomer Support\n1-800-555-0198"
+    }
+}

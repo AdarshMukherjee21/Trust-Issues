@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight SH1234: New York to London",
+        "body": "Dear John Doe,\n\nThank you for booking with SkyHigh Airlines. Here are your flight details:\n\nFlight: SH1234\nDate: 2026-05-15\nDeparture: New York JFK – 08:30 AM (local time)\nArrival: London Heathrow – 08:45 PM (local time)\nSeat: 12A, Window\nGate: 22\n\nCheck‑in: Available from 24 hours before departure until 30 minutes before departure. Please use the following link to check in online: <URL>\n\nFlight status and additional information can be found on our website: <URL>\n\nIf you have any questions or need to change your booking, please contact our customer support at 1-800-123-4567 or email support@skyhighairlines.com.\n\nThank you for choosing SkyHigh Airlines. We wish you a pleasant journey.\n\nSincerely,\n\nSkyHigh Airlines Team"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear valued user"
+    }
+}

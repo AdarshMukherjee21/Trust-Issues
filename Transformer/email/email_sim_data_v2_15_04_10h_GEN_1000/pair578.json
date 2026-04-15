@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345: Issue Resolved – Code Merge Completed",
+        "body": "Hi Team,\n\nI’m pleased to inform you that the issue reported in Jira ticket #12345 has been fully resolved. The corresponding pull request (PR #6789) has been merged into the main branch on GitHub.\n\n**Resolution Summary**\n- Bug: NullPointerException in the user authentication module\n- Fix: Updated the null check logic and added unit tests\n- PR: https://github.com/yourorg/yourrepo/pull/6789\n\nAll automated tests now pass, and the deployment pipeline has successfully completed.\n\nPlease pull the latest changes and run your local regression tests. If you encounter any regressions, let me know immediately.\n\nThanks for your patience and collaboration.\n\nBest regards,\nAlex Johnson\nSoftware Engineer\nacme@example.com"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required – Immediate Action Needed",
+        "body": "Dear Valued Customer,\n\nQuickBooks Account Services has detected an unpaid invoice (Invoice #QB-987654) that is now 45 days overdue. Failure to settle this invoice will result in the suspension of your QuickBooks Online account and the loss of all data stored on the platform.\n\n**Invoice Details**\n- Amount Due: $1,250.00\n- Due Date: 15 May 2024\n- Description: Monthly subscription and service fees\n\nTo avoid any disruption, please log in to your QuickBooks portal and complete the payment within the next 48 hours. Click the link below to review and pay your invoice:\n\n<URL>\n\nIf you believe this is an error or have already paid, please reply to this email with your transaction receipt attached.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nRapid Billing Team\nQuickBooks Support\nsupport@<URL>\n\nIf you have any questions, call us at 1-800-123-4567."
+    }
+}

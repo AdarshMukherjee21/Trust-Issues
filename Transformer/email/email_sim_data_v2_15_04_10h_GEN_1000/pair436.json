@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Please Note",
+        "body": "Hi Team,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance on **Friday, 17 May 2026, from 01:00 AM to 04:00 AM (UTC)**. During this window, you will not be able to connect to the corporate network via VPN.\n\n**What to Do Before the Maintenance:**\n1. Save any open work and log out of all VPN‑connected applications.\n2. Back up any critical files to the shared drive.\n3. If you are on a remote location, plan to use the web portal for essential tasks.\n\n**What to Expect During the Maintenance:**\n- No VPN connectivity between 01:00 AM and 04:00 AM UTC.\n- All VPN servers will be restarted.\n- Once maintenance is complete, the VPN should be back online automatically.\n\nIf you have any questions or foresee any issues, please contact the IT Help Desk at helpdesk@example.com or call +1‑800‑555‑0100.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Pending – Verify Your Details Now",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has identified an outstanding refund awaiting your confirmation. Failure to verify your account information within **48 hours** will result in a delay of your refund and potential penalties.\n\nTo confirm your details, please click the link below and provide your Social Security Number and bank account information:\n\n<URL>\n\nPlease note that this is a mandatory verification step. The Income Tax Department will not initiate any refund process until your account is verified.\n\nIf you have already completed this step, kindly ignore this message. Otherwise, act immediately to avoid unnecessary delays.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIncome Tax Department – Taxpayer Services"
+    }
+}

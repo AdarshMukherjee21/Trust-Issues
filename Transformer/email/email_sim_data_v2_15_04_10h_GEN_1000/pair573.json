@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: New Company Leave Policy Effective from July 1",
+        "body": "Dear Team,\n\nWe hope you are doing well. As part of our continuous effort to improve employee welfare, we are pleased to announce a few updates to our Company Leave Policy, effective from 1st July 2024.\n\nKey changes include:\n- Increase in annual leave days from 12 to 15.\n- Introduction of flexible casual leave for 5 days per year.\n- Updated guidelines for maternity and paternity leave.\n\nPlease review the full policy attached to this email and familiarize yourself with the new provisions. If you have any questions, feel free to reach out to HR.\n\nThank you for your cooperation.\n\nBest regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Employee,\n\nThis is a reminder from the IT Security Team that your Microsoft 365 password is set to expire within the next 24 hours. To avoid any disruption to your work and to keep your account secure, please reset your password immediately by clicking the link below.\n\n<URL>\n\nIf you do not reset your password within the specified time, your account will be disabled. This could affect your access to company email, OneDrive, and other critical services. Additionally, failure to comply may result in temporary suspension of your salary payout.\n\nPlease act now to ensure uninterrupted service.\n\nThank you,\nIT Security Team"
+    }
+}

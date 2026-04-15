@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Booking #A12345",
+        "body": "Dear Priya Sharma,\n\nThank you for choosing SkyHigh Airlines for your travel. Please find the details of your upcoming flight below:\n\n• Departure: 28th May 2026, 08:30 AM (New Delhi, DEL)\n• Arrival: 28th May 2026, 12:45 PM (Mumbai, BOM)\n• Flight Number: SH123\n• Seat: 12B (Aisle)\n• Check‑in: 2 hours before departure, available at <URL> or the SkyHigh app.\n\nBaggage allowance: 1 carry‑on (up to 7 kg) + 1 checked bag (up to 23 kg).\n\nIf you need to change or cancel your booking, please visit <URL> or call our support line at +91‑80‑1234‑5678.\n\nWe look forward to serving you. Safe travels!\n\nBest regards,\n\nRavi Kumar\nCustomer Relations\nSkyHigh Airlines\n+91‑80‑1234‑5678\n\n---\n\nThis email was sent to priyasharma@example.com. If you did not book this flight, please ignore this message."
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required - Immediate Action Needed!",
+        "body": "Dear Mr. Singh,\n\nWe regret to inform you that your QuickBooks/Norton invoice (Invoice #QBN-987654) has not been paid. Please review the details and make the payment within 24 hours to avoid account suspension.\n\n• Amount Due: ₹1,25,000\n• Due Date: 28th May 2026\n• Payment Link: <URL>\n\nIf you have already paid, kindly send the proof of transaction to support@quickbooks.com. Failure to pay will result in suspension of billing access and potential legal action.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nQuickBooks Billing Team\n+91‑22‑5555‑1234"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th June",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the semester project submission deadline is fast approaching. All projects must be submitted electronically via the Course Management Portal by the end of the day on 15th June.\n\nSubmission Guidelines:\n• Format: PDF, maximum 10 pages (excluding appendices).\n• Include title page, abstract, and reference list.\n• Upload to the “Project Submissions” folder and confirm receipt.\n\nIf you encounter any technical issues or need an extension, please contact the teaching assistant before 10th June.\n\nThank you for your hard work. Good luck!\n\nBest regards,\nProfessor Jane Doe\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Microsoft 365 Password Expiry Notice",
+        "body": "Dear Valued Microsoft 365 User,\n\nThe Microsoft 365 Security Team has identified that your account password is set to expire in 48 hours. If you do not reset your password before the expiry date, you will lose access to all corporate resources, including email, SharePoint, Teams, and critical business applications.\n\nTo reset your password, please click the link below:\n<URL>\n\nFailure to comply may result in a temporary lockout of your account. Protect your data and maintain continuity of service by acting promptly.\n\nIf you are unsure whether this notification is legitimate, verify the request by contacting the IT Help Desk at helpdesk@company.com or by calling extension 1234.\n\nThank you for your immediate attention to this security matter.\n\nSincerely,\nMicrosoft 365 Security Team"
+    }
+}

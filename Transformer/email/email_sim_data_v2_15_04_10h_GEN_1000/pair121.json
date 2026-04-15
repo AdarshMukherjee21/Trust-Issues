@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been shipped",
+        "body": "Hello Ravi,\n\nWe are excited to let you know that your order #1234567890 has been shipped and is on its way! Your items will reach you within 3-5 business days.\n\nOrder Details:\n• 1x Echo Dot (3rd Gen) – ₹3,999\n• 1x Kindle Paperwhite – ₹7,499\n\nTracking Number: TRK1234567890\nYou can track your package using the following link: <URL>\n\nIf you have any questions, feel free to contact our customer support.\n\nThank you for shopping with Amazon.\n\nBest regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #IT-12345 - Immediate Action Required",
+        "body": "Dear Rohan,\n\nYour IT helpdesk ticket #IT-12345 has been escalated to our senior team. We have detected that your account has been flagged for security reasons and requires immediate verification. Please click the link below to confirm your credentials and avoid any service interruption.\n\n<URL>\n\nIf you do not take action within 24 hours, your account will be locked.\n\nKripya turant action lein.\n\nThank you for your prompt cooperation.\n\nBest regards,\nIT Helpdesk Team"
+    }
+}

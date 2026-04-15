@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal - Action Required",
+        "body": "Dear Customer,\n\nThank you for choosing our SaaS platform for your business needs. This is a friendly reminder that your subscription for the Pro Plan will renew on 2026-05-01. The renewal amount of $299.99 will be charged to your existing payment method.\n\nIf you wish to change your plan, update billing information, or cancel your subscription, please log in to your account at <URL> and navigate to the Subscription Settings page.\n\nShould you have any questions or require assistance, feel free to reach out to our support team at <URL>.\n\nWe appreciate your continued partnership.\n\nBest regards,\nCustomer Success Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice – Immediate Action Required",
+        "body": "Hello,\n\nWe have detected that your Microsoft 365 password is set to expire in 48 hours. To avoid disruption of your email, calendar, and OneDrive services, you must reset your password immediately.\n\nPlease click <URL> to confirm your account and update your credentials. Failure to do so may result in your account being locked and you may lose access to critical business data.\n\nIf you have any questions, contact the IT helpdesk at <URL>.\n\nThank you for your prompt attention.\n\nBest regards,\nMicrosoft Security Team"
+    }
+}

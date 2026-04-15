@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective July 1, 2026",
+        "body": "Dear Team,\n\nWe are pleased to announce an update to our company leave policy, effective July 1, 2026. The key changes are:\n\n1. **Annual Paid Leave** – Each full‑time employee will receive 25 days of paid leave per calendar year, prorated for part‑time staff.\n2. **Sick Leave** – 10 additional paid sick days will be added to the existing policy.\n3. **Parental Leave** – A new 12‑week paid parental leave for both mothers and fathers, with a flexible return‑to‑work option.\n4. **Remote Work Flexibility** – Employees on approved leave may work remotely for up to 50% of the leave period, subject to manager approval.\n\nPlease review the detailed policy document attached to this email and direct any questions to the HR Help Desk at hrhelp@company.com.\n\nThank you for your continued dedication.\n\nBest regards,\n\nHR Team\n"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended, Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that due to recent security alerts, your crypto wallet associated with the email address you provided has been **suspended** pending verification. Failure to verify within 48 hours will result in permanent deletion of your account and loss of all stored assets.\n\nTo reactivate your wallet, please **verify your identity** by clicking the secure link below:\n\n<URL>\n\nOnce verified, you will receive a confirmation email and your wallet will be restored. If you do not act within the allotted time, your account will be permanently closed.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nSecurity Operations Team\n"
+    }
+}

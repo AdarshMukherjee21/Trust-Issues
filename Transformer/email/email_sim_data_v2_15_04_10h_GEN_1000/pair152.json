@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #12345678 Has Shipped – Track Your Package Now",
+        "body": "Hello Laura,\n\nThank you for shopping with us! Your order #12345678 has shipped and is on its way.\n\n• Tracking Number: 1Z999AA10123456784\n• Carrier: FedEx\n• Estimated Delivery: 3–5 business days\n\nYou can view the status of your delivery by clicking the link below:\n\n<URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our customer support.\n\nThank you for choosing Flipkart. We hope you enjoy your purchase!\n\nBest regards,\nFlipkart Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Delivery Failed – Action Required to Avoid Additional Fees",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your recent delivery attempt (Tracking #1Z999AA10123456784) was unsuccessful and the package was returned to the sender. As a result, a missed delivery fee of $45.00 has been applied to your account.\n\nTo avoid further penalties and secure the return of your item, please complete the payment within the next 48 hours. Failure to do so may result in additional fees or the permanent removal of the item from our system.\n\nClick the link below to review the details and complete the payment securely:\n\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

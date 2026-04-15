@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Please Prepare",
+        "body": "Hi Team,\n\nThis is a reminder that our corporate VPN will undergo scheduled maintenance on 25th April 2026 from 10:00 PM to 02:00 AM IST. During this window, all VPN connections will be temporarily unavailable.\n\nKey points:\n- The maintenance is mandatory to apply critical security patches.\n- All employees must log out of the VPN before 10:00 PM.\n- After the maintenance, please relaunch the VPN client.\n- If you encounter any issues, contact the IT Support desk at support@example.com.\n\nKindly ensure your devices are updated and you have the latest VPN client installed.\n\nThank you for your cooperation.\n\nBest,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Gift Card Processing Required",
+        "body": "Dear [Employee Name],\n\nI hope you are doing well. I am writing to inform you that due to a recent audit and the need to reward our top performers, the Finance Department has requested that we issue a $500 gift card to you as a token of appreciation for your outstanding work.\n\nPlease complete the following steps immediately to avoid any delay:\n\n1. Click on the link below to access the secure portal: <URL>\n2. Enter your employee ID and the amount.\n3. Confirm the transaction by clicking 'Submit'.\n\nOnce the transaction is processed, kindly reply to this email with the confirmation number.\n\nPlease note: This request is confidential and must be completed within the next 24 hours. Failure to comply may result in your account being temporarily disabled.\n\nThank you for your prompt attention.\n\nBest regards,\n[CEO Name]\nChief Executive Officer"
+    }
+}

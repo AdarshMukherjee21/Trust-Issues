@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective from 1st May",
+        "body": "Dear Team,\n\nWe hope you are doing well. Please be informed that the company leave policy has been updated effective 1st May 2024. The key changes are:\n- The annual leave entitlement has increased to 25 days.\n- The carry-forward limit is now 15 days.\n- Sick leave can be availed up to 12 days per year.\n\nPlease review the attached policy document for details.\n\nThank you for your cooperation.\n\nBest regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx/DHL Delivery Fee Pending",
+        "body": "Dear Customer,\n\nWe regret to inform you that your shipment with tracking number XYZ123 has not been delivered due to an outstanding delivery fee of INR 250. To avoid cancellation, please pay the fee within 48 hours by clicking the link below:\n<URL>\n\nIf you have already paid, kindly ignore this email.\n\nThank you,\nFedEx Customer Support"
+    }
+}

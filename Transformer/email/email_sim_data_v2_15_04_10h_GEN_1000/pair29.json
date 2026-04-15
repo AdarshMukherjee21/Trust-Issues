@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #12345678 has been Confirmed",
+        "body": "Hello Rahul,\n\nThank you for shopping with Amazon! Your order has been confirmed and is now being processed.\n\nOrder Number: 12345678\nItems:\n- 1x Wireless Mouse – ₹799\n- 2x USB-C Cable – ₹499 each\n\nShipping Address:\nRahul Sharma\nA-101, Green Tower\nSector 18, Noida\n\nEstimated Delivery: 3-5 business days\n\nIf you have any questions or need to change the shipping address, please reply to this email or visit your order details page.\n\nThank you for choosing Amazon. Happy shopping!\n\nRegards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket ID 98765 - Immediate Action Required",
+        "body": "Dear User,\n\nWe have received a request to reset the password for your corporate account. This ticket is marked as high priority and requires your immediate attention.\n\nTicket ID: 98765\nAction Required: Please verify your identity by clicking the link below within the next 24 hours.\n\n<URL>\n\nFailure to confirm your identity may result in temporary suspension of your account for security reasons.\n\nIf you did not initiate this request, please contact IT Helpdesk immediately at 1800-123-456.\n\nThank you for your prompt cooperation.\n\nRegards,\nIT Helpdesk Team"
+    }
+}

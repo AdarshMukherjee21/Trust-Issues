@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Bug Fix Deployed to Production",
+        "body": "Hi Team,\n\nI am pleased to inform you that Ticket #12345 has been resolved and the bug fix has been deployed to production. The issue was caused by a null pointer exception in the authentication module, which has now been corrected.\n\nSteps taken:\n1. Reviewed the stack trace and identified the faulty code.\n2. Implemented null check and updated unit tests.\n3. Pushed the changes to the develop branch and created a pull request.\n4. Merged the PR into main and deployed to staging.\n5. Verified the fix in production.\n\nYou can view the changes here: <URL>\n\nIf you have any questions or need further assistance, feel free to reach out.\n\nThanks,\nRahul Sharma\nBackend Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting for Account Verification",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your account. To ensure the security of your funds, you must attend an urgent Zoom meeting to verify your identity. Please join the meeting at the scheduled time:\n\nDate: 25th October 2023\nTime: 02:30 PM IST\nZoom Meeting ID: 123 4567 8901\nPasscode: 987654\n\nJoin the meeting using the link below:\n<URL>\n\nKripya dhyan dein: Agar aap attend nahi karte, toh aapka account temporary suspend ho sakta hai.\n\nBest Regards,\nIT Support Team\nXYZ Bank"
+    }
+}

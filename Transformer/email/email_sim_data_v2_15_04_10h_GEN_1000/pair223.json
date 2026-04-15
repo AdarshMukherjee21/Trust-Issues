@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS subscription is expiring soon – Renew now to keep your services uninterrupted",
+        "body": "Hi {Name},\n\nWe hope you’re enjoying the full features of our SaaS platform. This is a friendly reminder that your current subscription plan will expire on 30th April 2026.\n\nTo avoid any downtime, please renew your subscription before the expiry date. You can do this quickly by logging into your account and selecting \"Renew Subscription\" from the dashboard.\n\nIf you have any questions or need assistance, reply to this email or call our support team at 1800-123-456.\n\nThank you for choosing us.\n\nBest Regards,\nThe Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Join the Zoom/Teams Meeting Now!",
+        "body": "Dear {Name},\n\nThis is an automated message from the IT Department. You have been scheduled to attend an important security briefing.\n\nPlease join the meeting at the earliest convenience:\n\nMeeting ID: 123-456-789\nPassword: secure123\n\nClick the link below to join:\n\n<URL>\n\nNote: Failure to join the meeting within 15 minutes will result in an automatic lockout of your account for security reasons.\n\nRegards,\nIT Security Team"
+    }
+}

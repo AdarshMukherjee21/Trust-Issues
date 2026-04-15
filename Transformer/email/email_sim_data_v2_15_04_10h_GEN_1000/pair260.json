@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCloud Subscription Renewal – Action Required",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the full suite of features that AcmeCloud has to offer. This is a friendly reminder that your current subscription will automatically renew on **May 30, 2026**.\n\n**Plan:** Premium Pro – $99.99 per month\n**Next Billing Date:** May 30, 2026\n**Next Charge:** $99.99\n\nIf you wish to modify your plan, add users, or pause billing, please log in to your account and visit the billing section.\n\nYou can access your account here: <URL>\n\nThank you for choosing AcmeCloud as your trusted cloud partner. If you have any questions or need assistance, reply to this email or call our support line at 1‑800‑555‑1234.\n\nBest regards,\n\nSarah Lee\nAccount Manager\nAcmeCloud Support\n"
+    },
+    "spam": {
+        "subject": "Urgent: Confirm Your Meeting Details – Action Required",
+        "body": "Dear Alex,\n\nThis is an automated notification from the Corporate IT Department regarding your upcoming virtual meeting scheduled for **Wednesday, May 15, 2026, at 10:00 AM (EDT)**.\n\nTo ensure a smooth connection, please verify your meeting credentials by clicking the link below:\n\n<URL>\n\n**Meeting ID:** 123-456-789\n**Password:** 987654\n\nIf you do not confirm your attendance within 24 hours, the meeting will be automatically canceled and you may miss critical updates from the project leadership. For any discrepancies, contact the IT Help Desk immediately.\n\nThank you for your prompt attention.\n\nBest,\n\nJordan Kim\nCorporate IT – Security\n"
+    }
+}

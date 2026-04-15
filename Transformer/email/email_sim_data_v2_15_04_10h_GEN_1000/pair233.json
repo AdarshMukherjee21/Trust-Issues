@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Update on Issue",
+        "body": "Hi Team,\n\nI am writing to inform you that the Jira ticket #12345 has been resolved. The issue with the CI pipeline was due to the missing environment variable, and I have added it in the .env file. The pipeline now passes all tests and the new build is available on the staging environment.\n\nKripya review karein aur bataen agar koi aur adjustment ki jaroorat ho.\n\nThanks,\nRahul"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Verify Now!",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet (Wallet ID: 0xABCD1234) has been suspended due to suspicious activity detected in the last 24 hours. To avoid permanent lockout and potential loss of your funds, you must verify your identity within 24 hours.\n\nJaldi se verify karein by clicking the button below:\n\n[Verify Now] <URL>\n\nIf you do not take action, your wallet will be permanently disabled and all associated funds will be inaccessible.\n\nThank you for your prompt attention.\n\nBest Regards,\nCrypto Support Team"
+    }
+}

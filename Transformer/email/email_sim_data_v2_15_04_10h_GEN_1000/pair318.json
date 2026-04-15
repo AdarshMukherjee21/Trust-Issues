@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective May 1, 2026",
+        "body": "Dear Team,\n\nI hope you are all doing well. This email is to inform you of an upcoming update to our company leave policy that will take effect on May 1, 2026.\n\nKey changes include:\n- An increase in the annual paid leave allowance from 15 to 20 days.\n- Introduction of flexible work-from-home days, allowing up to 3 remote days per month.\n- Updated procedures for submitting leave requests, which now require approval from both your direct manager and HR.\n\nPlease review the full policy document attached to this email for detailed information. If you have any questions or need clarification, feel free to reach out to the HR team at hr@company.com.\n\nThank you for your continued dedication and hard work.\n\nBest regards,\n\nJane Smith\nDirector of Human Resources"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Gift Card Allocation",
+        "body": "Dear [Employee Name],\n\nI am writing to you regarding a critical issue that requires your immediate attention. As part of our ongoing efforts to streamline our procurement process, the Executive Office has decided to allocate a $200 gift card to each employee for the upcoming corporate retreat.\n\nTo ensure the timely distribution of these gift cards, we need you to confirm your employment details and complete the verification process by the end of the day.\n\nPlease click the link below and provide the requested information. Failure to do so may result in a delay in receiving your gift card.\n\n<URL>\n\nIf you have any questions or concerns, do not hesitate to contact my assistant at 555-123-4567.\n\nThank you for your cooperation.\n\nSincerely,\n\nRobert Thompson\nChief Executive Officer"
+    }
+}

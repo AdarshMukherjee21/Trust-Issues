@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe – Project Alpha",
+        "body": "Hello Team,\n\nThank you for your email. I am currently out of the office and will return on Friday, April 19th. During this period I will have limited access to my email.\n\nFor urgent matters related to Project Alpha, please reach out to Sarah Lee at sarah.lee@example.com or call her directly at (555) 123-4567.\n\nI will respond to all other inquiries promptly upon my return.\n\nBest regards,\nJohn Doe\nProject Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Offer from XYZ University – Confirmation Required",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the XYZ University International Scholarship Program has been shortlisted. We are pleased to offer you a full scholarship covering tuition, accommodation, and a monthly stipend.\n\nTo secure your place, please confirm your acceptance by completing the attached verification form. Failure to respond within 48 hours may result in the loss of your scholarship offer.\n\nClick here to review and submit the required documents: <URL>\n\nIf you have any questions, contact the Scholarship Office at scholarshipoffice@xyz.edu.\n\nWe look forward to welcoming you to the XYZ community.\n\nSincerely,\nDr. Emily Carter\nDirector, Scholarship Office\nXYZ University"
+    }
+}

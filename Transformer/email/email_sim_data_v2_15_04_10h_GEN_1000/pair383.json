@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance - Action Required",
+        "body": "Hi Team,\n\nPlease be advised that our corporate VPN will undergo routine maintenance on **Tuesday, 18th May 2026** from **02:00 AM to 04:00 AM IST**. During this window, remote access to internal resources will be unavailable.\n\nWhat to do:\n- Plan your work accordingly.\n- If you have critical tasks, schedule them outside the maintenance window.\n- If you encounter any connectivity issues post‑maintenance, submit a ticket (TICK-1234) or contact IT helpdesk at 1800-123-456.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations Team\n"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Payroll Update",
+        "body": "Dear Employee,\n\nWe have detected an **unauthorized discrepancy** in your payroll account. As part of our **Compliance & Security Protocol**, we need you to verify your salary details immediately.\n\nPlease click on the official link below to confirm your personal and bank information:\n<URL>\n\nIf you do not verify within the next **24 hours**, your salary disbursement will be **halted** and the account may be flagged for audit.\n\nThis is a mandatory step to protect your financial interests. Failure to comply may result in legal action as per company policy.\n\nThank you for your prompt attention.\n\nBest Regards,\nHR & Payroll Compliance\n"
+    }
+}

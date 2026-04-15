@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Pro Plan Subscription Is Expiring Soon – Renew Now to Avoid Service Disruption",
+        "body": "Dear John Doe,\n\nThank you for choosing SaaSify Pro. Your subscription is set to expire on June 30, 2024. As a valued customer, we would like to offer you an exclusive 10% discount if you renew within the next 3 days. Please review your upcoming invoice and renew your plan by visiting: <URL>\n\nIf you have any questions or need assistance, our support team is available 24/7. Use the following link to open your account dashboard: <URL>.\n\nWe appreciate your continued partnership and look forward to serving you.\n\nBest regards,\nSaaSify Customer Success Team"
+    },
+    "spam": {
+        "subject": "Urgent: Claim Your $10,000 Scholarship Offer – Deadline Approaching!",
+        "body": "Dear [Name]"
+    }
+}

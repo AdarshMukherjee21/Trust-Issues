@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Samir Sharma",
+        "body": "Hi Team,\n\nI will be out of the office from 15th April to 20th April. I will get back to you when I return.\n\nFor urgent matters please reach out to Rahul. Thank you.\n\nRegards,\nSamir"
+    },
+    "spam": {
+        "subject": "IT Support Ticket #78910 - Immediate Action Required",
+        "body": "Dear Employee,\n\nIT Helpdesk has detected a potential security issue with your workstation. Please complete the following steps by 5pm today:\n\n1. Click <URL> to download a verification script.\n2. Run the script and send the log file to helpdesk@company.com.\n3. Restart your computer.\n\nFailure to comply will result in temporary suspension of network access.\n\nThank you for your cooperation.\n\nRegards,\nIT Support Team"
+    }
+}

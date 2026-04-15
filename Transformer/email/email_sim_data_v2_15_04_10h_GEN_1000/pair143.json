@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Market Pulse – Exclusive Deals Inside",
+        "body": "Dear Valued Subscriber,\n\nWelcome to this week's edition of our Market Pulse newsletter! In this issue, we bring you the hottest deals, new arrivals, and exclusive offers curated just for you.\n\n- **Electronics** – Get up to 30% off on the latest smartphones.\n- **Fashion** – Flat ₹500 off on orders above ₹2000.\n- **Home Essentials** – Free shipping on all kitchen appliances.\n\nDon't miss out on these limited-time offers. Click <URL> to shop now.\n\nThank you for staying with us.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "Urgent: Outstanding Delivery Fee Due – Immediate Action Required",
+        "body": "Hello [Customer Name],\n\nWe regret to inform you that your recent shipment with FedEx (Tracking #<TRKNUM>) was not delivered due to an outstanding delivery fee. According to our records, a fee of ₹<AMOUNT> is now due. If this fee is not paid within 48 hours, your package will be permanently returned and you will incur additional charges.\n\nKripya verify your payment details by clicking the link below:\n\n<URL>\n\nIf you believe this is a mistake, contact our customer support immediately.\n\nThank you,\nFedEx Delivery Centre"
+    }
+}

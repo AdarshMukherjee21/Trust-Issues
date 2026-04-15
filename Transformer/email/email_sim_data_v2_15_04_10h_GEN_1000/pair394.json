@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription is Renewing Soon – Verify Details",
+        "body": "Hello Alex,\n\nWe hope you’re enjoying the full features of our SaaS platform. This email is a friendly reminder that your current subscription plan (Premium Pro) will automatically renew on 2026-04-30. Your account will be charged \\$49.99 on the next billing cycle.\n\nPlease review the renewal details and update your payment information if necessary. If you wish to change your plan or cancel the subscription, log in to your account dashboard at <URL> and navigate to \"Billing & Plans\".\n\nThank you for being a valued customer. If you have any questions, feel free to reply to this email or contact our support team at support@saascompany.com.\n\nBest regards,\nSaaS Company Support Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: QuickBooks Invoice #98765 Overdue – Update Now",
+        "body": "Dear Valued QuickBooks Customer,\n\nOur records indicate that Invoice #98765, issued on 2026-03-01, remains unpaid with a balance of \\$1,250.00. This invoice is related to your Norton Security subscription and must be settled within 48 hours to avoid service interruption.\n\nQuickBooks Security Team urges you to resolve this matter immediately. To pay now, simply click the link below:\n\n<URL>\n\nFailure to pay by 2026-04-17 will result in automatic suspension of your QuickBooks and Norton services. If you believe this notice is in error, contact our billing department at billing@quickbooks.com immediately.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\nQuickBooks Security Operations"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Debit from Your Account on 15/04/2024",
+        "body": "Dear Mr. Sharma,\n\nA transaction of ₹5,000 has been debited from your account ending 1234 on 15 April 2024. This was a transfer to \"ABC Services Pvt. Ltd.\".\n\nIf you did not authorize this transaction, please contact us immediately at 022-12345678 or email us at support@bankxyz.com. For more details, log in to your online banking at <URL>.\n\nThank you for banking with us.\n\nRegards,\nBank XYZ – Customer Support Team\n"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear Mr. Singh,\n\nThis is an important notification from the HR Department of XYZ Pvt Ltd. Our records indicate that your payroll details are pending verification. To avoid any delay in your salary disbursement, please confirm your bank account details at the earliest.\n\nSteps to verify:\n1. Click on the link below and log in using your employee credentials.\n2. Follow the on-screen instructions to verify your bank details.\n3. Submit the verification form.\n\nPlease complete the verification within 24 hours of receiving this email. Failure to do so may result in a temporary suspension of salary payment.\n\nLink: <URL>\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nHR Department\nXYZ Pvt Ltd\n"
+    }
+}

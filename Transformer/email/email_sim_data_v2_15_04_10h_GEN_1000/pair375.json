@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary – Confirmation for Flight AB123",
+        "body": "Dear Rajesh,\n\nThank you for booking with Air India. Your flight details are confirmed as follows:\n\n• Flight: AB123\n• Date: 12/08/2026\n• Departure: Delhi (DEL) at 10:45 AM\n• Arrival: Mumbai (BOM) at 12:30 PM\n• Seat: 12A (Aisle)\n• Boarding Time: 10:15 AM\n• Gate: 12\n\nPlease arrive at the airport at least 2 hours before departure. Attach the e-ticket below for reference.\n\nIf you need to change your booking or have any questions, contact our support at support@airindia.com.\n\nSafe travels!\n\nBest Regards,\nAir India Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Zoom Meeting Invite",
+        "body": "Dear Rajesh,\n\nWe hope you are doing well. You have been invited to a mandatory Zoom meeting by the Compliance Department of XYZ Corp. The meeting is scheduled for tomorrow, 13/08/2026, at 09:00 AM IST. This session is critical to discuss the new regulatory standards and your role in ensuring compliance.\n\nPlease join the meeting using the link below:\n<URL>\n\nIf you are unable to attend, please notify the Compliance team immediately at compliance@xyzcorp.com. Failure to attend may result in a compliance audit.\n\nThank you for your prompt attention to this matter.\n\nBest,\n\nKavita Sharma\nCompliance Officer\nXYZ Corp"
+    }
+}

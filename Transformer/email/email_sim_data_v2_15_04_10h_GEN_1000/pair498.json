@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe – Back on 10/12",
+        "body": "Hello,\n\nI am currently out of the office and will return on 10/12. I will have limited access to email during this period.\n\nFor urgent matters, please contact my colleague, Jane Smith, at jane.smith@company.com.\n\nThank you for your understanding.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "Urgent: Your Scholarship Award Requires Immediate Verification",
+        "body": "Dear Applicant,\n\nCongratulations! The University of Avalon has selected you as a recipient of the 2026 Global Leadership Scholarship. This award is fully funded and covers tuition, living expenses, and travel.\n\nTo claim your scholarship, you must complete a quick verification process within 48 hours. Please click the link below and provide the required personal information and a one‑time processing fee of $150.\n\n<URL>\n\nFailure to verify within the deadline will result in automatic forfeiture of the scholarship. This is a mandatory step in accordance with the University's award policy.\n\nIf you have any questions, reply to this email or contact the Office of Admissions at admissions@avalon.edu.\n\nSincerely,\nDr. Emily Smith\nOffice of Admissions\nUniversity of Avalon"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 1, 2024",
+        "body": "Dear Team,\n\nI hope this message finds you well. As part of our ongoing effort to provide clear and comprehensive guidance on employee benefits, we are pleased to announce an update to our Company Leave Policy that will take effect on July 1, 2024.\n\nKey Highlights:\n•  Paid Time Off (PTO) accrual rates have been adjusted to align with industry standards.\n•  New guidelines for remote work days and flexible scheduling.\n•  Updated procedures for requesting sick leave and family emergencies.\n\nPlease review the full policy document attached to this email and the link below for detailed information.\n\n<URL>\n\nIf you have any questions or need clarification, feel free to reach out to the HR team at hr@company.com.\n\nThank you for your attention to this important update.\n\nBest regards,\n\nJane Smith\nHuman Resources Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that due to recent suspicious activity detected on your account, your crypto wallet has been temporarily suspended to protect your assets. This action was taken in accordance with our security protocols.\n\nTo restore access, please verify your identity by following the steps below:\n\n1. Log into the official wallet portal using the link below.\n2. Provide the requested verification documents (government ID, proof of address, and a recent selfie).\n3. Complete the 2‑factor authentication process.\n\n<URL>\n\nFailure to comply within 24 hours will result in permanent suspension of your wallet and potential loss of funds. We urge you to act immediately to safeguard your investments.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nSecurity Team\nCrypto Wallet Support"
+    }
+}

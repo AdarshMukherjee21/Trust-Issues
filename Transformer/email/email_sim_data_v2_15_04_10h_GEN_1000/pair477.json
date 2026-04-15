@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight ABC123",
+        "body": "Dear Mr. Sharma,\n\nThank you for choosing AirIndia for your upcoming travel. We are pleased to confirm your booking details below:\n\nFlight: ABC123\nDate: 28th Apr 2026\nDeparture: New Delhi (DEL) at 10:15 AM\nArrival: Mumbai (BOM) at 12:45 PM\nSeat: 12B\nClass: Economy\n\nBooking Reference: AI2026-ABC123\nTicket Number: 1234567890\n\nPlease arrive at the departure gate at least 90 minutes before the scheduled departure time. You can check-in online up to 24 hours before the flight via our official app or website. Remember to carry a valid ID proof and a printed or digital boarding pass.\n\nIf you have any questions or need to make changes to your itinerary, feel free to contact our customer support at +91-22-1234-5678 or email support@airindia.com.\n\nBon Voyage!\n\nBest Regards,\nAirIndia Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Schedule Your Zoom Meeting",
+        "body": "Hello Team,\n\nAs a part of our upcoming project rollout, I need everyone to join a mandatory Zoom session tomorrow at 02:00 PM IST. This meeting is crucial for aligning our deliverables and ensuring compliance with the new client guidelines.\n\nPlease use the link below to join the meeting. Do not share the link with anyone else as it contains sensitive project information.\n\n<URL>\n\nThe meeting will last approximately 90 minutes. Kindly confirm your attendance by replying to this email at your earliest convenience. If you encounter any technical issues or have conflicts with the schedule, please notify me immediately so we can make alternate arrangements.\n\nThank you for your prompt cooperation.\n\nBest,\nRavi Patel\nProject Lead, XYZ Solutions"
+    }
+}

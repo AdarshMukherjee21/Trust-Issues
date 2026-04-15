@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Emily Thompson",
+        "body": "Hi Team,\n\nI will be out of the office from Monday, April 22nd to Friday, April 26th, 2026. During this period, I will have limited access to email and may not be able to respond promptly.\n\nFor any urgent matters, please contact our project lead, Michael Rivera, at michael.rivera@enron.com, or our support desk at 713-555-0198.\n\nThank you for your understanding.\n\nBest regards,\nEmily Thompson\nSenior Analyst\nEnron Corporation"
+    },
+    "spam": {
+        "subject": "URGENT: IT Ticket #98765 – Immediate Action Required",
+        "body": "Dear Valued Employee,\n\nYour account has been flagged for unusual activity. As a security measure, our IT helpdesk has created a ticket (Ticket #98765) that requires your immediate attention.\n\nPlease review the details of the ticket and confirm your identity by clicking the link below. Failure to do so may result in temporary suspension of your account.\n\n<URL>\n\nOnce you have verified your details, the ticket will be closed and your access restored. If you have questions, reply to this email or call the helpdesk at 713-555-0222.\n\nThank you for your prompt cooperation.\n\nSincerely,\nAlice Carter\nIT Helpdesk Manager\nEnron Corporation"
+    }
+}

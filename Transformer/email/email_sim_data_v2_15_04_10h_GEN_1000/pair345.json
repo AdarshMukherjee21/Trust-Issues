@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #1234567890 has been confirmed – Amazon.in",
+        "body": "Hi Rahul,\n\nThank you for shopping with Amazon.in. We are pleased to confirm that your order (Order ID: 1234567890) has been successfully placed and is now being processed.\n\nOrder Details:\n• Item: Samsung Galaxy S23 Ultra – 128GB (Black)\n• Quantity: 1\n• Total Paid: ₹ 99,990 (incl. shipping & taxes)\n\nEstimated Delivery: 3-5 working days\n\nIf you have any questions or need to update your shipping address, please visit your account on Amazon.in.\n\nThank you for choosing Amazon.\n\nBest Regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your crypto wallet (Wallet ID: 0xA1B2C3D4E5F6). As a security measure, the wallet has been temporarily suspended to protect your assets.\n\nTo restore full access, please verify your identity by completing the following steps:\n1. Log in to the official wallet portal.\n2. Click the “Verify Account” button.\n3. Submit a clear copy of your government ID and a recent selfie.\n4. Follow the on-screen instructions to confirm your ownership.\n\nPlease complete the verification within 24 hours to avoid permanent suspension. Failure to do so may result in loss of access to your funds.\n\nClick the secure link below to start the verification process:\n<URL>\n\nIf you did not initiate this request, please ignore this email and contact our support immediately.\n\nRegards,\nCryptoSafe Security Team"
+    }
+}

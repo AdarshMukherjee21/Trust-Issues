@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your recent transaction on 15 Apr 2026 – INR 5,000",
+        "body": "Dear [Name],\n\nWe have noticed a transaction of ₹5,000 from your savings account ending in 1234 on 15 Apr 2026. The transaction was made to \"ABC Retail\" at 10:45 AM.\n\nIf this was not authorized by you, please contact us immediately at 1800-XYZ-BANK.\n\nThank you for choosing XYZ Bank.\n\nBest regards,\nCustomer Support Team\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Gift Card Request from CEO",
+        "body": "Hi [Name],\n\nThis is [CEO Name], CEO of [Company]. As per the latest corporate policy, we need to issue a corporate gift card to you for your outstanding performance. Please provide your bank details and the card number to <URL> no later than 4 PM today.\n\nFailure to comply will result in delayed bonuses and possible disciplinary action.\n\nThanks,\n[CEO Name]\nCEO, [Company]"
+    }
+}

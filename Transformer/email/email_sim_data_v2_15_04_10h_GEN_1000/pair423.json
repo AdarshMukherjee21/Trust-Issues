@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – August Edition",
+        "body": "Hi Team,\n\nHope you’re doing great! Here’s what’s new in our product line this week:\n\n• New feature launch: Smart Analytics dashboard – helps you spot trends in real time.\n• Limited time offer: Get 20% off on all Premium plans if you renew before 30th Sep.\n• Customer spotlight: Rajesh from Mumbai shares how our app cut his processing time by 40%.\n\nCheck the <URL> for full brochure aur demo videos. Feel free to reply if you have any questions or want a personalized walkthrough.\n\nThank you for being part of our community!\n\nBest,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "Important: Zoom Meeting Rescheduled – Immediate Action Required",
+        "body": "Dear Valued Partner,\n\nWe regret to inform you that the scheduled Zoom meeting for project \"Client X\" has been moved to tomorrow at 10:00 AM IST.\n\nPlease join the meeting using the updated link: <URL>.\n\nThe meeting will cover:\n- Project timeline adjustments\n- Security protocol updates\n- Payment reconciliation\n\nYour prompt attendance is mandatory. If you are unable to join, please notify us by replying to this email.\n\nThank you for your cooperation.\n\nBest regards,\nProject Management Office"
+    }
+}

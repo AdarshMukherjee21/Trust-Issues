@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – Aug 25",
+        "body": "Hello Team,\n\nI hope you are all doing well. Just a friendly reminder that the semester project submission deadline is fast approaching on **August 25th**. Please make sure to finalize your reports, compile the code, and upload everything to the shared drive by the end of the day.\n\nIf you have any questions or need clarification on the formatting guidelines, feel free to reply to this email or drop a message on the class Slack channel.\n\nThank you for your hard work and dedication. Looking forward to seeing your projects!\n\nBest regards,\n\nAnita Sharma\nProject Coordinator"
+    },
+    "spam": {
+        "subject": "URGENT: Your Zoom Meeting Invite – Immediate Action Required",
+        "body": "Dear Student,\n\nWe have scheduled a **mandatory Zoom meeting** to review your semester project progress. The meeting is set for **Monday, 27th August at 10:00 AM IST**. It is essential that you join on time, as attendance will be recorded and used for grading.\n\nPlease click <URL> to join the meeting. If you do not click the link within 15 minutes, you will be automatically removed from the session and your account may be flagged for inactivity.\n\nFor security purposes, we require you to verify your identity before the meeting. Kindly reply to this email with a recent photo of your ID card and a brief statement confirming your identity.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nIT Support Team"
+    }
+}

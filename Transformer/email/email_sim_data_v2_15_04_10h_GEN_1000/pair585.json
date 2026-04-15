@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nHope you’re doing well. I wanted to let you know that our Corporate VPN will be undergoing scheduled maintenance tonight from 11:00 PM to 1:30 AM IST. During this window, you may experience intermittent connectivity when trying to access the internal network.\n\nIf you need to run critical tasks during this period, please coordinate with the IT support team to arrange a temporary access method.\n\nThanks for your cooperation.\n\nRegards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "⚠️ Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Hi @EmployeeName,\n\nThis is an important notice from the HR & Payroll Department. Due to recent regulatory changes, your payroll details have been updated. Please confirm your bank account information by clicking on the link below to avoid any delay in salary disbursement.\n\n<URL>\n\nPlease complete the verification within 24 hours to ensure your salary is credited on time. If you do not act, your next paycheck may be held.\n\nThank you for your prompt attention.\n\nBest Regards,\nHR Team"
+    }
+}

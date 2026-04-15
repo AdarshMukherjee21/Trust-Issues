@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Company Leave Policy Effective 1st May 2026",
+        "body": "Hello Team,\n\nWe hope you are doing well. As part of our continuous effort to improve work‑life balance and keep everyone informed, we have updated our leave policy. The new policy comes into effect from 1st May 2026.\n\nKey Highlights:\n- **Paid Leave**: 20 days per year for all full‑time employees. Part‑time staff receive prorated days.\n- **Sick Leave**: 12 days per year, with a one‑time rollover of up to 5 days.\n- **Unpaid Leave**: Up to 10 days per year, subject to managerial approval.\n- **Public Holidays**: 15 official holidays, plus any additional holidays announced by the HR team.\n- **Leave Accrual**: Accrual starts from the first day of employment and is calculated monthly.\n- **Carry‑over**: Unused paid leave can be carried over for a maximum of 5 days.\n\nPlease review the detailed policy document attached (PDF) and let us know if you have any questions. All employees are required to acknowledge receipt of this policy by 15th April 2026.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nHR Team\n\nHR@yourcompany.com | +91-9876543210"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 Password Is Expiring – Action Required",
+        "body": "Dear User,\n\nMicrosoft 365 security alert. Your password is set to expire in 48 hours. To prevent any interruption to your services, please verify your credentials immediately.\n\n1. Click the link below to access the secure verification portal:\n<URL>\n\n2. Enter your current password and choose a new one that meets the security standards.\n\nIf you do not update your password within the deadline, your account will be locked, and you will lose access to Outlook, Teams, and OneDrive. This is a mandatory compliance step for all employees.\n\nWe appreciate your prompt action.\n\nRegards,\n\nMicrosoft Support Team\n\nSecurity@yourcompany.com"
+    }
+}

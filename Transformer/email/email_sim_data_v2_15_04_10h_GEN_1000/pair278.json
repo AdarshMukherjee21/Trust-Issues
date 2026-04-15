@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: [Name]",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office and will return on Monday, April 22, 2026. During this period I will have limited access to email.\n\nFor urgent matters, please contact my colleague Jane Doe at jane.doe@example.com.\n\nBest regards,\n[Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Confirmation Required",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that you have been selected as a recipient of the prestigious XYZ University Outstanding Scholars Grant. Congratulations!\n\nTo secure your scholarship award, you must complete the verification process by clicking the secure link below and providing your personal details. Failure to complete this process within 48 hours will result in forfeiture of the award.\n\n<URL>\n\nThe scholarship office requires immediate confirmation to process your award. Please respond to this email at your earliest convenience.\n\nSincerely,\nDr. A. Smith\nDirector, Scholarships Office\nXYZ University\n(555) 123-4567"
+    }
+}

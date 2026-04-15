@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Newsletter - Insights & Tips",
+        "body": "Hi there,\n\nThank you for being part of our community! Here’s your weekly marketing newsletter packed with the latest trends, product updates, and exclusive offers.\n\n1. New Product Launch - Discover the features of our latest gadget.\n2. Customer Success Stories - See how businesses are thriving.\n3. Upcoming Webinar - Join us next Thursday at 10 AM for a live demo.\n4. Special Discount - Grab a 15% discount on all products, valid till Sunday.\n\nVisit <URL> to read more and explore our catalog. We appreciate your continued support.\n\nBest regards,\nMarketing Team\nXYZ Pvt Ltd"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Gift Card Invoice for CEO Approval",
+        "body": "Hi [Name]"
+    }
+}

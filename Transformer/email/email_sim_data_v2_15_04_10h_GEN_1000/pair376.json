@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $200 Debit from ABC Store",
+        "body": "Dear John Doe,\n\nWe wish to inform you that a $200.00 debit has been processed from your account ending in 1234 at ABC Store on 2026-04-12.\n\nIf you did not authorize this transaction, please contact our support team immediately at 1‑800‑123‑4567 or reply to this email.\n\nThank you for banking with us.\n\nSincerely,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required for Your Scholarship Application",
+        "body": "Dear Jane Smith,\n\nCongratulations! Your application for the prestigious Global Scholars Fellowship has been shortlisted.\n\nTo secure your scholarship, you must verify your personal information by clicking the link below and complete a short confirmation process. Failure to do so may result in the forfeiture of your award.\n\n<URL>\n\nPlease act within 48 hours.\n\nBest regards,\nDr. Alan Thompson\nDirector, Scholarship Office"
+    }
+}

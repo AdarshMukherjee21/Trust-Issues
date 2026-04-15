@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 1, 2026",
+        "body": "Dear Team,\n\nI hope this message finds you well. We are pleased to announce an important update to our Company leave policy, effective July 1, 2026.\n\nKey changes include:\n- An increase in annual paid leave from 15 to 18 days.\n- Introduction of a flexible leave option allowing employees to take short, unplanned breaks (up to 3 days) without requiring prior approval.\n- A new “Well‑Being” leave provision, granting up to 5 additional paid days for mental health, family care, or personal emergencies.\n\nPlease review the full policy details on the HR portal or download the attached PDF for a comprehensive overview. If you have any questions or need clarification, feel free to reach out to HR at hr@company.com.\n\nThank you for your continued dedication and hard work.\n\nBest regards,\n\nJane Smith\nDirector of Human Resources"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required Immediately",
+        "body": "Dear John Doe,\n\nThis is an automated notice from QuickBooks regarding your subscription renewal. The invoice for the upcoming billing cycle has been generated and is now due for payment.\n\nIf the invoice is not settled within the next 48 hours, your QuickBooks service will be suspended, and you may lose access to critical financial data and reporting tools.\n\nTo review and pay the invoice securely, please click the link below and enter your corporate credentials:\n<URL>\n\nFor any questions, contact QuickBooks support at support@quickbooks.com.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nQuickBooks Billing Team"
+    }
+}

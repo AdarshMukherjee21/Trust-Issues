@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Upcoming Flight Itinerary: Flight ABC123",
+        "body": "Dear John Doe,\n\nThank you for choosing SkyHigh Airlines. Please find your flight itinerary details below:\n\n• Flight Number: ABC123\n• Date: 2026-05-10\n• Departure: 08:45 AM from JFK International Airport (Terminal 4, Gate 12)\n• Arrival: 11:30 AM at LAX (Terminal 2, Gate 8)\n• Seat Assignment: 12A (Window)\n• Baggage Allowance: 1 carry‑on + 1 checked bag (max 23 kg)\n• Check‑in: Online check‑in opens 24 hours before departure. Please complete it at <URL>.\n• Additional Services: In‑flight meals, Wi‑Fi purchase, lounge access.\n\nWe recommend arriving at the airport at least 2 hours before departure.\n\nShould you have any questions or need to modify your itinerary, contact us at support@skyhigh.com or call 1‑800‑SKYHIGH.\n\nSafe travels!\n\nBest regards,\nSkyHigh Airlines Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Discrepancy Correction",
+        "body": "Dear John Doe,\n\nThis is an urgent notice from the Human Resources Department regarding a discrepancy in your recent payroll. Our records indicate that your salary for the month of April has not been processed correctly due to an administrative error.\n\nTo rectify this issue and ensure you receive the correct payment, please complete the following steps within 48 hours:\n\n1. Verify your bank account details by logging into the employee portal at <URL> and confirming the routing number and account number.\n2. Submit the attached payroll correction form (PDF) and return it to hr@ourcompany.com.\n3. Reply to this email with the subject line \"Payroll Correction – John Doe\" to confirm receipt.\n\nFailure to act within the specified timeframe may result in further delays and could impact your eligibility for upcoming bonuses. Your immediate cooperation is essential.\n\nIf you believe this email is in error, please contact the HR help desk at hrhelp@ourcompany.com or call 555‑123‑4567.\n\nThank you for your prompt attention.\n\nSincerely,\n\nHR Compliance Officer\nHuman Resources Department\nOurCompany Inc."
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Bank Alert: Recent Transaction",
+        "body": "Dear Valued Customer,\n\nWe wish to inform you that a transaction has been made on your account:\n\n- Amount: $1,200.00\n- Date: 15 April 2026\n- Merchant: XYZ Electronics\n- Transaction ID: 1234567890\n\nIf you did not authorize this transaction, please contact your bank immediately.\n\nThank you for banking with us.\n\nSincerely,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiration Notice",
+        "body": "Dear User,\n\nThis is an automated notification from Microsoft 365. Your account password will expire in 3 days. Please update your password immediately to avoid service disruption. Failure to do so will result in account lockout.\n\nClick here to reset your password: <URL>\n\nIf you did not request this change, please ignore this message.\n\nThank you.\n\nBest regards,\nMicrosoft Support"
+    }
+}

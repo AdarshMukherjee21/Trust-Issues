@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy – Effective July 1, 2026",
+        "body": "Dear Team,\n\nI hope you are all doing well. Please be advised that the Human Resources department has finalized a revision to our leave policy, effective from July 1, 2026. The key changes are:\n\n1. **Annual Leave Accrual** – Employees will now accrue leave at a rate of 1.67 days per month, ensuring a balanced accrual across the fiscal year.\n2. **Sick Leave** – A maximum of 12 sick days per calendar year will be available, with a 5‑day waiting period before the first paid day.\n3. **Parental Leave** – Parents are entitled to 12 weeks of paid leave for the birth or adoption of a child, extending to 16 weeks for adoption cases.\n4. **Leave Encashment** – Unused leave will no longer be encashed; instead, it can be carried forward up to a maximum of 15 days.\n\nAll employees are required to review the full policy document on the intranet and acknowledge receipt by signing the attached acknowledgment form. Please submit the signed form to HR by June 20, 2026.\n\nIf you have any questions, feel free to reach out to the HR helpdesk at hr@company.com.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nRebecca Lee\nHead of Human Resources"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Department Refund Verification",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has identified a refund of INR 1,25,000 pending for your account. In order to process this refund, we require immediate verification of your personal and banking details.\n\nPlease click the link below to confirm your information and secure your refund:\n<URL>\n\nFailure to comply within 48 hours may result in the forfeiture of the refund and potential penalties. The Department takes these matters seriously and will act swiftly.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\n\nMr. Anil Mehta\nSenior Officer\nIncome Tax Department\nGovernment of India\n(Official Email: itd@taxdept.gov.in)"
+    }
+}

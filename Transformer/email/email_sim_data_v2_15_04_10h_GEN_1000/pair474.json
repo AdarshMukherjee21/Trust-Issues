@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hello Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Friday, April 25, 2026 from 10:00 PM to 1:00 AM UTC. During this window, access to the corporate network via VPN will be unavailable.\n\nTo minimise disruption:\n1. Ensure you have logged out of all VPN sessions before 9:30 PM.\n2. Update any connected applications that rely on the VPN.\n3. If you are scheduled to work remotely on Friday, plan to connect after 1:00 AM.\n\nOur IT support team will monitor the upgrade and will notify you once the VPN is back online.\n\nIf you encounter any issues after the maintenance window, please open a ticket on the IT Service Portal at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that due to recent suspicious activity on your crypto wallet (ID: 3X9R-7Y4T-2K1S), we have temporarily suspended all access to prevent potential loss of funds.\n\nIf you do not verify your identity within 24 hours, the wallet will be permanently locked and all associated assets will be transferred to a secure escrow account. To restore full functionality, you must complete the verification process immediately:\n\n1. Click the button below to access the secure verification portal.\n2. Enter your wallet ID and the last four digits of the recovery phrase.\n3. Upload a government‑issued ID as proof of identity.\n\nFailure to act will result in irreversible loss.\n\nClick here: <URL>\n\nWe apologise for any inconvenience and appreciate your prompt cooperation.\n\nSincerely,\nWallet Security Team"
+    }
+}

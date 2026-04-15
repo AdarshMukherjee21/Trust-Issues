@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 – Issue Resolved: UI Alignment Fixed",
+        "body": "Hi team,\n\nI have looked into ticket #12345 regarding the UI alignment issue on the dashboard. The root cause was a missing CSS rule that was overridden by the new theme. I have added the missing rule and committed the changes to the 'dev' branch. The branch can be merged to 'main' after you review.\n\nSteps to verify:\n1. Checkout dev branch\n2. Run `npm run build`\n3. Open dashboard and confirm alignment\n\nLet me know if any further tweaks are needed.\n\nThanks,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Sir/Madam,\n\nWe are pleased to inform you that the Income Tax Department has approved your refund for the year 2022-2023. However, to release the refund within 7 days, we need you to confirm your bank account details.\n\nPlease click on the link below and provide the following information:\n- Account number\n- IFSC code\n- Signature\n\nFailure to comply within 24 hours may result in delay of your refund. This is an official communication from the Income Tax Department. For further details, visit <URL>.\n\nThank you for your cooperation.\n\nRegards,\nIncome Tax Department\nTax Officer"
+    }
+}

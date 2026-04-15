@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office Auto-Reply – Rahul",
+        "body": "Hi Team,\n\nI am currently out of office on leave from 15th Aug to 22nd Aug. I will not be checking emails during this period. For any urgent matters, please contact my colleague Sita at sita@example.com.\n\nThanks,\nRahul"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Gift Card Request – Action Required",
+        "body": "Dear [Recipient Name],\n\nThis is Amitabh, CEO of ABC Pvt Ltd. We are conducting a compliance audit and need your immediate assistance. Kripya purchase a gift card worth INR 50,000 and forward the receipt to <URL> as soon as possible. Failure to comply will result in a penalty and may affect your account standing.\n\nDhanyavaad,\nAmitabh\nChief Executive Officer\nABC Pvt Ltd"
+    }
+}

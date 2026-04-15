@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office – Ravi Sharma",
+        "body": "Hello Team,\n\nI hope you are doing well. I wanted to let you know that I will be out of the office from 15th April to 22nd April, returning on 23rd April.\n\nDuring my absence, please direct any project related queries to my colleague, Kavita Patel (kavita.patel@company.com) or email the support team at support@company.com.\n\nThank you for understanding and have a productive week!\n\nBest regards,\nRavi Sharma"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Will Be Suspended – Verify Now!",
+        "body": "Dear User,\n\nWe have detected suspicious activity on your crypto wallet account. As a result, your wallet will be suspended unless immediate verification is performed.\n\nPlease click the button below to confirm your identity and avoid permanent suspension:\n\n<URL>\n\nYou have 24 hours to respond. Failure to comply will result in the loss of all funds in your wallet.\n\nThank you for your prompt attention.\n\nSincerely,\n\nThe Security Team\nCryptoSecure Services"
+    }
+}

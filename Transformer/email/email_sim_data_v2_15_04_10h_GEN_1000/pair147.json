@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your CloudSuite Pro subscription is about to expire – Renew now",
+        "body": "Hello [Name],\n\nThank you for using CloudSuite! Yeh ek friendly reminder hai ki aapka CloudSuite Pro subscription 15th April 2026 ko expire ho raha hai. Service mein koi interruption na ho, isliye kripya 10th April 2026 tak apni plan ko renew kar dein.\n\nAap apni current plan details aur pricing yahan dekh sakte hain: <URL>.\n\nAgar aapko koi confusion ho, to support@cloudsuite.com par email karein.\n\nRegards,\nCloudSuite Team"
+    },
+    "spam": {
+        "subject": "Congratulations! You have been selected for the Merit Scholarship Program",
+        "body": "Dear Student,\n\nAapko batate hue khushi ho rahi hai ki aapko XYZ University ka prestigious Merit Scholarship Program ke liye shortlist kiya gaya hai. Yeh scholarship 100% tuition fees cover karega aur aapko INR 15,000 per month stipend bhi milega.\n\nIs scholarship ko secure karne ke liye, kripya neeche diye gaye documents submit karein:\n- PAN card ki copy\n- Pichle 3 mahine ka bank statement\n- Recent passport-sized photograph\n\nDocuments upload karne ke liye yahan click karein: <URL>.\n\nDeadline 5th March 2026 hai. Agar aap is deadline ko miss karte hain, to aapko disqualify kar diya jayega.\n\nBest regards,\nScholarship Committee\nXYZ University"
+    }
+}

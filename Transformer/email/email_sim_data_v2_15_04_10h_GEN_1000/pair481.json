@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Your Feedback Requested",
+        "body": "Hi Amit,\n\nI hope you are doing well. I wanted to let you know that the issue you reported in ticket #12345 has been fixed in the latest release. The bug that was causing the crash when uploading large files has been addressed.\n\nKey changes:\n- Updated image processing library to version 2.3.1.\n- Added fallback logic for file size checks.\n- Improved logging for better diagnostics.\n\nYou can review the changes in the GitHub PR <URL> and the Jira ticket <URL>. Please test it in your environment and let me know if everything works as expected.\n\nThanks for your patience.\n\nBest,\nRahul"
+    },
+    "spam": {
+        "subject": "URGENT: Meeting Invitation – Your Immediate Action Required",
+        "body": "Dear Team,\n\nThis is an official invitation to the upcoming Quarterly Review meeting scheduled for 25th April 2026 at 10:00 AM IST. The meeting will be hosted on Zoom/Teams and is mandatory for all department heads.\n\nMeeting ID: 123-456-7890\nPassword: Q4R1\n\nTo join the meeting, please click <URL>. If you are unable to join at the scheduled time, inform me as soon as possible so we can arrange a re-schedule.\n\nThank you for your prompt attention.\n\nBest Regards,\nSuman\nHR Manager"
+    }
+}

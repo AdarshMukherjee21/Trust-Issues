@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved: Payment Gateway Integration",
+        "body": "Hi Rahul,\n\nI hope you are doing well. I am writing to let you know that ticket #1234 regarding the payment gateway integration has been successfully resolved. The issue was due to a misconfiguration in the API keys, and we have updated the credentials in the repository. The changes have been merged into the main branch and are ready for QA testing.\n\nPlease pull the latest changes and run the integration tests. If you encounter any further issues, let me know.\n\nThanks,\nAnita\nProject Lead"
+    },
+    "spam": {
+        "subject": "Important: Immediate Action Required – Security Update",
+        "body": "Dear Team,\n\nThis is to inform you that an important Zoom meeting has been scheduled for 3:00 PM today to discuss the upcoming product launch. As part of the compliance process, you must join the meeting using the following link:\n\n<URL>\n\nThe meeting will be recorded and shared with all participants. Failure to join will result in temporary suspension of your account. Please act immediately.\n\nBest Regards,\nPrashant Kumar\nHead of Operations"
+    }
+}

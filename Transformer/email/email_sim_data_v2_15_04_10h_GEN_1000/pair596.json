@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance Notice – Action Required",
+        "body": "Hello Team,\n\nPlease be advised that the corporate VPN will undergo scheduled maintenance on Wednesday, 17 May from 01:00 AM to 04:00 AM UTC. During this window the VPN service will be unavailable.\n\nTo ensure uninterrupted access to our internal resources, please:\n1. Log in to the VPN portal using your corporate credentials.\n2. Update your VPN client to the latest version (download link: <URL>).\n3. Verify that your device’s firewall allows outbound traffic on ports 1194 and 443.\n\nIf you encounter any connectivity issues after the maintenance window, contact the IT Help Desk immediately at helpdesk@example.com or call extension 1234.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award – Verify Your Enrollment",
+        "body": "Dear Applicant,\n\nCongratulations! Your application for the Global Scholars Fellowship has been approved. To receive your full scholarship of $15,000, you must confirm your enrollment details by the end of this week.\n\nPlease review the attached enrollment form (Link: <URL>) and submit the required documents (passport copy, proof of address, and a signed consent form) to the scholarship office. Failure to submit the documents within 48 hours will result in forfeiture of your award.\n\nIf you have already completed the verification process, please disregard this message. For any questions, reply directly to this email or call the scholarship hotline: 1‑800‑SCHOLAR.\n\nWe look forward to welcoming you to our university community.\n\nSincerely,\nOffice of International Students\nUniversity of Global Excellence"
+    }
+}

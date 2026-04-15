@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Re: Out of Office: Will be away till 15th May",
+        "body": "Hi team,\n\nI wanted to let you know that I will be out of the office from 11th May to 15th May, returning on 16th May. During this period I will have limited access to email.\n\nIf you require immediate assistance, please contact Suresh Sharma at suresh.sharma@company.com or call the helpdesk at +91-555-123-456.\n\nThank you for your understanding.\n\nBest regards,\n\nAmit"
+    },
+    "spam": {
+        "subject": "URGENT: IT Helpdesk Ticket Resolved – Action Required",
+        "body": "Dear User,\n\nYour IT ticket #IT-987654 has been resolved successfully. However, as part of our new security protocol, we need you to verify the recent changes to your workstation.\n\nPlease click on the following link to confirm that the updates have been applied correctly and that no issues remain:\n<URL>\n\nIf you do not confirm within 24 hours, the system will automatically revert your settings and you may experience loss of access to critical applications.\n\nWe appreciate your prompt action on this matter.\n\nRegards,\n\nIT Helpdesk Team"
+    }
+}

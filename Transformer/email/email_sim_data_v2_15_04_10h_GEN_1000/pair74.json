@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your flight itinerary for the upcoming business trip",
+        "body": "Dear John,\n\nThank you for booking your upcoming business trip. Please find your flight itinerary attached below.\n\nFlight Details:\nDeparture: 2026-05-10 08:00 AM from JFK Airport\nArrival: 2026-05-10 11:00 AM at LAX Airport\n\nFlight Number: UA 1234\nSeat: 12A\n\nPlease review the details and let us know if any changes are required. For any assistance, contact the travel desk at travel@company.com.\n\nSafe travels!\n\nBest regards,\nTravel Services Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase",
+        "body": "Dear John,\n\nI hope you’re doing well. I’m writing to urgently request your assistance with a critical procurement matter. Due to a recent audit, the company’s executive office requires a $500 gift card to a renowned retailer for an upcoming corporate event. As part of the mandatory approval process, I need you to complete the purchase and provide the confirmation receipt by the end of the day.\n\nPlease click the following link to proceed: <URL>\n\nOnce you receive the receipt, forward the confirmation to this email address immediately.\n\nThank you for your prompt action.\n\nBest regards,\nJane Smith\nChief Executive Officer"
+    }
+}

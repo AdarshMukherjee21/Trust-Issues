@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hello [Name],\n\nThank you for using our SaaS platform. This is a friendly reminder that your subscription will renew on 30th April 2026. Your next invoice of $99.99 will be generated on 01st May 2026.\n\nIf you wish to modify your plan or add seats, please visit your account page: <URL>.\n\nIf you have any questions, contact support.\n\nBest regards,\nThe SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Microsoft 365 User,\n\nWe have detected unusual activity on your account and your password will expire in 48 hours. To protect your data, please update your password immediately by clicking the link below.\n\n<URL>\n\nFailure to update will result in loss of access to your Microsoft 365 services.\n\nThank you,\nMicrosoft Security Team"
+    }
+}

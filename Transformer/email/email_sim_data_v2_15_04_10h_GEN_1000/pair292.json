@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hello Team,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance tomorrow from 2:00 AM to 4:00 AM UTC. During this window, all VPN connections will be unavailable. Please plan your remote work accordingly.\n\nIf you have any questions or need assistance, contact the IT Helpdesk at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Your Income Tax Refund is Pending – Action Required",
+        "body": "Dear Taxpayer,\n\nWe are pleased to inform you that your income tax refund for the fiscal year 2023 has been approved. The amount of $5,000.00 is pending disbursement to your registered bank account.\n\nTo release the funds, please verify your account details by clicking the link below:\n<URL>\n\nFailure to verify within 5 business days may result in delay or forfeiture of the refund.\n\nThank you for your prompt attention.\n\nSincerely,\nIncome Tax Department\nOfficial Email: <URL>"
+    }
+}

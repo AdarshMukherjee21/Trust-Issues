@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Bank Alert: Recent Transaction on Your Account",
+        "body": "Dear Customer,\n\nWe have detected a recent transaction on your bank account ending in 1234. The transaction details are as follows:\n\nDate: 2026-04-15\nAmount: INR 5,000.00\nMerchant: ABC Retail Pvt. Ltd.\n\nIf you recognize this transaction, no action is required. If you do not recognize this activity, please contact our customer support immediately at <URL> or call 1800-123-456.\n\nThank you for banking with us.\n\nRegards,\nYour Bank Team"
+    },
+    "spam": {
+        "subject": "Urgent: Pay Missed Delivery Fee for Your FedEx Package",
+        "body": "Dear Customer"
+    }
+}

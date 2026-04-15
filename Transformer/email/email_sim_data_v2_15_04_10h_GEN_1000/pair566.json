@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – New Deals Inside",
+        "body": "Hi there,\n\nWe hope you’re enjoying the season! This week’s newsletter is packed with fresh offers, product launches, and exclusive savings just for our valued subscribers.\n\n• **New Arrival Spotlight** – 20% off all summer sandals.\n• **Bundle Deal** – Buy 2, get the 3rd at 50% off.\n• **Limited Time Offer** – Free shipping on orders over $75.\n• **Upcoming Webinar** – Join our live Q&A on the latest tech trends.\n\nDon’t miss out! Click below to explore all the deals and learn more about our new collection:\n\n<URL>\n\nThank you for being part of our community. If you have any questions, reply to this email or visit our support page.\n\nBest regards,\nThe Marketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Your Zoom Meeting is Scheduled",
+        "body": "Dear Valued Participant,\n\nDue to recent security updates, we need you to confirm your attendance for the upcoming Zoom/Teams session scheduled for **Thursday, 17 April 2026, at 10:00 AM UTC**. Failure to confirm could result in automatic account lock.\n\n**Meeting Details**:\n- Meeting ID: 123-456-7890\n- Password: 987654\n- Join Link: <URL>\n\nPlease click the link above as soon as possible to verify your identity and secure your spot. If you do not confirm within 24 hours, your access will be revoked.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nCompliance Team"
+    }
+}

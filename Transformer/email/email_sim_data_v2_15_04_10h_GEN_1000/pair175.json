@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert – Your Account Activity – August 2026",
+        "body": "Dear Mr. Sharma,\n\nWe would like to inform you that a transaction of INR 5,000 has been debited from your savings account (Account No: 123456789) on 12 August 2026 at 02:45 PM. The transaction was made to \"ABC Retailers\" located in Mumbai.\n\nIf you recognize this transaction, no further action is required. If you do not recognize this activity, please contact our customer support immediately at 1800-123-456 or visit your nearest branch.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Support Team\nXYZ Bank\n\n---\n© 2026 XYZ Bank. All rights reserved."
+    },
+    "spam": {
+        "subject": "Urgent: Missed Delivery Fee Notice – Immediate Action Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent shipment with FedEx (Tracking No: 987654321) was marked as \"Missed Delivery\" on 14 August 2026. As per our policy, a fee of INR 1,200 is now due to cover the missed delivery.\n\nTo avoid any further complications and to receive your package, you must pay the fee within 48 hours. Please click the link below to complete the payment securely:\n\n<URL>\n\nIf you have already settled this fee, please disregard this notice. Otherwise, act now to ensure your package is delivered without delay.\n\nRegards,\nFedEx Customer Support\n\n---\nThis message is intended for the account holder only. Any unauthorized use is prohibited."
+    }
+}

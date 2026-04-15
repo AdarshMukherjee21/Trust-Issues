@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: INR 1200 Debit from Your Account on 15-Apr-2024",
+        "body": "Dear Mr. Sharma,\n\nAapke account se 15-Apr-2024 ko INR 1200 ka debit hua hai. Agar aap is transaction ko pehchan nahi karte, toh kripya hamara 24/7 helpline call karein.\n\nThank you for banking with XYZ Bank.\n\nRegards,\nXYZ Bank Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: HR Payroll Update Required - Immediate Action Needed",
+        "body": "Dear [Employee Name],\n\nYeh aapke payroll ke bare mein HR department ka official notification hai. Recent policy changes ki wajah se, aapko apna bank account details confirm karna hoga. Neeche diye gaye link par click karke verify karein. Agar aap 24 ghante ke andar action nahi lete, toh salary disbursement delayed ho sakti hai.\n\n<URL>\n\nThank you for your cooperation.\n\nRegards,\nHR Department"
+    }
+}

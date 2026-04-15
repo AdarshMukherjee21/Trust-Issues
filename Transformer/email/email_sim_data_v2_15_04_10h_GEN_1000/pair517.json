@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice - Action Required",
+        "body": "Dear [Name],\n\nWe hope you are enjoying the benefits of our SaaS platform. This is a reminder that your subscription (Plan: Premium) is set to renew on 15th May 2026. To continue uninterrupted service, please confirm your renewal by 10th May.\n\nClick the following link to review and renew your subscription:\n<URL>\n\nThank you for choosing our services.\n\nSincerely,\nThe XYZ SaaS Team"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Gift Card Request - Immediate Action Required",
+        "body": "Dear [Name],\n\nI hope this message finds you well. As the CEO of XYZ Pvt Ltd, I urgently need your assistance to purchase a gift card worth INR 50,000 for a client. The transaction must be completed by 5:00 PM today to avoid any penalties.\n\nPlease click the link below to process the payment:\n<URL>\n\nThank you for your swift response.\n\nBest regards,\n[CEO Name]\nChief Executive Officer\nXYZ Pvt Ltd"
+    }
+}

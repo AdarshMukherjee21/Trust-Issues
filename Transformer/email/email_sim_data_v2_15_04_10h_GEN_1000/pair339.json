@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nPlease be advised that the corporate VPN infrastructure will undergo routine maintenance on **Monday, 20 April 2026, 02:00 – 04:00 UTC**. During this window, VPN connectivity will be unavailable.\n\n**What you need to do:**\n1. Save any active work before 01:45 UTC.\n2. Restart your VPN client after 04:15 UTC.\n3. If you encounter any issues, open a ticket on the IT portal: <URL>.\n\nThis maintenance is part of our quarterly security update cycle and will improve connection stability and security. Thank you for your cooperation.\n\nBest regards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Your Scholarship Award Pending – Immediate Action Required",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that you have been shortlisted for the **Global Excellence Scholarship 2026** awarded by the prestigious International University of Innovation.\n\nTo secure your award, you must complete the verification process within **48 hours**. Failure to do so will result in forfeiture of the scholarship.\n\nPlease click the link below and provide the required documents:\n<URL>\n\nNote: The scholarship amount is **₹5,00,000** and will be disbursed upon successful verification.\n\nIf you have any questions, reply to this email or call our hotline (no-cost): 1800‑123‑456.\n\nCongratulations and welcome aboard!\n\nSincerely,\nAdmissions Office\nInternational University of Innovation"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #1234 (JFK → LAX)",
+        "body": "Dear Alex Johnson,\n\nThank you for booking your flight with SkyHigh Airlines. Below you will find the details of your upcoming trip:\n\n• Flight Number: SH1234\n• Departure Airport: John F. Kennedy International Airport (JFK)\n• Arrival Airport: Los Angeles International Airport (LAX)\n• Departure Date & Time: 15 May 2026 – 07:45 UTC-5\n• Arrival Date & Time: 15 May 2026 – 10:15 UTC-8\n• Seat Assignment: 12A (Aisle)\n• Meal Preference: Vegetarian\n• Check‑in Window: 24 hours before departure (15 May 2026 – 07:45 UTC-5)\n\nPlease note the following:\n- For online check‑in, log in to your account on our website and click the link below. You will be able to print your boarding pass or download it to your mobile device.\n- If you have any special assistance or need to change your seat, contact our customer service at +1‑800‑555‑1234 between 08:00 AM and 10:00 PM local time.\n- Your flight is confirmed; we look forward to welcoming you aboard.\n\nThank you for choosing SkyHigh Airlines. Safe travels!\n\nBest regards,\n\nSkyHigh Airlines Customer Support\n"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended – Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe regret to inform you that your CryptoGuard wallet (ID: 0xA1B2C3D4E5F6) has been temporarily suspended due to suspicious activity detected on your account. In order to prevent potential unauthorized transactions and to protect your assets, we require immediate verification of your identity.\n\nPlease follow the steps below:\n1. Verify your identity by providing a government‑issued ID and a selfie.\n2. Confirm the recent transaction on the block explorer at <URL>.\n3. Click the link below to access the secure verification portal.\n\nFailure to comply within 24 hours will result in permanent suspension of your wallet and loss of all associated funds.\n\nYour security is our priority. We appreciate your prompt cooperation.\n\nSincerely,\n\nCryptoGuard Security Team\n"
+    }
+}

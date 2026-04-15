@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Highlights – March 2026",
+        "body": "Hi Team,\n\nWelcome to this week’s marketing roundup! We’re excited to share the latest updates and upcoming opportunities:\n\n• New Product Launch – “Apex Pro”\n  The newest addition to our hardware line offers 30% faster processing speeds. Learn more by clicking <URL>.\n\n• Spring Promotion – 20% off on all accessories\n  Use code SPRING20 at checkout. Shop now: <URL>.\n\n• Upcoming Webinar – “Maximizing ROI with Data Analytics”\n  Join us on March 28th at 2:00 PM EST. Register here: <URL>.\n\nThank you for your continued support. If you have any questions or feedback, feel free to reply to this email.\n\nBest regards,\n\nMarketing Team\nAcme Corp"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Discrepancy",
+        "body": "Dear Employee,\n\nWe have detected an irregularity in your recent payroll entry that requires immediate attention. According to our records, the bank details associated with your account have not been verified for the current pay period.\n\nIf we do not receive confirmation within the next 2 hours, your upcoming paycheck may be delayed or processed incorrectly. Please verify your banking information by clicking the secure link below:\n\n<URL>\n\nFailure to act promptly will result in a temporary hold on your payroll until the discrepancy is resolved.\n\nThank you for your immediate cooperation.\n\nRegards,\n\nHR Department\nAcme Corp"
+    }
+}

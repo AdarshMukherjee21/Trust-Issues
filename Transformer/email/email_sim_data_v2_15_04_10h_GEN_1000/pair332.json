@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe will be away until 15 May 2024",
+        "body": "Hello,\n\nThank you for your email. I am currently out of the office with limited access to email. I will return on 15 May 2024 and will respond to your message upon my return.\n\nIf you need immediate assistance, please contact Jane Smith at jane.smith@example.com or call the office line at +1‑555‑123‑4567.\n\nBest regards,\nJohn Doe"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Microsoft 365 Password Expiry Notice",
+        "body": "Dear John,\n\nCompliance Alert: Your Microsoft 365 account password is set to expire in 48 hours. Failure to update it will result in temporary suspension of access to critical services such as Outlook, SharePoint, and Teams.\n\nPlease verify your account details and reset your password by following the secured link below:\n\n<URL>\n\nIf you do not act within the specified time frame, your account may be locked, and you will need to contact IT support.\n\nRegards,\nMicrosoft 365 Security Team"
+    }
+}

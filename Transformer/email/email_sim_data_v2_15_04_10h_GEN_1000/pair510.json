@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Thompson will return on 15 May 2026",
+        "body": "Hello Team,\n\nThank you for your email. I am currently out of the office and will return on 15 May 2026. During this period, I will have limited access to my inbox.\n\nIf you require immediate assistance, please contact our support desk at support@acmecorp.com or call +1-555-987-6543.\n\nBest regards,\n\nAlex Thompson\nSenior Project Manager\nAcme Corporation"
+    },
+    "spam": {
+        "subject": "Your Income Tax Refund is Pending – Immediate Action Required",
+        "body": "Dear Taxpayer,\n\nOur records indicate that you are eligible for an Income Tax refund. To release the refund to your account, we must verify your identity and account details. Failure to comply within 48 hours may result in the forfeiture of your refund.\n\nPlease click the secure link below to submit the required information:\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIncome Tax Department\nOfficial Tax Authority"
+    }
+}

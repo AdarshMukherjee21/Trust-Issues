@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Please Read",
+        "body": "Hello Team,\n\nPlease be advised that we will be conducting scheduled maintenance on the Corporate VPN infrastructure from 02:00 AM to 04:00 AM UTC on Friday, March 15th. During this window, VPN access will be temporarily unavailable.\n\nWhat to expect:\n- All VPN endpoints will be rebooted.\n- No authentication will be possible during the maintenance.\n- The service will be fully restored by 04:00 AM UTC.\n\nIf you have critical work that requires VPN connectivity, please plan accordingly or contact IT support.\n\nThank you for your cooperation.\n\nBest,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry – Action Required",
+        "body": "Dear Valued User,\n\nMicrosoft 365 Security Alert\n\nYour Microsoft 365 account has been flagged for potential security risk. Your password is set to expire in 3 days. To avoid temporary lockout, please reset your password immediately by following the secure verification process.\n\nClick here to verify your account: <URL>\n\nIf you do not update your password within the allotted time, your account will be disabled.\n\nThank you for your prompt attention.\n\nBest regards,\nMicrosoft 365 Security Team"
+    }
+}

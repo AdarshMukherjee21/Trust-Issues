@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Due Next Week",
+        "body": "Dear Team,\n\nI hope you are all doing well. This is a friendly reminder that the semester project submissions are due on Monday, 12 May 2024. Please ensure that your final reports and presentations are uploaded to the course portal by 11:59 PM on the due date.\n\n**Submission Checklist**\n- Project report (PDF, max 10 pages)\n- Source code archive (ZIP)\n- Slide deck (PDF)\n- Documentation of experiments and results\n\nIf you encounter any technical issues while uploading, contact the IT support desk at <URL> for assistance.\n\nThank you for your hard work and dedication.\n\nBest regards,\nProfessor Jane Smith\nDepartment of Computer Science\nUniversity of Example"
+    },
+    "spam": {
+        "subject": "Urgent: Your University Scholarship Application Status",
+        "body": "Dear Applicant,\n\nWe are pleased to inform you that you have been shortlisted for the prestigious International Excellence Scholarship offered by the University of Example. However, to finalize your award and process the disbursement, we require immediate verification of your personal details.\n\nPlease click the link below to review and confirm your information. Failure to comply within 48 hours will result in automatic withdrawal of your scholarship candidacy.\n\n<URL>\n\nThis is a confidential and time‑sensitive matter. If you have any questions, reply to this email or call our scholarship office at +1-800-555-1234.\n\nCongratulations again, and we look forward to confirming your award.\n\nSincerely,\nDr. Alan Grant\nScholarship Coordinator\nUniversity of Example"
+    }
+}

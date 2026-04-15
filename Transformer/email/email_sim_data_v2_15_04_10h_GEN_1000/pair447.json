@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation - #1234567890",
+        "body": "Hi Rahul,\n\nThank you for shopping with Amazon India! Your order has been successfully placed.\n\nOrder Number: 1234567890\nItems:\n• 1 x HP Envy 15.6\" Laptop – ₹47,990\n• 1 x Amazon Smart Plug – ₹1,249\n\nTotal Amount: ₹49,239 (incl. taxes & shipping)\nEstimated Delivery: 2–4 business days\n\nIf you have any questions, reply to this email or visit <URL>.\n\nBest Regards,\nAmazon Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 Password Expiry Notice",
+        "body": "Dear User,\n\nWe have detected that your Microsoft 365 password is about to expire. To ensure uninterrupted access to your corporate email, SharePoint, and Teams, you must update your password within the next 48 hours.\n\nIf you fail to reset your password, your account will be automatically suspended and you may lose access to all corporate data.\n\nPlease click the link below to reset your password immediately:\n\n<URL>\n\nIf you did not request this, please ignore this message.\n\nRegards,\nMicrosoft 365 Security Team"
+    }
+}

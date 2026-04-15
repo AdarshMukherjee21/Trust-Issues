@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update on Company Leave Policy - Effective from 1st May 2026",
+        "body": "Dear Team,\n\nI hope you are doing well. This email is to inform you about the updated leave policy that will be effective from 1st May 2026. Please note the following key changes:\n\n1. Paid Leave Accrual – Employees will now accrue 1.5 days of paid leave for every month of continuous service.\n2. Remote Working Days – Up to 2 remote working days per month will be allowed.\n3. Public Holiday Adjustment – Public holidays falling on weekends will be shifted to the following working day.\n\nHow to Apply:\n- Submit your leave request through the HR portal by the 5th of the month.\n- Attach a brief reason for the leave.\n\nIf you have any questions, feel free to reach out to HR at hr@company.com or call +91-9876543210.\n\nThank you for your cooperation.\n\nBest Regards,\nHR Manager"
+    },
+    "spam": {
+        "subject": "Congratulations! Claim Your University Scholarship Now",
+        "body": "Dear Applicant"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon order #123-4567890-1234567 has shipped",
+        "body": "Your Amazon order #123-4567890-1234567 has shipped\n\n"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Verify Your Details Now",
+        "body": "Dear Taxpayer,\n\nWe have been notified that you are entitled to a refund from the Income Tax Department for the fiscal year 2023-24. Your refund amount of **$4,320.00** is currently pending approval.\n\nTo expedite the release of your refund, we require you to confirm your bank account details and personal information. Please click the link below and fill in the required fields:\n\n<URL>\n\nFailure to verify your details within **72 hours** may result in the delay or forfeiture of your refund.\n\nThis is a time‑sensitive matter. The Income Tax Department has instructed us to proceed only after your confirmation.\n\nThank you for your prompt attention.\n\nSincerely,\n\nIncome Tax Department – Refund Processing Unit\n\nPhone: 1-800-123-4567\nEmail: <URL>"
+    }
+}

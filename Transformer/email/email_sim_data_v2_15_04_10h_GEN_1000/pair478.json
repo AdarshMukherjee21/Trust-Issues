@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCloud Subscription Renewal – Action Required",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the features of AcmeCloud. This is a friendly reminder that your subscription will automatically renew on **May 1, 2026**. Your current plan is the **Pro** tier, and the renewal will be processed using the payment method on file.\n\nIf you would like to modify your plan, add services, or cancel the renewal, please log in to your account and review your subscription settings. You can do this by clicking the link below:\n\n<URL>\n\nIf you have any questions or need assistance, our support team is available 24/7. Simply reply to this email or visit our help center.\n\nThank you for choosing AcmeCloud. We look forward to serving you in the coming year!\n\nBest regards,\nAcmeCloud Support Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Microsoft 365 Password is About to Expire",
+        "body": "Dear User,\n\nOur system has detected that your Microsoft 365 account password is set to expire within the next **48 hours**. To prevent any interruption to your services, please confirm your login credentials and reset your password immediately.\n\n**Reset your password now**:\n<URL>\n\nPlease note that if you do not reset your password within the deadline, your account may be temporarily suspended to protect your data. If you believe this notification is incorrect, contact Microsoft Security Support right away at <URL>.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nMicrosoft 365 Security Team"
+    }
+}

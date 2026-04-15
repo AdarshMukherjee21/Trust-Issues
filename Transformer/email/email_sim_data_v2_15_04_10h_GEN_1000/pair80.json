@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Please Verify on Jira",
+        "body": "Hi Alex,\n\nI wanted to let you know that the issue you reported in the Jira ticket #12345 has been successfully resolved. The main bug in the authentication module was fixed, and the corresponding pull request (PR #6789) was merged into the main branch.\n\nPlease take a moment to review the changes in the GitHub repository:\n\n- Review the diff for the corrected logic.\n- Run the integration tests locally to confirm everything is passing.\n- Once verified, close the ticket or add a comment stating the resolution.\n\nIf you encounter any further issues or need additional documentation, feel free to reach out.\n\nThanks for your patience and cooperation.\n\nBest regards,\n\nJordan\nProject Lead\n\n---\nCompany: Tech Solutions Inc.\nEmail: jordan@techsolutions.com\nPhone: (555) 123-4567"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThis is an automated notification from the Human Resources Department regarding an urgent payroll update that requires your immediate attention.\n\nDue to recent regulatory changes, we must verify your current banking details to ensure timely and accurate salary disbursement. Failure to provide updated information within 48 hours may result in a temporary suspension of your payroll until the verification is complete.\n\nPlease follow the steps below:\n1. Log in to the secure HR portal: <URL>\n2. Navigate to \"Payroll Settings\" and click \"Update Bank Information.\"\n3. Submit your updated banking details and confirm the changes.\n\nIf you do not perform this action within the stipulated time, you will not receive your salary for the upcoming month.\n\nFor any questions or assistance, contact the HR help desk at hrhelp@company.com or call 1-800-555-0199.\n\nThank you for your prompt cooperation.\n\nSincerely,\n\nHuman Resources Team\n\n---\nCompany: Global Enterprises\nHR Department\nPhone: 1-800-555-0199\nEmail: hr@globalenterprises.com"
+    }
+}

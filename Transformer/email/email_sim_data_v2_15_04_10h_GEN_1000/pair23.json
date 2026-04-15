@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Booking Ref: ABC123",
+        "body": "Dear Rahul Singh,\n\nThank you for choosing SkyWays Airlines for your travel plans. We are pleased to confirm your upcoming flight details below:\n\n• Booking Reference: ABC123\n• Passenger Name: Rahul Singh\n• Flight Number: SW 456\n• Departure: 12th September 2024\n• From: Delhi (DEL) – 10:30 AM\n• To: Mumbai (BOM) – 12:45 PM\n• Seat: 12A (Window)\n• Class: Economy\n• Baggage Allowance: 15 kg carry‑on + 20 kg checked\n\nPlease arrive at the airport at least 2 hours before departure. Your e‑ticket and boarding pass are attached to this email. If you need to make any changes to your itinerary or have special assistance requirements, kindly reply to this email or contact our customer care at <URL>.\n\nWe wish you a pleasant journey!\n\nBest regards,\n\nSkyWays Airlines – Customer Support\n\n---\n\nNote: This email is auto‑generated. Please do not reply directly to this address."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Ticket #12345 Pending Approval",
+        "body": "Dear Mr. Singh,\n\nWe have detected a critical issue with your IT helpdesk ticket #12345. The ticket is currently marked as \"Pending Approval\" and requires your immediate attention to avoid service disruption.\n\nDetails:\n• Ticket ID: 12345\n• Issue: Server access credentials expired\n• Priority: High\n• Requested by: IT Support Team\n\nPlease verify the following information and provide confirmation within 24 hours:\n1. Your current user ID (e.g., RSINGH)\n2. The date you last logged into the system\n3. Any recent changes to your password\n\nFailure to respond may result in temporary suspension of your network access. To expedite the process, click on the secure link below:\n\n<URL>\n\nThank you for your prompt cooperation.\n\nRegards,\n\nIT Helpdesk – Corporate Services"
+    }
+}

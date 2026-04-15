@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Updated Company Leave Policy Effective July 1, 2024",
+        "body": "Dear Team,\n\nI hope you are all well. As part of our ongoing commitment to employee well‑being and to remain compliant with local labor regulations, we have updated our leave policy. The new policy takes effect on July 1, 2024.\n\nKey changes include:\n\n- **Paid Time Off (PTO)**: 18 days per year, with a carry‑over limit of 5 days.\n- **Sick Leave**: 10 days per year, separate from PTO.\n- **Maternity & Paternity Leave**: 12 weeks paid maternity leave and 2 weeks paid paternity leave.\n- **Flexible Work Arrangements**: Employees may now request a hybrid schedule after 6 months of continuous service.\n\nPlease review the full policy in the employee portal under “HR Documents” or download the PDF using the link below.\n\nIf you have any questions or need clarification, feel free to reach out to HR at hr@company.com.\n\nThank you for your continued dedication.\n\nBest regards,\n\nAlex Martinez\nHuman Resources Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – FedEx Missed Delivery Fee",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your recent shipment (Tracking # 3F123456789US) was unable to be delivered due to a missed delivery window. As a result, a delivery fee of $75.00 has been applied to your account.\n\nTo avoid further delays and additional charges, please complete the payment within 48 hours by following the secure link below:\n\n<URL>\n\nFailure to settle this fee will result in the shipment being returned to the sender and may incur additional storage fees. If you believe this notice is in error, please contact our Customer Support team immediately at 1‑800‑FEDX‑1234.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nFedEx Delivery Services\nCustomer Relations"
+    }
+}

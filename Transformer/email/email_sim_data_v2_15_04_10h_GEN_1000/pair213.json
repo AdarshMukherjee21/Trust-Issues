@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jaya will be on leave until Friday",
+        "body": "Hi team,\n\nI hope you are doing well. I am currently out of office and will return on Friday, 24th April. During this period, I will have limited access to my emails.\n\nFor any urgent matters, please reach out to Rahul at rahul@example.com or ping the support team.\n\nThanks for your understanding.\n\nBest regards,\nJaya"
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Has Been Suspended!",
+        "body": "Hello,\n\nWe have detected unusual activity on your crypto wallet with XYZ Exchange. For your security, your wallet has been temporarily suspended. To reactivate it, you must verify your identity by clicking the link below.\n\n<URL>\n\nPlease complete the verification within 24 hours. Failure to do so may result in permanent loss of funds. This is a mandatory compliance measure.\n\nRegards,\nXYZ Exchange Security Team"
+    }
+}

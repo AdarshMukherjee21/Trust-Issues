@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 Deducted from Your Account",
+        "body": "Dear Customer,\n\nThis is a notification that a transaction of ₹5,000 has been debited from your account on 15 Aug 2024 at 10:15 AM. If you did not authorize this transaction, please contact customer support immediately.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "URGENT: Pay Your FedEx Delivery Fee NOW!",
+        "body": "Hello,\n\nIt seems that your package delivered by FedEx was not received on the scheduled date and a missed delivery fee of ₹2,000 has been added to your account. To avoid additional charges, please pay the fee within 48 hours.\n\nClick <URL> to pay now.\n\nThank you,\nFedEx Delivery Team"
+    }
+}

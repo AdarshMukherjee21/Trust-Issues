@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled Corporate VPN Maintenance – 2026-04-15",
+        "body": "Hi Team,\n\nPlease be informed that the corporate VPN will undergo scheduled maintenance on 2026-04-15 from 22:00 UTC to 01:00 UTC. During this window, access to the VPN will be unavailable.\n\nIf you encounter any issues after the maintenance, please contact IT support.\n\nThank you.\n\nRegards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Microsoft 365 Account Password Expiry",
+        "body": "Dear User,\n\nAapke Microsoft 365 account mein kuch unusual activity detect hui hai. Security protocol ke hisaab se, aapka password 24 ghante ke andar expire ho jaayega. Kripya neeche diye gaye link par click karke apna password reset karein, warna aapka account disable ho sakta hai.\n\n<URL>\n\nYadi aap password reset nahi karte, to aapko important documents tak access nahi milega.\n\nThank you for your prompt attention.\n\nBest regards,\nMicrosoft Security Team"
+    }
+}

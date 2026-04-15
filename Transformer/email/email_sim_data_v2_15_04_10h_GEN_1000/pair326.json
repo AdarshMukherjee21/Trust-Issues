@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved: Feature X Implementation Completed",
+        "body": "Hi Team,\n\nI wanted to let you know that the tasks outlined in Jira ticket #12345 have been completed and merged into the main branch. The feature X implementation now passes all unit tests and has been deployed to the staging environment. Please review the changes in the corresponding GitHub pull request <URL> and let me know if you spot any issues.\n\nKey points:\n- All subtasks marked as Done in Jira.\n- Automated CI build succeeded.\n- Regression tests for module Y passed.\n\nFeel free to cherry‑pick or rebase as needed. If you have any questions or need further clarification, just ping me.\n\nThanks,\nAlex Johnson\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: Claim Your Merit Scholarship Now!",
+        "body": "Dear Student,\n\nCongratulations! You have been selected for an exclusive Merit Scholarship at your university. To secure your spot, you must complete the verification process within the next 48 hours. Failure to do so may result in losing the award.\n\nPlease provide your personal details and upload the required documents by clicking <URL>. The scholarship covers 100% of tuition fees for the upcoming academic year.\n\nAct now—this opportunity is limited and will not be offered again.\n\nSincerely,\nDr. Emily Carter\nOffice of Student Financial Aid"
+    }
+}

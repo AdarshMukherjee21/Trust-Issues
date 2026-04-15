@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – December 27, 2026",
+        "body": "Dear Team,\n\nThis is a reminder that our corporate VPN will undergo scheduled maintenance on December 27, 2026, from 02:00 AM to 04:00 AM PST. During this window, all VPN connections will be unavailable.\n\nPlease plan your work accordingly and log out of the VPN before the maintenance window begins. If you require urgent access, please contact the IT helpdesk at 555-1234 or send an email to it-support@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Zoom/Teams Meeting Invite – Immediate Action Required",
+        "body": "Hi all,\n\nYou have been added to a mandatory Zoom/Teams session titled \"Project X Compliance Review\" scheduled for tomorrow, December 26, 2026, at 09:00 AM EST. This meeting is critical and will cover sensitive compliance updates.\n\nPlease join the meeting by clicking the link below and entering the required meeting ID and password:\n\n<URL>\n\nIf you do not join within 15 minutes, your account will be temporarily suspended pending verification. For any issues, contact the compliance team at compliance@company.com.\n\nRegards,\nCompliance Officer"
+    }
+}

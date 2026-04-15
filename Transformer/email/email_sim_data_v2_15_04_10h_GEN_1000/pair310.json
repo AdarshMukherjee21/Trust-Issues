@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 1234 from New York to Los Angeles",
+        "body": "Dear Jane Doe,\n\nThank you for booking with SkyHigh Airlines. Below are the details for your upcoming flight:\n\n• Flight Number: 1234\n• Departure: New York (JFK) – 10:00 AM, 15 May 2026\n• Arrival: Los Angeles (LAX) – 1:30 PM, 15 May 2026\n• Seat: 12A (Aisle)\n• Gate: 22B\n• Check‑in: 2 hours before departure, available online at <URL> or at the airport kiosk.\n\nPlease bring a valid government photo ID and a printed copy of this confirmation. If you need to change your seat, cancel, or add a meal, use the link below:\n\n<URL>\n\nThank you for choosing SkyHigh Airlines. We look forward to serving you.\n\nBest regards,\nSkyHigh Airlines Customer Service\nEmail: support@skyhigh.com\nPhone: 1‑800‑555‑1234"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Due – Action Required",
+        "body": "Hello,\n\nOur records show that your recent shipment with FedEx (Tracking # 987654321) was missed due to an unpaid delivery fee. To avoid further delays and additional charges, please confirm your account information and submit the fee within 48 hours.\n\nYou can review the fee details and pay securely by clicking the link below:\n\n<URL>\n\nIf you have already settled this fee, please ignore this notice. Otherwise, failure to pay may result in the return of the package to sender.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support\nPhone: 1‑800‑345‑1234"
+    }
+}

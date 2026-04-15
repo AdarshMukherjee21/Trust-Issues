@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Flight 1234",
+        "body": "Dear Mr. Sharma,\n\nWe are pleased to confirm your upcoming flight with Air Bharat.\n\nFlight Details:\n• Flight No.: AB1234\n• Departure: Mumbai (BOM) – 10:15 AM, 15th August 2026\n• Arrival: New Delhi (DEL) – 12:45 PM, 15th August 2026\n• Seat: 12A (Aisle)\n• Class: Business\n\nCheck‑in:\n• Online check‑in opens 24 hours before departure. Please visit <URL> to complete the process.\n• Baggage allowance: 2 pieces up to 23 kg each.\n\nGate Information:\n• Gate will be announced 30 minutes before boarding.\n\nIf you have any special requirements or need assistance, kindly contact our customer care at +91-9876543210 or email support@airbharat.com.\n\nThank you for choosing Air Bharat. We wish you a pleasant journey.\n\nBest regards,\n\nAir Bharat Customer Service"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Refund Verification Required",
+        "body": "Dear Mr. Sharma,\n\nGreetings from the Income Tax Department, New Delhi.\n\nWe are writing to inform you that a refund of INR 45,000 has been credited to your specified bank account (Account No. 1234567890, IFSC: HDFC0000123). To ensure the security of your funds, you are requested to verify the transaction details by following the instructions below.\n\n1. Click on the secure link provided in the email to confirm your refund: <URL>\n2. Enter your PAN, AADHAR number, and the last four digits of your bank account.\n3. Submit the form within 48 hours to avoid cancellation of the refund.\n\nPlease note that failure to verify the refund within the stipulated time may result in the reversal of the credited amount. This is a compulsory step as per the latest Income Tax Rules.\n\nFor any queries, contact the Income Tax Helpline at +91-1800-123-456 or email ithelpline@itr.gov.in.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nAsha Gupta\nSenior Officer\nIncome Tax Department\nNew Delhi"
+    }
+}

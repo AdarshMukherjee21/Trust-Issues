@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight Number XYZ123",
+        "body": "Dear John,\n\nThank you for booking with SkyHigh Airlines. Here are the details of your upcoming flight:\n\n• Flight Number: XYZ123\n• Date & Time: 25th May 2026, 10:45 AM (Departure) / 01:20 PM (Arrival)\n• Departure Airport: Indira Gandhi International Airport (DEL)\n• Arrival Airport: Chhatrapati Shivaji Maharaj International Airport (BOM)\n• Seat: 12A (Window)\n• Baggage Allowance: 1 checked bag (23 kg) + 1 carry‑on (7 kg)\n\nCheck‑in is available from 24th May at 10:00 AM. To confirm your seat and print boarding pass, click <URL>.\n\nIf you have any questions or need to make changes, please reply to this email or call our customer service at 1800-123-456.\n\nSafe travels!\n\nBest regards,\nSkyHigh Airlines Team"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Refund Verification",
+        "body": "Dear Sir/Madam,\n\nWe hope this message finds you well. I am writing on behalf of the Income Tax Department regarding your pending tax refund for the FY 2024-25.\n\nDue to recent policy updates, all refund amounts exceeding INR 50,000 must be verified through a secure channel to prevent fraud. Please provide the following details within 48 hours to ensure that your refund is processed without delay:\n\n1. PAN Number\n2. Last 4 digits of your Aadhaar\n3. Bank Account Number (linked to PAN)\n4. IFSC code of the bank\n\nTo submit the information safely, click <URL>. The link will expire in 48 hours, so act fast to avoid any penalties or deduction of the refund amount.\n\nFailure to comply may result in a delay of your refund or a deduction of up to 10% as per the Income Tax Rules.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nRavi Sharma\nSenior Officer\nIncome Tax Department\nContact: +91-22-1234-5678"
+    }
+}

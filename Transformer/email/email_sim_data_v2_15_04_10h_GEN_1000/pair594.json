@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order Confirmation – #123-4567890-1234567",
+        "body": "Hello John,\n\nThank you for shopping with Amazon. Your order has been received and is now being processed.\n\nOrder #: 123-4567890-1234567\nDate: 15 Apr 2026\n\nItem(s) Purchased:\n1× Wireless Mouse – $29.99\n1× Laptop Sleeve – $15.00\n\nTotal (incl. taxes and shipping): $45.99\n\nShipping Address:\nJohn Doe\n123 Maple Avenue\nSpringfield, IL 62704\nUnited States\n\nEstimated Delivery: 20 Apr 2026\n\nIf you need to change your shipping address, cancel this order, or have any questions, please visit your order page or contact Amazon Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon.com Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Shipment Requires Immediate Payment of Delivery Fee",
+        "body": "Dear Valued Customer,\n\nOur records indicate that your recent FedEx shipment (Tracking # 3F8-12-3456) was scheduled for delivery on 14 Apr 2026 but was not successfully delivered due to an outstanding delivery fee. To avoid further delays and potential return to sender, please remit the fee immediately.\n\nPlease click on the secure link below to complete payment:\n<URL>\n\nFailure to pay the fee within 48 hours will result in your package being returned to the sender and additional handling charges.\n\nFor your reference, the fee amount is $12.50 and covers the final delivery segment. If you believe this notice is in error, please contact FedEx Customer Support using the same link.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Delivery Services"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Due Next Week",
+        "body": "Dear Class,\n\nI hope you are doing well. As a reminder, the semester project is due on Friday, May 25th. Please ensure that your submissions are uploaded to the course portal by 11:59 PM. If you have any questions or need an extension, feel free to contact me.\n\nBest regards,\nProfessor Jane Doe\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "URGENT: Action Required – FedEx Delivery Fee Outstanding",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent shipment with FedEx (Tracking #: 123456789) was not delivered due to an outstanding delivery fee. Failure to resolve this issue within 48 hours will result in your package being returned to the sender and additional penalties.\n\nTo avoid further complications, please log in to your FedEx account and pay the overdue fee immediately at <URL>.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nFedEx Customer Support"
+    }
+}

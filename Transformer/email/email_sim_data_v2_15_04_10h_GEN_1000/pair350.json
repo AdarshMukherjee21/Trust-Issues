@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: [Colleague Name]",
+        "body": "Hi Team,\n\nI will be out of the office from July 20th to July 24th. I will not have access to email during this period.\n\nFor urgent matters, please contact Jane Doe at jane.doe@example.com.\n\nThank you,\n[Colleague Name]"
+    },
+    "spam": {
+        "subject": "Urgent: Ticket #12345 - Immediate Action Required",
+        "body": "Hello [Employee Name],\n\nThis is IT Helpdesk. We have detected an unusual activity on your account. To secure your data, please verify your account by clicking <URL> within the next 24 hours.\n\nFailure to comply may result in temporary suspension.\n\nThank you,\nIT Helpdesk Team"
+    }
+}

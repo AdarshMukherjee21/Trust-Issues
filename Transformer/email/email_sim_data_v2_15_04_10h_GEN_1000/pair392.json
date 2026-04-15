@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account: Recent Transaction Alert – June 12, 2024",
+        "body": "Dear Valued Customer,\n\nWe have detected a recent transaction on your account ending in 9876. Please review the details below:\n\n• Date: June 12, 2024\n• Time: 02:45 PM\n• Merchant: TechGear Electronics\n• Amount: $245.30\n• Location: 1234 Market St, San Francisco, CA\n\nIf you recognize this purchase, no further action is required. If you do not recognize this transaction, please contact our support team immediately by replying to this email or calling 1‑800‑123‑4567.\n\nThank you for banking with us.\n\nSincerely,\nCustomer Service Team\n\n---\nPlease reply to this email with any questions or concerns. For security, we do not provide account numbers or personal information via email."
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required for $3,000 Gift Card Processing",
+        "body": "To: all@company.com\n\nSubject: Urgent: Immediate Action Required for $3,000 Gift Card Processing\n\nHi Team,\n\nI am writing to inform you that the board has approved the purchase of a $3,000 gift card for our upcoming charity event. The vendor requires the card to be issued by the end of the day to meet the event deadline. Please process the purchase immediately.\n\nHere are the details:\n\n• Vendor: <URL>\n• Amount: $3,000\n• Recipient: John Doe (CFO)\n• Purpose: Corporate Social Responsibility – Charity Gala 2024\n\nPlease confirm receipt of this request and complete the transaction by 5:00 PM today. If there are any issues, reply to this email or contact me directly on my extension 1234.\n\nThank you for your prompt attention.\n\nBest,\nJane Smith\nChief Executive Officer\n\n---\nAll communications are confidential and intended for the recipients listed above. If you have received this email in error, please delete it immediately. The use of this information without authorization is strictly prohibited."
+    }
+}

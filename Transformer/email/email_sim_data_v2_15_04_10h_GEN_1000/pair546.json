@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\n\nThis is a reminder that the corporate VPN will undergo maintenance on Friday, May 18th from 10:00 PM to 12:00 AM. During this window, all VPN services will be unavailable. Please plan accordingly and ensure you have offline access to critical documents. If you need assistance migrating your connections or have questions, contact IT support at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nAlex Johnson\nIT Infrastructure Manager"
+    },
+    "spam": {
+        "subject": "Critical Action Required: Your University Scholarship Offer",
+        "body": "Dear [Name],\n\nWe are pleased to inform you that you have been selected for the prestigious XYZ University Graduate Scholarship 2026. Congratulations! However, to process your scholarship funds, we must verify your personal information and complete a short enrollment form. Please click the link below to accept your award and submit required documents:\n\n<URL>\n\nIf you do not complete this within 48 hours, your award will be revoked. For any questions, contact scholarship office at <URL>.\n\nThank you for choosing XYZ University.\n\nSincerely,\nDr. John Smith\nDirector of Scholarships\nXYZ University"
+    }
+}

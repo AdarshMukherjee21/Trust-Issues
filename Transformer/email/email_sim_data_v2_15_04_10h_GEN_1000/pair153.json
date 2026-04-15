@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Prakash Kumar – Returning 15th July",
+        "body": "Hi All,\n\nI will be out of the office from 10 July to 14 July. I will not have access to email during this period. I will reply to all messages on 15 July.\n\nFor urgent matters, please contact my colleague Anjali Sharma at anjali.sharma@example.com or call +91-9876543210.\n\nThank you for your understanding.\n\nBest regards,\nPrakash Kumar\nSenior Analyst"
+    },
+    "spam": {
+        "subject": "URGENT: Zoom Audit Meeting - Confirm Attendance ASAP",
+        "body": "Dear Sir/Madam,\n\nYou have been selected to attend an important Zoom meeting scheduled for 02:00 PM IST today. This meeting is mandatory for all finance team members and will discuss critical audit procedures.\n\nPlease join the Zoom call by clicking <URL> and entering the meeting ID: 123-456-7890. Use the password: FIN123.\n\nWe have detected that your account has not been verified for the upcoming audit. Failure to attend will result in a penalty of INR 50,000 and possible suspension of access to company resources.\n\nYour immediate confirmation is required. Reply to this email with \"CONFIRMED\" or \"NOT AVAILABLE\".\n\nThank you for your cooperation.\n\nRegards,\nFinance Compliance Team\n\n---\nThis email is part of an automated security protocol. Please do not reply to unknown senders."
+    }
+}

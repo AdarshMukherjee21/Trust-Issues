@@ -1,0 +1,6 @@
+Error: 1 validation error for EmailPair
+  Input should be a valid dictionary or instance of EmailPair [type=model_type, input_value="EmailPair(ham=EmailConte...ou,\nIT Helpdesk Team')", input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/model_type
+
+Prompt History:
+None

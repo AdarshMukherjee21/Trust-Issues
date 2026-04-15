@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Martinez",
+        "body": "Hello,\n\nThank you for your email. I will be out of the office from Monday, April 22nd to Friday, April 26th, returning on Monday, April 29th. During this period I will have limited access to email.\n\nFor urgent matters, please contact my colleague Sarah Lee at sarah.lee@example.com or call the office line at (555) 123-4567.\n\nBest regards,\nAlex Martinez\nSenior Analyst\nExample Corp"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Gift Card Processing Required",
+        "body": "Dear Team,\n\nI hope this message finds you well. Our finance department has urgently requested that you process a corporate gift card for a key client within the next 24 hours. Please confirm receipt of this email and provide the card details as soon as possible.\n\nThank you for your swift action.\n\nBest,\nJohn Doe\nChief Executive Officer\nExample Corp"
+    }
+}

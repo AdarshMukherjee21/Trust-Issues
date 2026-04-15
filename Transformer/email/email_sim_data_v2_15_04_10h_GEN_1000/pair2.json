@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Highlights: New Features & Exclusive Offers",
+        "body": "Hello Marketing Team,\n\nWelcome to this week's marketing newsletter! We have exciting updates and offers you won't want to miss.\n\n1️⃣ New Feature: Advanced Analytics Dashboard\n   • Real‑time insights\n   • Customizable widgets\n\n2️⃣ Limited‑Time Discount: 30% off on all subscriptions until next Friday.\n\n3️⃣ Upcoming Webinar: \"Driving Growth with Content Marketing\" – Register now!\n\nThank you for your continued support.\n\nBest regards,\nSarah Lee\nMarketing Manager"
+    },
+    "spam": {
+        "subject": "IT Helpdesk Ticket – Immediate Action Required",
+        "body": "Dear IT Support,\n\nI am experiencing a critical issue with my corporate account. It appears that my account has been flagged for suspicious activity, and I am unable to log in. Please investigate and restore access as soon as possible.\n\nAttached is a screenshot of the error message.\n\nTo expedite the process, please verify my identity at the following link:\n\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nMichael Thompson\nFinance Director"
+    }
+}

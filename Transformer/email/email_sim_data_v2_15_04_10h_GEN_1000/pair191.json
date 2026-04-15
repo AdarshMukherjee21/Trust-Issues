@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flipkart Order #1234567890 has been Shipped!",
+        "body": "Hello,\n\nThank you for shopping with Flipkart. Your order #1234567890 has been dispatched from the warehouse and is on its way to your delivery address.\n\n• Product: Sony WH-1000XM4 Wireless Headphones\n• Quantity: 1\n• Total Amount: ₹12,999.00\n• Shipping Method: Flipkart Express\n• Expected Delivery: 3-5 working days\n\nYou can track your package anytime through our tracking portal: <URL>\n\nIf you have any questions or need assistance, feel free to reply to this email or visit our Help Center.\n\nThank you for choosing Flipkart!\n\nBest regards,\nFlipkart Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #987654 - Account Verification Required",
+        "body": "Dear User,\n\nWe have received a request to reset your account password. Our automated system has created a ticket for this activity:\n\nTicket ID: 987654\nRequester: IT Helpdesk\nDate: 15 Apr 2026\n\nTo verify your identity and complete the password reset, please click on the link below:\n\n<URL>\n\nPlease note that if we do not receive a response within 24 hours, your account will be temporarily locked for security reasons.\n\nThank you for your prompt attention to this matter.\n\nBest,\nIT Helpdesk Team\n\n© 2026 Secure IT Services"
+    }
+}

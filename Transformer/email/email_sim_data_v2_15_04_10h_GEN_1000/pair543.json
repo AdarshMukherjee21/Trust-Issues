@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 7th October",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the deadline for submitting your semester project is on 7th October, 2024. Please ensure that your project report is uploaded to the LMS by 23:59 hrs on the same day. Late submissions will incur a penalty of 10% of the project grade.\n\nIf you have any questions or need clarification, feel free to reach out to me via email or drop by my office hours.\n\nRegards,\nProf. Rajesh Kumar\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Verification Required – Immediate Action Needed",
+        "body": "Namaste [Student Name],\n\nCongratulations! You have been selected for the prestigious XYZ University Merit Scholarship for the academic year 2024-2025. To confirm your eligibility and secure the scholarship amount of INR 50,000 per semester, you must complete the verification process within 48 hours.\n\nPlease click on the link below to submit the required documents and confirm your details:\n\n<URL>\n\nFailure to verify within the stipulated time may result in cancellation of your scholarship award. If you have any concerns, contact our Scholarship Office at scholarshipoffice@xyzuniversity.ac.in.\n\nBest regards,\nDr. Anita Sharma\nHead, Scholarship Office\nXYZ University"
+    }
+}

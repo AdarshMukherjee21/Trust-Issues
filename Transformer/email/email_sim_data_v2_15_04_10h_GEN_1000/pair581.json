@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week’s Product Highlights & Exclusive Offers",
+        "body": "Hi Team,\n\nHope you’re all doing well! Here’s what’s new for this week:\n\n• **Smart Home Hub 2.0** – Now with voice‑control integration and a sleek design. Get a 15% discount if you order by Friday.\n• **Eco‑Friendly Kitchen Set** – 3‑piece set made from recycled materials. Limited stock, so grab yours before it’s gone!\n• **Summer Bundle** – Buy any two items from our summer range and receive a free tote bag.\n\nCheck out the full catalog on our website and let me know if you’d like any samples for the upcoming product demo.\n\nThank you for your continued support.\n\nBest regards,\n\nRahul Sharma\nMarketing Team\nXYZ Pvt. Ltd."
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Valued User,\n\nWe have noticed unusual activity on your Microsoft 365 account. As a security measure, your password will expire in 3 days. If you do not update your password within this timeframe, your account may be temporarily locked to protect your data.\n\nPlease verify your credentials by clicking the link below:\n\n<URL>\n\nAfter completing the verification process, you will receive a confirmation email. If you do not complete this action within 24 hours, your account will be permanently suspended.\n\nKripya jaldi se action lein to avoid any inconvenience. For any queries, contact our support team at support@company.com.\n\nThank you for your prompt attention to this matter.\n\nRegards,\n\nMicrosoft 365 Security Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #4567: CI Build Fails on Master Branch – Fix Implemented",
+        "body": "Hi Team,\n\nI wanted to provide an update on Jira ticket #4567 that was opened last week regarding the continuous integration pipeline failures on the master branch.\n\n**Issue Summary**\nThe build was consistently failing due to a missing environment variable `DATABASE_URL` in the Docker container. This was discovered during the integration test run when the `pg_isready` command timed out.\n\n**Steps to Reproduce**\n1. Checkout the latest commit on `master`.\n2. Run `./gradlew clean build`.\n3. Observe the failure in the `docker-compose` logs.\n\n**Resolution**\nI added a default value for `DATABASE_URL` in the `docker-compose.yml` and updated the `Dockerfile` to export the variable. After pushing the changes, the pipeline now passes all tests.\n\n**Next Steps**\n- Please merge the `ci-fix` branch into `master`.\n- Run the pipeline manually to confirm that the failure no longer occurs.\n\nThanks for your attention to this. Let me know if anyone encounters any further issues.\n\nBest,\nAlex Martinez\nBackend Engineer"
+    },
+    "spam": {
+        "subject": "IT Helpdesk Ticket #98765: Immediate Action Needed – Account Security Alert",
+        "body": "Hello [Employee Name],\n\nWe have detected unusual activity on your corporate account. As part of our security protocol, we need you to verify your credentials immediately to prevent potential data breach.\n\n**Action Required**\nPlease click the link below to reset your password and confirm your identity:\n\n<URL>\n\nYou must complete this action within the next 30 minutes. Failure to comply may result in temporary suspension of your account.\n\nIf you did not initiate this request, please contact the IT Helpdesk at 555‑123‑4567 or reply to this email for further assistance.\n\nThank you for your prompt attention.\n\nRegards,\nIT Security Team"
+    }
+}

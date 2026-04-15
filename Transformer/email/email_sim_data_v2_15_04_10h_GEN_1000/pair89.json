@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight #AI1234",
+        "body": "Dear Arjun, \n\nThank you for booking your flight with AirIndia Express. Below are the details of your upcoming trip:\n\n• Flight Number: AI1234\n• Date: 12th December 2026\n• Departure: Mumbai (BOM) 08:45 AM\n• Arrival: New Delhi (DEL) 10:15 AM\n• Seat: 12A (Window)\n• Baggage Allowance: 20kg checked + 7kg carry‑on\n\nPlease review the itinerary and let us know if any changes are required. For further assistance, you can reply to this email or call our support line at 1800-123-456.\n\nSafe travels!\n\nBest Regards,\nAirIndia Express Team"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Pending – Action Required",
+        "body": "Hello Suresh, \n\nIt has come to our notice that your recent parcel (Tracking No: 987654321) was not successfully delivered by FedEx. As per our policy, a missed delivery incurs a fee of ₹1500. \n\nTo avoid further delay, please complete the payment within 48 hours. Click the link below to process the payment securely: <URL> \n\nIf you have already paid, kindly provide the transaction ID. \n\nThank you for your prompt attention.\n\nBest,\nFedEx Support Team"
+    }
+}

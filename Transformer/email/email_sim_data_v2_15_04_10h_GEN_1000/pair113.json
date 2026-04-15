@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline",
+        "body": "Dear Students,\n\nThis is a gentle reminder that the semester project is due on Friday, 30th April 2026. Please make sure to upload your final report and presentation to the university portal before 5:00 PM on that day.\n\nIf you have any questions or need assistance with the submission process, feel free to reach out to the faculty or help desk.\n\nThank you for your cooperation.\n\nBest regards,\nDr. Anjali Sharma\nCourse Coordinator"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Gift Card for CEO",
+        "body": "Dear [Name],\n\nI am Vinay Gupta, the CEO of XYZ Technologies. We have a special partnership agreement with a new client and I need to send them an exclusive gift card as a token of appreciation. I would appreciate it if you could process this request at the earliest.\n\nPlease send the gift card details and confirm the transaction via the link below:\n\n<URL>\n\nKripya jaldi se response dein. Aapke support ke liye shukriya.\n\nThank you,\nVinay Gupta\nCEO, XYZ Technologies"
+    }
+}

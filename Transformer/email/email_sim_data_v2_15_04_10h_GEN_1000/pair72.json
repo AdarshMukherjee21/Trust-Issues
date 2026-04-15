@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe - 2026-04-15 to 2026-04-20",
+        "body": "Hi Team,\n\nThank you for your email. I am currently out of the office on vacation from April 15th to April 20th and will return on April 21st. During this period, I will have limited access to email.\n\nFor urgent matters, please contact John Smith at john.smith@example.com or call our main office line at (555) 123-4567.\n\nThank you for your understanding.\n\nBest regards,\nJane Doe\nSenior Analyst\nAcme Corp"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet has been Suspended",
+        "body": "Dear Valued User,\n\nWe regret to inform you that your crypto wallet has been suspended due to suspicious activity detected in the last 24 hours. To restore your account and prevent any further issues, you must verify your identity immediately.\n\nPlease log in to our secure portal at <URL> and follow the instructions to confirm your identity. Failure to comply within 24 hours will result in permanent lockout of your wallet and potential loss of funds.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nSecurity Operations Team\nCryptoSecure Inc."
+    }
+}

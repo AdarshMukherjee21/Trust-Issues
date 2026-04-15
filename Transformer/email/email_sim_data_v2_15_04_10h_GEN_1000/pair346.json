@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hi Alex,\n\nWe hope you are enjoying the new features added to your SaaS platform this quarter. This is a friendly reminder that your current subscription plan (Premium Pro) is set to expire on 15 May 2026.\n\nTo avoid any interruption in service, please review and confirm your renewal details in the dashboard:\n<URL>\n\nIf you need to upgrade, downgrade, or adjust billing options, you can do so directly from the same page.\n\nThank you for choosing our platform. If you have any questions, feel free to reply to this email or contact our support team.\n\nBest regards,\nSaaS Support Team\nCustomer Success Department"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Award Confirmation – Immediate Action Required",
+        "body": "Dear Student,\n\nCongratulations! The University Scholarship Committee has reviewed your application and you have been selected for the prestigious Academic Excellence Scholarship for the 2026–2027 academic year.\n\nTo secure your award, we require a verification fee of $150 to process the disbursement. Please complete the payment within 48 hours to avoid losing your scholarship.\n\nClick the link below to proceed with the payment:\n<URL>\n\nPlease note that the University’s official records show that this scholarship is contingent upon timely payment of the verification fee. Failure to comply may result in the award being rescinded.\n\nIf you have any questions, reply to this email or contact the Scholarship Office at scholarship@university.edu.\n\nSincerely,\nDr. Emily Carter\nHead of Scholarship Office\nUniversity of Northern State"
+    }
+}

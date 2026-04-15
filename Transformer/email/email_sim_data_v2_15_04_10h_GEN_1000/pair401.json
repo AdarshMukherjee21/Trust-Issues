@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account 123456 has been Debited – Transaction Alert",
+        "body": "Dear Customer,\n\nYour account ending in 3456 has been debited by Rs. 5,500 on 15-Apr-2026 at 14:32. If you did not authorize this transaction, please contact us immediately.\n\nThank you for banking with XYZ Bank.\n\nSincerely,\nXYZ Bank Customer Support\n\nFor any query, call 1800-123-456."
+    },
+    "spam": {
+        "subject": "Urgent: Your Income Tax Refund is Ready – Verify Now!",
+        "body": "Dear Customer,\n\nGreetings from the Income Tax Department. We have processed your income tax refund of INR 1,23,456. Please verify your bank account details by clicking the link below within 48 hours. If you do not verify, your refund will be withheld.\n\nClick here to verify: <URL>\n\nKripya apna account verify karein. Agar aapne is email ko galti se prapt kiya hai, to humein turant batayein.\n\nSincerely,\nIncome Tax Department"
+    }
+}

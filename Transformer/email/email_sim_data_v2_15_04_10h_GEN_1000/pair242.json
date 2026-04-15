@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 is Confirmed!",
+        "body": "Dear Customer,\n\nThank you for shopping with Amazon! We are pleased to confirm your order.\n\nOrder Details:\nOrder ID: 1234567890\nOrder Total: $89.99\nShipping Address: 123 Elm Street, Springfield, IL 62704\nEstimated Delivery: 3-5 business days\n\nItems:\n- UltraSoft Pillow – $29.99\n- Wireless Mouse – $19.99\n- 32GB USB Flash Drive – $10.99\n- Bluetooth Headphones – $29.99\n\nPayment Method: Visa ending in 1234\n\nIf you need to modify or cancel your order, please contact us within 24 hours. Otherwise, we will ship your items shortly.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Ticket #987654321",
+        "body": "Hi [Your Name],\n\nWe have detected unusual activity on your corporate account. As part of our compliance protocol, we need to verify your login credentials. Please click the link below to confirm your identity and reset your password.\n\n<URL>\n\nFailure to act within 24 hours will result in temporary suspension of your access to corporate resources.\n\nThank you,\nIT Helpdesk Team"
+    }
+}

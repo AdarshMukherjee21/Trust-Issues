@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #12345678 is Confirmed",
+        "body": "Hello [Customer Name],\n\nThank you for shopping with Amazon. We are pleased to confirm your order #12345678 placed on 2026-04-14.\n\nOrder Details:\n  • Item: Wireless Bluetooth Headphones\n  • Quantity: 1\n  • Price: $79.99\n  • Shipping: Standard (5-7 business days)\n\nYour package will be dispatched on 2026-04-15 and should arrive by 2026-04-22.\n\nIf you have any questions or need to track your shipment, please visit <URL>.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Payroll Update for Your Account",
+        "body": "Dear Employee,\n\nOur records indicate that your payroll information has not been updated for the current period. To avoid any delay in your salary, please verify and update your bank details within the next 48 hours.\n\n1. Log in to the HR portal using your employee ID.\n2. Navigate to \"Payroll Settings\".\n3. Confirm your bank account information.\n4. Submit the updated details for approval.\n\nFailure to complete this process may result in a temporary hold on your salary disbursement. For security, do not share this email with anyone else.\n\nIf you believe this is an error, please contact the Payroll Department immediately at <URL>.\n\nSincerely,\nJohn Doe\nDirector of Human Resources\nXYZ Corporation"
+    }
+}

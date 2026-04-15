@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Bank Transaction Alert: ₹5,000 Debit from XYZ Store",
+        "body": "Dear Customer,\n\nWe have detected a transaction of ₹5,000 from your account at XYZ Store on 15/04/2026. If you did not authorize this transaction, please contact our customer support immediately.\n\nThank you for banking with us.\n\nBest Regards,\nYour Bank Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks & Norton Invoice Verification Needed",
+        "body": "Dear Valued Customer,\n\nAapke QuickBooks account me ek unauthorized invoice detected hai aur aapka Norton subscription invoice pending hai. Immediate action is required to avoid service interruption and potential fines.\n\nLogin karein QuickBooks account me at <URL> aur invoice details verify karein. Also, check your Norton subscription details at the same link.\n\nIf you do not complete this verification within 24 hours, your account will be suspended.\n\nThank you,\nQuickBooks & Norton Support Team"
+    }
+}

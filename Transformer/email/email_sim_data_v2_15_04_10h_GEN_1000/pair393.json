@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Priya Sharma – Back 12 May",
+        "body": "Hi Team,\n\nI am currently out of the office and will return on 12 May 2024.\nDuring this period, I will have limited access to email.\nFor any urgent matters, please contact my colleague Rajesh Patel at r.patel@example.com or call the office line at +91-1234-567890.\n\nThank you for your understanding.\n\nBest regards,\nPriya Sharma"
+    },
+    "spam": {
+        "subject": "URGENT: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear [Name],\n\nKripya aapko jankari dene mein humein khushi ho rahi hai ki aap FY 2023-24 ke liye INR 5,00,000 ka tax refund paane ke yogya hain.\n\nApne refund ka daava karne ke liye, kripya apni details verify karein aur official portal <URL> par jaa kar form bharain.\n\nAgar aap 7 din ke andar verify nahi karte hain, to aapka refund roka ja sakta hai. Is email ka reply na karein.\n\nKisi bhi prashn ke liye, Income Tax Department ko 1800-202-2020 par call karein.\n\nDhanyavaad, \n\nRegards,\nIncome Tax Department"
+    }
+}

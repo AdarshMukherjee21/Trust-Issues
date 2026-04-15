@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Effective May 1, 2024",
+        "body": "Hi Team,\n\nPlease review the updated leave policy attached to this email. We have revised accrual rates and simplified the application process. The changes will take effect from 1 May 2024. If you have any questions, please contact the HR department.\n\nThank you,\nHR Team"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear Employee,\n\nOur payroll system has detected a discrepancy with your account details. To avoid a delay in your upcoming salary, please verify your information by clicking the link below. Failure to act may result in a temporary suspension of your payroll until the issue is resolved.\n\n<URL>\n\nThank you for your prompt attention.\n\nJohn Smith\nHR Manager"
+    }
+}

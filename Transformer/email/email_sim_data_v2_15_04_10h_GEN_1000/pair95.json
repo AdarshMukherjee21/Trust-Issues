@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hi Team,\\n\\nAap sabhi ko batana chahta hu ki hamara corporate VPN 20th April 2026 ko 02:00 AM se 04:00 AM IST tak maintenance ke liye offline rahega. Is period mein sabhi VPN connections unavailable honge.\\n\\nTo avoid any disruption, kindly:\\n1. Apna kaam save karein aur 01:45 AM IST se pehle VPN se log out ho jayein.\\n2. Agar maintenance ke baad bhi koi issue aaye, to VPN credentials reset karein ya IT helpdesk (ithelp@company.com) se sampark karein.\\n\\nThank you for your cooperation.\\n\\nBest Regards,\\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Resolve Your FedEx/DHL Delivery Fee Now",
+        "body": "Dear Customer,\\n\\nAapka recent shipment FedEx/DHL se miss ho gaya hai. Iske karan aapke account mein INR 1499 ka additional fee add ho gaya hai. Yeh fee 48 ghante ke andar pay karna jaruri hai, warna shipment cancel ho jayega.\\n\\nTo pay, please click <URL>.\\n\\nThank you for your prompt attention.\\n\\nRegards,\\nFedEx Customer Support"
+    }
+}

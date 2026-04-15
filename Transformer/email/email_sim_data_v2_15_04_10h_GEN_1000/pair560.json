@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order Confirmation – Thank You for Shopping with Amazon",
+        "body": "Hello Jane Doe,\n\nThank you for your recent purchase from Amazon. We are pleased to confirm that your order has been successfully placed and is now being processed.\n\nOrder Details:\n  • Order ID: 08A12-9876543-3210987\n  • Items Purchased:\n      – “Echo Dot (3rd Gen)” – $49.99\n      – “Fire TV Stick” – $39.99\n      – “USB-C Charger” – $15.99\n  • Total Amount: $105.97 (including tax and shipping)\n\nShipping Information:\n  • Shipping Method: Standard Delivery\n  • Expected Delivery Window: 3–5 business days\n  • Tracking Number: 123456789012\n\nIf you have any questions about your order, feel free to reply to this email or visit your Amazon account for more details.\n\nThank you for shopping with us!\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Action Required: Payroll Update – Immediate Attention Needed",
+        "body": "Dear John Smith,\n\nThe Payroll Department has identified a discrepancy in the recent salary disbursement for your account. To ensure that your future payments are processed without delay, we require you to verify your bank account details within the next 48 hours.\n\nPlease follow the instructions below:\n  1. Log in to the Secure HR Portal.\n  2. Navigate to the ‘Payroll Settings’ section.\n  3. Confirm or update your bank details.\n  4. Submit the changes and await confirmation.\n\nIf you do not complete this verification, your upcoming salary may be delayed. For any assistance, reply to this email or call the HR helpdesk at 1-800-555-0199.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nHR Payroll Team"
+    }
+}

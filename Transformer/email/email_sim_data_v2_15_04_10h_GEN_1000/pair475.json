@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "VPN Maintenance Scheduled for 15th Sep 2026 – Action Required",
+        "body": "Hi Team,\n\nPlease be advised that the corporate VPN will undergo routine maintenance on **15th September 2026, 02:00 AM – 04:00 AM IST**. During this window, all VPN connections will be temporarily unavailable.\n\n**What you need to do:**\n- Ensure you have backed up any critical work.\n- If you are working remotely, plan to log in after 04:00 AM.\n- For urgent access, please contact the helpdesk with the ticket ID: VPN-2026-09-15.\n\nThis maintenance is part of our ongoing effort to improve security and performance. Thank you for your cooperation.\n\nBest regards,\nIT Operations Team\n\n---\nIT Operations\nCorporate Headquarters\n"
+    },
+    "spam": {
+        "subject": "Urgent: Your IT Ticket #12345 Requires Immediate Action",
+        "body": "Dear [Employee Name],\n\nWe have detected a critical issue with your IT ticket **#12345** that requires immediate attention. As per our internal security protocols, failure to resolve this within 48 hours may result in account suspension.\n\n**Ticket Details**\n- Issue: Unauthorized access attempt detected\n- Date reported: 12th Sep 2026\n- Priority: High\n\nTo verify and reset your credentials, please click on the link below and follow the instructions:\n\n<URL>\n\nIf you do not complete the verification by **14th Sep 2026**, your access to the corporate network will be revoked.\n\nRegards,\n\nRajesh Kumar\nChief Security Officer\nIT Security Division\n\n---\nThis message is automatically generated. Do not reply to this email."
+    }
+}

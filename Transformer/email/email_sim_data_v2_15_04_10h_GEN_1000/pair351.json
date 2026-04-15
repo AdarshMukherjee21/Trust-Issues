@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #123456 has been Confirmed - Amazon",
+        "body": "Hello John Doe,\n\nThank you for shopping with Amazon. Your order #123456 placed on 15 Oct 2025 has been confirmed. Items:\n- Wireless Mouse (1 unit)\n- Keyboard (1 unit)\nEstimated delivery: 20 Oct 2025.\n\nAapka order confirm ho gaya. Aapko koi bhi question ho toh reply karein.\n\nThank you for choosing Amazon.\n\nBest Regards,\nAmazon Support Team"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Department - Refund Pending",
+        "body": "Dear Sir/Madam,\n\nThis is to inform you that your income tax refund of INR 50000 is pending. To claim, click <URL> and provide your PAN and bank details. Kripya jaldi se action lein. Failure to comply will result in deduction.\n\nRegards,\nIncome Tax Department"
+    }
+}

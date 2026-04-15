@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline - 30th April",
+        "body": "Namaste Team,\n\nYeh sirf ek friendly reminder hai ki semester project ki deadline 30th April hai. Kripya karke apne reports LMS par 5 PM tak submit karein.\n\nAgar koi confusion ho ya extension chahiye toh bata den. \n\nThanks,\nProf. Sharma"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - CEO Gift Card Request",
+        "body": "Dear Valued Employee,\n\nI am the CEO of XYZ Ltd, aur mujhe aapki immediate help chahiye ek critical financial transaction mein. Hamara system ek anomaly detect kar raha hai, aur isko expedite karne ke liye mujhe aapke company credit card se $1000 ka gift card chahiye.\n\nKripya is request ko 24 ghante ke andar process karein aur gift card ka code mujhe personal email at ceo@xyz.com bhejein. Agar aap comply nahi karte, toh account suspension ka risk hai.\n\nThank you for your prompt action.\n\nRegards,\n[CEO Name]\nChief Executive Officer, XYZ Ltd."
+    }
+}

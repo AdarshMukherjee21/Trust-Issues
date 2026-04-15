@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Jane Doe",
+        "body": "Hi,\n\nThank you for your email. I am currently out of the office and will not be checking email until July 15th. I will respond to your message upon my return.\n\nFor urgent matters, please contact John Smith at john.smith@example.com.\n\nBest regards,\nJane"
+    },
+    "spam": {
+        "subject": "URGENT: Account Verification Required – Immediate Action Needed",
+        "body": "Dear Valued Customer,\n\nWe have detected suspicious activity on your account and require your immediate attention. To verify your identity and secure your account, please join the following Zoom meeting:\n\nMeeting ID: 123 456 7890\nPasscode: 987654\nLink: <URL>\n\nThis meeting is mandatory. Failure to attend will result in temporary suspension of your account.\n\nPlease confirm your attendance by replying to this email at your earliest convenience.\n\nThank you for your cooperation.\n\nSincerely,\nThe Security Team"
+    }
+}

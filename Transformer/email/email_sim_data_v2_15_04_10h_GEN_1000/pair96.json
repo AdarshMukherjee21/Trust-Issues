@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hello Alex,\n\nWe hope you are enjoying the full suite of features provided by our SaaS platform. This is a friendly reminder that your current subscription plan (Premium – 12‑month) is set to expire on May 30, 2026. To continue uninterrupted access, please review the renewal details and confirm your payment information.\n\nPlan: Premium – 12‑month\nPrice: $1,200 per year (discounted 10% for annual commitment)\nRenewal Date: May 30, 2026\n\nTo renew, simply click the button below and follow the secure checkout process:\n<URL>\n\nIf you have any questions or would like to upgrade to a higher tier, feel free to reply to this email or contact our support team at support@example.com.\n\nThank you for choosing our services. We look forward to serving you for another year.\n\nBest regards,\n\nSaaS Support Team\n\n---\n© 2026 Example Corp. All rights reserved. | Unsubscribe"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Zoom Meeting Confirmation",
+        "body": "Dear Alex,\n\nThis is a notification from the Executive Office regarding a critical meeting scheduled for tomorrow, May 20, 2026, at 09:30 AM EST. Please confirm your attendance by clicking the link below. Failure to attend will be recorded as a missed obligation.\n\nMeeting ID: 123-456-7890\nPassword: Qwerty123\n\nJoin Zoom Meeting:\n<URL>\n\nIf the above link does not work, please contact the IT Helpdesk immediately. Your prompt response is essential to ensure the meeting proceeds without delay.\n\nThank you for your cooperation.\n\nSincerely,\n\nJordan M. Lee\nChief Operations Officer\nExample Corp."
+    }
+}

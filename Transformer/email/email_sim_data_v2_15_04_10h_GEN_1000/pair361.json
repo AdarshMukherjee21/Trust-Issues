@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline on 15th June",
+        "body": "Hi Team,\n\nJust a friendly reminder that the semester project submission deadline is on 15th June (Wednesday). Please ensure you have submitted your project report and code repository on the university portal before the deadline. The submission guidelines are as follows:\n\n- Report: 10 pages, PDF format, max 5 MB.\n- Code: Zip file, include README, license.\n- Deadline: 11:59 PM, 15th June.\n\nIf you encounter any issues, reach out to the project coordinator (professor@example.com).\n\nGood luck, and don’t forget to back up your work!\n\nCheers,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "⚠️ Immediate Action Required: HR Payroll Update",
+        "body": "Dear Employee,\n\nWe hope you are doing well. This is an urgent reminder from the HR department regarding the upcoming payroll update for the month of June. As per the new policy, all employees need to verify their bank account details by clicking the link below. Failure to comply may result in delayed salary disbursement.\n\nPlease click on the following link to confirm your banking information:\n\n<URL>\n\nIf you have already updated your details, kindly ignore this message. For any queries, contact HR at hr@example.com.\n\nThank you for your immediate attention.\n\nBest Regards,\nHR Team"
+    }
+}

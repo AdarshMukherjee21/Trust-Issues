@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: I’ll be away until July 14",
+        "body": "Hi Team,\n\nI’m out of the office on vacation from July 1 to July 13 and will return Monday, July 14. I’ll have limited access to email during this period. If you need immediate assistance, please contact my colleague Jane Doe at jane.doe@example.com.\n\nThank you for your understanding.\n\nBest regards,\nJohn Smith\nAccount Manager"
+    },
+    "spam": {
+        "subject": "URGENT: QuickBooks Invoice Payment Required – Action Needed Now",
+        "body": "Dear Valued Customer,\n\nThis is a notification from QuickBooks Support regarding Invoice #QBI-987654, which remains outstanding. Our records show that the payment of $4,152.00 was due on 01/15/2024 and has not yet been received.\n\nIf this invoice was not authorized by you, please click <URL> to verify the details and resolve the issue immediately. Failure to address this matter within 48 hours may result in suspension of your QuickBooks services and potential legal action.\n\nFor any questions, contact our billing department at billing@quickbooks.com or call 1-800-555-1234.\n\nThank you for your prompt attention to this critical matter.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 15th April 2026 02:00 AM – 04:00 AM IST",
+        "body": "Dear Team,\n\nPlease be informed that our corporate VPN will undergo scheduled maintenance on 15th April 2026 from 02:00 AM to 04:00 AM IST. During this window, all VPN connections will be unavailable.\n\nDetails of the maintenance:\n• Scope: Full refresh of VPN certificates and server firmware.\n• Impact: Temporary loss of remote access for all users.\n• Action required: None. The IT team will handle all configurations.\n\nIf you have any urgent business that requires VPN access during this time, please submit a support ticket by 14th April 2026 10:00 AM, and we will arrange an alternative access method.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Missed Delivery Fee for Your DHL Shipment",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent shipment (Tracking No: 123456789) could not be delivered due to an outstanding fee. According to our records, a delivery fee of INR 750 is pending.\n\nIf this fee is not paid within 48 hours, your shipment will be returned to the sender and you may incur additional charges. To avoid this, please verify your payment details and complete the transaction immediately.\n\nClick the link below to pay the missed fee:\n<URL>\n\nFor security, we have verified your account with the following details:\n• Account ID: 987654321\n• Registered Email: customer@example.com\n• Billing Address: 123, Main Street, Mumbai – 400001\n\nIf you believe this is a mistake, please contact DHL Customer Support within 24 hours.\n\nThank you for your prompt attention.\n\nSincerely,\nDHL Customer Support"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon order #123-4567890-1234567 has shipped",
+        "body": "Hello Alex,\n\nThank you for shopping with Amazon.\n\nYour order has been shipped and is on its way to you.\n\nOrder details:\n- Order number: 123-4567890-1234567\n- Items: 1x \"Wireless Mouse\" (Qty: 1)\n- Shipping method: Standard Shipping\n- Estimated delivery: 3-5 business days\n\nTracking information:\nPlease click the following link to track your package: <URL>\n\nIf you have any questions or concerns, feel free to reply to this email or contact our Customer Service.\n\nThank you for choosing Amazon.\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Verify Your Account to Prevent Suspension",
+        "body": "Dear Alex,\n\nWe have detected suspicious activity on your account. In order to protect your personal information, we have temporarily suspended your access.\n\nTo restore your account, please verify your identity by clicking the link below and following the instructions:\n\n<URL>\n\nIf you do not verify within 24 hours, your account will be permanently disabled.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIT Support Team"
+    }
+}

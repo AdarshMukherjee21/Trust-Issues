@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Marketing Update – Exclusive Deals Inside!",
+        "body": "Hello,\n\nWe hope you’re having a great week! Our marketing team is excited to share this week’s top offers and upcoming events.\n\n• 20% off on all cloud storage plans – limited time only!\n• Free e‑book \"Digital Transformation 2026\" with any purchase above $50.\n• Join our live webinar on \"AI in Marketing\" next Thursday at 2 PM PST – register now!\n\nWe appreciate your continued partnership and look forward to helping you grow.\n\nBest regards,\nMarketing Team\nAcme Corp\n123 Business Rd, Suite 400\nAnytown, USA 12345\n\nIf you wish to update your email preferences, simply click <URL>."
+    },
+    "spam": {
+        "subject": "URGENT: IT Helpdesk Ticket #3456 – Immediate Action Required",
+        "body": "Dear Valued Employee,\n\nOur automated monitoring system has detected a potential security breach associated with your account. This incident has triggered Ticket #3456, and immediate action is required to protect your data and the company’s network.\n\nPlease verify the following details to confirm your identity:\n\n• Full name:\n• Department:\n• Last 4 digits of your employee ID:\n• Confirmation that you have not requested any changes to your account in the last 24 hours.\n\nYou must submit this information within the next 10 minutes by clicking the secure link below:\n\n<URL>\n\nFailure to respond promptly may result in temporary suspension of your account until the issue is resolved.\n\nThank you for your cooperation.\n\nBest regards,\nIT Helpdesk Team\nAcme Corp\nSecurity Operations\n\nFor any questions, call the helpdesk at 555‑123‑4567 or reply to this email."
+    }
+}

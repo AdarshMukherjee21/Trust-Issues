@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Confirmation – Action Required",
+        "body": "Hi Alex,\n\nThank you for being a valued customer of CloudSuite. We wanted to let you know that your subscription for the CloudSuite Pro plan is set to renew on April 30, 2026.\n\nKey details:\n- Plan: CloudSuite Pro\n- Renewal date: 30 April 2026\n- Amount: $1,200.00 (annual fee)\n- Billing method: Credit Card ending in 9273\n\nIf you wish to modify your plan, update billing information, or review your usage, please log in to your account via the following link:\n<URL>\n\nIf you have any questions or need assistance, our support team is available 24/7 at support@cloudsuite.com or call 1‑800‑555‑1234.\n\nThank you for choosing CloudSuite. We look forward to supporting your business!\n\nBest regards,\n\nEmma Johnson\nCustomer Success Manager\nCloudSuite Inc."
+    },
+    "spam": {
+        "subject": "Urgent: Your Microsoft 365 Password is Expiring – Action Required",
+        "body": "Dear Alex,\n\nThis is an automated security notice from Microsoft. Your Microsoft 365 account password will expire within the next 48 hours. If not updated, you may lose access to critical services such as Outlook, OneDrive, and Teams.\n\nTo protect your account and ensure uninterrupted access, please update your password immediately by following the secure link below:\n<URL>\n\nFor your safety, we advise you to verify that you are on the official Microsoft login page. If you encounter any suspicious activity or have questions, contact Microsoft Support at 1‑800‑642‑7676.\n\nThank you for your prompt attention to this matter.\n\nRegards,\nMicrosoft Security Team"
+    }
+}

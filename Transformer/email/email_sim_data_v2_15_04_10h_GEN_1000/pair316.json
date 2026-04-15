@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight ABC123",
+        "body": "Dear Jane Doe,\n\nThank you for choosing XYZ Airlines for your upcoming travel. We are pleased to confirm your flight details below:\n\n• Flight: ABC123\n• Departure: New York (JFK) at 08:15 AM on 2026-05-01\n• Arrival: Los Angeles (LAX) at 11:45 AM on 2026-05-01\n• Seat: 12A (Aisle)\n• Baggage: 1 carry‑on (max 7 kg) + 1 checked‑in bag (max 23 kg)\n• Class: Business\n\nPlease arrive at the airport no later than 6:00 AM to allow ample time for check‑in and security screening. If you need to make any changes to your itinerary, you can do so via our website or by contacting our customer service team at <URL>.\n\nWe wish you a pleasant flight and look forward to serving you again soon.\n\nSincerely,\nXYZ Airlines Reservations Team\nCustomer Service: 1‑800‑XYZ‑1234\nEmail: reservations@xyzairlines.com"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Payroll Verification Required",
+        "body": "Dear John Smith,\n\nWe are writing to inform you that due to recent changes in our payroll system, your account information requires immediate verification. Failure to confirm your details within 24 hours will result in a temporary suspension of your salary disbursement.\n\nPlease log in to the HR portal at <URL> and verify your bank account information. If the details match the records on file, simply click the \"Confirm My Details\" button. If you notice any discrepancies, update your information immediately.\n\nIf we do not receive confirmation by 5:00 PM EST today, your payroll for the next month will be withheld until the issue is resolved.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nPayroll Compliance Team\nHR Department\nXYZ Corporation\nPhone: (555) 123‑4567\nEmail: payroll@xyzcorp.com"
+    }
+}

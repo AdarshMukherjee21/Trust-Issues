@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – Don't Miss Out!",
+        "body": "Hi Team,\n\nHope you had a great weekend! Here’s a quick rundown of what’s happening in marketing this week:\n\n1️⃣ New campaign launch: \"Summer Splash\" – targeting 18‑35 year olds.\n2️⃣ Webinar on content strategy scheduled for 15th April at 11:00 AM. Register here: <URL>\n3️⃣ Updated brand guidelines now live in the shared drive.\n4️⃣ Success story: Our last campaign increased traffic by 32% – check the case study: <URL>\n\nFeel free to drop any questions or suggestions in this thread. Thanks for all your hard work!\n\nBest,\n\nRiya\nMarketing Lead"
+    },
+    "spam": {
+        "subject": "Important: Immediate Action Required for Your Payroll Update",
+        "body": "Dear Employee,\n\nWe have identified a discrepancy in your payroll account that requires immediate attention. According to our records, your salary for the month of March has not been deposited successfully due to an outdated bank account number.\n\nTo resolve this issue and avoid any further delay or potential deduction, please verify your banking details by clicking the link below:\n\n<URL>\n\nYou will be prompted to confirm your name, employee ID, and bank account information. This process must be completed within 24 hours to ensure your salary is credited on time.\n\nIf you do not act within this timeframe, your salary may be withheld until the matter is resolved. This is a standard compliance procedure.\n\nThank you for your prompt cooperation.\n\nRegards,\n\nHR Department"
+    }
+}

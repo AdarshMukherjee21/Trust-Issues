@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation",
+        "body": "Dear Mr. Sharma,\n\nThank you for choosing StarJet Airlines for your upcoming travel. Your flight itinerary has been confirmed and is attached below for your reference.\n\nFlight Details:\n• Flight Number: SJ1234\n• Departure: 12:45 PM, 27th April 2026\n• From: New Delhi (DEL) to Mumbai (BOM)\n• Arrival: 2:30 PM, 27th April 2026\n\nPlease bring a valid ID proof and the e-ticket confirmation printed or downloaded from <URL> during check‑in.\n\nIf you need to make any changes or have special requests, feel free to reply to this email or call our 24/7 support line at +91‑123‑456‑7890.\n\nSafe travels!\n\nBest Regards,\nStarJet Airlines\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "URGENT: Gift Card Request from CEO",
+        "body": "Hi Rohan,\n\nI hope you are doing well. I am writing to let you know that I have obtained a special gift card for the upcoming company event, and I need you to process the transfer immediately. The card is worth INR 25,000 and is for the IT department.\n\nTo avoid any inconvenience, please complete the transfer by 5:00 PM today. I will personally verify the transaction once it’s done. Please confirm by replying to this email or by sending the transaction details to <URL>.\n\nThank you for your prompt action.\n\nRegards,\nVikram\nChief Executive Officer"
+    }
+}

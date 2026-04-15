@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Flight from Mumbai to New Delhi",
+        "body": "Dear Mr. Sharma,\n\nAapka booking confirm ho gaya hai. Kripya neeche diye gaye details ko dhyan se padhein:\n\nBooking Reference: XYZ123\nFlight No: AI101\nDate: 15th July 2024\nDeparture: 12:00 PM (BOM)\nArrival: 1:30 PM (DEL)\n\nCheck‑in counters open 2 hours before departure.\n\nAgar aapko koi confusion ho, toh humse 24/7 support pe sampark karein. Hum aapki madad ke liye yahan hai.\n\nThank you for choosing Air India. Hum aapke safar ko safe aur comfortable banane ke liye hamesha ready hain.\n\nShubh Yatra!\n\nSincerely,\nAir India Customer Care"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended",
+        "body": "Dear Mr. Sharma,\n\nKripya dhyan dein! Hamne aapke crypto wallet mein suspicious activity detect ki hai aur isliye aapka wallet temporarily suspend kar diya gaya hai. Agar aap 24 ghante ke andar apni identity verify nahi karte, toh aapka wallet permanently block ho sakta hai.\n\nVerification ke liye yahan click karein: <URL>\n\nYeh process instantly complete ho jayega aur aapke funds safe rahenge. Kripya jaldi se action lein, varna aapke funds loss ka risk badh sakta hai.\n\nDhanyavaad.\n\nSincerely,\nFinancial Compliance Team"
+    }
+}

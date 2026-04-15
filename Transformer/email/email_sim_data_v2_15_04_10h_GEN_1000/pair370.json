@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: John Doe",
+        "body": "Hi Team,\n\nI will be out of the office from 27th April to 3rd May, returning on 4th May. During this period I will have limited access to email. If you need immediate assistance, please reach out to my colleague, Jane Smith (jane.smith@example.com), who will be covering for me.\n\nThank you for your understanding.\n\nBest regards,\nJohn Doe\nProject Manager"
+    },
+    "spam": {
+        "subject": "URGENT: Your Zoom Meeting Invite Requires Immediate Action",
+        "body": "Dear Colleague,\n\nWe have detected a new scheduled meeting on your Zoom account that requires your immediate confirmation. Due to recent security updates, all meetings must be verified to ensure compliance with our IT policy.\n\nMeeting Title: Quarterly Strategy Review\nScheduled Time: 15:30 UTC on 30th April\nMeeting ID: 123-456-7890\n\nTo verify this meeting and secure your participation, please click the link below within the next 12 hours:\n<URL>\n\nFailure to verify may result in the meeting being cancelled and your account being temporarily suspended. If you believe this is a mistake, reply to this email with the subject line \"Verification Request\".\n\nThank you for your prompt attention to this matter.\n\nBest,\nZoom Security Team"
+    }
+}

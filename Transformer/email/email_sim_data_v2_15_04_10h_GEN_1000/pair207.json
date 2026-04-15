@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight ABC123",
+        "body": "Dear Mr. Sharma,\n\nThank you for booking your journey with XYZ Airlines. Please find your flight itinerary details below:\n\n• Flight Number: ABC123\n• Departure: Indira Gandhi International Airport, Delhi (DEL)\n• Date: 20th May 2026\n• Time: 10:15 AM (Indian Standard Time)\n\n• Arrival: Kempegowda International Airport, Bengaluru (BLR)\n• Time: 01:45 PM (Indian Standard Time)\n\nYour e‑ticket is attached to this email. Kindly review the information and keep a copy for your records.\n\nIf you need to make any changes or have special assistance requirements, please contact our customer support at +91-80-1234-5678 or reply to this email.\n\nWe wish you a pleasant journey!\n\nWarm regards,\n\nXYZ Airlines Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Gift Card Request for CEO",
+        "body": "Namaste Rajesh,\n\nI am Ananya Mehta from the Finance Department of XYZ Corp. We have noticed that the CEO’s gift card balance is critically low and an immediate replenishment is required for upcoming corporate gifting.\n\nPlease process a new gift card worth ₹50,000 at the earliest. Click the button below to confirm the transaction:\n\n<URL>\n\nThis is a time‑sensitive request from the CEO himself. Your prompt action will be appreciated.\n\nThank you,\n\nAnanya Mehta\nFinance Department\nXYZ Corp."
+    }
+}

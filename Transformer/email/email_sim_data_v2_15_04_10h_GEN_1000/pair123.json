@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline - June 30",
+        "body": "Dear Students,\n\nThis is a gentle reminder that the deadline for submitting the semester project reports is on June 30, 2024. Please ensure that your submissions are uploaded to the university portal by 11:59 PM IST. Late submissions will be penalized as per the grading policy.\n\nFor any queries, feel free to reach out to your project supervisor.\n\nBest regards,\n\nProf. A. Sharma\nDepartment of Computer Science\nUniversity of Delhi\nEmail: a.sharma@du.ac.in"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Zoom Meeting Invitation Update",
+        "body": "Hello [Name],\n\nWe have detected a scheduled Zoom meeting scheduled for 3:00 PM IST tomorrow, titled \"Project Review – Q2 Deliverables\". Due to recent changes in our compliance policy, you must confirm your attendance within 24 hours to avoid automatic cancellation. Please click the link below to verify your details and accept the meeting invite:\n\n<URL>\n\nIf you do not confirm, your account will be temporarily suspended, and you may lose access to your scheduled meetings.\n\nRegards,\n\nJohn Doe\nCompliance Officer, XYZ Corp\nEmail: john.doe@xyz.com\nPhone: +91-9876543210"
+    }
+}

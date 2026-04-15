@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Weekly Exclusive Deals Are Here - Shop Now!",
+        "body": "Hello John,\n\nI hope you’re doing great! This week, we’re thrilled to bring you a curated selection of top products just for you. From the latest tech gadgets to stylish home décor, our exclusive deals are designed to add value to your everyday life.\n\nWhat’s on offer this week?\n- 30% off on smartwatches and wearables\n- Buy 1 Get 1 Free on premium kitchenware\n- Limited edition accessories at a special price\n\nSimply visit our store and use the promo code WELCOME30 at checkout to enjoy these savings.\n\nThank you for being a valued customer. If you have any questions, feel free to reply to this email or contact our support team.\n\nHappy shopping!\n\nBest regards,\n\nThe XYZ Team"
+    },
+    "spam": {
+        "subject": "Your Crypto Wallet Has Been Suspended - Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet has been suspended due to suspicious activity. To restore access, you must verify your account within 24 hours. Failure to comply will result in permanent account closure.\n\nPlease click the link below to verify your details:\n<URL>\n\nYour security is our priority. If you suspect any unauthorized activity, contact us immediately.\n\nThank you for your prompt attention.\n\nRegards,\nSupport Team\n\nNote: This is an automated message. Do not reply to this email."
+    }
+}

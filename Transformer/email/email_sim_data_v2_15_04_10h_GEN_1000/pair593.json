@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs. 12,000 Debit from Your Account",
+        "body": "Dear Customer,\n\nA transaction of Rs.12,000 has been debited from your savings account ending 1234 on 15-Apr-2026.\n\nIf you did not authorize this transaction, please contact us immediately by visiting <URL> or calling 1800-XXX-XXXX.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Has Been Suspended – Verify Now",
+        "body": "Hi [Name],\n\nThis is a notice from Binance India Security Team. Due to suspicious activity, your wallet address 0xABC123 has been temporarily suspended.\n\nTo restore access and avoid permanent lock, please verify your identity by clicking <URL> within the next 24 hours.\n\nFailure to act will result in permanent suspension of the wallet and potential loss of funds.\n\nIf you have any questions, contact support at <URL>.\n\nRegards,\nBinance India Security"
+    }
+}

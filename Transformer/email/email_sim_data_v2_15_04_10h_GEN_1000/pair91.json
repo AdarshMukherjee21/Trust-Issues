@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Flight AB1234",
+        "body": "Dear Mr. Sharma,\n\nThank you for booking with Air India. Your flight itinerary is confirmed. Please find details below.\n\nPassenger: Mr. Rajesh Sharma\nBooking Reference: AI123456\nFlight: Air India AB1234\nDeparture: New Delhi (DEL) - 10:30 AM, 12th May 2024\nArrival: Mumbai (BOM) - 12:45 PM, 12th May 2024\nGate: 3B\nSeat: 12A\n\nPlease arrive at the airport at least 2 hours before departure. For check‑in, you can use our online portal at <URL> or the Air India mobile app.\n\nIf you have any changes to your itinerary or need assistance, contact our 24/7 support at +91-123-456-7890 or email support@airindia.com.\n\nThank you for choosing Air India. We look forward to serving you.\n\nBest regards,\nAir India Customer Support"
+    },
+    "spam": {
+        "subject": "URGENT: Your FedEx Shipment #FDX987654 - Immediate Payment Required",
+        "body": "Dear Customer,\n\nWe regret to inform you that your FedEx shipment with tracking number FDX987654 has been delayed due to a missed delivery. As per our records, a delivery fee of INR 2,500 is now due to cover the cost of holding the package.\n\nTo avoid cancellation of your shipment, please complete the payment within the next 24 hours. Failure to pay may result in the package being returned to the sender or a permanent removal from our system.\n\nClick <URL> to log in to your FedEx account and submit the payment. Please ensure you use the correct tracking number FDX987654.\n\nIf you have any questions, call our customer support at +91-987-654-3210 or reply to this email.\n\nThank you for your cooperation.\n\nRegards,\nFedEx India Customer Service"
+    }
+}

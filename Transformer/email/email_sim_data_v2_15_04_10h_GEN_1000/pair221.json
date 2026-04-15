@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #1234567890 has been confirmed",
+        "body": "Hi [Name],\n\nApka Amazon order #1234567890 confirm ho gaya hai. Yeh items ab aapke cart me hain:\n\n• 1x Wireless Mouse – ₹799\n• 2x USB‑C Cable – ₹199 each\n\nEstimated delivery: 3-5 working days.\n\nAap order status ko Amazon app ya website par track kar sakte hain.\n\nThank you for shopping with us.\n\nBest regards,\nAmazon India Team"
+    },
+    "spam": {
+        "subject": "Urgent: You’ve Been Invited to a Zoom Meeting – Immediate Action Required",
+        "body": "Dear [Name],\n\nPlease be advised that you have been invited to a confidential Zoom meeting scheduled for tomorrow 10:00 AM IST. This meeting is mandatory as it involves critical updates regarding your account. Failure to attend may result in suspension of your privileges.\n\nMeeting ID: 123-456-7890\nPassword: abc123\n\nTo join, click here: <URL>\n\nIf you did not request this meeting, please contact our support immediately.\n\nRegards,\nZoom Support Team"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS subscription renewal notice – action required",
+        "body": "Hello [Name],\n\nWe hope you are enjoying AcmeCloud services. This is a reminder that your subscription plan is set to expire on 20th April 2026. To continue uninterrupted access, please renew your subscription within the next 5 days.\n\nClick here to renew: <URL>.\n\nDhanyavaad for choosing AcmeCloud.\n\nBest regards,\nAcmeCloud Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate action required from CEO",
+        "body": "Dear [Name],\n\nI am [CEO_NAME], CEO of XYZ Pvt Ltd. I noticed that your account has a pending balance of ₹10,000. To avoid any service disruption, I need you to redeem a gift card worth ₹12,000 immediately.\n\nPlease click the link below to complete the transaction:\n\n<URL>\n\nThank you for your prompt action.\n\nRegards,\n[CEO_NAME]"
+    }
+}

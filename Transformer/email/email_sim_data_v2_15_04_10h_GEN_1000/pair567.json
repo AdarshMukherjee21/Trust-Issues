@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – Oct 5th",
+        "body": "Dear Students,\n\nThis is a friendly reminder that the final semester project submissions are due on **October 5th, 2024**. Please ensure that your project report and source code files are uploaded to the LMS by 11:59 PM on the due date.\n\n**Submission Guidelines**\n- File format: PDF for the report, ZIP for the code.\n- Include a brief README with build instructions.\n- Attach a project presentation (optional but encouraged).\n\nIf you have any questions or need clarification on the requirements, feel free to reach out to me or the teaching assistants before the deadline.\n\nThank you for your hard work and dedication. Looking forward to reviewing your projects!\n\nBest regards,\nProf. R. K. Sharma\nDepartment of Computer Science\n\nP.S. Please confirm receipt of this email by replying \"Got it\" so that I know everyone is aware."
+    },
+    "spam": {
+        "subject": "Important: Your Zoom Meeting Invite – Immediate Action Required",
+        "body": "Hello,\n\nThis is the IT Support Team from the University. We have detected that your Zoom account has not yet confirmed the latest security update required for the upcoming **Project Submission Review** meeting on **Wednesday, Oct 3rd at 3:00 PM**.\n\n**Action Required** – Click the link below to verify your account and join the meeting:\n\n<URL>\n\nIf you do not verify your account within 24 hours, your Zoom access will be temporarily suspended and you will miss the review session. This measure is in place to protect your personal data and ensure compliance with university policies.\n\nThank you for your prompt attention.\n\nRegards,\nIT Support – University Zoom Admin"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account Subscription Renewal Confirmation",
+        "body": "Hello Jane,\n\nThank you for being a part of our community. Your subscription to Acme SaaS Pro plan will renew on 30 September 2024. Your account will be charged $49.99 on that date. If you wish to modify or cancel your subscription, please click <URL> or contact support.\n\nWe appreciate your continued support.\n\nBest regards,\nAcme SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice #QBI-987654 Payment Required",
+        "body": "Dear Valued QuickBooks Customer,\n\nWe are contacting you regarding Invoice #QBI-987654 dated 08/15/2024 for $1,234.56. This invoice is overdue and must be paid immediately. Failure to settle will result in suspension of your QuickBooks Online services.\n\nThis invoice covers both QuickBooks Online subscription and Norton Antivirus subscription. Please click <URL> to review your invoice and complete payment. If you have already paid, please ignore this notice.\n\nThank you,\nQuickBooks Support"
+    }
+}

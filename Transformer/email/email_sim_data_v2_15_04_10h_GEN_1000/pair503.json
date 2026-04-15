@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission - Due 5th May",
+        "body": "Dear Students,\n\nHope you are all doing well. This is a friendly reminder that the final semester project reports and presentation decks are due on 5th May, 2024. Please submit your PDF files through the Course Portal (link: <URL>) before the deadline. Late submissions will incur a penalty of 10% as per the course policy.\n\nIf you need any clarification, feel free to email me or drop by the office hours on Wednesday.\n\nBest regards,\nProf. R. Sharma\nDepartment of Computer Science"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Confirmation Required – Action Needed Within 48 Hours",
+        "body": "Hello,\n\nCongratulations! You have been selected for the prestigious National University Scholarship 2024. Your excellent scores and leadership skills have impressed our selection committee.\n\nTo secure the scholarship, you must submit the following documents within the next 48 hours:\n- Scan of your latest transcript\n- Bank account details\n- Signed declaration form\n\nClick here to upload your documents securely: <URL>\n\nPlease note that the scholarship disbursement will be processed only after verification. If you do not provide the required documents within the time frame, your application will be automatically cancelled.\n\nAct now to avoid any delay.\n\nRegards,\nDr. A. Mehta\nDirector, Scholarship Management\nNational University"
+    }
+}

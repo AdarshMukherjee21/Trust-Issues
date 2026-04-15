@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Order #12345678 has Shipped – Confirmation",
+        "body": "Hello John,\n\nThank you for shopping with us! Your order has shipped and is on its way.\n\nOrder Number: 12345678\nItems:\n- Widget A x2\n- Widget B x1\n\nShipping Address:\nJohn Doe\n123 Maple Street\nAnytown, CA 12345\n\nTracking Number: 1Z999AA10123456784\n\nYou can track your shipment at <URL>\n\nIf you have any questions, feel free to contact our support team.\n\nThank you for choosing Amazon!\n\nBest regards,\nAmazon Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Action Required – Missed Delivery Fee Notice",
+        "body": "Dear Customer"
+    }
+}

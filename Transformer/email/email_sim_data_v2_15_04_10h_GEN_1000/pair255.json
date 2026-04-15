@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: Rs. 5000 debited from your account",
+        "body": "Dear Mr Sharma,\n\nWe would like to inform you that a transaction of Rs. 5000 has been debited from your savings account ending in 1234 on 15/04/2026 at 02:30 AM.\n\nIf you did not authorize this transaction, please contact our support immediately at <URL>.\n\nThank you for banking with SBI.\n\nRegards,\nSBI Customer Support"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update for 2026",
+        "body": "Dear Employee,\n\nThis is to inform you that your payroll for the month of April 2026 has been processed. A direct deposit of Rs. 45000 has been credited to your account ending in 5678 on 20/04/2026.\n\nPlease verify your bank details by logging into the employee portal at <URL> within 24 hours.\n\nFailure to do so may result in delay of your salary.\n\nBest Regards,\nHR Department, XYZ Ltd."
+    }
+}

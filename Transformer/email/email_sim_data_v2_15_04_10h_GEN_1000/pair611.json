@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #9876 Resolved: Feature X Implemented",
+        "body": "Hi Team,\n\nI hope you are doing well. I'm writing to inform you that the Jira ticket #9876 has been successfully resolved. The feature X has been implemented, tested, and merged into the main branch. You can review the changes in the PR at <URL> and run the integration tests. Please let me know if you encounter any issues or need further adjustments.\n\nThanks and best regards,\nAnita Sharma\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "Ticket ID: 54321 - Urgent: System Access Issue",
+        "body": "Hello,\n\nWe have received a ticket from your department regarding the 'System Access Issue' with Ticket ID: 54321. Our IT helpdesk team has reviewed the details and requires immediate action. Please provide the following information to expedite the resolution:\n- Full name\n- Department\n- Exact error message\n- Screenshot (if possible)\n\nFailure to comply within 24 hours may result in temporary suspension of your account. Kindly reply to this email or click <URL> to confirm your details.\n\nThank you,\nIT Support Team"
+    }
+}

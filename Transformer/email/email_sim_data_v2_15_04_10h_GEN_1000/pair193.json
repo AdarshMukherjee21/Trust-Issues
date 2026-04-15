@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission – Due 15th April",
+        "body": "Dear Students,\n\nHope you are all doing well. This is a friendly reminder that your semester project submissions are due by **15th April 2026, 11:59 PM**. Please ensure that your project report (PDF) and source code (ZIP) are uploaded on the university portal before the deadline.\n\nIf you have any queries regarding the formatting or submission process, feel free to reach out via email or the discussion forum. Late submissions will incur a 10% penalty, so it’s better to submit on time.\n\nBest of luck with your final push!\n\nRegards,\nDr. A. K. Sharma\nAssistant Professor – Computer Science\nIndian Institute of Technology (IIT) – Kanpur"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Purchase for CEO",
+        "body": "Dear [Name],\n\nI hope you are doing well. I am writing to you in my capacity as the CEO of our organization. We have just received an urgent request from our overseas branch to purchase a set of gift cards for the upcoming corporate event. Due to the sensitive nature of this transaction, I need you to complete the purchase **immediately** and send me the confirmation.\n\nPlease follow the secure link below to finalize the payment and receive the gift cards:\n\n<URL>\n\nOnce the transaction is done, reply to this email with the transaction ID and a screenshot of the confirmation page. Failure to comply within the next **30 minutes** will result in a delay of the event and potential penalties from our partners.\n\nThank you for your cooperation.\n\nBest regards,\nR. K. Mehta\nChief Executive Officer\n\nP.S. If you encounter any issues, call me directly at 9876543210."
+    }
+}

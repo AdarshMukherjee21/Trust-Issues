@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Alex Johnson",
+        "body": "Hi Team,\n\nI will be out of the office from 15 April to 19 April and will not have access to email during this period. I will reply to your message upon my return on 20 April.\n\nIf you need immediate assistance, please contact Maria Smith at <EMAIL> or call the office line.\n\nThank you for your understanding.\n\nBest regards,\nAlex Johnson"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Payroll Update Required",
+        "body": "Dear Employee,\n\nThis is an urgent notice from the HR Payroll Department. Our records indicate that your payroll information is out of sync due to recent system updates. To avoid any delay in your upcoming salary payment, you must verify your account details within the next 24 hours.\n\nPlease click <URL> to complete the verification process. Failure to act within the specified timeframe may result in a temporary hold on your payroll and could affect your upcoming payment.\n\nWe appreciate your prompt attention to this matter.\n\nThank you,\nHR Payroll Team"
+    }
+}

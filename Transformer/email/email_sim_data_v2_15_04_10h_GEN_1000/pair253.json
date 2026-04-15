@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Top Deals – Grab the Best Offers Now!",
+        "body": "Hello Shopper,\n\nWelcome to this week's exclusive deals! We've curated a list of unbeatable offers from top brands across India.\n\n1. **Samsung Smartphones** – Up to 20% off on the latest Galaxy series.\n2. **Flipkart Fashion** – Flat ₹1500 off on orders above ₹5000.\n3. **Zomato** – Free delivery on your first 3 orders.\n4. **Amazon** – Buy 1 Get 1 Free on selected home appliances.\n\nDon't miss out! These offers are valid till **Sunday, 25 April 2026**.\n\nHappy Shopping!\n\nBest regards,\nThe Deals Team\n\n© 2026 ShopSmart Pvt. Ltd."
+    },
+    "spam": {
+        "subject": "URGENT: Your Crypto Wallet Suspended – Immediate Action Required",
+        "body": "Dear User,\n\nWe regret to inform you that your crypto wallet (Wallet ID: 0xabc123) has been temporarily suspended due to suspicious activity detected on your account. To prevent permanent lock and potential loss of funds, you must verify your identity within 24 hours.\n\nPlease click on the link below to complete the verification process:\n<URL>\n\nFailure to comply will result in the permanent freezing of your wallet and the forfeiture of all holdings.\n\nIf you have any questions, contact our support team immediately.\n\nRegards,\nCoinSecure Support Team\n\n© 2026 CoinSecure Ltd."
+    }
+}

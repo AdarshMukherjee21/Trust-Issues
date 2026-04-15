@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Back on July 15",
+        "body": "Hi Team,\n\nI will be out of the office from July 10 to July 15 and will not have access to email.\nIf you need assistance during this period, please contact John Doe at john.doe@example.com.\n\nThank you,\nAlex Smith\n"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required on Your IT Account",
+        "body": "Dear Employee,\n\nOur automated security system has detected suspicious activity on your corporate account. To protect your personal data and prevent potential financial loss, we require you to verify your credentials within the next 24 hours.\n\nPlease open the attached ticket and confirm your username, employee ID, and the last four digits of your social security number. Failure to comply may result in temporary suspension of your account and loss of access to critical business resources.\n\nThank you for your prompt attention.\n\nIT Support Team\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – Final Check",
+        "body": "Namaste,\n\nThis is a friendly reminder that your semester project titled 'Smart Traffic Light Control System' is due on 30th September 2026. Please ensure that all documentation, code, and the final report are uploaded to the portal before the deadline. You can access the portal here: <URL>\n\nIf you have any questions, feel free to contact me.\n\nBest Regards,\nDr. Anil Sharma\nCourse Coordinator"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Application Verification Required – Action Needed",
+        "body": "Dear Student,\n\nI am Ravi Kumar, the head of the Scholarship Office at XYZ University. We have reviewed your application for the International Excellence Scholarship. However, to complete the verification process, we require additional documents. Please click on the link below and submit the required files within 48 hours to secure your scholarship. Failure to comply may result in forfeiture of the award.\n\n<URL>\n\nThank you for your prompt attention.\n\nSincerely,\nRavi Kumar\nHead of Scholarship Office\nXYZ University"
+    }
+}

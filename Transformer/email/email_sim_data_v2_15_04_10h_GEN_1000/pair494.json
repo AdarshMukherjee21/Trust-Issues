@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – Week 9",
+        "body": "Hi Professor Smith,\n\nJust a friendly reminder that our semester project is due next Monday, September 23rd. I have attached the latest draft for your review. Please let me know if you need any additional information.\n\nThank you for your guidance.\n\nBest regards,\nAlex Johnson"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Microsoft 365 Password is Expiring",
+        "body": "Dear [Name],\n\nMicrosoft Security Team has detected that your Microsoft 365 password will expire in 24 hours. To avoid disruption, please reset your password immediately by following the link below.\n\n<URL>\n\nIf you do not reset within 24 hours, your account will be disabled.\n\nThank you for your prompt attention.\n\nSincerely,\nMicrosoft Security Team"
+    }
+}

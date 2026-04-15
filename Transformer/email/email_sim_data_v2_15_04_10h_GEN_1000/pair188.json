@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Acme SaaS Subscription Renewal Notice",
+        "body": "Dear Valued Customer,\n\nThank you for choosing Acme SaaS for your business needs. We are writing to inform you that your current subscription plan will renew automatically on 15-May-2026.\n\n• Plan: Premium Pro\n• Next Invoice Amount: $129.99\n• Billing Cycle: Monthly\n\nIf you wish to upgrade, downgrade, or cancel your subscription, please log into your account at <URL> and update your preferences. Otherwise, your subscription will continue as is.\n\nShould you have any questions or require assistance, feel free to reply to this email or contact our support team at support@acme-saas.com.\n\nThank you for your continued trust in Acme SaaS.\n\nBest regards,\nThe Acme SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Zoom Meeting is Scheduled – Please Join Immediately",
+        "body": "Hello Team,\n\nThis is a reminder that a Microsoft Teams meeting has been scheduled for 10:00 AM UTC on 20-Apr-2026. The meeting is critical for the upcoming product launch and requires your attendance.\n\nMeeting ID: 123-456-789\nPasscode: 987654\n\nTo join the meeting, please click the link below:\n<URL>\n\nIf you do not join within 15 minutes, the system will automatically lock the session. Please ensure you are prepared with all necessary documents.\n\nThank you for your prompt attention to this matter.\n\nBest,\nJohn Doe\nProduct Operations"
+    }
+}

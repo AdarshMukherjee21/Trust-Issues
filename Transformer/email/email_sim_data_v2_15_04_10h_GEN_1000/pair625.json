@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Company Leave Policy Update – Please Review",
+        "body": "Hi Team,\n\nI hope you are all doing well. We have updated the company leave policy effective from 1st May 2024. Please find the key changes below:\n\n1. Annual leave entitlement increased by 2 days for all employees.\n2. Introduction of a flexible leave option for remote workers.\n3. Updated procedure for requesting emergency leave.\n4. Clarification on carry‑over limits for unused leave.\n\nPlease review the attached policy document and confirm receipt by replying to this email. If you have any questions or need clarification, feel free to reach out to HR.\n\nThank you for your attention.\n\nRegards,\nHR Team"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Payroll Update Required – Action Needed",
+        "body": "Dear [Employee Name],\n\nKripya dhyan dein! Humari payroll team ne notice kiya hai ki aapki recent salary deduction pending hai due to incomplete bank details. As per company policy, aapko apni bank account information verify karni hogi within the next 48 hours to avoid delay in your upcoming salary. \n\nPlease click the link below to confirm your bank details:\n<URL>\n\nIf you do not update by the deadline, a delay in your salary payout may occur. This is a mandatory step for all employees. We appreciate your prompt action.\n\nThank you,\nHR Payroll Department"
+    }
+}

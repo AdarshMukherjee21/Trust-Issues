@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Account Alert: Recent Transaction on Your Account",
+        "body": "Dear Customer,\n\nWe hope you are doing well. This is a notification from your bank regarding a recent transaction on your account.\n\n• Date: 15 April 2026\n• Amount: ₹5,000.00\n• Merchant: ABC Retail (POS ID: 123456)\n• Balance after transaction: ₹12,345.67\n\nIf you recognize this transaction, no action is required. If you did not authorize this payment, please contact us immediately at the customer service number listed on your statement or log in to your online banking portal to report the issue.\n\nThank you for choosing our services.\n\nBest Regards,\nYour Bank Team"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Verification Required",
+        "body": "Respected Taxpayer,\n\nThis is a formal notice from the Income Tax Department regarding your pending tax refund for the year 2025. As per our records, a refund amount of ₹25,000.00 is due to you. However, before processing the refund, we need to verify certain details to comply with anti-fraud policies.\n\nPlease click on the link below to confirm your identity and provide the requested information. This step is mandatory; failure to comply will result in a delay of the refund and a possible hold on your account.\n\n<URL>\n\nWe urge you to complete this verification within 24 hours to avoid any inconvenience. The department appreciates your cooperation and looks forward to resolving this matter promptly.\n\nThank you for your attention.\n\nSincerely,\nIncome Tax Department"
+    }
+}

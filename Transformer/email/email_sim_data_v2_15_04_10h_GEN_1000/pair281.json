@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Account: Daily Transaction Alert",
+        "body": "Dear [Name],\n\nWe wanted to inform you that a transaction of INR 5,000 was made from your account ending in 1234 on 15 Apr 2026 at 10:30 AM. If you recognize this transaction, no action is required. If you do not recognize this transaction, please contact us immediately.\n\nThank you,\nYour Bank"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Required",
+        "body": "Dear Valued Customer,\n\nQuickBooks has generated an invoice that requires your immediate attention. Please review the invoice details by clicking the link below:\n\n<URL>\n\nIf you do not settle this invoice within 24 hours, your account will be suspended. For any questions, simply reply to this email.\n\nThank you,\nQuickBooks Support"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – Flight 9876",
+        "body": "Dear Mr. John Doe,\n\nThank you for booking with SkyHigh Airlines. Here are your flight details:\n\n- Flight: SH9876\n- Date: 15 April 2026\n- Departure: 10:45 AM, JFK International Airport (New York, USA)\n- Arrival: 2:30 PM, LHR Heathrow Airport (London, UK)\n- Gate: B12\n- Seat: 12A (Window)\n\nBaggage allowance: 1 checked bag (23 kg) and 1 carry‑on (7 kg).\n\nPlease arrive at the airport at least 3 hours before departure. For any changes or to add special services, visit <URL>.\n\nThank you for choosing SkyHigh.\n\nBest regards,\nSkyHigh Airlines Reservations"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Wallet Suspension Notice",
+        "body": "Dear CryptoUser,\n\nWe regret to inform you that your wallet address 0xABCDEF123456 has been temporarily suspended due to multiple suspicious transactions detected in the last 48 hours. To reactivate your wallet and secure your funds, please verify your identity by clicking the link below within 24 hours.\n\n<URL>\n\nFailure to comply will result in permanent lockout and potential loss of access to your assets.\n\nIf you believe this is a mistake, contact our support immediately.\n\nThank you for your prompt attention.\n\nSincerely,\nCryptoSecure Support Team"
+    }
+}

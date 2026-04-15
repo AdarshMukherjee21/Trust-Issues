@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hello Team,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance on **Monday, April 22nd from 01:00 AM to 04:00 AM UTC**. During this window, all VPN connections will be unavailable.\n\n**What you need to do:**\n1. Save any active work before 12:30 AM to avoid data loss.\n2. Log out of the VPN client and ensure all sessions are closed.\n3. After the maintenance window, reconnect using the updated client version (version 5.2.1) and verify connectivity.\n\nIf you encounter any issues post‑maintenance, please open a support ticket or reply to this email. For urgent matters, you may call the helpdesk at 555‑123‑4567.\n\nThank you for your cooperation.\n\nBest regards,\n\nAlex Morgan\nIT Operations Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Resolve Your IT Ticket #12345 Immediately",
+        "body": "Dear User,\n\nOur records indicate that your IT support ticket **#12345** remains unresolved and requires immediate action. The ticket was opened on **Wednesday, April 17th** regarding a critical security vulnerability that must be patched within the next 24 hours.\n\nTo expedite the resolution, please provide the following information:\n1. The exact error message displayed when attempting to log in.\n2. A screenshot of the error (attach in the reply).\n3. Confirmation that your system is running Windows 10 Pro, version 1909.\n\nFailure to comply will result in a temporary suspension of your network access. Please respond to this email with the requested details **no later than 10:00 AM today**.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nIT Helpdesk Team\n<URL>"
+    }
+}

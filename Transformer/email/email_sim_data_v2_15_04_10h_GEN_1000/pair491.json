@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved – Pull Request Merged",
+        "body": "Hi Team,\n\nJust a quick update on the Jira ticket #12345. The code changes discussed in the last stand‑up have been merged into the main branch and the pull request has been approved.\n\nKey points:\n- The feature flag has been enabled for the staging environment.\n- All unit tests are passing (24 tests, 100% coverage).\n- Documentation has been updated in Confluence.\n\nPlease review the merge and let me know if there are any blockers or if the feature can be promoted to production.\n\nThanks,\nRahul\n\n---\nRahul Sharma\nSoftware Engineer\nAcme Corp\nPhone: +91-9876543210\n"
+    },
+    "spam": {
+        "subject": "URGENT: Payroll Update Required – Immediate Action Needed",
+        "body": "Dear Employee,\n\nThis is an important notice from the HR & Payroll department. During our recent audit, we identified a discrepancy in your payroll details for the current month. To ensure you receive your salary on time, we urgently need you to verify your bank account information.\n\nPlease follow the secure link below to confirm your details:\n<URL>\n\n**NOTE:** This verification is mandatory and must be completed within 24 hours. Failure to do so may result in a delay in your salary payment.\n\nIf you have already updated your details, please disregard this email. For any questions, contact the HR helpdesk at hrhelp@acmecorp.in.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nHR & Payroll Team\nAcme Corp\nPhone: +91-8001234567"
+    }
+}

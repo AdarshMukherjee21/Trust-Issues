@@ -1,0 +1,7 @@
+Error: 1 validation error for EmailPair
+spam
+  Field required [type=missing, input_value={'ham': {'subject': 'Week...m; their post got 450'}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+
+Prompt History:
+None

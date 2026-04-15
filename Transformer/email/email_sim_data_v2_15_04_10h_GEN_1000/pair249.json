@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: INR 5,000 at XYZ Store on 15th April 2026",
+        "body": "Hello,\n\nWe noticed a recent transaction of INR 5,000 at XYZ Store on 15th April 2026. If this was not authorized by you, please contact us immediately at 1800-XXXX.\n\nThank you,\nYour Bank Team"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required - Gift Card Request",
+        "body": "Dear Valued Team,\n\nThis is CEO Rajesh Kumar. We have an urgent requirement for a gift card worth INR 2,00,000 to be sent to our partner in Mumbai. Please process this request by filling the form at <URL> and confirm by 5:00 PM today. Failure to comply will affect our project deadline.\n\nRegards,\nRajesh Kumar\nChief Executive Officer"
+    }
+}

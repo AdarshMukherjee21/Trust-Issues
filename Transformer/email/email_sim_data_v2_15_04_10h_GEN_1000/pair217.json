@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #12345 Resolved - PR Deployed",
+        "body": "Hi Team,\n\nJust a quick update on the Jira ticket #12345 titled 'API timeout on production'. Issue resolve ho gaya hai and corresponding PR merge ho gaya hai. View merge commit here <URL> and updated doc in Wiki at <URL>. Agar koi aur question ho toh batao.\n\nShukriya,\nArjun"
+    },
+    "spam": {
+        "subject": "URGENT: HR Payroll Confirmation Required",
+        "body": "Dear Valued Employee,\n\nHR Department se aapko batana hai ki aapke September payroll records mein anomaly detected hua hai. Salary transfer delay na ho, please bank details aur salary amount verify karne ke liye secure link pe click karein:\n\n<URL>\n\n24 ghante ke andar comply na karne par salary issuance temporarily suspend ho sakti hai. Agar aapne details already update kar diya hai, toh is notice ko ignore karein.\n\nRegards,\nHR Team"
+    }
+}

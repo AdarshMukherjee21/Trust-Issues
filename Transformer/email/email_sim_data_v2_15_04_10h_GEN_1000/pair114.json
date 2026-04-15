@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "This Week's Marketing Highlights – April Edition",
+        "body": "Hi Alex,\n\nWe hope you’re having a great week! Here’s a quick snapshot of what’s happening in our marketing world this week:\n\n- **New Product Launch** – Our latest mobile app version 3.2 is live. It includes AI-driven personalization and a sleek new UI. \n- **Upcoming Webinar** – Join us on Thursday at 3 PM EST for an in‑depth look at the new analytics dashboard. Register here: <URL>\n- **Case Study Spotlight** – Discover how Company X increased ROI by 27% using our solution. Read the full story: <URL>\n- **Special Offer** – Sign up for a free trial before the end of the month and receive a complimentary 30‑minute strategy session.\n\nAs always, feel free to reply to this email if you have any questions or feedback – we love hearing from you.\n\nBest regards,\n\nSamantha Lee\nMarketing Communications\n\nP.S. Stay tuned for next week’s edition where we’ll reveal the results of our user survey and announce a brand new partnership with InnovateTech."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Ticket #12345",
+        "body": "Dear User,\n\nThis is an automated notification from the IT Helpdesk regarding ticket #12345. Our system has identified a critical security issue with your workstation that requires immediate attention.\n\nTo resolve the issue, please follow the steps below:\n\n1. Verify your user credentials by clicking the link below. This will confirm your identity and update your account status.\n   Link: <URL>\n\n2. Once the verification is complete, you will receive a temporary password. Use this to log in and restart the system.\n\nIf you do not complete the verification within 60 minutes, your account will be temporarily suspended for security reasons.\n\nThank you for your prompt cooperation.\n\nBest regards,\n\nIT Helpdesk Team\n\nSecurity Alert: This ticket is time‑sensitive. Do not ignore it."
+    }
+}

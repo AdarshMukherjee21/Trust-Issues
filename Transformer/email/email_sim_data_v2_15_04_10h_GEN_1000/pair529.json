@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your flight itinerary with Airway Express - Confirmation",
+        "body": "Dear Passenger,\n\nThank you for booking with Airway Express. Your flight details are confirmed as follows:\n\nFlight: AE1234\nDate: 20th September 2026\nDeparture: New Delhi (DEL) at 10:45 AM\nArrival: Mumbai (BOM) at 12:15 PM\nSeat: 12A, Economy Class\nGate: 5\n\nBooking Reference: AE-987654321\n\nPlease arrive at the airport at least 2 hours before departure. For any changes or cancellations, visit <URL>.\n\nWe wish you a pleasant journey.\n\nRegards,\nAirway Express Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: Microsoft 365 Password Expiry Notice",
+        "body": "Dear Microsoft 365 User,\n\nWe have detected that your account password is set to expire within 48 hours. To avoid interruption in your services, please verify and change your password immediately.\n\nClick on the following link to proceed: <URL>\n\nIf you do not update your password by 30th September 2026, your account access will be blocked.\n\nFor assistance, contact Microsoft Support at <URL>.\n\nThank you for your prompt attention.\n\nBest Regards,\nMicrosoft 365 Security Team"
+    }
+}

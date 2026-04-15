@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCRM Subscription Renewal – Action Required",
+        "body": "Dear Customer,\n\nWe hope you’re enjoying the full capabilities of AcmeCRM. This is a friendly reminder that your current subscription plan, \"Professional,\" will expire on 15 May 2026. To keep uninterrupted access, please renew by 15 May 2026. The renewal fee is $199.99 per month.\n\nIf you wish to change your plan or pause billing, simply visit <URL>.\n\nThank you for being a valued customer.\n\nBest regards,\nAcmeCRM Support Team\nAcmeCRM, Inc.\nsupport@acmecrm.com"
+    },
+    "spam": {
+        "subject": "URGENT: FedEx Delivery Fee Not Paid – Immediate Action Required",
+        "body": "Dear FedEx Customer,\n\nThis is FedEx Customer Service. Our records show that your package (Tracking #123456789) was scheduled for delivery on 10 April 2026 but was not delivered due to a missing delivery fee. A delivery fee of $25.00 remains outstanding.\n\nIf you do not pay the fee within 48 hours, the package will be returned to the sender and you may incur additional charges. Please complete the payment immediately by visiting <URL> and entering your FedEx account details.\n\nIf you believe this notice is incorrect, contact FedEx Customer Support at 1-800-225-5325.\n\nThank you,\nFedEx Customer Service Team"
+    }
+}

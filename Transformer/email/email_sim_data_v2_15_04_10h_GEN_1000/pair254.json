@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Acme Widgets: Your Weekly Newsletter – April 15th Edition",
+        "body": "Hello Valued Customer,\n\nWe hope you’re enjoying your recent Acme Widgets purchase! As part of our commitment to keep you informed, here’s what’s new in this week’s edition:\n\n• **Product Spotlight:** The all-new Acme UltraGrip™ – a revolutionary tool for precision work.\n• **Customer Success Story:** How Jane Doe from Springfield used Acme UltraGrip to double her workshop productivity.\n• **Upcoming Webinar:** \"Innovations in Tooling\" – April 22, 2024, 3:00 PM EST. Register here: <URL>\n• **Special Offer:** Use promo code WEEKLY10 at checkout to receive 10% off any Acme product until April 30.\n\nThank you for being part of the Acme family. If you have any questions, feel free to reply to this email or contact our support team.\n\nBest regards,\n\nAcme Widgets Marketing Team\n\nAcme Widgets\n123 Innovation Way\nTech City, CA 94000\nPhone: (800) 555‑1234\nWebsite: <URL>"
+    },
+    "spam": {
+        "subject": "Urgent: Unpaid Delivery Fee – Immediate Action Required",
+        "body": "Dear Customer,\n\nThis is an automated notice from FedEx/DHL regarding a missed delivery fee for your recent shipment (Tracking #FD123456789). The fee of $45.00 has not been paid and remains outstanding.\n\nIf the fee is not paid within 24 hours, your shipment will be permanently held and your account will be suspended. Failure to resolve this matter promptly may result in additional penalties and legal action.\n\nTo settle the fee immediately, please click the link below and complete the payment at the secure portal.\n\nPayment Link: <URL>\n\nThank you for your urgent attention to this matter.\n\nSincerely,\n\nFedEx/DHL Customer Service\nCustomer Support Hotline: 1‑800‑123‑4567"
+    }
+}

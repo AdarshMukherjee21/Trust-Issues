@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Dear Students,\n\nHope you are doing well. This is a gentle reminder that the deadline for the semester project submission is fast approaching. Please remember to upload your final report on the Student Portal by 23:59 on Friday, 18th October. Ensure that your document is in PDF format and does not exceed 5 MB.\n\nIf you have any questions or need clarification about the guidelines, feel free to reach out to the Course Coordinator, Ms. Riya Sharma, at riyasharma@university.edu.\n\nBest of luck with your final touches!\n\nRegards,\nAcademic Affairs Office"
+    },
+    "spam": {
+        "subject": "Urgent: Payroll Update Required – Immediate Action Needed",
+        "body": "Hi [Name],\n\nThis is an important notice from the HR & Payroll Department. Our records indicate that there is a discrepancy in your bank details that needs to be resolved within the next 24 hours to ensure timely salary credit. Failure to update may result in a delay of your payment.\n\nPlease click <URL> to verify and update your banking information as soon as possible. The link will take you to a secure portal where you can enter your details.\n\nThank you for your immediate attention to this matter.\n\nBest regards,\nHR & Payroll\nCompany Name"
+    }
+}

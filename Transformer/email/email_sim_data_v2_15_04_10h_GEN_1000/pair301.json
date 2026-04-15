@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Due Tomorrow",
+        "body": "Hey Team,\n\nJust a friendly reminder that the semester project for CS301 is due tomorrow, 31st March 2026 at 11:59 PM. Please ensure you upload your final report to the portal and submit the presentation slides.\n\nAgar koi doubt ho ya help chahiye, feel free to drop me a message.\n\nThanks,\nProf. Anil Gupta\nCourse Coordinator"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Approval Pending – Immediate Action Required",
+        "body": "Dear [Student Name],\n\nI am Dr. R. Sharma, the Principal Officer of the International Scholarship Office at XYZ University. Our records indicate that your application for the 2025 Merit Scholarship has been approved. However, to finalize the grant, we require a small processing fee of INR 8,000. Kindly transfer the amount at the earliest to secure your scholarship.\n\nPlease click the link below to proceed:\n\n<URL>\n\nFailure to complete the payment within 48 hours will result in cancellation of your scholarship award.\n\nBest Regards,\nDr. R. Sharma\nPrincipal Officer – Scholarship Office\nXYZ University"
+    }
+}

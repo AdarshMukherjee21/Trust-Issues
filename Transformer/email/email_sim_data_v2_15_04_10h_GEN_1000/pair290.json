@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Account Alert: Recent Transaction",
+        "body": "Hello [Customer Name],\n\nWe have detected a recent transaction on your account ending in 1234 for $1,200.00 on 15 April 2026. This was a purchase at \"Acme Electronics\" via our online banking portal.\n\nIf you authorized this transaction, no further action is required. If you did not authorize this payment, please contact our Customer Support immediately at 1-800-123-4567 or reply to this email.\n\nThank you for banking with us.\n\nBest regards,\nCustomer Support Team\nXYZ Bank\n"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required for Gift Card Purchase",
+        "body": "Dear [Employee Name],\n\nI hope this message finds you well. Due to a recent audit of our corporate gift policy, I need your immediate assistance in procuring a $500 gift card for the upcoming client appreciation event.\n\nPlease use the following secure link to complete the purchase: <URL>\n\nOnce the card is purchased, forward the confirmation receipt to my inbox and CC me at ceo@company.com. This is a time-sensitive request – we must have the gift card before Friday, 18 April 2026, to meet the client’s deadline.\n\nFailure to comply may result in a delay to the event and potential loss of client goodwill. I appreciate your prompt attention to this matter.\n\nThank you,\n\nJohn Doe\nChief Executive Officer\nCompany Inc.\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal Notice – Action Required",
+        "body": "Hi Ravi,\n\nAapke SaaS subscription 15 May 2026 ko renew hone wala hai. Agar aap continue karna chahte hain, koi action nahi lena. Agar cancel karna hai, renewal se pehle cancel kare.\n\nVisit <URL> to manage your subscription.\n\nThank you for being a valued customer.\n\nBest regards,\nCustomer Success Team"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Refund Pending – Immediate Action Required",
+        "body": "Dear Mr. Sharma"
+    }
+}

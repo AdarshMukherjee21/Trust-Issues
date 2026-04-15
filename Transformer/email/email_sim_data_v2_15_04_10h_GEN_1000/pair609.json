@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Hello Team,\n\nThis is to inform you that the corporate VPN will undergo scheduled maintenance on 25th May 2026 from 10:00 AM to 12:00 PM IST.\n\nDuring this window the VPN will be unavailable. Please ensure you log off from all VPN sessions before 10:00 AM and plan your work accordingly.\n\nIf you face any connectivity issues post maintenance, contact IT support at it-support@company.com.\n\nThank you for your cooperation.\n\nRegards,\nIT Operations Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your FedEx Delivery Fee is Pending",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent FedEx shipment (Track #123456789) could not be delivered on the scheduled date. To avoid further delay, a missed delivery fee of ₹500 must be paid immediately.\n\nPlease click the link below and complete the payment to expedite the delivery:\n<URL>\n\nThis fee will be applied within 24 hours. Failure to pay may result in the shipment being returned to sender.\n\nThank you for your prompt attention.\n\nBest Regards,\nFedEx Customer Support"
+    }
+}

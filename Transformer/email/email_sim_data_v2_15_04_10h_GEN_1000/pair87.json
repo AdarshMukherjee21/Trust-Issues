@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Dear Students,\n\nI hope you are doing well. This is a gentle reminder that the deadline for the semester project submission is fast approaching. Please ensure that your final reports are completed and submitted through the portal by 15th May 2026 at 11:59 PM.\n\nKey points to remember:\n- Include all required sections as per the guidelines.\n- Double‑check formatting and citations.\n- Upload the PDF version only; no Word or other formats.\n\nIf you have any questions or need clarification on the requirements, feel free to reach out to me or my TA. Let’s work together to make sure everyone submits on time.\n\nBest regards,\nProf. Ananya Sharma\nDepartment of Computer Science\nUniversity of Delhi"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Overdue - Immediate Action Required",
+        "body": "Dear Valued Customer,\n\nWe hope you are enjoying the benefits of QuickBooks. However, our records show that an invoice for your subscription has remained unpaid for over 30 days. Please review the invoice and complete the payment immediately to avoid interruption of services.\n\n🔔 Urgent Notice:\n- Invoice Number: QB-2026-0001\n- Amount Due: $129.99\n- Due Date: 10th May 2026\n\nTo secure your account, kindly visit <URL> or use the secure payment link provided in the attached PDF. If you have already made the payment, please ignore this notice.\n\nFor any assistance, call our support line at 1-800-123-4567 or reply to this email. Failure to act within 48 hours may result in suspension of your QuickBooks account.\n\nThank you for your prompt attention.\n\nSincerely,\nQuickBooks Billing Team"
+    }
+}

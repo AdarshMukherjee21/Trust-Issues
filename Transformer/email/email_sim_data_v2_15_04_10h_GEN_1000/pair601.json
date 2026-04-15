@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline Approaching",
+        "body": "Hi [Name],\n\nJust a quick reminder that the semester project submission deadline is on 5th December. Please make sure to upload your report and project files on the university portal before the deadline.\n\nIf you have any questions or need an extension, let me know.\n\nThanks,\n[Professor Name]"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Income Tax Refund Verification",
+        "body": "Dear Taxpayer,\n\nYour income tax refund of INR 125,000 is pending. To release the refund, you must verify your bank account details at <URL>.\n\nPlease complete the verification within 48 hours. Failure to do so may result in withholding of your refund.\n\nThank you for your prompt action.\n\nRegards,\nIncome Tax Department"
+    }
+}

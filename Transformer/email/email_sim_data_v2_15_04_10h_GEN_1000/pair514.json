@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your AcmeCloud Subscription Renewal Notice – Action Required",
+        "body": "Dear Jane Doe,\n\nWe hope you are enjoying the features of AcmeCloud. This is a reminder that your subscription will automatically renew on 15 May 2026. To continue uninterrupted service, please review your renewal details and confirm your payment method by clicking the link below.\n\n<URL>\n\nIf you have any questions, contact our support team at support@acmec.com.\n\nThank you for choosing AcmeCloud.\n\nBest regards,\nAcmeCloud Billing Team"
+    },
+    "spam": {
+        "subject": "URGENT: Scholarship Award Confirmation Required – Immediate Action Needed",
+        "body": "Dear John Smith,\n\nCongratulations! Your application for the Global Scholars Scholarship has been selected. To secure your award of $5,000, please verify your personal details and submit the required documents by 10 April 2026.\n\nPlease click the link below to complete the verification process:\n<URL>\n\nFailure to complete this step will result in forfeiture of the scholarship.\n\nSincerely,\nOffice of Student Financial Aid\nUniversity of Excellence"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Re: Project X Status – Out of Office",
+        "body": "Hi Team,\n\nThanks for the update on Project X. I will be out of office from 22nd March to 5th April and will not have access to my email during this period.\n\nFor any urgent matters, please reach out to Rahul at rahul@example.com or call +91-9876543210.\n\nI will get back to you as soon as I return.\n\nBest regards,\nAditi"
+    },
+    "spam": {
+        "subject": "Urgent: Account Locked – Immediate Action Required",
+        "body": "Dear Employee,\n\nOur system has flagged suspicious activity on your corporate account. As a security measure, your account has been temporarily locked.\n\nTo unlock your account, please verify your identity by clicking the link below and entering your employee ID and password:\n\n<URL>\n\nIf you do not verify within 15 minutes, your account will be permanently disabled. For assistance, contact the IT Helpdesk at support@example.com.\n\nRegards,\nIT Helpdesk Team\nTicket ID: 3421"
+    }
+}

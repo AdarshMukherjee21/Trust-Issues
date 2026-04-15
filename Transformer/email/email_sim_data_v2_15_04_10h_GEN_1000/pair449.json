@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #1234 Resolved: Feature X Implemented Successfully",
+        "body": "Hi Team,\n\nI am pleased to inform you that the Jira ticket #1234 has been resolved. The Feature X has been successfully implemented and merged into the main branch on GitHub. I have performed all required unit tests and the integration tests passed with zero failures.\n\nKey points:\n- Updated the React component to use the new API endpoint.\n- Added comprehensive test coverage for the new logic.\n- Updated the documentation in the repo to reflect the changes.\n\nYou can review the changes here: <URL>\n\nPlease let me know if there are any additional edge cases or if you need any further adjustments.\n\nThanks,\nArun\n\n---\nProject Lead, Backend Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Confirmation - Immediate Action Required",
+        "body": "Dear Student,\n\nWe are excited to inform you that you have been shortlisted for the prestigious ‘Global Scholars 2026’ scholarship offered by the International University of Excellence. Congratulations!\n\nTo secure your spot and complete the award process, please provide the following documents and details at the earliest:\n- Scanned copy of your passport\n- Proof of academic transcripts\n- Bank account details for scholarship disbursement\n\nClick the link below to verify your application and upload the required documents:\n<URL>\n\nPlease note that failure to complete the verification within 48 hours will result in the forfeiture of your scholarship offer.\n\nThank you for your prompt attention to this matter.\n\nBest Regards,\nAdmissions Office\nInternational University of Excellence"
+    }
+}

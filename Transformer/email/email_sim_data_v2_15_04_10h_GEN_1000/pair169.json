@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Returning 24th June",
+        "body": "Hi Team,\n\nThank you for your email. I am currently out of the office and will not return until 24th June. I will have limited access to my emails during this period.\n\nFor urgent matters, please contact Priya at priyab@company.com or call 9876543210.\n\nThank you for your understanding.\n\nBest regards,\nRahul\n"
+    },
+    "spam": {
+        "subject": "Exclusive Scholarship Opportunity – Immediate Action Required!",
+        "body": "Dear Student,\n\nGreetings from the XYZ University Scholarship Office. We are delighted to inform you that you have been shortlisted for an exclusive scholarship award of INR 50,000, which covers your tuition fees for the next academic year.\n\nTo finalize your scholarship, we require a small processing fee of INR 5,000 to cover administrative costs. Please submit the payment at <URL> within 48 hours to secure your place.\n\nFailure to comply may result in the withdrawal of your scholarship offer. This is a time-sensitive offer, so act now!\n\nFor any queries, contact our scholarship officer at scholarship@xyzuniversity.edu.\n\nSincerely,\n\nArun Kumar\nHead of Scholarships\nXYZ University\n"
+    }
+}

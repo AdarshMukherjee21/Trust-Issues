@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update: Company Leave Policy Effective from May 1, 2024",
+        "body": "Dear Team,\n\nI hope this message finds you well.\n\nPlease be advised that the Company Leave Policy will be updated and will take effect on May 1, 2024. The key changes include:\n\n• 1 additional paid day per quarter for senior management.\n• Consolidated sick leave limits to a maximum of 10 days per calendar year.\n• Introduction of a flexible leave request form available through the internal portal.\n\nAll employees are encouraged to review the full policy document attached to this email. If you have any questions or require clarification, kindly contact the HR department by replying to this message or using the dedicated HR chat line.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nRachel Thompson\nHR Manager"
+    },
+    "spam": {
+        "subject": "Urgent: Your Income Tax Refund is Pending – Verify Now",
+        "body": "Dear Taxpayer,\n\nThe Income Tax Department has detected a pending refund in your account for the fiscal year 2023-24. To process the refund, we require immediate verification of your personal details.\n\nPlease click the secure link below to confirm your information and avoid any potential delay or penalty:\n\n<URL>\n\nFailure to verify within 48 hours may result in the forfeiture of your refund and could trigger a review of your tax compliance status. This is a mandatory compliance step mandated by the Department.\n\nThank you for your prompt attention.\n\nSincerely,\n\nArun Patel\nTax Compliance Officer\nIncome Tax Department"
+    }
+}

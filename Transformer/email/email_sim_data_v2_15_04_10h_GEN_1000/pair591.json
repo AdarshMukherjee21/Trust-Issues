@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Renewal Notice: Your SaaS Subscription Expires in 3 Days",
+        "body": "Hello User,\n\nWe hope you’re enjoying the benefits of our SaaS platform. This is a friendly reminder that your subscription (ID: 123456) will expire in 3 days on 2026-04-18. To continue uninterrupted service, please renew your plan before the expiration date.\n\nClick <URL> to review your current plan and make payment.\n\nIf you have any questions, feel free to reply to this email or contact our support team at support@example.com.\n\nThank you for choosing us.\n\nBest regards,\nThe SaaS Team"
+    },
+    "spam": {
+        "subject": "Urgent: Your Crypto Wallet Suspended – Verify Now!",
+        "body": "Dear User,\n\nThis is a notification from CryptoSecure Wallet regarding your account. Due to recent suspicious activity, your wallet has been temporarily suspended to protect your funds. To restore access, you must verify your identity within 24 hours. Failure to do so may result in permanent lockout and loss of funds.\n\nPlease click <URL> and follow the instructions to verify your account.\n\nIf you believe this is a mistake, contact our support at support@cryptosecure.com immediately.\n\nThank you,\nCryptoSecure Support Team"
+    }
+}

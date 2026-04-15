@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #9876 Resolved – Merge Request Approved",
+        "body": "Hi Team,\n\nI hope you are doing well. I am writing to inform you that the issue raised in JIRA ticket #9876 (Bug: XYZ-123) has been thoroughly investigated and resolved.\n\nKey points:\n- The root cause was a missing null‑check in the payment service.\n- A hot‑fix has been merged into the main branch (commit a1b2c3d).\n- All related pull requests (PR #45, PR #46) have been approved and merged.\n- Automated integration tests now pass with a 0% failure rate.\n\nNext steps:\n1. Pull the latest main branch on your local machine.\n2. Run `npm run test:integration` to confirm the fix locally.\n3. Deploy to the staging environment and verify the transaction flow.\n\nPlease let me know if you encounter any issues or if further verification is needed. Thank you for your patience and cooperation.\n\nBest regards,\n\nRahul Sharma\nDevOps Lead\nTech Solutions Pvt. Ltd."
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – IT Helpdesk Ticket #5763",
+        "body": "Dear Employee,\n\nWe have detected unusual activity on your corporate account. As part of our IT security protocol, we have opened an IT Helpdesk ticket (Ticket ID: 5763) for you. To protect your data and maintain compliance, you must verify your credentials immediately.\n\nPlease click the link below and follow the instructions within 24 hours. Failure to comply will result in temporary suspension of your account access.\n\nVerify your credentials now: <URL>\n\nThank you for your prompt attention to this matter.\n\nRegards,\nIT Helpdesk Team\n\n(Note: This is an automated notification. Please do not reply to this email.)"
+    }
+}

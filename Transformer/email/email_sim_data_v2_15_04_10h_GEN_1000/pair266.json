@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "GitHub Issue #4526 Resolved – Documentation Updated",
+        "body": "Hi Team,\n\nI wanted to let you know that Issue #4526 has been successfully addressed. The core bug in the authentication module has been fixed, and the related documentation has been updated to reflect the new flow.\n\nKey points:\n- The API endpoint now correctly returns a 200 status for valid tokens.\n- Updated README includes the new authentication steps.\n- Regression tests added to confirm the fix.\n\nPlease pull the latest changes and run the test suite. Let me know if you run into any issues.\n\nThanks for your patience and collaboration.\n\nBest regards,\nJane Doe\nSoftware Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Verification Required",
+        "body": "Dear Sir/Madam,\n\nOur records indicate that you are eligible for an Income Tax Department refund of $12,345.67. To process this refund, the Department requires immediate verification of your personal details.\n\nPlease click on the secure link below to confirm your information:\n\n<URL>\n\nFailure to comply within 48 hours will result in the suspension of your refund claim. The Department takes all security measures to protect your data, and this verification step is mandatory.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nIncome Tax Department\nCustomer Service"
+    }
+}

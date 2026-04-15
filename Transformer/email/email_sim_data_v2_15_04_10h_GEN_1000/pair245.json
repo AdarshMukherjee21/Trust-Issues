@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: ₹5,000 debited from your account",
+        "body": "Dear Customer,\n\nA transaction of ₹5,000 was debited from your account ending 1234 on 15/04/2026 at 10:45 AM.\nTransaction ID: 9876543210.\n\nYadi aapne yeh transaction nahi kiya, turant humse sampark karein.\n\nThank you,\nXYZ Bank"
+    },
+    "spam": {
+        "subject": "Important: Income Tax Refund Pending – Verify Now",
+        "body": "Dear Sir/Madam,\n\nWe are pleased to inform you that the Income Tax Department has identified a pending refund of ₹XX,XXX.00 for the financial year 2024-25. To process the refund, we require your bank account details for direct transfer. Kripya apni bank details verify karein at <URL> within 48 hours to avoid cancellation of the refund.\n\nYadi aap action nahi dete, refund forfeited ho jayega. For any queries, contact the Income Tax Helpline at 1800-XYZ-1234.\n\nThank you for your cooperation.\n\nRegards,\nIncome Tax Department"
+    }
+}

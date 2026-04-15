@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Vacation Leave (04/15-04/22)",
+        "body": "Hi Team,\n\nI wanted to let you know that I will be out of the office from Monday, April 15th until Monday, April 22nd. I will have limited access to email during this time.\n\nFor any urgent matters, please contact Sarah Thompson (sarah.thompson@example.com) or the support desk at support@example.com.\n\nThank you for your understanding.\n\nBest regards,\nAlex\n"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – CEO Approval Needed",
+        "body": "Dear [Recipient Name],\n\nI hope this message finds you well. This is a time‑sensitive request that requires your immediate attention. Our CEO, Mr. Jonathan Reyes, has authorized a special corporate gift card initiative to recognize outstanding performance across the organization.\n\nTo proceed, please review the attached summary and confirm your approval by clicking the link below:\n\n<URL>\n\nPlease note that failure to approve within the next 24 hours may result in delayed distribution of the gift cards, and could affect the scheduled recognition event on May 3rd.\n\nThank you for your prompt cooperation.\n\nBest regards,\nMaria Lopez\nCorporate Affairs\n"
+    }
+}

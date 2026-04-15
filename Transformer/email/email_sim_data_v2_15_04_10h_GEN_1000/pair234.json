@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary for Upcoming Trip",
+        "body": "Hello John,\n\nI hope you are doing well. Please find below the details for your upcoming business trip:\n\n- Destination: New York City\n- Flight: AA 1234\n- Departure: 15th May 2026, 08:00 AM (JFK)\n- Arrival: 15th May 2026, 11:00 AM (JFK)\n- Return: 20th May 2026, 05:30 PM (LAX)\n- Hotel: The Ritz-Carlton, Los Angeles\n\nIf you have any changes or need assistance with travel arrangements, feel free to let me know.\n\nThank you and safe travels!\n\nBest regards,\nEmily Smith\nTravel Coordinator\n\n---\nTravel Team\n"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Payroll Update",
+        "body": "Dear John,\n\nThis is an urgent notification from the Human Resources Department regarding your recent payroll processing. During our routine audit, we identified a discrepancy in your latest paycheck which requires immediate correction.\n\nTo resolve this issue and ensure that your next salary is processed on time, please verify your banking details by clicking the link below:\n\n<URL>\n\nIf you do not update your information by the end of the business day, your future payments may be delayed. Failure to comply may also result in a review of your employment status.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nMichael Johnson\nHR Manager\n\nHR Department\nCompany Inc.\n"
+    }
+}

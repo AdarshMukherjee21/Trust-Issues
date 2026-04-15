@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Transaction Alert: $250.00 Debited from Your Account",
+        "body": "Dear John Doe,\n\nWe wish to inform you that a debit of $250.00 was made from your checking account (Account #123456789) on 15 April 2026 at 3:45 PM. The transaction was for a purchase at \"ABC Electronics\".\n\nIf you did not authorize this transaction, please contact our customer support immediately at <URL> or call 1-800-123-4567.\n\nThank you for banking with us.\n\nSincerely,\nBank Support Team"
+    },
+    "spam": {
+        "subject": "Congratulations! You Have Been Awarded a $10,000 Scholarship!",
+        "body": "Dear Jane Smith,\n\nWe are delighted to inform you that you have been selected as a recipient of the prestigious XYZ University Scholarship Fund. Your academic achievements and community service have impressed our selection committee.\n\nTo claim your scholarship, please verify your personal information by clicking the secure link below:\n\n<URL>\n\nPlease complete the verification within 48 hours to secure your award. Failure to do so may result in forfeiture of the scholarship.\n\nBest regards,\nOffice of Financial Aid\nXYZ University"
+    }
+}

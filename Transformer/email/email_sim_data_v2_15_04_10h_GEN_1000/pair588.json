@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket #98765 Resolved: Feature Merge Completed",
+        "body": "Hi Team,\n\nI wanted to let you know that JIRA ticket #98765, which was tracking the merge of the new authentication module into the main branch, has been successfully resolved and merged.\n\nKey points:\n- The merge was completed on 2026-04-12 at 14:32 UTC.\n- Automated tests passed with 100% coverage.\n- The deployment to staging is scheduled for 2026-04-13 09:00 UTC.\n\nPlease review the changes in the repository at <URL> and update your local branches accordingly.\n\nThanks for your collaboration on this! If you encounter any issues during deployment, let me know.\n\nBest,\nAlex Johnson\nSoftware Engineer\nAcme Corp\nalex.johnson@acme.com"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #12345 - Immediate Action Required",
+        "body": "Dear Valued User,\n\nWe have detected a critical issue with your workstation that requires immediate attention. Our monitoring tools have flagged an unauthorized process running under your account, which could compromise sensitive data.\n\nTo resolve this, please follow the steps below:\n\n1. Open the IT Helpdesk portal at <URL>.\n2. Log in with your corporate credentials.\n3. Navigate to the \"Ticket #12345\" section.\n4. Click \"Update Ticket\" and add the following details:\n   - Issue: Unauthorized process detected\n   - Severity: High\n   - Workstation ID: WS-00123\n5. Attach any relevant screenshots and click \"Submit\".\n\nFailure to comply within 24 hours may result in temporary suspension of system access. We appreciate your prompt cooperation.\n\nThank you,\n\nIT Support Team\nAcme Corp\nsupport@acme.com"
+    }
+}

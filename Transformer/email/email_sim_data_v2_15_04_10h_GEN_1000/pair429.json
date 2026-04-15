@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline",
+        "body": "Dear Students,\n\nJust a friendly reminder that the deadline for submitting your semester project is fast approaching. Please ensure that your final report, code repository, and presentation slides are uploaded to the portal by **Friday, 10th May 2026** at 11:59 PM.\n\nIf you have any questions or need assistance, feel free to reach out. Kisi bhi query ke liye, let me know.\n\nBest regards,\nProfessor Sharma\nDepartment of Computer Science\nUniversity of Delhi"
+    },
+    "spam": {
+        "subject": "Urgent: Your Zoom Meeting Invite – Action Required",
+        "body": "Dear Team"
+    }
+}

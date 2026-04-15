@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation - Booking #123456",
+        "body": "Hi Raj,\n\nThank you for booking with Air India. Here are your flight details:\n\n• Flight: AI-123\n• Date: 15 May 2026\n• Departure: 10:15 AM from Delhi (DLH) – Gate 22\n• Arrival: 12:45 PM at Mumbai (BOM)\n• Seat: 12B (Aisle)\n• Baggage: 1 checked (23 kg) + 1 carry‑on (7 kg)\n\nCheck‑in opens 3 hours before departure. Use the QR code below to skip the lines.\n\nFor any changes or assistance, call us at +91‑11‑12345678 or email support@airindia.com.\n\nSafe travels!\n\nBest regards,\nAir India Customer Service"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice Payment Reminder",
+        "body": "Dear Valued Customer,\n\nWe hope you are well. Our records show that your QuickBooks invoice (Invoice #QB987654) for the period 01/04/2026 – 30/04/2026 is still outstanding. Please note that QuickBooks requires timely payments to keep your account active.\n\nKripya is link par click karke payment complete karein: <URL>\n\nIf payment is not received within 5 business days, your QuickBooks account will be suspended, and you may lose access to your financial data. This is a mandatory security measure to protect your business.\n\nShould you have already made the payment, kindly ignore this notice. For any queries, contact QuickBooks Support at +1‑800‑123‑4567 or reply to this email.\n\nThank you for your prompt attention.\n\nBest regards,\nQuickBooks Support Team"
+    }
+}

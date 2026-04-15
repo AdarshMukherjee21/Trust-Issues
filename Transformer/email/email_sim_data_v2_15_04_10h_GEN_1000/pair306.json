@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Downtime Notice",
+        "body": "Hello Team,\n\nPlease be advised that our corporate VPN servers will undergo routine maintenance on Friday, 15th June from 01:00 AM to 04:00 AM GMT. During this window, VPN access may be temporarily unavailable. We recommend planning your remote work accordingly.\n\nIf you experience any connectivity issues outside of this maintenance period, please contact IT Support at support@company.com.\n\nThank you for your cooperation.\n\nBest regards,\nIT Operations"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: Your Payroll Information Updated",
+        "body": "Dear Employee,\n\nOur records indicate that your payroll information was recently updated by the HR department. To ensure uninterrupted salary processing, please confirm the accuracy of the new details by visiting the secure portal within the next 48 hours.\n\nFailure to verify these details may result in a temporary suspension of your payroll account, affecting future payments.\n\nClick the link below to review and confirm your information:\n<URL>\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nHuman Resources Team\nHR Department"
+    }
+}

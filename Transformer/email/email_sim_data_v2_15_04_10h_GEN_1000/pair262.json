@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – Action Required",
+        "body": "Dear Team,\n\nThis is to inform you that the corporate VPN will undergo scheduled maintenance on Tuesday, 12 May 2026 between 02:00 AM and 04:00 AM UTC. During this period, external remote access will be unavailable. Please plan accordingly and finish any critical tasks before the window.\n\nIf you have any questions or need assistance, contact IT Support at <URL>.\n\nThank you for your cooperation.\n\nBest regards,\nAlex Johnson\nIT Operations"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Direct – Gift Card Processing Needed",
+        "body": "Dear [Name],\n\nThis is Michael Smith, Executive Assistant to CEO John Doe. As part of the new incentive program, the CEO has authorized the distribution of prepaid gift cards to all eligible employees. To ensure you receive your card on time, I need you to confirm the following details immediately:\n\n- Full legal name\n- Tax ID\n- Billing address\n- Preferred card delivery method\n\nPlease reply to this email by the end of the day with the requested information and a scanned copy of your government‑issued ID. <URL> If you do not comply within 24 hours, your bonus will be delayed.\n\nThank you for your cooperation.\n\nSincerely,\nMichael Smith\nExecutive Assistant"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Upcoming Flight Itinerary – Confirmation and Details",
+        "body": "Dear Alex Johnson,\n\nThank you for booking with SkyHigh Airlines. We are pleased to confirm your flight itinerary:\n\n• Flight: SH1234\n• Date: 15 June 2026\n• Departure: 08:45 AM from JFK International Airport (New York)\n• Arrival: 11:15 AM at LAX (Los Angeles)\n• Class: Business\n• Seat: 12A (Aisle)\n• Baggage: 1 carry‑on + 2 checked bags (up to 23 kg each)\n\nPlease arrive at the departure gate at least 45 minutes before departure. Your boarding pass is attached to this email in PDF format. If you need to change any details or have special requests (dietary, wheelchair assistance, etc.), reply to this email or call our customer service at 1‑800‑SKYHIGH.\n\nWe look forward to serving you and wish you a pleasant journey.\n\nBest regards,\n\nSkyHigh Airlines\nCustomer Relations\nsupport@skyhigh.com\n1‑800‑SKYHIGH"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Your Crypto Wallet Suspended",
+        "body": "Dear Valued User,\n\nOur security team has detected unusual activity on your CryptoWallet account (ID: 987654321). As a precaution, we have temporarily suspended all transactions to protect your assets.\n\nTo restore full access, you must verify your identity within the next 24 hours. Failure to do so may result in permanent account suspension.\n\nPlease click the link below to complete the verification process:\n\n<URL>\n\nIf you do not verify within the allotted time, your wallet will remain locked and you will lose the ability to withdraw funds.\n\nWe apologize for any inconvenience and thank you for your prompt attention to this matter.\n\nSincerely,\n\nCryptoExchange Support Team\nSecurity Operations\nsupport@cryptoexchange.com"
+    }
+}

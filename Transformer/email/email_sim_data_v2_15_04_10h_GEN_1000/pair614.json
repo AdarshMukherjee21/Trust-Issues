@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345: Resolve Merge Conflict in Feature Branch",
+        "body": "Hi Team,\n\nI wanted to give you a quick update on the merge conflict that popped up in the feature-branch for the latest sprint. I have reviewed the changes from both branches and identified the conflicting lines in the `app/controllers/user_controller.rb` file.\n\nSteps I took:\n1. Ran `git fetch origin` to ensure I have the latest state.\n2. Checked out the `feature-branch` locally and executed `git merge origin/main`.\n3. Resolved the conflict by keeping the new validation logic and removing the old helper method.\n4. Ran `bundle exec rspec` and all tests passed.\n5. Pushed the resolved branch back to the repository with `git push origin feature-branch`.\n\nPlease review the changes in the PR linked below and let me know if any additional adjustments are needed.\n\nThanks,\n\nAlex\nProject Lead\n\n<URL>"
+    },
+    "spam": {
+        "subject": "Urgent: Immediate Action Required – Payroll Update",
+        "body": "Dear Employee,\n\nThis is an urgent notice from the Human Resources Department regarding a critical payroll update that requires your immediate attention.\n\nDue to recent changes in the tax regulations, we need to verify your banking details to ensure your salary is deposited correctly. Please click the link below to confirm your bank account information:\n\n<URL>\n\nFailure to confirm your details within 48 hours will result in a delay of your next paycheck and may trigger a temporary suspension of your payroll access. This step is mandatory to comply with the new federal payroll guidelines.\n\nIf you have already updated your information, you can safely ignore this message. Otherwise, act now to avoid any disruption.\n\nThank you for your prompt cooperation.\n\nBest regards,\n\nHR Compliance Team\n\n---\nPlease note: This email is only valid for the next 48 hours. Do not share this link with anyone else."
+    }
+}

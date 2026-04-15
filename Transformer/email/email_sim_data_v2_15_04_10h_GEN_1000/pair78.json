@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Flight Itinerary Confirmation – [Airline Name] Flight 1234",
+        "body": "Dear James,\n\nThank you for booking with [Airline Name]. Your flight itinerary is now confirmed. Please review the details below:\n\n• Flight: [Airline Name] 1234\n• Departure: 15th June 2024, 08:45 AM, Terminal 3, Gate 12\n• Arrival: 15th June 2024, 11:30 AM, Terminal 2\n• Seat: 12A (Window)\n• Baggage: 1 checked bag (up to 23kg) and 1 personal item\n\nPlease arrive at the airport at least 3 hours before departure and bring your passport and boarding pass.\n\nIf you need to change or cancel your booking, please visit our website or call our customer service at +1-800-555-1234.\n\nWe look forward to serving you.\n\nBest regards,\n\nCustomer Service Team\n[Airline Name]\n"
+    },
+    "spam": {
+        "subject": "Urgent: Income Tax Department Refund Awaiting Verification",
+        "body": "Dear Sir/Madam,\n\nWe are pleased to inform you that your 2023 Income Tax refund of INR 1,25,000 has been approved. To expedite the transfer, we require you to verify your bank account details by clicking the link below:\n\n<URL>\n\nPlease complete the verification within 48 hours. Failure to do so may result in a delay or forfeiture of your refund.\n\nThank you for your immediate attention to this matter.\n\nSincerely,\n\nIncome Tax Department\n[Signature]\n"
+    }
+}

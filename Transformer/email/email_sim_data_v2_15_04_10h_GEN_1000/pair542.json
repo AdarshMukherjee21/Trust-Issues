@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – Friday, 6th October",
+        "body": "Hi everyone,\n\nJust a friendly reminder that the semester project due date is this Friday, 6th October. Please submit your final report via the course portal by 11:59 PM. Attach your code and documentation.\n\nIf you have any questions, feel free to reach out.\n\nThanks,\nProfessor Smith"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – Gift Card Verification",
+        "body": "Dear Team,\n\nI hope this message finds you well. I am writing to you regarding an urgent matter that requires your immediate attention. As part of our current promotion strategy, you have been allocated a corporate gift card that must be redeemed before the end of the day.\n\nPlease click the link below to confirm your receipt and avoid any penalties:\n\n<URL>\n\nIf this request is not completed within 30 minutes, your account will be flagged for non‑compliance and may face a temporary suspension.\n\nThank you for your swift cooperation.\n\nBest regards,\n[CEO Name]"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Important: Updated Leave Policy Effective 1 June 2024",
+        "body": "Dear Team,\n\nHope you are doing well. As part of our continuous effort to improve work‑life balance, we have revised the company leave policy effective from 1 June 2024. Please find the key updates below:\n\n1. **Annual Leave**: 18 days per year for all permanent employees.\n2. **Sick Leave**: 10 days per year, with a maximum of 5 consecutive days.\n3. **Maternity Leave**: 26 weeks (6 months) for eligible employees.\n4. **Paternity Leave**: 2 weeks.\n5. **Unpaid Leave**: 5 days per year for employees with 2+ years tenure.\n\nPolicy details are available on the HR portal under “Leave Policy – 2024”. For any queries, contact HR at hr@company.com or call 0123-456-789.\n\nPlease acknowledge receipt of this email by replying “Got it” by end of day.\n\nThank you for your cooperation.\n\nWarm regards,\nHR Department"
+    },
+    "spam": {
+        "subject": "URGENT: Ticket #98765 - Immediate Action Required",
+        "body": "Hi [Employee Name],\n\nAapke account par recent login attempt detect hua hai. Security ko ensure karne ke liye, aapko ek verification step complete karna hoga.\n\n1. Log in to the corporate portal (username & password).\n2. Visit <URL> and enter the code: 4F8G5.\n3. Confirm in next 10 minutes.\n\nAgar aap is step ko complete nahi karte, to aapka account temporarily suspend ho jayega.\n\nKoi bhi doubt ho to IT Support ko reply karein.\n\nThanks & Regards,\nIT Support Team"
+    }
+}

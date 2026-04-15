@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Scheduled VPN Maintenance – 2026-04-20 02:00–04:00 UTC",
+        "body": "Dear Team,\n\nThis is a reminder that the corporate VPN will undergo maintenance on April 20, 2026 from 02:00 to 04:00 UTC. During this time, VPN access will be unavailable. Please plan your work accordingly.\n\nIf you experience any issues after the maintenance window, clear your VPN cache or restart the client.\n\nThank you for your cooperation.\n\nBest,\nNetwork Operations"
+    },
+    "spam": {
+        "subject": "Urgent: IT Helpdesk Ticket #12345 Requires Immediate Attention",
+        "body": "Hi [User Name],\n\nThe IT Helpdesk has generated a ticket for you: #12345. Our records show that your account was flagged for suspicious activity. Please verify your identity by clicking the link below to reset your password immediately. Failure to do so will result in account suspension.\n\n<URL>\n\nThank you for your cooperation.\n\nRegards,\nIT Support Team"
+    }
+}

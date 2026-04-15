@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Priya Sharma",
+        "body": "Hi everyone,\n\nI will be out of the office from 2nd May to 6th May, returning on 7th May. During this period, I will have limited access to email.\n\nFor any urgent matters, please reach out to my colleague Rahul Mehta at rmehta@example.com or call +91-9876543210.\n\nThank you for your understanding.\n\nBest regards,\nPriya"
+    },
+    "spam": {
+        "subject": "Urgent: Schedule Your Teams Meeting Today",
+        "body": "Hello,\n\nWe have scheduled an important Teams meeting to discuss the Q3 project deliverables. Please join the meeting at <URL> at 10:00 AM tomorrow.\n\nThis meeting is mandatory for all stakeholders. If you cannot attend, kindly let us know by replying to this email.\n\nThank you and looking forward to your participation.\n\nBest,\nProject Coordinator"
+    }
+}

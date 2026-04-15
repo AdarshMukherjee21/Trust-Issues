@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your SaaS Subscription Renewal – Action Required",
+        "body": "Hi Alex,\n\nWe hope you’re enjoying the full features of our SaaS platform. As part of our standard renewal process, your subscription is set to renew on June 30, 2026. Please review the following details:\n\n• Plan: Premium Enterprise\n• Billing Cycle: Annual\n• Renewal Amount: $1,200.00\n\nYou can confirm or modify your renewal preferences by logging into your account at <URL>.\n\nIf you have any questions or need assistance, feel free to reply to this email or contact our support team at support@example.com.\n\nThank you for choosing our services.\n\nBest regards,\n\nSaaS Support Team\nCustomer Success"
+    },
+    "spam": {
+        "subject": "Urgent: QuickBooks Invoice – Immediate Payment Required",
+        "body": "Dear Valued Customer,\n\nQuickBooks has generated a new invoice for your account that requires immediate attention. Failure to settle this invoice within 48 hours will result in account suspension and potential legal action.\n\nInvoice #: QB-INV-2026-045\nAmount Due: $3,750.00\nDue Date: 6/1/2026\n\nTo verify and secure payment, please click the link below and enter your QuickBooks credentials:\n<URL>\n\nOur billing department is on standby to assist you. If you have already processed this payment, please disregard this notice.\n\nThank you for your prompt cooperation.\n\nSincerely,\n\nQuickBooks Billing Team\nFinance Department"
+    }
+}

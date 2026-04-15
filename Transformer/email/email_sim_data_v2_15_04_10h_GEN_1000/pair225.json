@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Ticket ABC-1234 Resolved – Merge Request Approved",
+        "body": "Hi team,\n\nThe merge request for ticket ABC-1234 has been reviewed and approved. The changes have been merged into the main branch. You can find the commit here:\n<URL>\n\nKey updates:\n- Fixed null pointer exception in UserService.\n- Updated API documentation.\n\nPlease test in staging and let me know if any issues arise.\n\nThanks,\n[Your Name]"
+    },
+    "spam": {
+        "subject": "Immediate Action Required: IT Ticket #98765 – Password Reset",
+        "body": "Hello [Name],\n\nWe have detected an unauthorized login attempt on your corporate account. To secure your data, please follow the link below to reset your password immediately:\n<URL>\n\nIf you do not reset your password within 24 hours, your account will be temporarily locked for security reasons.\n\nThank you for your prompt attention.\n\nRegards,\nIT Support Team"
+    }
+}

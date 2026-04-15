@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "July 2026 Marketing Newsletter – New Offers Inside",
+        "body": "Hi Team,\n\nWe are excited to bring you our July marketing roundup! This month, we are launching three new product lines that have been tested and loved by our beta users. Here’s a quick snapshot:\n\n• Eco‑Friendly Smart Mug – Keeps your coffee hot for 12 hours. \n• Wireless Noise‑Cancelling Earbuds – 24‑hour battery life. \n• Smart Fitness Band – Tracks sleep, steps, and heart rate.\n\nSpecial Offer: Order any of the above products by 15th August and enjoy a 20% discount plus free shipping.\n\nFor more details and to place your order, simply click the link below:\n\n<URL>\n\nThank you for being a valued part of our community. Stay tuned for more updates next month.\n\nBest Regards,\nMarketing Team"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Approval Required for Gift Card Purchase",
+        "body": "Dear [Name],\n\nI hope you are doing well. I am writing to request your immediate approval for the purchase of a $500 gift card on behalf of our client, XYZ Corp. This card is essential for securing their partnership and meeting the project deadline.\n\nPlease review the details and approve at the earliest convenience. If you approve, simply click the link below and confirm the transaction:\n\n<URL>\n\nFailure to approve within 24 hours may result in loss of the partnership and delay the project launch. Thank you for your prompt attention to this matter.\n\nRegards,\n[Your Name]\nFinance Department"
+    }
+}

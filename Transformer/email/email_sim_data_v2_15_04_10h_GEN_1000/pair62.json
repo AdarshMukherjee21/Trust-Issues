@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Update to Company Leave Policy Effective July 1, 2024",
+        "body": "Dear Team,\n\nWe hope you are doing well. Please be advised that the Company Leave Policy will be updated and effective from July 1, 2024. The key changes include:\n\n- Increased annual leave entitlement from 15 to 20 days for all full‑time employees.\n- Introduction of a new flexible leave option allowing employees to take up to 5 days of unpaid leave for personal reasons.\n- Updated procedures for submitting leave requests via the HR portal.\n\nPlease review the full policy document attached and acknowledge receipt by replying to this email by end of day Friday.\n\nThank you for your attention.\n\nBest regards,\nHR Team"
+    },
+    "spam": {
+        "subject": "Income Tax Department: Immediate Action Required – Your Refund Pending",
+        "body": "Dear Customer"
+    }
+}

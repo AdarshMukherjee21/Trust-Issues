@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Reminder: Semester Project Submission Deadline – 15th September",
+        "body": "Dear Professor and Team,\n\nI hope you are doing well. This is a gentle reminder that our semester project submission is due on 15th September 2026. Please ensure that the final report and the presentation slides are submitted via the university portal by 11:59 PM on the deadline day.\n\nIf you have any questions or need clarification on the submission format, feel free to reach out. Thank you for your cooperation.\n\nBest regards,\n[Student Name]\n[Student ID]\n[Course Name]"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Action Required – FedEx Delivery Fee Notice",
+        "body": "Dear Customer,\n\nWe regret to inform you that your recent FedEx shipment (Tracking #123456789) has been held at the local depot due to an unpaid delivery fee. The package will be cancelled and returned to the sender if the fee is not settled within 48 hours. This will generate additional restocking charges.\n\nTo resolve this, please click <URL> and submit the payment through the secure FedEx portal. After payment, a confirmation email will be sent.\n\nIf you ignore this notice, your package will be permanently cancelled. Please verify your identity by providing the following details:\n- Full name\n- Order ID\n- Delivery address\n\nDo not reply to this email. For support, contact FedEx at <URL>.\n\nRegards,\nFedEx Delivery Team"
+    }
+}

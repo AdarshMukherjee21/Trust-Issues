@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Your Amazon Order #123456 has been confirmed",
+        "body": "Hello John,\n\nThank you for shopping with Amazon.\n\nYour order has been successfully placed.\n\nOrder ID: 123456\n\nItems:\n- Echo Dot (4th Gen) – $49.99\n- Amazon Basics AA Batteries (10-pack) – $9.99\n\nEstimated delivery: 3-5 business days.\n\nIf you have any questions or need to make changes to your order, please visit your account page or contact Amazon Customer Service.\n\nThank you for choosing Amazon!\n\nBest regards,\nAmazon.com Team"
+    },
+    "spam": {
+        "subject": "Urgent: Scholarship Application Requires Immediate Verification",
+        "body": "Dear Applicant,\n\nCongratulations! You have been selected as a finalist for the XYZ University Scholarship Program.\n\nTo claim your award, you must verify your personal information and provide the required documents within the next 48 hours.\n\nPlease click the link below to complete the verification process:\n<URL>\n\nFailure to comply will result in forfeiture of the scholarship. This is a mandatory step to secure your funding.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nOffice of Student Financial Aid\nXYZ University"
+    }
+}

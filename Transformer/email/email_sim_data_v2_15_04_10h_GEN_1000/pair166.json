@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Planned VPN Maintenance – May 10, 2026 (02:00–04:00 UTC)",
+        "body": "To: All Employees\n\nHello Team,\n\nThis is a reminder that the corporate VPN will undergo scheduled maintenance on **May 10, 2026** from **02:00 UTC to 04:00 UTC**. During this window, access to the VPN, remote desktop, and all cloud‑based services will be temporarily unavailable.\n\n**What to Expect**\n- All VPN connections will be dropped automatically.\n- Internet and intranet services will remain active.\n- No new employees will be added to the VPN roster during this period.\n\n**Preparation Steps**\n- Save any open work and log out of remote sessions before 02:00 UTC.\n- If you have critical tasks dependent on VPN access, please plan accordingly or use the on‑premise servers.\n\nIf you experience any issues after the maintenance window, contact IT Support at it-support@company.com or call extension 555‑1234.\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Operations Team\n"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Gift Card Payment Required for CEO Expenses",
+        "body": "From: John Doe <jdoe@company.com>\nTo: Finance Department\n\nHi Team,\n\nAs per the latest directives from our CEO, I need to expedite the payment of a corporate gift card for an upcoming client engagement. This is a top‑priority task, and we must act swiftly to avoid any delays.\n\n**Details**\n- Vendor: Executive Gifts Ltd.\n- Amount: $5,000\n- Purpose: Loyalty incentive for our key clients.\n\nPlease process the payment immediately and send me the gift card number and PIN by end of day. You can find the purchase order attached for reference: <URL>.\n\nIf you have any questions or encounter any issues, contact me directly at jdoe@company.com.\n\nThank you for your prompt attention to this matter.\n\nBest,\nJohn Doe\nChief Executive Officer\n"
+    }
+}

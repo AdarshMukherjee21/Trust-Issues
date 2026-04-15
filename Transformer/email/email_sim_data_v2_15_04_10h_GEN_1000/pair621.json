@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved - Code Review Done",
+        "body": "Hi Team,\n\nJust wanted to let you know that the Jira ticket #12345 for the login module has been resolved. The code review is complete and the changes have been merged into the develop branch. I have also updated the GitHub PR #6789 with the new commits.\n\nPlease pull the latest changes and run the tests locally. If you encounter any issues, let me know.\n\nThanks,\nRahul\n\n---\nProject Lead"
+    },
+    "spam": {
+        "subject": "URGENT: Immediate Gift Card Needed for CEO Approval",
+        "body": "Dear Mr. Sharma,\n\nI hope you are doing well. I am writing to inform you that the finance department has requested an urgent gift card to be sent to the CEO for the upcoming quarterly presentation. This is a mandatory requirement for the board meeting scheduled next week.\n\nPlease provide the gift card details (amount: ₹5,000) and confirm the delivery address as soon as possible. Failure to comply may result in a delay in the presentation and could affect the company’s reputation.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nAnkit Kumar\nFinance Officer"
+    }
+}

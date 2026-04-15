@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Jira Ticket #12345 Resolved – Update",
+        "body": "Hi Team,\n\nI wanted to let you know that the issue described in Jira ticket #12345 has been fully resolved. The root cause was a missing configuration in the deployment pipeline, and I have added the necessary environment variables and updated the CI/CD scripts to prevent this from happening again.\n\nKey actions taken:\n- Updated the `config.yml` with the correct values.\n- Added a validation step in the pipeline to catch missing variables.\n- Rolled out the changes to the staging environment and verified the deployment.\n\nPlease review the changes in the repository and let me know if anything else needs to be addressed.\n\nThanks,\n\nAlex Johnson\nDevOps Engineer"
+    },
+    "spam": {
+        "subject": "Urgent: FedEx Delivery Fee Payment Required",
+        "body": "Dear Valued Customer,\n\nWe regret to inform you that your package was not delivered by FedEx due to a missed delivery attempt. To avoid further delays and potential penalties, you must pay the missed delivery fee immediately.\n\nPlease follow the instructions below:\n1. Click the link to view your shipment details and payment options: <URL>\n2. Enter your FedEx account number and the tracking number provided.\n3. Complete the payment using a credit card or PayPal.\n\nFailure to process the payment within 48 hours will result in your account being suspended, and the package may be returned to sender at your expense.\n\nIf you believe this notice is in error, contact our support team right away.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nFedEx Customer Service"
+    }
+}

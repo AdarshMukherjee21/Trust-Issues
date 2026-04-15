@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Out of Office: Shukriya, I will reply soon",
+        "body": "Hi team,\n\nThanks for reaching out. I am currently out of the office traveling for the annual conference in Goa. I will be back on 15th June and will get back to you as soon as I am back.\n\nIn the meantime, for any urgent queries related to the project, please feel free to contact my colleague, Rajesh Kumar, at rajesh.kumar@example.com.\n\nThanks for your understanding.\n\nBest regards,\n\nSuman Patel"
+    },
+    "spam": {
+        "subject": "URGENT: CEO Gift Card Verification Needed",
+        "body": "Dear Suman,\n\nI hope you are doing well. I am writing to you under urgent circumstances. Our company’s CEO, Mr. Anil Kapoor, has requested immediate verification of a gift card that was recently sent to your department.\n\nPlease note that this is a top‑priority matter and the CEO has specifically asked for a confirmation email from you within the next 30 minutes. The gift card is a part of a company incentive program and any delay may result in a financial penalty.\n\nTo verify the gift card, simply click on the link below and complete the short form:\n<URL>\n\nOnce you have submitted the confirmation, please reply to this email with the confirmation number and a brief note that the card has been verified.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nRahul Mehta\nChief Operations Officer\nXYZ Ltd."
+    }
+}

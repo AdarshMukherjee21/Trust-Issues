@@ -1,0 +1,10 @@
+{
+    "ham": {
+        "subject": "Semester Project Submission Reminder – Deadline Approaching",
+        "body": "Namaste,\n\nThis is a gentle reminder that the deadline for the Semester Project submission is fast approaching. Please ensure that you have uploaded your final project report to the university portal by 31st March 2026.\n\nIf you have any queries regarding the submission format or if you need additional time due to unforeseen circumstances, kindly contact the project coordinator at least 48 hours before the deadline.\n\nThank you for your cooperation.\n\nBest regards,\n\nDr. Arjun Patel\nAssociate Professor, Computer Science Department\nUniversity of Delhi"
+    },
+    "spam": {
+        "subject": "Aapke Aaykar Refund ke liye Atkal Karwai Aavashyak - Aaykar Vibhag",
+        "body": "Dear Taxpayer,\n\nWe hope you are well. Our records indicate that you are eligible for a refund of INR 12,000 on your latest income tax return filed for the year 2024-25.\n\nTo process this refund, we require you to verify your personal details and bank account information. Please click on the secure link below to submit the required documents:\n\n<URL>\n\nPlease note that failure to provide the necessary information within 7 days will result in a delay of your refund and may attract penalties under the Income Tax Act.\n\nFor any assistance, call our Helpline at <PhoneNumber> and mention the reference code: IT2026-REFUND.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nSanjay Kumar\nAssistant Commissioner, Income Tax Department"
+    }
+}
