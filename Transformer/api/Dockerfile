@@ -15,7 +15,7 @@ COPY requirements.txt .
 # Install dependencies and download NLTK data in a SINGLE layer
 # We also explicitly delete the leftover NLTK .zip files to reclaim MBs of space
 RUN pip install --no-cache-dir -r requirements.txt && \
-    python -m nltk.downloader -d ${NLTK_DATA} punkt stopwords && \
+    python -m nltk.downloader -d ${NLTK_DATA} punkt punkt_tab stopwords &&  \
     find ${NLTK_DATA} -name "*.zip" -type f -delete
 
 # Copy your actual application code and model files
