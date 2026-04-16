@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+slowapi
+pydantic
+scikit-learn
+nltk
+beautifulsoup4
+numpy
