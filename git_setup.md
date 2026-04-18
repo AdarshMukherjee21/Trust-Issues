@@ -1,75 +1,54 @@
 
-### Part 1: Setting up the Alias
 
-Since you'll be updating your dashboard frequently for **Trust Issues**, this shortcut allows you to push to Vercel with one short command.
-
-Run this in your terminal:
+### Step 1: Create the Alias (Run this once)
+Open your terminal at the absolute root of your monorepo and run these commands. (Make sure you have already created the empty `Trust-Issues-backend` repo on GitHub and copied its URL).
 
 ```bash
-git config alias.deploy-dash "!git subtree push --prefix=trust-issues-dash vercel-remote main"
+# 1. Add the remote for Railway
+git remote add railway-remote https://github.com/yourusername/Trust-Issues-backend.git
 
+# 2. Create the shortcut alias (Notice the forward slash!)
+git config alias.deploy-api "!git subtree push --prefix=Transformer/api railway-remote main"
 ```
 
-**How to use it:**
-
-* To update your professor: `git push origin main`
-* To update Vercel: `git deploy-dash`
-
 ---
 
-### Part 2: Your `GIT_SETUP.md` Reference
+### Step 2: Your Custom `GIT_SETUP.md` Update
+Here is the exact troubleshooting and command block tailored for your specific folder structure. Update your master `GIT_SETUP.md` with this so you never have to memorize it:
 
-Copy the content below into a new file named `GIT_SETUP.md` in your project root. This explains exactly what we did and how to fix things if they break again.
-
----
-
-# 🛠 Trust Issues - Git Architecture Reference
-
-## The Setup
-
-This project uses a **Subtree** architecture. This allows us to keep the entire project (Mobile, AI, and Dashboard) in one "Monorepo" for college submissions, while syncing only the `trust-issues-dash` folder to a separate GitHub repo for **Vercel** hosting.
-
-### Remotes
-
-* `origin`: Points to the main project repo (The one for the Professor).
-* `vercel-remote`: Points to `Trust-Issues-web.git` (The one for Vercel).
-
----
-
+```markdown
 ## 🚀 Daily Workflow
 
 ### 1. Update Everything (Main Repo)
-
-Use this whenever you make changes to any part of the project (AI, Mobile, or Web).
-
+Use this whenever you make changes to *any* part of the project.
 ```bash
 git add .
 git commit -m "Your commit message"
 git push origin main
-
 ```
 
-### 2. Update the Live Site (Vercel)
-
-Use the shortcut we created to sync just the dashboard folder.
-
+### 2. Update the Live Dashboard (Vercel)
 ```bash
 git deploy-dash
+```
 
+### 3. Update the Live ML API (Railway)
+Syncs just the `Transformer/api` folder to the Railway repo.
+```bash
+git deploy-api
 ```
 
 ---
 
 ## ⚠️ Troubleshooting: The "Nested Git" Issue
 
-If the dashboard stops syncing or appears as an empty "grey folder" on GitHub, it means a hidden `.git` folder was accidentally created inside `trust-issues-dash`.
+If the API folder stops syncing or appears as an empty "grey folder" on GitHub, a hidden `.git` folder was accidentally created inside it.
 
-**The Fix:**
-
-1. **Delete the inner Git brain:** `rm -rf trust-issues-dash/.git`
-2. **Clear the cache:** `git rm -r --cached trust-issues-dash`
-3. **Re-add:** `git add trust-issues-dash`
-4. **Commit & Push:** `git commit -m "Fix nested git" && git push origin main`
+**The Fix for the API folder:**
+1. **Delete the inner Git brain:** `rm -rf Transformer/api/.git`
+2. **Clear the cache:** `git rm -r --cached Transformer/api`
+3. **Re-add:** `git add Transformer/api`
+4. **Commit & Push:** `git commit -m "Fix nested git in API" && git push origin main`
 
 ---
 
@@ -77,13 +56,5 @@ If the dashboard stops syncing or appears as an empty "grey folder" on GitHub, i
 
 | Goal | Command |
 | --- | --- |
-| **Add Vercel Remote** | `git remote add vercel-remote <url>` |
-| **Push Folder to Web** | `git subtree push --prefix=trust-issues-dash vercel-remote main` |
-| **Check Remotes** | `git remote -v` |
-
----
-
-### One final tip for Vercel:
-
-When you link the `Trust-Issues-web` repo in the Vercel dashboard, make sure the **Framework Preset** is set correctly (e.g., Next.js or Vite). Since the subtree push puts your dashboard files at the *root* of the new repo, you won't need to change any "Root Directory" settings in Vercel!
-
+| **Add Railway Remote** | `git remote add railway-remote <url>` |
+| **Push API to Railway**| `git subtree push --prefix=Transformer/api railway-remote main` |

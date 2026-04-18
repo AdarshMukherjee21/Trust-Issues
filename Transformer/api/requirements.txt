@@ -6,3 +6,5 @@ scikit-learn
 nltk
 beautifulsoup4
 numpy
+dspy-ai 
+python-dotenv
