@@ -2,6 +2,7 @@ import pickle
 import nltk
 import string
 import time
+import re
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 
@@ -30,9 +31,45 @@ class SMSPredictor:
             
         return " ".join(y)
 
+    def _is_whitelisted_utility(self, text: str) -> bool:
+        """
+        Heuristic Pre-filter: Catches standard OTPs and Bank Transactions 
+        before they hit the ML model to prevent false positives.
+        """
+        text_lower = text.lower()
+
+        # 1. Catch Standard OTPs
+        if "otp" in text_lower or "one time password" in text_lower or "verification code" in text_lower:
+            # If it's short (like a standard OTP text), it's safe.
+            if len(text) < 150 and not "http" in text_lower: 
+                return True
+
+        # 2. Catch Indian Banking Transaction Regex
+        bank_pattern = re.compile(r'(a/c|acct|account).*?(debited|credited|trf|transfer)', re.IGNORECASE)
+        if bank_pattern.search(text_lower):
+            # Ensure it doesn't have a suspicious link.
+            if not "http" in text_lower:
+                return True
+                
+        # 3. Catch specific trusted entities
+        if "sbi" in text_lower and "refno" in text_lower:
+            return True
+
+        return False
+
     def predict(self, text: str) -> dict:
         start_time = time.time()
         
+        # STEP 1: The Abstraction Layer (Whitelist Check)
+        if self._is_whitelisted_utility(text):
+            process_time = time.time() - start_time
+            return {
+                "prediction": "HAM",
+                "is_spam": False,
+                "processing_time_sec": round(process_time, 4)
+            }
+        
+        # STEP 2: ML Engine Fallback
         # Clean text
         transformed_message = self.transform_text(text)
         

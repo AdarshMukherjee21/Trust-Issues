@@ -184,8 +184,8 @@ class _TrustIssuesTestState extends State<TrustIssuesTest> {
       itemCount: messages.length,
       separatorBuilder: (context, index) => const SizedBox(height: 12),
       itemBuilder: (context, index) {
-        final category = classifyMessage(messages[index]);
-        return MessageTile(message: messages[index], category: category);
+       
+        return MessageTile(message: messages[index], apiKey: "Love_all_trust_a_few",);
       },
     );
   }

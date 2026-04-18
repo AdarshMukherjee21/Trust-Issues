@@ -1,5 +1,6 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
+
 import 'package:trust_issues_mob/pages/old_message_scan.dart';
 import 'package:trust_issues_mob/pages/sms_test.dart';
 
@@ -110,9 +111,12 @@ class AppSidebar extends StatelessWidget {
               icon: Icons.manage_search_rounded,
               label: "INBOX AUDIT",
               routeName: "old",
-              destination: const OldMessageScan(),
+              destination: const OldMessageScan(apiKey: "Love_all_trust_a_few",),
               activeColor: accentCrimson,
             ),
+                        const SizedBox(height: 8),
+
+        
 
             const Spacer(),
 
