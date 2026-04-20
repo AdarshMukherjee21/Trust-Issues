@@ -8,9 +8,9 @@ import random
 # ==========================================
 # 1. CONFIGURATION
 # ==========================================
-FIREBASE_CRED_PATH = "path/to/your/serviceAccountKey.json" # UPDATE THIS
+FIREBASE_CRED_PATH = "trust-issues-v1-firebase-adminsdk-fbsvc-dbb0590da2.json" # UPDATE THIS
 NEO4J_URI = "bolt://localhost:7687"
-NEO4J_AUTH = ("neo4j", "12345678")
+NEO4J_AUTH = ("neo4j", "trustissue")
 
 print("🌱 Booting up Database Seeder...")
 
