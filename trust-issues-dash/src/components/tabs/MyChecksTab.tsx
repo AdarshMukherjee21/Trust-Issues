@@ -130,7 +130,7 @@ export default function MyChecksTab({ uid }: { uid: string }) {
       await reportThreat({
         reporter_uid: uid,
         threat_text: threatText,
-        threat_type: selectedItem.prediction || "SPAM", // Ensure fallback
+        threat_type: selectedItem.detailed_spam_type || selectedItem.prediction || "SPAM", // Ensure fallback
         sender_contact: selectedItem.sender || "Unknown Sender",
         sender_platform: selectedItem._type
       });
@@ -387,7 +387,7 @@ export default function MyChecksTab({ uid }: { uid: string }) {
                     <span className="text-xs font-bold tracking-widest text-zinc-500 uppercase">Threat Status</span>
                     <div className="flex flex-wrap items-center gap-3">
                       <span className={`px-5 py-2.5 rounded-xl text-sm font-bold tracking-wide uppercase ${selectedItem.prediction === 'SPAM' || selectedItem.prediction === 'PHISHING' ? 'bg-red-500/10 text-red-500 border border-red-500/20 shadow-[0_0_15px_rgba(239,68,68,0.2)]' : 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20'}`}>
-                        {selectedItem.prediction}
+                        {selectedItem.detailed_spam_type || selectedItem.prediction}
                       </span>
                       {selectedItem.pushed_to_community && (
                         <span className="px-5 py-2.5 rounded-xl bg-purple-500/10 border border-purple-500/20 text-purple-400 text-sm font-bold flex items-center gap-2 shadow-[0_0_15px_rgba(168,85,247,0.2)]">

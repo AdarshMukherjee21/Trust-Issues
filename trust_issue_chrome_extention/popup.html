@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    /* Global Aesthetic */
+    body {
+      width: 340px;
+      min-height: 420px;
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #050505;
+      background-image: radial-gradient(circle at 50% -20%, rgba(11, 87, 208, 0.4) 0%, #050505 60%);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 28px 24px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+
+    /* The Frosted Glass Container */
+    .glass-panel {
+      width: 100%;
+      background: rgba(255, 255, 255, 0.03);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    /* Logo & Header */
+    .logo-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .logo-img {
+      width: 64px;
+      height: 64px;
+      border-radius: 12px;
+      margin-bottom: 12px;
+      object-fit: contain;
+      box-shadow: 0 0 20px rgba(0, 229, 255, 0.15);
+    }
+
+    h1 {
+      font-size: 18px;
+      font-weight: 800;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin: 0;
+      background: linear-gradient(90deg, #00E5FF, #3b82f6);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    p.subtitle {
+      font-size: 12px;
+      color: #a1a1aa;
+      margin: 4px 0 20px 0;
+      text-align: center;
+    }
+
+    /* Inputs */
+    input {
+      width: 100%;
+      background-color: rgba(0, 0, 0, 0.4);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 12px 14px;
+      margin-bottom: 12px;
+      font-size: 13px;
+      color: white;
+      transition: all 0.3s ease;
+    }
+
+    input:focus {
+      outline: none;
+      border-color: #00E5FF;
+      background-color: rgba(0, 0, 0, 0.6);
+      box-shadow: 0 0 12px rgba(0, 229, 255, 0.15);
+    }
+
+    input::placeholder { color: #52525b; }
+
+    /* Buttons */
+    button.primary-btn {
+      width: 100%;
+      background: linear-gradient(135deg, #0b57d0, #00E5FF);
+      color: #050505;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      padding: 12px;
+      border: none;
+      border-radius: 12px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-transform: uppercase;
+      box-shadow: 0 4px 15px rgba(11, 87, 208, 0.3);
+      margin-top: 4px;
+    }
+
+    button.primary-btn:hover {
+      box-shadow: 0 6px 20px rgba(0, 229, 255, 0.4);
+      transform: translateY(-1px);
+    }
+
+    button.primary-btn:active {
+      transform: scale(0.97);
+    }
+
+    button.primary-btn:disabled {
+      background: #27272a;
+      color: #71717a;
+      box-shadow: none;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    button.text-btn {
+      background: none;
+      border: none;
+      margin-top: 20px;
+      font-size: 12px;
+      color: #ef4444;
+      font-weight: 600;
+      cursor: pointer;
+      transition: color 0.2s;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    
+    button.text-btn:hover { color: #f87171; }
+
+    /* Utilities */
+    .hidden { display: none !important; }
+
+    .error-text {
+      color: #ef4444;
+      font-size: 11px;
+      margin-top: 12px;
+      text-align: center;
+      font-weight: 600;
+      background: rgba(239, 68, 68, 0.1);
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid rgba(239, 68, 68, 0.2);
+    }
+
+    /* Success Section */
+    #success-section {
+      text-align: center;
+      width: 100%;
+      padding: 10px 0;
+    }
+
+    .success-icon {
+      width: 54px;
+      height: 54px;
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.2);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      margin: 0 auto 20px auto;
+      box-shadow: 0 0 24px rgba(16, 185, 129, 0.2);
+    }
+
+    .success-title {
+      font-weight: 800;
+      font-size: 16px;
+      color: white;
+      margin: 0;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .success-desc {
+      font-size: 13px;
+      color: #a1a1aa;
+      margin-top: 10px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  
+  <div class="logo-container">
+    <img src="trust_issues_logo_no_bg.png" alt="Trust Issues Logo" class="logo-img" id="header-logo">
+    <h1>Trust Issues</h1>
+  </div>
+
+  <div class="glass-panel">
+    <div id="login-section" style="width: 100%;">
+      <p class="subtitle">Secure your threat stream.</p>
+      <input id="email" type="email" placeholder="Node Address (Email)">
+      <input id="password" type="password" placeholder="Passkey">
+      <button id="login-btn" class="primary-btn">Authenticate</button>
+      <p id="error-msg" class="error-text hidden"></p>
+    </div>
+
+    <div id="success-section" class="hidden">
+      <div class="success-icon">✓</div>
+      <p class="success-title">Connection Linked</p>
+      <p class="success-desc">Network monitoring is active. Open an email in Gmail to run an inline threat scan.</p>
+      <button id="logout-btn" class="text-btn">Sever Connection</button>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
