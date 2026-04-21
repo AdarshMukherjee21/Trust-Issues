@@ -31,15 +31,20 @@ const generateTimestampId = () => new Date().toISOString().replace(/[:.]/g, '_')
 // ==========================================
 
 async function railwayFetch<T>(endpoint: string, body: any): Promise<T> {
-    if (!API_URL || !API_KEY) {
+    // Grab them fresh right here
+    const apiUrl = process.env.NEXT_PUBLIC_RAILWAY_API_URL?.replace(/\/$/, '');
+    const apiKey = process.env.NEXT_PUBLIC_RAILWAY_API_KEY;
+
+    if (!apiUrl || !apiKey) {
+        console.error("DEBUG ENV:", { apiUrl, apiKey }); // This will print to your browser console
         throw new Error("Missing Railway API environment variables.");
     }
 
-    const response = await fetch(`${API_URL}${endpoint}`, {
+    const response = await fetch(`${apiUrl}${endpoint}`, {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
-            "Trust-issue-API-Key": API_KEY,
+            "Trust-issue-API-Key": apiKey,
         },
         body: JSON.stringify(body),
     });
@@ -58,6 +63,10 @@ async function railwayFetch<T>(endpoint: string, body: any): Promise<T> {
 export const checkSms = async (uid: string, sender: string, text: string) => {
     // 1. Ask the AI Backend
     const result = await railwayFetch<PredictionResponse>("/api/v1/predict/sms", { text });
+    console.log("SMS API Response:", result);
+
+    // Extract the nested prediction ("SPAM" or "HAM")
+    const finalPrediction = result?.data?.prediction || "UNKNOWN";
 
     // 2. Format the document ID
     const docId = generateTimestampId();
@@ -66,18 +75,22 @@ export const checkSms = async (uid: string, sender: string, text: string) => {
     // 3. Save to Firebase exactly as defined in the schema
     await setDoc(docRef, {
         message: text,
-        prediction: result.prediction || "UNKNOWN", // Fallback just in case
+        prediction: finalPrediction,
         pushed_to_community: false,
         sender: sender,
         timestamp: serverTimestamp(),
     });
 
-    return { docId, prediction: result.prediction };
+    return { docId, prediction: finalPrediction };
 };
 
 export const checkEmail = async (uid: string, sender: string, subject: string, body: string) => {
     // 1. Ask the AI Backend
     const result = await railwayFetch<PredictionResponse>("/api/v1/predict/email", { subject, body });
+    console.log("Email API Response:", result);
+
+    // Extract the nested prediction ("SPAM" or "HAM")
+    const finalPrediction = result?.data?.prediction || "UNKNOWN";
 
     // 2. Format the document ID
     const docId = generateTimestampId();
@@ -87,13 +100,13 @@ export const checkEmail = async (uid: string, sender: string, subject: string, b
     await setDoc(docRef, {
         message: body,
         subject: subject,
-        prediction: result.prediction || "UNKNOWN",
+        prediction: finalPrediction,
         pushed_to_community: false,
         sender: sender,
         timestamp: serverTimestamp(),
     });
 
-    return { docId, prediction: result.prediction };
+    return { docId, prediction: finalPrediction };
 };
 
 // ==========================================

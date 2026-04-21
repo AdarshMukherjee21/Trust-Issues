@@ -1,8 +1,10 @@
 "use client";
 import React, { useEffect, useState, useCallback } from "react";
+import { doc, updateDoc } from "firebase/firestore";
+import { db } from "@/app/lib/firebase"; // Ensure correct path
 import { getSubcollectionDocs } from "@/app/lib/user_service";
-// IMPORT YOUR NEW SERVICE HERE (adjust path as needed)
 import { checkSms, checkEmail, explainMessage } from "@/app/lib/prediction_service";
+import { reportThreat } from "@/app/lib/community_service"; // Import your community service
 
 interface CheckItem {
   id: string;
@@ -22,8 +24,9 @@ export default function MyChecksTab({ uid }: { uid: string }) {
   const [scanType, setScanType] = useState<"SMS" | "Email">("SMS");
   const [scanForm, setScanForm] = useState({ sender: "", subject: "", message: "" });
 
-  // --- AI EXPLAIN STATE ---
+  // --- AI EXPLAIN & COMMUNITY PUSH STATE ---
   const [isExplaining, setIsExplaining] = useState(false);
+  const [isPushing, setIsPushing] = useState(false);
 
   // Extracted loadData so we can refresh the list quietly after a new scan
   const loadData = useCallback(async (showSpinner = true) => {
@@ -92,7 +95,6 @@ export default function MyChecksTab({ uid }: { uid: string }) {
 
     setIsExplaining(true);
     try {
-      // Map the string to the literal type expected by the service
       const source = selectedItem._type === "Email" ? "email" : "sms";
 
       await explainMessage(
@@ -110,6 +112,45 @@ export default function MyChecksTab({ uid }: { uid: string }) {
       alert("Failed to generate AI explanation.");
     } finally {
       setIsExplaining(false);
+    }
+  };
+
+  // --- NEW: PUSH TO COMMUNITY HANDLER ---
+  const handlePushToCommunity = async () => {
+    if (!selectedItem || isPushing) return;
+
+    setIsPushing(true);
+    try {
+      // 1. Format the threat text (combine subject + body for emails)
+      const threatText = selectedItem._type === "Email"
+        ? `${selectedItem.subject ? selectedItem.subject + "\n\n" : ""}${selectedItem.message}`
+        : selectedItem.message;
+
+      // 2. Call local Ngrok backend to push to Neo4j (this auto-checks if backend is active)
+      await reportThreat({
+        reporter_uid: uid,
+        threat_text: threatText,
+        threat_type: selectedItem.prediction || "SPAM", // Ensure fallback
+        sender_contact: selectedItem.sender || "Unknown Sender",
+        sender_platform: selectedItem._type
+      });
+
+      // 3. If successful, update Firestore so the button hides
+      const collectionName = selectedItem._type === "Email" ? "email_checks" : "sms_checks";
+      const docRef = doc(db, "users", uid, collectionName, selectedItem.id);
+
+      await updateDoc(docRef, {
+        pushed_to_community: true
+      });
+
+      // 4. Silently reload to update UI state
+      await loadData(false);
+
+    } catch (error: any) {
+      console.error("Failed to push to community:", error);
+      alert(error.message || "Failed to push to community graph. Make sure the backend is online.");
+    } finally {
+      setIsPushing(false);
     }
   };
 
@@ -158,8 +199,8 @@ export default function MyChecksTab({ uid }: { uid: string }) {
               setIsScanningNew(false); // Close scan form if open
             }}
             className={`text-left w-full relative overflow-hidden rounded-2xl p-5 transition-all duration-300 border ${selectedItem?.id === item.id && !isScanningNew
-                ? 'bg-zinc-900 border-white/20 shadow-[0_0_30px_rgba(255,255,255,0.05)] scale-[1.02]'
-                : 'bg-black/40 border-white/5 hover:bg-zinc-900/50 hover:border-white/10'
+              ? 'bg-zinc-900 border-white/20 shadow-[0_0_30px_rgba(255,255,255,0.05)] scale-[1.02]'
+              : 'bg-black/40 border-white/5 hover:bg-zinc-900/50 hover:border-white/10'
               }`}
           >
             <div className={`absolute left-0 top-0 bottom-0 w-1.5 ${item._type === 'AI Ask' ? 'bg-purple-500' : item._type === 'Email' ? 'bg-emerald-500' : 'bg-sky-500'}`} />
@@ -357,12 +398,35 @@ export default function MyChecksTab({ uid }: { uid: string }) {
                     </div>
                   </div>
 
+                  {/* PUSH TO COMMUNITY BUTTON (Only if SPAM/PHISHING and not yet pushed) */}
+                  {(selectedItem.prediction === 'SPAM' || selectedItem.prediction === 'PHISHING') && !selectedItem.pushed_to_community && (
+                    <button
+                      onClick={handlePushToCommunity}
+                      disabled={isPushing}
+                      className="w-full bg-gradient-to-r from-red-500/20 to-transparent hover:from-red-500/40 border border-red-500/30 text-red-400 py-4 rounded-xl font-bold tracking-wide transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
+                    >
+                      {isPushing ? (
+                        <>
+                          <div className="w-5 h-5 border-2 border-red-400/20 border-t-red-400 rounded-full animate-spin" />
+                          Uploading to Graph...
+                        </>
+                      ) : (
+                        <>
+                          <svg className="w-5 h-5 text-red-400 group-hover:scale-110 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12" />
+                          </svg>
+                          Push to Community Graph
+                        </>
+                      )}
+                    </button>
+                  )}
+
                   {/* EXPLAIN ACTION BUTTON (Only shows if it hasn't been explained yet) */}
                   {!selectedItem.ai_explanation_ref && (
                     <button
                       onClick={handleExplainRequest}
                       disabled={isExplaining}
-                      className="mt-2 w-full bg-gradient-to-r from-purple-600/20 to-transparent hover:from-purple-600/40 border border-purple-500/30 text-purple-300 py-4 rounded-xl font-bold tracking-wide transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
+                      className="w-full bg-gradient-to-r from-purple-600/20 to-transparent hover:from-purple-600/40 border border-purple-500/30 text-purple-300 py-4 rounded-xl font-bold tracking-wide transition-all active:scale-[0.98] flex items-center justify-center gap-2 group"
                     >
                       {isExplaining ? (
                         <>
@@ -379,9 +443,10 @@ export default function MyChecksTab({ uid }: { uid: string }) {
                       )}
                     </button>
                   )}
+
                   {/* If it HAS been explained, show a link indicator */}
                   {selectedItem.ai_explanation_ref && (
-                    <div className="mt-2 px-4 py-3 bg-white/5 border border-white/5 rounded-xl flex items-center gap-3">
+                    <div className="px-4 py-3 bg-white/5 border border-white/5 rounded-xl flex items-center gap-3">
                       <div className="w-2 h-2 rounded-full bg-purple-500 animate-pulse" />
                       <span className="text-xs font-bold text-zinc-400 uppercase tracking-widest">AI Analysis Logged in History</span>
                     </div>
