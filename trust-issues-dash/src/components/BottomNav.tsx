@@ -11,27 +11,34 @@ interface BottomNavProps {
 
 export default function BottomNav({ activeTab, setActiveTab }: BottomNavProps) {
   const tabs = [
-    { id: "my_checks", label: "My Checks", icon: <HomeIcon /> },
-    { id: "search", label: "Search", icon: <SearchIcon /> },
-    { id: "community", label: "Community", icon: <UsersIcon /> },
-    { id: "profile", label: "Profile", icon: <UserIcon /> },
+    { id: "my_checks", label: "My Checks", description: "View your scan history", icon: <HomeIcon /> },
+    { id: "search", label: "Search", description: "Scan new threats", icon: <SearchIcon /> },
+    { id: "community", label: "Community", description: "Global threat graph", icon: <UsersIcon /> },
+    { id: "profile", label: "Profile", description: "Manage account settings", icon: <UserIcon /> },
   ] as const;
 
   return (
     <div className="fixed bottom-0 left-0 right-0 z-50 flex justify-center pb-6 md:pb-10 px-4 pointer-events-none">
-      <div className="flex items-center justify-between w-full max-w-xl px-4 py-3 bg-neutral-950/80 backdrop-blur-3xl border border-white/10 rounded-[2rem] pointer-events-auto transform shadow-[0_20px_40px_-5px_rgba(168,85,247,0.3)]">
+      <div className="flex items-center justify-between w-full px-4 py-3 bg-neutral-950/80 backdrop-blur-3xl border border-white/10 rounded-[2rem] pointer-events-auto transform shadow-[0_20px_40px_-5px_rgba(168,85,247,0.3)]">
         {tabs.map((tab) => {
           const isActive = activeTab === tab.id;
           return (
             <button
               key={tab.id}
               onClick={() => setActiveTab(tab.id as Tab)}
-              className={`flex flex-col items-center justify-center w-24 h-14 rounded-2xl transition-all duration-300 relative ${
+              className={`group flex flex-col items-center justify-center w-full h-14 rounded-2xl transition-all duration-300 relative ${
                 isActive ? "text-purple-400 bg-white/5" : "text-zinc-500 hover:text-zinc-300 hover:bg-white/[0.02]"
               }`}
             >
+              {/* Tooltip */}
+              <div className="absolute -top-14 left-1/2 -translate-x-1/2 px-3 py-2 bg-neutral-900 border border-white/10 text-white text-xs font-bold rounded-xl opacity-0 scale-95 group-hover:opacity-100 group-hover:scale-100 transition-all pointer-events-none whitespace-nowrap shadow-xl z-50">
+                {tab.description}
+                {/* Arrow */}
+                <div className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-2 h-2 bg-neutral-900 border-b border-r border-white/10 rotate-45"></div>
+              </div>
+
               {isActive && (
-                <div className="absolute top-0 w-8 h-1 bg-purple-500 rounded-b-full shadow-[0_0_10px_rgba(168,85,247,0.8)]" />
+                <div className="absolute top-0 w-12 h-1 bg-purple-500 rounded-b-full shadow-[0_0_10px_rgba(168,85,247,0.8)]" />
               )}
               <div className={`mb-0.5 transition-transform duration-300 ${isActive ? "scale-110" : ""}`}>
                 {tab.icon}

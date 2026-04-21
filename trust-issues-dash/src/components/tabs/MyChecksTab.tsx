@@ -198,7 +198,7 @@ export default function MyChecksTab({ uid }: { uid: string }) {
               setSelectedItem(item);
               setIsScanningNew(false); // Close scan form if open
             }}
-            className={`text-left w-full relative overflow-hidden rounded-2xl p-5 transition-all duration-300 border ${selectedItem?.id === item.id && !isScanningNew
+            className={`text-left w-full relative overflow-hidden rounded-2xl p-6 py-8 transition-all duration-300 border ${selectedItem?.id === item.id && !isScanningNew
               ? 'bg-zinc-900 border-white/20 shadow-[0_0_30px_rgba(255,255,255,0.05)] scale-[1.02]'
               : 'bg-black/40 border-white/5 hover:bg-zinc-900/50 hover:border-white/10'
               }`}
