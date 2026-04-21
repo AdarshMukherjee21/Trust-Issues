@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Script from "next/script"; // 1. Import the Script component
+import Script from "next/script";
+import FriendNotifier from "@/components/FriendNotifier"; // Import the Notifier
 import "./globals.css";
 
 const geistSans = Geist({
@@ -28,7 +29,9 @@ export default function RootLayout({
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         {children}
 
-        {/* 2. Cloudflare Web Analytics */}
+        {/* The Global Notifier sits on top of everything */}
+        <FriendNotifier />
+
         <Script
           src="https://static.cloudflareinsights.com/beacon.min.js"
           data-cf-beacon='{"token": "389b1f02eb394d52a99a5b43d6725cc9"}'

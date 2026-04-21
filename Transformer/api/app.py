@@ -27,12 +27,7 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 # ==========================================
 
 # CORS SETUP: Only allow requests from your specific frontends
-origins = [
-    "http://localhost:3000",
-    "https://trust-issues-dash.vercel.app", # Update with your Vercel URL
-    "https://adarshmukherjee.com",
-    "https://api.adarshmukherjee.com"
-]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
