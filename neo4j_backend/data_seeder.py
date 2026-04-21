@@ -18,7 +18,7 @@ print("🌱 Booting up Database Seeder...")
 # 2. DUMMY DATA POOL
 # ==========================================
 users = [
-    {"uid": "usr_101", "username": "adarsh_m", "name": "Adarsh Mukherjee"},
+    {"uid": "Surkp8rN5MSQgfbl1hd9kXrCs4r1", "username": "adarsh_m", "name": "Adarsh Mukherjee"},
     {"uid": "usr_102", "username": "krish_b", "name": "Krish Bhatia"},
     {"uid": "usr_103", "username": "sailendra_k", "name": "Sailendra Kolluru"},
     {"uid": "usr_104", "username": "aryan_r", "name": "Aryan Rao"},

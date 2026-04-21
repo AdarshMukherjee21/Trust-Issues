@@ -1,12 +1,13 @@
 from contextlib import asynccontextmanager
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pyngrok import ngrok
 
 from database import neo4j_db
 from sub_modules.firebase_updater import FirebaseUpdater
 
 # Import our new Modular Routers
-from routers import users, friends, threats , graph_viz
+from routers import users, friends, threats, graph_viz
 
 PORT = 8000
 FIREBASE_CRED_PATH = "trust-issues-v1-firebase-adminsdk-fbsvc-dbb0590da2.json" 
@@ -30,6 +31,17 @@ async def lifespan(app: FastAPI):
     neo4j_db.close()
 
 app = FastAPI(title="Trust Issues Graph API", lifespan=lifespan)
+
+# ==========================================
+# 🛡️ CORS MIDDLEWARE SETUP
+# ==========================================
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins (Perfect for development with Ngrok/Vercel/Localhost)
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods (GET, POST, PUT, DELETE, OPTIONS)
+    allow_headers=["*"],  # Allows all headers (Crucial for passing your Authorization Bearer tokens)
+)
 
 # Register the Routers
 app.include_router(users.router)
