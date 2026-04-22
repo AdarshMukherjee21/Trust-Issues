@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials, firestore
 from neo4j import GraphDatabase
 import hashlib
-from datetime import datetime, timedelta
+from datetime import datetime
 import random
 
 # ==========================================
@@ -17,12 +17,21 @@ print("🌱 Booting up Database Seeder...")
 # ==========================================
 # 2. DUMMY DATA POOL
 # ==========================================
+# Your live profile is the hub
+LIVE_UID = "Surkp8rN5MSQgfbl1hd9kXrCs4r1"
+
 users = [
-    {"uid": "Surkp8rN5MSQgfbl1hd9kXrCs4r1", "username": "adarsh_m", "name": "Adarsh Mukherjee"},
+    {"uid": LIVE_UID, "username": "adarsh_m", "name": "Adarsh Mukherjee"},
     {"uid": "usr_102", "username": "krish_b", "name": "Krish Bhatia"},
     {"uid": "usr_103", "username": "sailendra_k", "name": "Sailendra Kolluru"},
     {"uid": "usr_104", "username": "aryan_r", "name": "Aryan Rao"},
-    {"uid": "usr_105", "username": "siddharth_m", "name": "Siddharth Mody"}
+    {"uid": "usr_105", "username": "siddharth_m", "name": "Siddharth Mody"},
+    # New Friends to create a dense cluster
+    {"uid": "usr_106", "username": "priya_d", "name": "Priya Desai"},
+    {"uid": "usr_107", "username": "karan_s", "name": "Karan Singh"},
+    {"uid": "usr_108", "username": "neha_p", "name": "Neha Patel"},
+    {"uid": "usr_109", "username": "rahul_v", "name": "Rahul Verma"},
+    {"uid": "usr_110", "username": "anjali_c", "name": "Anjali Chopra"}
 ]
 
 # We define the core spam campaigns here
@@ -47,6 +56,22 @@ spam_campaigns = [
         "sender": "+91-8888877777", 
         "platform": "sms",
         "collection": "sms_checks"
+    },
+    # NEW: Netflix scam using the SAME SENDER as the Bank Fraud to create a graph intersection
+    {
+        "text": "Your Netflix account is suspended. Update payment details here: http://netflix-billing-update.com",
+        "type": "Phishing",
+        "sender": "+91-9876500000", 
+        "platform": "sms",
+        "collection": "sms_checks"
+    },
+    # NEW: Lottery scam hitting random outliers
+    {
+        "text": "WINNER! Your number won 50,000 INR. Reply with bank details to claim.",
+        "type": "Scam",
+        "sender": "+44-7700-900077",
+        "platform": "sms",
+        "collection": "sms_checks"
     }
 ]
 
@@ -64,7 +89,6 @@ def seed_firebase():
     db = firestore.client()
 
     for user in users:
-        # 1. Create the main User Document
         user_ref = db.collection("users").document(user["uid"])
         user_ref.set({
             "username": user["username"],
@@ -72,11 +96,10 @@ def seed_firebase():
             "joined_at": firestore.SERVER_TIMESTAMP
         })
 
-        # 2. Add sub-collection data (Assigning random spam to users to simulate reality)
-        assigned_spam = random.sample(spam_campaigns, 2) # Give each user 2 random spam messages
+        # Give each user 3 random spam messages to bulk up the logs
+        assigned_spam = random.sample(spam_campaigns, 3) 
         
         for spam in assigned_spam:
-            # We use ISO format for the document ID as requested
             doc_id = datetime.utcnow().isoformat().replace(".", "_")
             
             sub_col_ref = user_ref.collection(spam["collection"]).document(doc_id)
@@ -85,10 +108,9 @@ def seed_firebase():
                 "sender": spam["sender"],
                 "prediction": "SPAM",
                 "timestamp": firestore.SERVER_TIMESTAMP,
-                "pushed_to_community": True # Simulating they clicked the button
+                "pushed_to_community": True 
             })
             
-            # Simulate an AI ask for one of them
             if random.choice([True, False]):
                 ai_doc_id = datetime.utcnow().isoformat().replace(".", "_")
                 user_ref.collection("ai_asks").document(ai_doc_id).set({
@@ -113,23 +135,30 @@ def seed_neo4j():
                         uid=user["uid"], username=user["username"])
 
         # 2. Create the Friend Network
-        # Adarsh is the hub, connected to everyone
-        for i in range(1, 5):
+        print("   -> Connecting user relationships...")
+        # Make Adarsh the absolute center hub
+        for i in range(1, len(users)):
             session.run("""
                 MATCH (a:User {uid: $u1}), (b:User {uid: $u2})
                 MERGE (a)-[r1:FRIENDS_WITH]->(b)
                 MERGE (b)-[r2:FRIENDS_WITH]->(a)
-                SET r1.since = datetime(), r2.since = datetime()
-            """, u1=users[0]["uid"], u2=users[i]["uid"])
+            """, u1=LIVE_UID, u2=users[i]["uid"])
         
-        # Krish and Sailendra are also friends
-        session.run("""
-            MATCH (a:User {uid: 'usr_102'}), (b:User {uid: 'usr_103'})
-            MERGE (a)-[r1:FRIENDS_WITH]->(b)
-            MERGE (b)-[r2:FRIENDS_WITH]->(a)
-        """)
+        # Create cross-connections (triangles) among friends
+        cross_links = [
+            ("usr_102", "usr_103"), ("usr_104", "usr_105"), 
+            ("usr_106", "usr_107"), ("usr_108", "usr_109"),
+            ("usr_102", "usr_106"), ("usr_103", "usr_110")
+        ]
+        for link in cross_links:
+            session.run("""
+                MATCH (a:User {uid: $u1}), (b:User {uid: $u2})
+                MERGE (a)-[r1:FRIENDS_WITH]->(b)
+                MERGE (b)-[r2:FRIENDS_WITH]->(a)
+            """, u1=link[0], u2=link[1])
 
-        # 3. Inject the Threats (Simulating multiple people reporting the same thing)
+        # 3. Inject the Threats (The Cyclic Spam Logic)
+        print("   -> Injecting cyclical threat reports...")
         report_query = """
         MATCH (u:User {uid: $uid})
         MERGE (t:Threat {hash: $hash})
@@ -145,19 +174,40 @@ def seed_neo4j():
         ON CREATE SET sb.first_seen = datetime()
         """
         
-        # Attack 1: Bank Fraud hits Adarsh and Aryan
+        # Threat 1: Bank Fraud hits Adarsh and a cluster of friends
         bank_fraud = spam_campaigns[0]
-        for target in ["usr_101", "usr_104"]:
+        for target in [LIVE_UID, "usr_104", "usr_106", "usr_108"]:
             session.run(report_query, uid=target, hash=generate_hash(bank_fraud["text"]), 
                         type=bank_fraud["type"], preview=bank_fraud["text"][:40]+"...", 
                         sender=bank_fraud["sender"], platform=bank_fraud["platform"])
 
-        # Attack 2: Phishing hits Krish, Sailendra, and Siddharth
+        # Threat 2: Geek Squad hits a different cluster
+        geek_squad = spam_campaigns[1]
+        for target in ["usr_102", "usr_107", "usr_109"]:
+            session.run(report_query, uid=target, hash=generate_hash(geek_squad["text"]), 
+                        type=geek_squad["type"], preview=geek_squad["text"][:40]+"...", 
+                        sender=geek_squad["sender"], platform=geek_squad["platform"])
+
+        # Threat 3: Customs Phishing hits a massive chunk of the network, including Adarsh
         phish = spam_campaigns[2]
-        for target in ["usr_102", "usr_103", "usr_105"]:
+        for target in ["usr_102", "usr_103", "usr_105", "usr_107", "usr_110", LIVE_UID]:
             session.run(report_query, uid=target, hash=generate_hash(phish["text"]), 
                         type=phish["type"], preview=phish["text"][:40]+"...", 
                         sender=phish["sender"], platform=phish["platform"])
+
+        # Threat 4: Netflix Scam (Shared Sender Node with Bank Fraud)
+        netflix = spam_campaigns[3]
+        for target in ["usr_106", "usr_108", "usr_110", LIVE_UID]:
+            session.run(report_query, uid=target, hash=generate_hash(netflix["text"]), 
+                        type=netflix["type"], preview=netflix["text"][:40]+"...", 
+                        sender=netflix["sender"], platform=netflix["platform"])
+            
+        # Threat 5: Lottery hits the outskirts
+        lottery = spam_campaigns[4]
+        for target in ["usr_104", "usr_109", "usr_110"]:
+            session.run(report_query, uid=target, hash=generate_hash(lottery["text"]), 
+                        type=lottery["type"], preview=lottery["text"][:40]+"...", 
+                        sender=lottery["sender"], platform=lottery["platform"])
 
     driver.close()
     print("✅ Neo4j seeding complete!")
