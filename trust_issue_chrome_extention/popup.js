@@ -23,14 +23,15 @@ document.getElementById('login-btn').addEventListener('click', async () => {
       body: JSON.stringify({ email, password, returnSecureToken: true })
     });
 
-    const data = await res.json();
+   const data = await res.json();
 
     if (!res.ok) throw new Error(data.error.message);
 
-    // 2. Save credentials to Chrome Storage
+    // ✅ FIX: Use 'data' instead of 'user'
     chrome.storage.local.set({ 
       uid: data.localId, 
-      idToken: data.idToken 
+      idToken: data.idToken,       // From REST response
+      refreshToken: data.refreshToken // From REST response
     }, () => {
       document.getElementById('login-section').classList.add('hidden');
       document.getElementById('success-section').classList.remove('hidden');

@@ -1,26 +1,38 @@
 // background.js
-
-// 1. Import the config variables so the background script can see them
 importScripts('config.js');
 
-console.log("Trust Issues Service Worker Booted Successfully! Config loaded.");
+// 🛡️ NEW: Function to get a fresh token if the current one is expired
+async function getFreshToken(refreshToken) {
+    console.log("Refreshing Firebase ID Token...");
+    const res = await fetch(`https://securetoken.googleapis.com/v1/token?key=${CONFIG.FIREBASE_API_KEY}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({
+            grant_type: 'refresh_token',
+            refresh_token: refreshToken
+        })
+    });
+    const data = await res.json();
+    // Save the new token back to storage
+    await chrome.storage.local.set({ idToken: data.id_token });
+    return data.id_token;
+}
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.action === "SCAN_API") {
-    console.log("1. Background received scan request for subject:", request.subject);
-
-    // 1. Check if user is logged in
-    chrome.storage.local.get(['uid', 'idToken'], async (store) => {
-      console.log("2. Retrieved auth from Chrome Storage. UID:", store.uid || "MISSING");
-
-      if (!store.uid || !store.idToken) {
+    // 🛡️ Added refreshToken to the retrieval list
+    chrome.storage.local.get(['uid', 'idToken', 'refreshToken'], async (store) => {
+      
+      if (!store.uid || !store.refreshToken) {
         sendResponse({ success: false, error: "AUTH_REQUIRED" });
         return;
       }
 
       try {
-        // 2. Hit Railway API
-        console.log("3. Hitting Railway API at:", CONFIG.RAILWAY_API_URL);
+        // 1. Always get a fresh token before writing to Firestore
+        const activeToken = await getFreshToken(store.refreshToken);
+
+        // 2. Hit Railway API (Same as your existing code)
         const railwayRes = await fetch(`${CONFIG.RAILWAY_API_URL}/api/v1/predict/email`, {
           method: 'POST',
           headers: {
@@ -34,17 +46,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         });
 
         const mlData = await railwayRes.json();
-        console.log("4. Railway Response:", mlData);
-
-        if (!railwayRes.ok) {
-          throw new Error(`Railway API Failed: ${JSON.stringify(mlData)}`);
-        }
-
         const prediction = mlData.data?.prediction || "UNKNOWN";
-        console.log("5. Extracted Prediction:", prediction);
 
-        // 3. Write to Firestore using REST API
-        console.log("6. Attempting to save to Firestore...");
+        // 3. Write to Firestore using the FRESH token
         const docId = new Date().toISOString().replace(/[:.]/g, '_');
         const firestoreUrl = `https://firestore.googleapis.com/v1/projects/${CONFIG.FIREBASE_PROJECT_ID}/databases/(default)/documents/users/${store.uid}/email_checks?documentId=${docId}`;
 
@@ -52,7 +56,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': `Bearer ${store.idToken}`
+            'Authorization': `Bearer ${activeToken}` // Use the refreshed token
           },
           body: JSON.stringify({
             fields: {
@@ -66,23 +70,18 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
           })
         });
 
-        const fsData = await firestoreRes.json();
-        
         if (!firestoreRes.ok) {
-          console.warn("⚠️ Firestore Save Failed (Check your Firebase Security Rules!):", fsData);
-        } else {
-          console.log("7. ✅ Successfully saved to Firestore!", fsData);
+            const err = await firestoreRes.json();
+            throw new Error(`Firestore Write Failed: ${err.error.message}`);
         }
 
-        // 4. Send prediction back to the Gmail Button
-        sendResponse({ success: true, prediction: prediction });
+        sendResponse({ success: true, prediction: prediction, docId: docId });
 
       } catch (error) {
-        console.error("🚨 Background Fetch Error:", error);
+        console.error("🚨 Extension Error:", error);
         sendResponse({ success: false, error: error.message });
       }
     });
-
-    return true; // Keeps the message channel open so we can await fetch
+    return true; 
   }
 });

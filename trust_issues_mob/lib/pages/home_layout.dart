@@ -28,7 +28,7 @@ class _HomeLayoutState extends State<HomeLayout> {
   static const Color _emerald = Color(0xFF00E676);
   static const Color _cyan = Color(0xFF00E5FF);
   static const Color _violet = Color(0xFFA78BFA);
-  static const Color _crimson = Color(0xFFFF4D4D);
+
 
   @override
   Widget build(BuildContext context) {

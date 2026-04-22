@@ -3,7 +3,7 @@ import 'dart:developer' as developer;
 import 'package:flutter/material.dart';
 import 'package:another_telephony/telephony.dart';
 import 'package:trust_issues_mob/components/message_tile.dart';
-import 'package:trust_issues_mob/services/login_new_acc_service.dart';
+// import 'package:trust_issues_mob/services/login_new_acc_service.dart';
 
 enum InboxFilter { all, threats, utility, safe, unscanned }
 
@@ -16,7 +16,7 @@ class MyChecksPage extends StatefulWidget {
 
 class _MyChecksPageState extends State<MyChecksPage> {
   final Telephony _telephony = Telephony.instance;
-  final AuthService _auth = AuthService();
+  // final AuthService _auth = AuthService();
 
   List<String> _messages = [];
   bool _isLoading = false;
