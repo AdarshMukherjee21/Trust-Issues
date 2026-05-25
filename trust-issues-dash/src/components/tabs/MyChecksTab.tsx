@@ -167,7 +167,7 @@ export default function MyChecksTab({ uid }: { uid: string }) {
     <div className="flex flex-col lg:flex-row gap-8 h-[calc(100vh-140px)]">
 
       {/* LEFT PANE - List of Checks */}
-      <div className="w-full lg:w-[400px] xl:w-[450px] shrink-0 flex flex-col gap-4 overflow-y-auto pr-2 pb-24 custom-scrollbar">
+      <div className="w-full lg:w-[400px] xl:w-[450px] shrink-0 flex flex-col gap-4 overflow-y-auto pr-4 pb-24">
         <div className="flex justify-between items-center mb-4 pl-2 pr-1">
           <h2 className="text-2xl sm:text-3xl font-bold text-white tracking-tight">My Checks</h2>
 
@@ -196,30 +196,30 @@ export default function MyChecksTab({ uid }: { uid: string }) {
             key={item.id || idx}
             onClick={() => {
               setSelectedItem(item);
-              setIsScanningNew(false); // Close scan form if open
+              setIsScanningNew(false);
             }}
-            className={`text-left w-full relative overflow-hidden rounded-2xl p-6 py-8 transition-all duration-300 border ${selectedItem?.id === item.id && !isScanningNew
-              ? 'bg-zinc-900 border-white/20 shadow-[0_0_30px_rgba(255,255,255,0.05)] scale-[1.02]'
+            className={`text-left w-full shrink-0 relative overflow-hidden rounded-2xl p-5 transition-all duration-300 border group flex flex-col gap-3 ${selectedItem?.id === item.id && !isScanningNew
+              ? 'bg-zinc-900 border-white/20 shadow-[0_0_30px_rgba(255,255,255,0.05)]'
               : 'bg-black/40 border-white/5 hover:bg-zinc-900/50 hover:border-white/10'
               }`}
           >
-            <div className={`absolute left-0 top-0 bottom-0 w-1.5 ${item._type === 'AI Ask' ? 'bg-purple-500' : item._type === 'Email' ? 'bg-emerald-500' : 'bg-sky-500'}`} />
+            <div className={`absolute left-0 top-0 bottom-0 w-1.5 transition-colors ${item._type === 'AI Ask' ? 'bg-purple-500 group-hover:bg-purple-400' : item._type === 'Email' ? 'bg-emerald-500 group-hover:bg-emerald-400' : 'bg-sky-500 group-hover:bg-sky-400'}`} />
 
-            <div className="flex justify-between items-start pl-4 mb-3">
-              <span className="text-xs font-bold tracking-widest uppercase text-zinc-400 bg-white/5 px-3 py-1 rounded-md border border-white/5">
+            <div className="flex justify-between items-start w-full pl-2">
+              <span className={`text-[10px] font-black tracking-widest uppercase px-2.5 py-1 leading-normal rounded border ${item._type === 'AI Ask' ? 'bg-purple-500/10 text-purple-400 border-purple-500/20' : item._type === 'Email' ? 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20' : 'bg-sky-500/10 text-sky-400 border-sky-500/20'}`}>
                 {item._type}
               </span>
-              <span className="text-xs text-zinc-500 font-bold">
+              <span className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest leading-normal">
                 {item.timestamp?.seconds ? new Date(item.timestamp.seconds * 1000).toLocaleDateString(undefined, { month: 'short', day: 'numeric' }) : ''}
               </span>
             </div>
 
-            <div className="pl-4">
+            <div className="pl-2 w-full">
               <p className="text-sm font-bold text-white line-clamp-2 leading-snug mb-2">
                 {item._type === 'AI Ask' ? item.original_text : (item.subject || item.message)}
               </p>
               {item.sender && (
-                <p className="text-xs text-zinc-500 truncate font-mono bg-black/40 inline-block px-2 py-1 rounded border border-white/5">
+                <p className="text-xs text-zinc-500 truncate font-mono bg-black/40 inline-block px-2 py-1 rounded border border-white/5 max-w-[90%]">
                   {item.sender}
                 </p>
               )}
@@ -233,7 +233,7 @@ export default function MyChecksTab({ uid }: { uid: string }) {
 
         {/* NEW SCAN FORM VIEW */}
         {isScanningNew ? (
-          <div className="h-full bg-zinc-950/80 border border-white/10 rounded-[2rem] p-8 lg:p-10 shadow-2xl relative overflow-y-auto custom-scrollbar animate-in fade-in slide-in-from-bottom-4">
+          <div className="h-full bg-zinc-950/80 border border-white/10 rounded-[2rem] p-8 lg:p-10 shadow-2xl relative overflow-y-auto animate-in fade-in slide-in-from-bottom-4">
             <div className="flex items-center gap-4 mb-8 border-b border-white/10 pb-6">
               <div className="w-12 h-12 bg-white/5 rounded-2xl flex items-center justify-center">
                 <svg className="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -319,7 +319,7 @@ export default function MyChecksTab({ uid }: { uid: string }) {
           </div>
         ) : selectedItem ? (
           /* DETAILS VIEW */
-          <div className="h-full bg-zinc-950/80 border border-white/10 rounded-[2rem] p-8 lg:p-10 shadow-2xl relative overflow-y-auto custom-scrollbar flex flex-col">
+          <div className="h-full bg-zinc-950/80 border border-white/10 rounded-[2rem] p-8 lg:p-10 shadow-2xl relative overflow-y-auto flex flex-col">
             <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-4 mb-8">
               <span className={`text-sm font-bold tracking-[0.2em] uppercase px-5 py-2 rounded-full w-max ${selectedItem._type === 'AI Ask' ? 'bg-purple-500/10 text-purple-400 border border-purple-500/30' : selectedItem._type === 'Email' ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/30' : 'bg-sky-500/10 text-sky-400 border border-sky-500/30'}`}>
                 {selectedItem._type} Analysis

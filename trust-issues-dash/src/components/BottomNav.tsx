@@ -18,15 +18,15 @@ export default function BottomNav({ activeTab, setActiveTab }: BottomNavProps) {
   ] as const;
 
   return (
-    <div className="fixed bottom-0 left-0 right-0 z-50 flex justify-center pb-6 md:pb-10 px-4 pointer-events-none">
-      <div className="flex items-center justify-between w-full px-4 py-3 bg-neutral-950/80 backdrop-blur-3xl border border-white/10 rounded-[2rem] pointer-events-auto transform shadow-[0_20px_40px_-5px_rgba(168,85,247,0.3)]">
+    <div className="fixed bottom-0 left-0 right-0 z-50 flex justify-center pb-6 md:pb-8 px-4 pointer-events-none">
+      <div className="flex items-center justify-between w-full max-w-sm px-4 py-2 bg-neutral-950/80 backdrop-blur-3xl border border-white/10 rounded-full pointer-events-auto transform shadow-[0_20px_40px_-5px_rgba(168,85,247,0.3)]">
         {tabs.map((tab) => {
           const isActive = activeTab === tab.id;
           return (
             <button
               key={tab.id}
               onClick={() => setActiveTab(tab.id as Tab)}
-              className={`group flex flex-col items-center justify-center w-full h-14 rounded-2xl transition-all duration-300 relative ${
+              className={`group flex flex-col items-center justify-center w-full h-12 rounded-xl transition-all duration-300 relative ${
                 isActive ? "text-purple-400 bg-white/5" : "text-zinc-500 hover:text-zinc-300 hover:bg-white/[0.02]"
               }`}
             >
